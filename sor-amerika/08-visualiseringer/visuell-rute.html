@@ -1,0 +1,423 @@
+<!doctype html>
+<html lang="nb">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Sør-Amerika — visuell reiserute</title>
+<style>
+  :root {
+    --bg: #0e1a24;
+    --fg: #e8eef3;
+    --muted: #8aa1b3;
+    --accent-4w: #ff6b6b;
+    --accent-8w: #4ecdc4;
+    --accent-12w: #ffe66d;
+    --card: #15242f;
+    --border: #233547;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.5;
+  }
+  header {
+    padding: 1.5rem 2rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+    justify-content: space-between;
+  }
+  h1 { margin: 0; font-size: 1.25rem; font-weight: 600; }
+  .subtitle { color: var(--muted); font-size: 0.875rem; }
+  .toggles { display: flex; gap: 0.5rem; }
+  button.toggle {
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--border);
+    background: var(--card);
+    color: var(--fg);
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.875rem;
+    transition: all 0.2s;
+  }
+  button.toggle:hover { background: var(--border); }
+  button.toggle.active { color: #0e1a24; font-weight: 600; }
+  button.toggle.active.r4 { background: var(--accent-4w); border-color: var(--accent-4w); }
+  button.toggle.active.r8 { background: var(--accent-8w); border-color: var(--accent-8w); }
+  button.toggle.active.r12 { background: var(--accent-12w); border-color: var(--accent-12w); }
+
+  .layout {
+    display: grid;
+    grid-template-columns: 1fr 360px;
+    height: calc(100vh - 78px);
+  }
+  @media (max-width: 900px) {
+    .layout { grid-template-columns: 1fr; height: auto; }
+    .map-area { height: 60vh; }
+  }
+  .map-area {
+    position: relative;
+    overflow: hidden;
+    background:
+      radial-gradient(ellipse at center, #1a2c3a 0%, #0b1620 70%);
+  }
+  svg.map { width: 100%; height: 100%; display: block; }
+  .continent { fill: #243749; stroke: #2c4458; stroke-width: 1; }
+  .country { fill: transparent; stroke: #3a5267; stroke-width: 0.5; stroke-dasharray: 2,2; }
+  .route-line {
+    fill: none;
+    stroke-width: 2.5;
+    opacity: 0;
+    transition: opacity 0.4s;
+  }
+  .route-line.flight { stroke-dasharray: 6,4; }
+  .route-line.land { stroke-dasharray: 0; }
+  .route-line.active { opacity: 0.85; }
+  .stop {
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.4s, r 0.2s;
+  }
+  .stop.active { opacity: 1; }
+  .stop:hover circle { r: 9; }
+  .stop circle.outer { fill: rgba(255,255,255,0.15); }
+  .stop circle.inner { stroke: #fff; stroke-width: 1.5; }
+  .stop text {
+    fill: #fff;
+    font-size: 11px;
+    font-weight: 500;
+    text-anchor: middle;
+    pointer-events: none;
+  }
+  .stop text.num {
+    font-size: 9px;
+    font-weight: 700;
+    fill: #0e1a24;
+  }
+
+  aside {
+    background: var(--card);
+    border-left: 1px solid var(--border);
+    overflow-y: auto;
+    padding: 1.5rem;
+  }
+  .legend {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.8125rem;
+    color: var(--muted);
+  }
+  .legend-item { display: flex; align-items: center; gap: 0.5rem; }
+  .legend-line {
+    width: 24px;
+    height: 0;
+    border-top: 2.5px solid var(--muted);
+  }
+  .legend-line.flight { border-top-style: dashed; }
+  h2.route-title { margin: 0 0 0.25rem; font-size: 1rem; }
+  .route-meta { color: var(--muted); font-size: 0.8125rem; margin-bottom: 1rem; }
+  .stops-list { list-style: none; padding: 0; margin: 0; }
+  .stop-card {
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+    background: rgba(0,0,0,0.2);
+  }
+  .stop-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin-bottom: 0.25rem;
+  }
+  .stop-num {
+    font-weight: 700;
+    font-size: 0.75rem;
+    color: var(--muted);
+  }
+  .stop-name { font-weight: 600; flex: 1; }
+  .stop-days { font-size: 0.75rem; color: var(--muted); }
+  .stop-notes {
+    font-size: 0.8125rem;
+    color: #c5d3df;
+  }
+  .transport {
+    font-size: 0.75rem;
+    color: var(--muted);
+    margin-top: 0.375rem;
+    font-style: italic;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Sør-Amerika — visuell reiserute</h1>
+    <div class="subtitle">Veksle mellom alternativene. Hover over stopp for navn.</div>
+  </div>
+  <div class="toggles">
+    <button class="toggle r4" data-route="4">4 uker</button>
+    <button class="toggle r8 active" data-route="8">8 uker ⭐</button>
+    <button class="toggle r12" data-route="12">12 uker</button>
+  </div>
+</header>
+
+<div class="layout">
+
+  <div class="map-area">
+    <svg class="map" viewBox="0 0 600 800" preserveAspectRatio="xMidYMid meet">
+      <!-- Stylized continent silhouette of South America -->
+      <path class="continent" d="
+        M 320 60
+        Q 360 70 380 100
+        Q 420 130 430 180
+        Q 445 220 440 270
+        Q 445 320 425 370
+        Q 415 420 385 470
+        Q 370 520 355 570
+        Q 350 620 335 670
+        Q 320 710 295 740
+        Q 275 760 260 740
+        Q 250 700 245 660
+        Q 230 610 220 560
+        Q 200 510 195 460
+        Q 180 410 175 360
+        Q 165 310 175 260
+        Q 185 210 205 170
+        Q 230 130 270 100
+        Q 295 75 320 60 Z
+      "/>
+      <!-- Internal country borders (simplified) -->
+      <!-- Peru -->
+      <path class="country" d="M 220 250 Q 260 280 290 320 Q 295 360 285 400" />
+      <!-- Chile-Argentina border (Andes) -->
+      <path class="country" d="M 285 400 Q 290 470 295 540 Q 305 620 320 700" />
+      <!-- Argentina-Brazil -->
+      <path class="country" d="M 380 350 Q 400 380 415 410" />
+      <!-- Colombia/north -->
+      <path class="country" d="M 280 130 Q 320 145 360 160" />
+
+      <!-- Routes group -->
+      <g id="routes"></g>
+
+      <!-- Stops group -->
+      <g id="stops"></g>
+    </svg>
+  </div>
+
+  <aside>
+    <div class="legend">
+      <div class="legend-item"><span class="legend-line flight"></span> flyrute</div>
+      <div class="legend-item"><span class="legend-line"></span> bakkerute (buss/bil/tog)</div>
+      <div class="legend-item">★ premium-stopp</div>
+    </div>
+    <h2 class="route-title" id="route-title">8-ukers ruten ⭐</h2>
+    <div class="route-meta" id="route-meta">56 dager · 14 hovedstopp · 3–4 land</div>
+    <ol class="stops-list" id="stops-list"></ol>
+  </aside>
+
+</div>
+
+<script>
+// Coordinate system roughly maps onto stylized continent above.
+// x: ~150-450, y: ~60-750
+const COORDS = {
+  cartagena:    { x: 295, y: 130 },
+  bogota:       { x: 285, y: 175 },
+  salento:      { x: 270, y: 195 },
+  manizales:    { x: 275, y: 200 },
+  lima:         { x: 230, y: 305 },
+  arequipa:     { x: 275, y: 365 },
+  colca:        { x: 270, y: 360 },
+  cusco:        { x: 285, y: 335 },
+  sacred:       { x: 280, y: 330 },
+  mp:           { x: 275, y: 332 },
+  puno:         { x: 295, y: 380 },
+  lapaz:        { x: 305, y: 395 },
+  uyuni:        { x: 305, y: 430 },
+  atacama:      { x: 295, y: 460 },
+  santiago:     { x: 290, y: 540 },
+  casablanca:   { x: 280, y: 540 },
+  colchagua:    { x: 295, y: 555 },
+  mendoza:      { x: 320, y: 545 },
+  buenosaires:  { x: 380, y: 580 },
+  bariloche:    { x: 320, y: 645 },
+  calafate:     { x: 305, y: 705 },
+  chalten:      { x: 300, y: 695 },
+  ushuaia:      { x: 320, y: 745 },
+  torres:       { x: 295, y: 720 },
+  iguazu:       { x: 415, y: 510 },
+  rio:          { x: 425, y: 460 },
+  saopaulo:     { x: 410, y: 470 },
+  salta:        { x: 320, y: 480 },
+  cafayate:     { x: 318, y: 490 }
+};
+
+const ROUTES = {
+  4: {
+    title: "4-ukers ruten",
+    meta: "28 dager · 9 hovedstopp · konsentrert klassiker",
+    color: "#ff6b6b",
+    stops: [
+      { id: "lima", name: "Lima", days: "1–3", notes: "Maido, Central, Barranco. Akklimatisering før høyde.", transport: "Fly inn" },
+      { id: "cusco", name: "Cusco", days: "4–6", notes: "3400 moh — drikk coca-te, ta det rolig.", transport: "Fly fra Lima (1.5t)" },
+      { id: "sacred", name: "Sacred Valley", days: "7–9", notes: "Pisac, Maras, Moray, Ollantaytambo.", transport: "Bil/transfer" },
+      { id: "mp", name: "Machu Picchu ★", days: "10", notes: "PeruRail Vistadome eller Hiram Bingham.", transport: "Tog fra Ollantaytambo" },
+      { id: "santiago", name: "Santiago", days: "13–14", notes: "Bellavista, Lastarria, Boragó.", transport: "Fly via Lima (8t total)" },
+      { id: "colchagua", name: "Colchagua", days: "15–16", notes: "Lapostolle, Montes — vingård-overnatting.", transport: "Bil 2.5t fra Santiago" },
+      { id: "mendoza", name: "Mendoza ★", days: "18–22", notes: "Catena, Zuccardi, Salentein, Lapostolle.", transport: "Buss over Andes 7t" },
+      { id: "buenosaires", name: "Buenos Aires", days: "24–25", notes: "Don Julio, Palermo, tango.", transport: "Fly 1.5t" },
+      { id: "calafate", name: "El Calafate", days: "27", notes: "Perito Moreno-isbreen.", transport: "Fly 3t fra BA" }
+    ]
+  },
+  8: {
+    title: "8-ukers ruten ⭐",
+    meta: "56 dager · 14 hovedstopp · 3–4 land · ANBEFALT",
+    color: "#4ecdc4",
+    stops: [
+      { id: "lima", name: "Lima", days: "1–4", notes: "Mat-fokus: Maido, Kjolle. Specialty kaffe Bisetti, Origen.", transport: "Fly inn (open-jaw)" },
+      { id: "arequipa", name: "Arequipa", days: "5–7", notes: "Hvit by, Picantería La Nueva Palomino, Colca-detour.", transport: "Fly 1.5t" },
+      { id: "puno", name: "Puno + Titicaca", days: "8–9", notes: "Uros flytende øyer, Taquile homestay.", transport: "Buss 6t" },
+      { id: "cusco", name: "Cusco", days: "10–12", notes: "Akklimatisering 3400 moh. San Pedro-marked.", transport: "Buss eller fly" },
+      { id: "mp", name: "Sacred V. + MP ★", days: "13–14", notes: "Pisac, Maras, Moray, Machu Picchu.", transport: "Bil + tog" },
+      { id: "lapaz", name: "La Paz", days: "15–16", notes: "Witches Market, taxi-bane med utsikt.", transport: "Fly 1.5t fra Cusco" },
+      { id: "uyuni", name: "Salar de Uyuni ★", days: "17–19", notes: "3-dagers 4×4 til Atacama-grensen.", transport: "Fly + 4×4-tour" },
+      { id: "atacama", name: "San Pedro Atacama ★", days: "20–22", notes: "Valle de la Luna, El Tatio, stjernehimmel.", transport: "4×4 grensekryssing" },
+      { id: "santiago", name: "Santiago + vinregioner", days: "23–28", notes: "Casablanca, Maipo, Colchagua over 3 dager.", transport: "Fly 2t" },
+      { id: "mendoza", name: "Mendoza ★", days: "31–35", notes: "5 dager i alle 3 subregioner. Catena Adrianna lunch.", transport: "Buss over Andes" },
+      { id: "buenosaires", name: "Buenos Aires", days: "37–40", notes: "Don Julio, tango, Palermo, Recoleta.", transport: "Fly 1.5t" },
+      { id: "bariloche", name: "Bariloche", days: "41–43", notes: "Llao Llao, sjokolade, vandring.", transport: "Fly 2.5t" },
+      { id: "chalten", name: "El Chaltén ★", days: "44–46", notes: "Fitz Roy, Laguna de los Tres.", transport: "Fly + buss" },
+      { id: "calafate", name: "El Calafate ★", days: "47–49", notes: "Perito Moreno, Upsala-cruise.", transport: "Buss 3t" },
+      { id: "iguazu", name: "Iguazu Falls ★", days: "50–52", notes: "Begge sider — argentinsk + brasiliansk.", transport: "Fly via BA" },
+      { id: "buenosaires", name: "BA finale", days: "53–56", notes: "Siste matrunde, hjem.", transport: "Fly hjem (open-jaw)" }
+    ]
+  },
+  12: {
+    title: "12-ukers ruten",
+    meta: "84 dager · 18+ hovedstopp · 5 land · ULTIMATE",
+    color: "#ffe66d",
+    stops: [
+      { id: "cartagena", name: "Cartagena", days: "1–3", notes: "Kolonialby, Caribbeanside. Inn-port.", transport: "Fly inn via Madrid" },
+      { id: "salento", name: "Salento (Eje Cafetero) ★", days: "4–8", notes: "Finca-overnatting Hacienda Bambusa eller Venecia. UNESCO kaffeland.", transport: "Fly + bil" },
+      { id: "bogota", name: "Bogotá", days: "9–11", notes: "El Chato (#1 LatAm 2025), La Palma & El Tucan kaffe.", transport: "Fly 1t" },
+      { id: "lima", name: "Lima", days: "12–15", notes: "Maido, Kjolle, Bisetti, Origen.", transport: "Fly 3.5t" },
+      { id: "arequipa", name: "Arequipa", days: "16–18", notes: "Picantería La Nueva Palomino.", transport: "Fly 1.5t" },
+      { id: "cusco", name: "Cusco + MP ★", days: "20–25", notes: "Sacred Valley + Machu Picchu.", transport: "Buss/fly" },
+      { id: "uyuni", name: "Salar de Uyuni ★", days: "27–29", notes: "3-dagers 4×4.", transport: "Fly La Paz + 4×4" },
+      { id: "atacama", name: "Atacama ★", days: "30–32", notes: "Stjernehimmel, geysir.", transport: "4×4 grensekryssing" },
+      { id: "santiago", name: "Santiago", days: "33–36", notes: "Casablanca + Maipo.", transport: "Fly 2t" },
+      { id: "colchagua", name: "Colchagua ★", days: "37–39", notes: "Lapostolle Residence overnatting.", transport: "Bil 2.5t" },
+      { id: "mendoza", name: "Mendoza ★", days: "41–47", notes: "7 dager — alle 3 subregioner.", transport: "Buss over Andes" },
+      { id: "buenosaires", name: "Buenos Aires", days: "49–52", notes: "Don Julio, tango.", transport: "Fly 1.5t" },
+      { id: "bariloche", name: "Bariloche", days: "53–55", notes: "Lake District.", transport: "Fly 2.5t" },
+      { id: "chalten", name: "El Chaltén ★", days: "56–59", notes: "Fitz Roy.", transport: "Fly + buss" },
+      { id: "calafate", name: "El Calafate ★", days: "60–63", notes: "Perito Moreno.", transport: "Buss" },
+      { id: "ushuaia", name: "Ushuaia", days: "64–66", notes: "Verdens sydligste. Tierra del Fuego.", transport: "Fly 1.5t" },
+      { id: "iguazu", name: "Iguazu ★", days: "68–70", notes: "Begge sider.", transport: "Fly via BA" },
+      { id: "saopaulo", name: "São Paulo", days: "72–74", notes: "A Casa do Porco, Coffee Lab.", transport: "Fly 2t" },
+      { id: "rio", name: "Rio de Janeiro", days: "75–84", notes: "Strender, Sukkertoppen, finale. Ut-port.", transport: "Fly hjem (open-jaw)" }
+    ]
+  }
+};
+
+// Edges that should be drawn as land (rest is flight)
+const LAND_EDGES = new Set([
+  "santiago-colchagua", "colchagua-santiago",
+  "santiago-mendoza", "mendoza-santiago",
+  "cusco-sacred", "sacred-mp", "cusco-mp",
+  "ollanta-mp", "lima-cusco-land",
+  "uyuni-atacama", "atacama-uyuni",
+  "calafate-chalten", "chalten-calafate",
+  "puno-cusco", "cusco-puno",
+  "casablanca-santiago",
+  "salento-bogota", "bogota-salento",
+  "buenosaires-bariloche", "bariloche-buenosaires"
+]);
+
+function isLand(a, b) {
+  return LAND_EDGES.has(`${a}-${b}`) || LAND_EDGES.has(`${b}-${a}`);
+}
+
+function render(routeKey) {
+  const route = ROUTES[routeKey];
+  const routesEl = document.getElementById("routes");
+  const stopsEl = document.getElementById("stops");
+  const listEl = document.getElementById("stops-list");
+  routesEl.innerHTML = "";
+  stopsEl.innerHTML = "";
+  listEl.innerHTML = "";
+
+  // draw lines first
+  for (let i = 0; i < route.stops.length - 1; i++) {
+    const a = route.stops[i];
+    const b = route.stops[i + 1];
+    const ca = COORDS[a.id], cb = COORDS[b.id];
+    if (!ca || !cb) continue;
+    const land = isLand(a.id, b.id);
+    const line = document.createElementNS("http://www.w3.org/2000/svg", "line");
+    line.setAttribute("x1", ca.x);
+    line.setAttribute("y1", ca.y);
+    line.setAttribute("x2", cb.x);
+    line.setAttribute("y2", cb.y);
+    line.setAttribute("stroke", route.color);
+    line.setAttribute("class", `route-line ${land ? "land" : "flight"} active`);
+    routesEl.appendChild(line);
+  }
+
+  // draw stops + sidebar
+  route.stops.forEach((stop, idx) => {
+    const c = COORDS[stop.id];
+    if (!c) return;
+    const g = document.createElementNS("http://www.w3.org/2000/svg", "g");
+    g.setAttribute("class", "stop active");
+    g.setAttribute("transform", `translate(${c.x},${c.y})`);
+    g.innerHTML = `
+      <circle class="outer" r="11" />
+      <circle class="inner" r="7" fill="${route.color}" />
+      <text class="num" y="3">${idx + 1}</text>
+      <text y="-14">${stop.name}</text>
+    `;
+    stopsEl.appendChild(g);
+
+    const li = document.createElement("li");
+    li.className = "stop-card";
+    li.innerHTML = `
+      <div class="stop-card-header">
+        <span class="stop-num">${String(idx + 1).padStart(2, "0")}</span>
+        <span class="stop-name">${stop.name}</span>
+        <span class="stop-days">dag ${stop.days}</span>
+      </div>
+      <div class="stop-notes">${stop.notes}</div>
+      <div class="transport">→ ${stop.transport}</div>
+    `;
+    listEl.appendChild(li);
+  });
+
+  document.getElementById("route-title").textContent = route.title;
+  document.getElementById("route-meta").textContent = route.meta;
+}
+
+document.querySelectorAll("button.toggle").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll("button.toggle").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    render(btn.dataset.route);
+  });
+});
+
+render("8");
+</script>
+</body>
+</html>

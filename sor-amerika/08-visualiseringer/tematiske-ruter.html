@@ -1,0 +1,414 @@
+<!doctype html>
+<html lang="nb">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Sør-Amerika — tematiske ruter (mat / vin / kaffe)</title>
+<style>
+  :root {
+    --bg: #0e1a24;
+    --fg: #e8eef3;
+    --muted: #8aa1b3;
+    --accent-food: #ff7a59;
+    --accent-wine: #b1426d;
+    --accent-coffee: #c89464;
+    --card: #15242f;
+    --border: #233547;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.5;
+  }
+  header {
+    padding: 1.5rem 2rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+    justify-content: space-between;
+  }
+  h1 { margin: 0; font-size: 1.25rem; font-weight: 600; }
+  .subtitle { color: var(--muted); font-size: 0.875rem; }
+  .toggles { display: flex; gap: 0.5rem; }
+  button.toggle {
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--border);
+    background: var(--card);
+    color: var(--fg);
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.875rem;
+  }
+  button.toggle:hover { background: var(--border); }
+  button.toggle.active { color: #fff; font-weight: 600; }
+  button.toggle.active.food { background: var(--accent-food); border-color: var(--accent-food); }
+  button.toggle.active.wine { background: var(--accent-wine); border-color: var(--accent-wine); }
+  button.toggle.active.coffee { background: var(--accent-coffee); border-color: var(--accent-coffee); }
+
+  .layout {
+    display: grid;
+    grid-template-columns: 1fr 380px;
+    height: calc(100vh - 78px);
+  }
+  @media (max-width: 900px) {
+    .layout { grid-template-columns: 1fr; height: auto; }
+    .map-area { height: 60vh; }
+  }
+  .map-area {
+    position: relative;
+    overflow: hidden;
+    background: radial-gradient(ellipse at center, #1a2c3a 0%, #0b1620 70%);
+  }
+  svg.map { width: 100%; height: 100%; display: block; }
+  .continent { fill: #243749; stroke: #2c4458; stroke-width: 1; }
+  .country { fill: transparent; stroke: #3a5267; stroke-width: 0.5; stroke-dasharray: 2,2; }
+  .route-line { fill: none; stroke-width: 2.5; opacity: 0.85; }
+  .route-line.flight { stroke-dasharray: 6,4; }
+  .stop circle.outer { fill: rgba(255,255,255,0.15); }
+  .stop circle.top { stroke: #fff; stroke-width: 2; }
+  .stop text {
+    fill: #fff;
+    font-size: 11px;
+    font-weight: 500;
+    text-anchor: middle;
+    pointer-events: none;
+  }
+  .stop text.num { font-size: 9px; font-weight: 700; fill: #0e1a24; }
+  .top-badge {
+    fill: #ffe66d;
+    font-size: 9px;
+    font-weight: 700;
+  }
+
+  aside {
+    background: var(--card);
+    border-left: 1px solid var(--border);
+    overflow-y: auto;
+    padding: 1.5rem;
+  }
+  .legend {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.8125rem;
+    color: var(--muted);
+  }
+  .legend-item { display: flex; align-items: center; gap: 0.5rem; }
+  h2.route-title { margin: 0 0 0.25rem; font-size: 1rem; }
+  .route-meta { color: var(--muted); font-size: 0.8125rem; margin-bottom: 1rem; }
+  .stops-list { list-style: none; padding: 0; margin: 0; }
+  .stop-card {
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+    background: rgba(0,0,0,0.2);
+  }
+  .stop-card.top { border-color: #ffe66d; }
+  .stop-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin-bottom: 0.25rem;
+  }
+  .stop-num { font-weight: 700; font-size: 0.75rem; color: var(--muted); }
+  .stop-name { font-weight: 600; flex: 1; }
+  .stop-days { font-size: 0.75rem; color: var(--muted); }
+  .badge {
+    display: inline-block;
+    padding: 1px 6px;
+    border-radius: 3px;
+    background: #ffe66d;
+    color: #0e1a24;
+    font-size: 0.625rem;
+    font-weight: 700;
+    margin-left: 4px;
+  }
+  .stop-notes { font-size: 0.8125rem; color: #c5d3df; }
+  .stop-list { font-size: 0.75rem; color: var(--muted); margin-top: 0.375rem; }
+  .stop-list strong { color: #c5d3df; font-weight: 600; }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Sør-Amerika — mat / vin / kaffe</h1>
+    <div class="subtitle">Tre tematiske ruter. Velg fokus, se anbefalingene.</div>
+  </div>
+  <div class="toggles">
+    <button class="toggle food active" data-route="food">🍴 Mat</button>
+    <button class="toggle wine" data-route="wine">🍷 Vin</button>
+    <button class="toggle coffee" data-route="coffee">☕ Kaffe</button>
+  </div>
+</header>
+
+<div class="layout">
+
+  <div class="map-area">
+    <svg class="map" viewBox="0 0 600 800" preserveAspectRatio="xMidYMid meet">
+      <path class="continent" d="
+        M 320 60
+        Q 360 70 380 100
+        Q 420 130 430 180
+        Q 445 220 440 270
+        Q 445 320 425 370
+        Q 415 420 385 470
+        Q 370 520 355 570
+        Q 350 620 335 670
+        Q 320 710 295 740
+        Q 275 760 260 740
+        Q 250 700 245 660
+        Q 230 610 220 560
+        Q 200 510 195 460
+        Q 180 410 175 360
+        Q 165 310 175 260
+        Q 185 210 205 170
+        Q 230 130 270 100
+        Q 295 75 320 60 Z
+      "/>
+      <path class="country" d="M 220 250 Q 260 280 290 320 Q 295 360 285 400" />
+      <path class="country" d="M 285 400 Q 290 470 295 540 Q 305 620 320 700" />
+      <path class="country" d="M 380 350 Q 400 380 415 410" />
+      <path class="country" d="M 280 130 Q 320 145 360 160" />
+      <g id="routes"></g>
+      <g id="stops"></g>
+    </svg>
+  </div>
+
+  <aside>
+    <div class="legend">
+      <div class="legend-item"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#ffe66d;"></span> ★ TOP — world top 50</div>
+      <div class="legend-item"><span style="font-size:0.625rem;background:#ffe66d;color:#0e1a24;padding:1px 6px;border-radius:3px;font-weight:700;">NEW</span> 2025-debutant</div>
+    </div>
+    <h2 class="route-title" id="route-title">🍴 Smaksruten</h2>
+    <div class="route-meta" id="route-meta">24 dager · world-class restauranter</div>
+    <ol class="stops-list" id="stops-list"></ol>
+  </aside>
+
+</div>
+
+<script>
+const COORDS = {
+  cartagena:  { x: 295, y: 130 },
+  bogota:     { x: 285, y: 175 },
+  salento:    { x: 268, y: 195 },
+  manizales:  { x: 273, y: 200 },
+  lima:       { x: 230, y: 305 },
+  cusco:      { x: 285, y: 335 },
+  cajamarca:  { x: 245, y: 250 },
+  santiago:   { x: 290, y: 540 },
+  casablanca: { x: 275, y: 538 },
+  colchagua:  { x: 295, y: 555 },
+  maipo:      { x: 295, y: 545 },
+  carmelo:    { x: 365, y: 580 },
+  mendoza:    { x: 320, y: 545 },
+  salta:      { x: 320, y: 480 },
+  cafayate:   { x: 318, y: 490 },
+  buenosaires:{ x: 380, y: 580 },
+  saopaulo:   { x: 410, y: 470 },
+  rio:        { x: 425, y: 460 },
+  sulminas:   { x: 405, y: 475 }
+};
+
+const ROUTES = {
+  food: {
+    title: "🍴 Smaksruten — verdens beste restauranter",
+    meta: "24 dager · 8 byer · 6 stopp i world top 50",
+    color: "#ff7a59",
+    legend: "Lima og Bogotá er hjertet — Maido (#1 verden) og El Chato (#1 LatAm 2025).",
+    stops: [
+      { id: "cartagena", name: "Cartagena", days: "1–3", top: false,
+        notes: "Caribbeanmat, kolonialromantikk. Inn-port fra Madrid.",
+        list: ["<strong>Celele</strong> (caribbisk-colombiansk)", "<strong>La Cevichería</strong>"] },
+      { id: "bogota", name: "Bogotá", days: "4–6", top: true, badge: "NY #1 LatAm",
+        notes: "El Chato tok #1 i LatAm 2025. Sammen med Leo og Mesa Franca verdens nye matby.",
+        list: ["<strong>El Chato ★</strong> #1 LatAm 2025", "<strong>Leo</strong> ★ Bogotás amazonske kjøkken", "<strong>Mesa Franca</strong>"] },
+      { id: "lima", name: "Lima", days: "7–11", top: true,
+        notes: "5 netter — har Maido (#1 verden 2024), Central, Kjolle, Mérito, Mayta. Bok 2-3 mnd i forveien.",
+        list: ["<strong>Maido ★</strong> #1 world 50 best", "<strong>Central ★</strong>", "<strong>Kjolle ★</strong>", "<strong>Mérito</strong>", "<strong>Mayta</strong>"] },
+      { id: "cusco", name: "Cusco", days: "12–14", top: false,
+        notes: "Andinsk regionalmat, Sacred Valley.",
+        list: ["<strong>MIL</strong> (Virgilio Martínez i Moray)", "<strong>Cicciolina</strong>", "<strong>Pachapapa</strong>"] },
+      { id: "santiago", name: "Santiago", days: "15–17", top: true,
+        notes: "Boragó er chilensk regional på toppnivå. Native ingredienser fra Atacama til Patagonia.",
+        list: ["<strong>Boragó ★</strong>", "<strong>99</strong>", "<strong>Ambrosía Bistró</strong>"] },
+      { id: "buenosaires", name: "Buenos Aires", days: "18–20", top: true,
+        notes: "Don Julio er verdens beste parrilla. Niño Gordo gir asia-argentinsk crossover.",
+        list: ["<strong>Don Julio ★</strong> world #13", "<strong>Tegui ★</strong>", "<strong>Niño Gordo</strong>", "<strong>Anchoita</strong>"] },
+      { id: "saopaulo", name: "São Paulo", days: "21–22", top: true,
+        notes: "A Casa do Porco er gris og bondemat løftet til verdens­klasse.",
+        list: ["<strong>A Casa do Porco ★</strong>", "<strong>D.O.M.</strong> (Alex Atala)", "<strong>Maní</strong>"] },
+      { id: "rio", name: "Rio de Janeiro", days: "23–24", top: true,
+        notes: "Lasai gir nordisk-brasiliansk crossover. Rest finale med strender.",
+        list: ["<strong>Lasai ★</strong>", "<strong>Oro</strong>", "<strong>Mocotó</strong>"] }
+    ]
+  },
+  wine: {
+    title: "🍷 Vinruten — fra Salta til Carmelo",
+    meta: "21 dager · 7 vinregioner · høyde-vin til kyst",
+    color: "#b1426d",
+    legend: "Geografisk perfekt sekvens fra nord til sør langs Andes.",
+    stops: [
+      { id: "salta", name: "Salta", days: "1–2", top: false,
+        notes: "Argentinas høyde-vin-region. Springbrett til Cafayate.",
+        list: ["By­ankomst, hvil før høyde"] },
+      { id: "cafayate", name: "Cafayate ★", days: "3–5", top: true,
+        notes: "1700 moh. Argentinas Torrontés-stjerne (aromatisk hvitvin) og høyde-Malbec.",
+        list: ["<strong>El Esteco</strong>", "<strong>Colomé</strong> (3100 moh — verdens høyeste)", "<strong>Piattelli</strong>", "<strong>Quara</strong>"] },
+      { id: "mendoza", name: "Mendoza ★", days: "6–12", top: true,
+        notes: "7 dager. Hjertet av argentinsk vin. Tre subregioner — Luján de Cuyo, Maipú, Uco Valley.",
+        list: ["<strong>Catena Zapata ★</strong> (Adrianna Vineyard lunch)", "<strong>Zuccardi Piedra Infinita ★</strong> (restaurant world top 50)", "<strong>Cheval des Andes</strong>", "<strong>Salentein</strong>", "<strong>Achaval Ferrer</strong>"] },
+      { id: "casablanca", name: "Casablanca", days: "13–14", top: false,
+        notes: "Chiles kjølige kystregion. Sauvignon Blanc, Pinot Noir, Chardonnay.",
+        list: ["<strong>Casas del Bosque</strong>", "<strong>Matetic</strong>", "<strong>Emiliana</strong>"] },
+      { id: "colchagua", name: "Colchagua ★", days: "15–17", top: true,
+        notes: "Carmenère-hovedstaden. Bo på vingård (Lapostolle Residence).",
+        list: ["<strong>Lapostolle Residence ★</strong> overnatting", "<strong>Montes Alpha</strong>", "<strong>Casa Silva</strong>", "<strong>Neyen</strong>"] },
+      { id: "maipo", name: "Maipo", days: "18", top: false,
+        notes: "Klassisk Cabernet-region rett utenfor Santiago.",
+        list: ["<strong>Concha y Toro</strong> (Don Melchor)", "<strong>Santa Rita</strong>", "<strong>Cousiño-Macul</strong>"] },
+      { id: "carmelo", name: "Carmelo (Uruguay)", days: "19–20", top: false,
+        notes: "Uruguays Tannat-spesialitet. Garzón er world-class.",
+        list: ["<strong>Bodega Garzón</strong>", "<strong>Narbona</strong>"] },
+      { id: "buenosaires", name: "Buenos Aires", days: "21", top: false,
+        notes: "Avslutt med vinbar-runde i Palermo.",
+        list: ["<strong>Pain et Vin</strong>", "<strong>Aldo's</strong>"] }
+    ]
+  },
+  coffee: {
+    title: "☕ Kafferuten — fra Eje Cafetero til Sul de Minas",
+    meta: "23 dager · 9 byer · UNESCO-kaffekultur",
+    color: "#c89464",
+    legend: "Eje Cafetero (Colombia) er hovedstoppet — UNESCO-listet kulturlandskap.",
+    stops: [
+      { id: "cartagena", name: "Cartagena", days: "1–2", top: false,
+        notes: "Inn-port. Specialty cafés i den gamle bydelen.",
+        list: ["<strong>Café San Alberto</strong>", "<strong>Epoca Espresso Bar</strong>"] },
+      { id: "salento", name: "Salento ★", days: "3–7", top: true,
+        notes: "5 netter i Eje Cafetero. UNESCO-kulturlandskap. Finca-overnatting.",
+        list: ["<strong>Hacienda Bambusa ★</strong>", "<strong>Hacienda Venecia</strong>", "<strong>Finca El Ocaso</strong>"] },
+      { id: "manizales", name: "Manizales", days: "8–9", top: false,
+        notes: "Annet hovedsete i kaffe­regionen. Universidad de Caldas har kaffe­fakultet.",
+        list: ["<strong>Hacienda Venecia tour</strong>", "<strong>Salamina</strong> (sjelden besøkt)"] },
+      { id: "bogota", name: "Bogotá", days: "10–12", top: true,
+        notes: "Specialty cafe-scene på toppnivå. La Palma & El Tucan ligger 90 min unna med eget hotell.",
+        list: ["<strong>La Palma & El Tucan ★</strong>", "<strong>Catación Pública</strong>", "<strong>Azahar Coffee</strong>"] },
+      { id: "cajamarca", name: "Cajamarca", days: "13–15", top: true,
+        notes: "Perus premium-region. Vinner Cup of Excellence årlig. Logistisk krevende — 12t fra Lima.",
+        list: ["<strong>Café Misha</strong>", "<strong>Cooperativa Sol y Café</strong>", "<strong>Local roasteries</strong>"] },
+      { id: "lima", name: "Lima", days: "16–18", top: false,
+        notes: "Specialty cafe-scene Latinamerikas sterkeste. Single-origin Cusco/Cajamarca.",
+        list: ["<strong>Tostaduría Bisetti</strong>", "<strong>Origen Café</strong>", "<strong>Café Z</strong>", "<strong>Neira Café Lab</strong>"] },
+      { id: "cusco", name: "Cusco", days: "19–20", top: false,
+        notes: "Quillabamba-dalen 4t unna gir kaffegårds­besøk kombinert med MP.",
+        list: ["<strong>Cooperativa Maranura</strong>", "<strong>Three Monkeys Café</strong>"] },
+      { id: "sulminas", name: "Sul de Minas (Brasil)", days: "21–22", top: false,
+        notes: "Verdens største kaffe­produsent — volumkjempen. Sjelden besøkt regionalt.",
+        list: ["<strong>Fazenda Capadócia</strong>", "<strong>Cooperativa Cocatrel</strong>"] },
+      { id: "saopaulo", name: "São Paulo", days: "23", top: true,
+        notes: "Coffee Lab av Isabela Raposeiras er världstandard.",
+        list: ["<strong>Coffee Lab ★</strong>", "<strong>Suplicy</strong>", "<strong>Octavio Café</strong>"] }
+    ]
+  }
+};
+
+const LAND_EDGES = new Set([
+  "salento-manizales", "manizales-salento",
+  "cartagena-bogota", "bogota-cartagena",
+  "salento-bogota", "bogota-salento",
+  "santiago-casablanca", "casablanca-santiago",
+  "santiago-maipo", "maipo-santiago",
+  "santiago-colchagua", "colchagua-santiago",
+  "santiago-mendoza", "mendoza-santiago",
+  "salta-cafayate", "cafayate-salta",
+  "cafayate-mendoza", "mendoza-cafayate",
+  "saopaulo-rio", "rio-saopaulo",
+  "sulminas-saopaulo", "saopaulo-sulminas"
+]);
+
+function isLand(a, b) {
+  return LAND_EDGES.has(`${a}-${b}`) || LAND_EDGES.has(`${b}-${a}`);
+}
+
+function render(routeKey) {
+  const route = ROUTES[routeKey];
+  const routesEl = document.getElementById("routes");
+  const stopsEl = document.getElementById("stops");
+  const listEl = document.getElementById("stops-list");
+  routesEl.innerHTML = "";
+  stopsEl.innerHTML = "";
+  listEl.innerHTML = "";
+
+  for (let i = 0; i < route.stops.length - 1; i++) {
+    const a = route.stops[i], b = route.stops[i + 1];
+    const ca = COORDS[a.id], cb = COORDS[b.id];
+    if (!ca || !cb) continue;
+    const land = isLand(a.id, b.id);
+    const line = document.createElementNS("http://www.w3.org/2000/svg", "line");
+    line.setAttribute("x1", ca.x);
+    line.setAttribute("y1", ca.y);
+    line.setAttribute("x2", cb.x);
+    line.setAttribute("y2", cb.y);
+    line.setAttribute("stroke", route.color);
+    line.setAttribute("class", `route-line ${land ? "land" : "flight"}`);
+    routesEl.appendChild(line);
+  }
+
+  route.stops.forEach((stop, idx) => {
+    const c = COORDS[stop.id];
+    if (!c) return;
+    const g = document.createElementNS("http://www.w3.org/2000/svg", "g");
+    g.setAttribute("class", "stop");
+    g.setAttribute("transform", `translate(${c.x},${c.y})`);
+    const topBadge = stop.top ? `<text class="top-badge" x="14" y="-5">★</text>` : "";
+    g.innerHTML = `
+      <circle class="outer" r="11" />
+      <circle class="${stop.top ? 'top' : ''}" r="7" fill="${route.color}" stroke="${stop.top ? '#ffe66d' : 'transparent'}" stroke-width="${stop.top ? 2 : 0}" />
+      <text class="num" y="3">${idx + 1}</text>
+      <text y="-14">${stop.name}</text>
+      ${topBadge}
+    `;
+    stopsEl.appendChild(g);
+
+    const li = document.createElement("li");
+    li.className = "stop-card" + (stop.top ? " top" : "");
+    const badge = stop.badge ? `<span class="badge">${stop.badge}</span>` : (stop.top ? `<span class="badge">★ TOP</span>` : "");
+    const items = stop.list.map(it => `<div>• ${it}</div>`).join("");
+    li.innerHTML = `
+      <div class="stop-card-header">
+        <span class="stop-num">${String(idx + 1).padStart(2, "0")}</span>
+        <span class="stop-name">${stop.name}${badge}</span>
+        <span class="stop-days">dag ${stop.days}</span>
+      </div>
+      <div class="stop-notes">${stop.notes}</div>
+      <div class="stop-list">${items}</div>
+    `;
+    listEl.appendChild(li);
+  });
+
+  document.getElementById("route-title").textContent = route.title;
+  document.getElementById("route-meta").textContent = route.meta;
+}
+
+document.querySelectorAll("button.toggle").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll("button.toggle").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    render(btn.dataset.route);
+  });
+});
+
+render("food");
+</script>
+</body>
+</html>
