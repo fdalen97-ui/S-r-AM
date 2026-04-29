@@ -20,6 +20,8 @@ sor-amerika/
 │   ├── rute.md                Tre rutealternativer (4/8/12 uker)
 │   ├── alternative-ruter.md   10 tematiske ruter (Andes, Karibi, Mat, Vin, Kaffe...)
 │   ├── flyvninger.md          Flystrategi fra Oslo, prismåned-tabell
+│   ├── flyvninger-konkret.md  Konkrete fly + priser apr 2026
+│   ├── transport-bil.md       Bil­leie + sjåfør per region
 │   ├── sesong.md              Skjæringspunkt for Peru/Patagonia/Mendoza
 │   ├── budsjett.md            Per-uke estimat, valutastrategi
 │   ├── visum-vaksinasjon.md   Per land: visum, vaksiner, malaria, høyde
