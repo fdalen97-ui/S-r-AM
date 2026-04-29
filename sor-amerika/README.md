@@ -17,12 +17,15 @@ Repository for tur til Sør-Amerika med fokus på vin, kaffe, mat og store opple
 ```
 sor-amerika/
 ├── 00-planlegging/
-│   ├── rute.md           Tre rutealternativer (4/8/12 uker)
-│   ├── flyvninger.md     Flystrategi fra Oslo, prismåned-tabell
-│   ├── sesong.md         Skjæringspunkt for Peru/Patagonia/Mendoza
-│   ├── budsjett.md       Per-uke estimat, valutastrategi
-│   ├── pakkeliste.md     Atacama-til-Patagonia bagasje
-│   └── sjekkliste.md     Tidslinje 12 mnd til retur
+│   ├── rute.md                Tre rutealternativer (4/8/12 uker)
+│   ├── alternative-ruter.md   10 tematiske ruter (Andes, Karibi, Mat, Vin, Kaffe...)
+│   ├── flyvninger.md          Flystrategi fra Oslo, prismåned-tabell
+│   ├── sesong.md              Skjæringspunkt for Peru/Patagonia/Mendoza
+│   ├── budsjett.md            Per-uke estimat, valutastrategi
+│   ├── visum-vaksinasjon.md   Per land: visum, vaksiner, malaria, høyde
+│   ├── sikkerhet.md           Sikkerhets-vurdering per land + svindel-typer
+│   ├── pakkeliste.md          Atacama-til-Patagonia bagasje
+│   └── sjekkliste.md          Tidslinje 12 mnd til retur
 ├── 01-peru/
 │   ├── README.md         Oversikt
 │   ├── lima.md           Mat, kaffe, distrikter
@@ -41,7 +44,14 @@ sor-amerika/
 │   └── spansk/grunnleggende.md
 ├── 05-bookinger/         Mal + booking-rytme
 ├── 06-journal/           Mal for daglig dagbok
-├── 07-utvidelser/        Colombia, Bolivia, Brasil, Iguazu, Atacama
+├── 07-utvidelser/
+│   ├── oversikt.md            Sammendrag av alle utvidelses-land
+│   ├── bolivia.md             Salar de Uyuni, La Paz, Sucre
+│   ├── ecuador.md             Quito, Galápagos, Amazon
+│   ├── uruguay.md             Montevideo, Carmelo (Tannat-vin)
+│   ├── brasil.md              Rio, Iguazu, São Paulo, Bahia
+│   ├── colombia.md            Cartagena, Eje Cafetero, Bogotá
+│   └── paraguay-guianer-venezuela.md  Off-mainstream
 ├── 08-visualiseringer/
 │   ├── visuell-rute.html      4/8/12 ukers ruter, interaktiv
 │   └── tematiske-ruter.html   Mat / vin / kaffe-toggle

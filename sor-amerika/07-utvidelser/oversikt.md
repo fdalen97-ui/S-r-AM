@@ -2,6 +2,21 @@
 
 Disse er **ikke** del av kjerneruten (Peru + Chile + Argentina). De er listet her som valg dere kan vurdere å legge til hvis tur­lengden tillater det, eller som inspirasjon for senere reiser.
 
+## Per-land dybdefiler i denne mappen
+
+- [`bolivia.md`](bolivia.md) — Salar de Uyuni, La Paz, Sucre
+- [`ecuador.md`](ecuador.md) — Quito, Galápagos, Amazon, Cuenca
+- [`uruguay.md`](uruguay.md) — Montevideo, Carmelo (Tannat-vin), Punta del Este
+- [`brasil.md`](brasil.md) — Rio, Iguazu, São Paulo, Salvador, Pantanal
+- [`colombia.md`](colombia.md) — Cartagena, Eje Cafetero, Bogotá, Medellín
+- [`paraguay-guianer-venezuela.md`](paraguay-guianer-venezuela.md) — Paraguay, Guianas, Venezuela
+
+## Praktisk pre-reise
+
+Se også `00-planlegging/visum-vaksinasjon.md` for samlet visum/vaksine-oversikt og `00-planlegging/sikkerhet.md` for sikkerhet per land.
+
+For alternative ruter med disse landene, se `00-planlegging/alternative-ruter.md`.
+
 ## Rangert etter "naturlig å koble på"
 
 ### 1. Atacama-ørkenen (Chile) ★★★★★ — anbefalt på 8+ uker
