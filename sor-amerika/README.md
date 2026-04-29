@@ -17,6 +17,7 @@ Repository for tur til Sør-Amerika med fokus på vin, kaffe, mat og store opple
 ```
 sor-amerika/
 ├── 00-planlegging/
+│   ├── anbefaling.md          ⭐ Konkret tur-anbefaling 24. sept→1. des 2026
 │   ├── rute.md                Tre rutealternativer (4/8/12 uker)
 │   ├── alternative-ruter.md   10 tematiske ruter (Andes, Karibi, Mat, Vin, Kaffe...)
 │   ├── flyvninger.md          Flystrategi fra Oslo, prismåned-tabell
@@ -32,7 +33,11 @@ sor-amerika/
 │   ├── README.md         Oversikt
 │   ├── lima.md           Mat, kaffe, distrikter
 │   └── cusco-mp.md       Akklimatisering, Sacred Valley, MP-booking
-├── 02-chile/             Santiago, Casablanca, Maipo, Colchagua
+├── 02-chile/
+│   ├── README.md              Oversikt
+│   ├── santiago.md            Distrikter, restauranter, dagsturer
+│   ├── colchagua.md           Carmenère, vingård-ønskeliste, 3-dagers program
+│   └── atacama.md             Stjerne­himmel, geysir, Salar-overgang
 ├── 03-argentina/
 │   ├── README.md         Oversikt
 │   ├── mendoza.md        Vingård-ønskeliste + 6-dagers program
@@ -40,6 +45,7 @@ sor-amerika/
 │   └── patagonia.md      Calafate, Chaltén, Torres del Paine
 ├── 04-kunnskap/
 │   ├── vin/malbec-mendoza.md
+│   ├── vin/carmenere.md       Chiles signature-drue, "den tapte druen"
 │   ├── kaffe/peruansk-kaffe.md
 │   ├── gastronomi/oversikt.md
 │   ├── historie/oversikt.md
