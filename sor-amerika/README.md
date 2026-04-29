@@ -16,16 +16,36 @@ Repository for tur til Sør-Amerika med fokus på vin, kaffe, mat og store opple
 
 ```
 sor-amerika/
-├── 00-planlegging/      Rute, fly, sesong, budsjett
-├── 01-peru/             Lima, Cusco, Sacred Valley, MP
-├── 02-chile/            Santiago + vinregioner
-├── 03-argentina/        Mendoza, BA, Patagonia
-├── 04-kunnskap/         Vin, kaffe, gastronomi, historie, spansk
-├── 05-bookinger/        Bekreftelser, kvitteringer
-├── 06-journal/          Dagbok underveis
-├── 07-utvidelser/       Colombia, Bolivia, Brasil, Iguazu, Atacama
-├── 08-visualiseringer/  Interaktive HTML-kart
-└── 09-referanser/       Kilder, lenker, kontakter
+├── 00-planlegging/
+│   ├── rute.md           Tre rutealternativer (4/8/12 uker)
+│   ├── flyvninger.md     Flystrategi fra Oslo, prismåned-tabell
+│   ├── sesong.md         Skjæringspunkt for Peru/Patagonia/Mendoza
+│   ├── budsjett.md       Per-uke estimat, valutastrategi
+│   ├── pakkeliste.md     Atacama-til-Patagonia bagasje
+│   └── sjekkliste.md     Tidslinje 12 mnd til retur
+├── 01-peru/
+│   ├── README.md         Oversikt
+│   ├── lima.md           Mat, kaffe, distrikter
+│   └── cusco-mp.md       Akklimatisering, Sacred Valley, MP-booking
+├── 02-chile/             Santiago, Casablanca, Maipo, Colchagua
+├── 03-argentina/
+│   ├── README.md         Oversikt
+│   ├── mendoza.md        Vingård-ønskeliste + 6-dagers program
+│   ├── buenos-aires.md   Distrikter, parrillas, tango
+│   └── patagonia.md      Calafate, Chaltén, Torres del Paine
+├── 04-kunnskap/
+│   ├── vin/malbec-mendoza.md
+│   ├── kaffe/peruansk-kaffe.md
+│   ├── gastronomi/oversikt.md
+│   ├── historie/oversikt.md
+│   └── spansk/grunnleggende.md
+├── 05-bookinger/         Mal + booking-rytme
+├── 06-journal/           Mal for daglig dagbok
+├── 07-utvidelser/        Colombia, Bolivia, Brasil, Iguazu, Atacama
+├── 08-visualiseringer/
+│   ├── visuell-rute.html      4/8/12 ukers ruter, interaktiv
+│   └── tematiske-ruter.html   Mat / vin / kaffe-toggle
+└── 09-referanser/        Kilder, apper, bøker
 ```
 
 ## Anbefalt rute (8 uker)
@@ -57,7 +77,12 @@ Detaljer i `00-planlegging/sesong.md` og `00-planlegging/flyvninger.md`.
 - [x] Rute­alternativer (4/8/12 uker)
 - [x] Flystrategi
 - [x] Visuelle kart
+- [x] Land-spesifikke guider (Peru, Chile, Argentina)
+- [x] Dybde­filer: Lima, Cusco/MP, Mendoza, BA, Patagonia
+- [x] Kunnskap: vin, kaffe, gastronomi, historie, spansk
+- [x] Pakkeliste og sjekkliste
 - [ ] Konkret datovindu fastsatt
-- [ ] Bookinger startet
-- [ ] Vingårdsønskeliste i Mendoza
-- [ ] Budsjett pr. person ferdigstilt
+- [ ] Internasjonal flybillett booket
+- [ ] Machu Picchu-billetter booket
+- [ ] Topp-restauranter booket (Maido, Don Julio, Boragó)
+- [ ] Mendoza-vingårder Tier 1 booket
