@@ -20,6 +20,7 @@ sor-amerika/
 │   ├── anbefaling.md          ⭐ Konkret tur-anbefaling 24. sept→1. des 2026
 │   ├── rute.md                Tre rutealternativer (4/8/12 uker)
 │   ├── alternative-ruter.md   10 tematiske ruter (Andes, Karibi, Mat, Vin, Kaffe...)
+│   ├── november-avreise.md    5 ruter for 1. nov-avreise, 4–6 uker
 │   ├── flyvninger.md          Flystrategi fra Oslo, prismåned-tabell
 │   ├── flyvninger-konkret.md  Konkrete fly + priser apr 2026
 │   ├── transport-bil.md       Bil­leie + sjåfør per region
