@@ -23,6 +23,7 @@ sor-amerika/
 │   ├── november-avreise.md    5 ruter for 1. nov-avreise, 4–6 uker
 │   ├── flyvninger.md          Flystrategi fra Oslo, prismåned-tabell
 │   ├── flyvninger-konkret.md  Konkrete fly + priser apr 2026
+│   ├── mellomlanding-byer.md  Madrid, Amsterdam, CDMX m.fl. — hva å gjøre på layover
 │   ├── transport-bil.md       Bil­leie + sjåfør per region
 │   ├── sesong.md              Skjæringspunkt for Peru/Patagonia/Mendoza
 │   ├── budsjett.md            Per-uke estimat, valutastrategi
