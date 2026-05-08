@@ -42,6 +42,8 @@ Søk i Skyscanner / Google Flights med "Multi-city" eller "Multi-stop". I norske
 
 **Best på service og bagasje**: Lufthansa/SAS Star Alliance.
 
+Detaljert oversikt over hver mellomlandingsby — hva du kan oppleve på 3t, 12t eller 2 dager — i `mellomlanding-byer.md`.
+
 ## Internflyvninger i Sør-Amerika
 
 | Rute              | Selskap                    | Pris (NOK) | Notat                          |
