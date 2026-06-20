@@ -1,8 +1,16 @@
 # ✈️ Daglig flyprissjekk – Oslo → Sør-Amerika
 
-Et lite verktøy som hver dag sjekker laveste pris for rutene dine over hele
-dato-vinduet (slutten av oktober → november), logger historikk og **varsler deg
-på mobilen** når prisen faller under en terskel eller setter ny bunnrekord.
+Sporer den **anbefalte ruten**: open-jaw med Iberia via Madrid –
+**inn til Lima, ut fra Buenos Aires**. De to enveis-bena spores hver for seg,
+så summen av de to laveste prisene = total internasjonal flypris (mål ~8 950 kr).
+
+Verktøyet sjekker laveste pris for begge ben over dato-vinduet ditt, logger
+historikk og **varsler deg på mobilen** når prisen faller under terskel eller
+setter ny bunnrekord.
+
+> Hvorfor open-jaw? Du sparer ~2 500 kr og 1–2 dager mot vanlig tur-retur fra
+> Lima (slipper å fly Argentina → Peru igjen). Se
+> `../00-planlegging/anbefaling.md` for hele begrunnelsen.
 
 - Kun Python 3 standardbibliotek – **ingen `pip install`**
 - Gratis prisdata via **Amadeus Self-Service API**
@@ -86,9 +94,12 @@ til å booke.
 
 ### Tips for å treffe billigst
 - La `kun_ukedager` stå som `[1,2,5]` – tirsdag/onsdag/lørdag er erfaringsmessig billigst.
-- Vurder **open-jaw** manuelt (inn Lima, ut Buenos Aires) – se
-  `../00-planlegging/flyvninger-konkret.md`. Da legger du til en egen rute som
-  kun sjekker `OSL→LIM` en vei + en `EZE→OSL` en vei.
+- **Unngå jule-toppen på retur:** 15.–31. desember er dyrest (~8 500–9 200 kr).
+  Returvinduet er derfor satt til tidlig desember + januar, som er mye billigere.
+  Vil du hjem rett før jul, forvent høyere pris.
+- Open-jaw er allerede satt opp som to enveis-ben (`OSL→LIM` inn, `EZE→OSL` ut).
+  Sleng på flere byer ved å kopiere en rute i `config.json` (f.eks. `SCL→OSL`
+  hvis du heller vil avslutte i Chile).
 - Hold `steg_dager` på 2–3 for å spare API-kvote (test-miljøet har begrenset
   antall kall per måned).
 
