@@ -1,0 +1,36 @@
+{
+  "valuta": "NOK",
+  "antall_voksne": 1,
+  "maks_mellomlandinger": 2,
+  "amadeus_base_url": "https://test.api.amadeus.com",
+  "sov_mellom_kall_sekunder": 1.0,
+  "varsling": {
+    "ntfy_emne": ""
+  },
+  "ruter": [
+    {
+      "navn": "Oslo → Lima",
+      "fra": "OSL",
+      "til": "LIM",
+      "avreise_fra": "2026-10-25",
+      "avreise_til": "2026-11-30",
+      "steg_dager": 3,
+      "kun_ukedager": [1, 2, 5],
+      "retur_etter_dager": 35,
+      "ma_pris": 9500,
+      "varsle_under": 8500
+    },
+    {
+      "navn": "Oslo → Buenos Aires",
+      "fra": "OSL",
+      "til": "EZE",
+      "avreise_fra": "2026-10-25",
+      "avreise_til": "2026-11-30",
+      "steg_dager": 3,
+      "kun_ukedager": [1, 2, 5],
+      "retur_etter_dager": 35,
+      "ma_pris": 9000,
+      "varsle_under": 8000
+    }
+  ]
+}
