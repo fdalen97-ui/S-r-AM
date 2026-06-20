@@ -14,9 +14,9 @@
       "fra": "OSL",
       "til": "LIM",
       "avreise_fra": "2026-10-25",
-      "avreise_til": "2026-11-15",
-      "steg_dager": 2,
-      "kun_ukedager": [1, 2, 5],
+      "avreise_til": "2026-11-08",
+      "steg_dager": 1,
+      "kun_ukedager": [1, 2, 3, 5],
       "ma_pris": 4850,
       "varsle_under": 5000
     },
