@@ -4,12 +4,16 @@
 
 Optimalisert for vin, natur og storby — uten høyde- og regntidsutfordringene
 som Peru ville lagt til. Bygget for mars–april fordi du da treffer **vinhøsten
-(vendimia)** i både Chile og Mendoza, **Iguazu** på sitt mektigste, og Buenos
-Aires i behagelig høst. Patagonia (Calafate) er fortsatt åpent i mars.
+(vendimia)** i både Chile og Mendoza, og Buenos Aires i behagelig høst.
+Patagonia (Calafate/Chaltén) er fortsatt åpent i mars.
 
 > Hvorfor droppe Peru? På 4 uker gir Peru-delen mest logistikk (høyde,
 > akklimatisering, regntid utenom mai–okt). Uten Peru flyter turen lettere og du
 > får mer dybde i vinregionene. Vil du ha Peru med, se 8-ukers `anbefaling.md`.
+>
+> Hvorfor ikke Iguazu? Fossen er storslått, men ligger langt nordøst og krever
+> 4 ekstra flyben + backtracking. På en 4-ukers tur gir det mye reising for lite
+> igjen — tiden er bedre brukt på mer Patagonia og en rolig BA-finale.
 
 ---
 
@@ -20,11 +24,9 @@ Aires i behagelig høst. Patagonia (Calafate) er fortsatt åpent i mars.
       │ buss/fly over Andes
 🇦🇷 Mendoza-vin / vendimia (uke 2)
       │ fly sør (via BA)
-🏔️ El Calafate / Patagonia (uke 3, del 1)
+🏔️ Patagonia: Calafate + Chaltén (uke 3)
       │ fly nord
-🏙️ Buenos Aires (uke 3, del 2)
-      │ fly + retur
-💦 Iguazu + BA-finale (uke 4)
+🏙️ Buenos Aires + dagsturer (uke 4)
       │ EZE → OSL
 🏠 Hjem
 ```
@@ -51,24 +53,24 @@ Aires i behagelig høst. Patagonia (Calafate) er fortsatt åpent i mars.
 | 12 | Mendoza by | Hvil, spa, siste vingård. Crush-sesong i full gang |
 | 13 | Mendoza → El Calafate | Fly via Buenos Aires |
 
-### Uke 3 — Patagonia + Buenos Aires
+### Uke 3 — Patagonia (mer dybde)
 | Dag | Sted | Aktivitet |
 |-----|------|-----------|
 | 14 | **El Calafate** | Ankomst, rolig kveld |
 | 15 | Perito Moreno | Isbreen hel dag — passarelas + mini-trekking eller båt |
-| 16 | El Chaltén | Dagstur (Mirador) eller avslapning i Calafate |
-| 17 | Calafate → Buenos Aires | Fly |
-| 18–20 | **Buenos Aires** | Don Julio (★ parrilla), tango-show, Recoleta, Palermo, San Telmo-marked (søndag), vinbar Florería Atlántico |
+| 16 | Calafate → El Chaltén | Buss (~3t), Argentinas vandrehovedstad |
+| 17 | **El Chaltén** | Laguna de los Tres (Fitz Roy) eller kortere Mirador — flott uansett nivå |
+| 18 | El Chaltén | Laguna Torre eller rolig dag, kveldstur til utsiktspunkt |
+| 19 | Chaltén → Calafate → BA | Buss + fly |
 
-### Uke 4 — Iguazu + finale
+### Uke 4 — Buenos Aires & finale
 | Dag | Sted | Aktivitet |
 |-----|------|-----------|
-| 21 | BA → Puerto Iguazú | Fly (~1.5t) |
-| 22 | **Iguazu argentinsk side** | Hel dag — Garganta del Diablo, øvre/nedre stier |
-| 23 | Iguazu brasiliansk side | Panorama + båttur under fossen, fuglepark |
-| 24 | Iguazú → Buenos Aires | Fly |
-| 25–26 | **BA finale** | Siste mat, lær-/vinshopping, Tigre-delta dagstur |
-| 27 | Buffer-dag | I tilfelle forsinkelser fra Patagonia/Iguazu |
+| 20–22 | **Buenos Aires** | Don Julio (★ parrilla), tango-show, Recoleta, Palermo, San Telmo-marked (søndag), vinbar Florería Atlántico |
+| 23 | Tigre-delta | Dagstur — elvebåt, marked, grønt pusterom |
+| 24 | Colonia (Uruguay) | Dagstur med ferge — UNESCO-koloniby, Tannat-vin |
+| 25–26 | BA finale | Siste mat, lær-/vinshopping, kaffe og barrio-vandring |
+| 27 | Buffer-dag | I tilfelle forsinkelser fra Patagonia |
 | 28 | EZE → OSL | Iberia via Madrid |
 
 ---
@@ -79,10 +81,11 @@ Aires i behagelig høst. Patagonia (Calafate) er fortsatt åpent i mars.
 |-----|------|----------|
 | Inn | **OSL → SCL** (Santiago) | ~5 000–5 500 kr |
 | Ut | **EZE → OSL** (Buenos Aires) | ~4 600–4 900 kr |
-| Interne (5) | SCL→MDZ (buss), MDZ→FTE, FTE→AEP, AEP→IGR, IGR→AEP | ~6 000–8 000 kr |
+| Interne (2) | SCL→MDZ (buss), MDZ→FTE→AEP | ~3 500–4 500 kr |
 
 Total internasjonalt ~**9 600–10 400 kr** p.p. Du slipper backtracking ved å fly
-inn vest (Santiago) og ut øst (Buenos Aires).
+inn vest (Santiago) og ut øst (Buenos Aires) — og uten Iguazu er det bare
+**2 interne flyben** igjen, mot 5 tidligere.
 
 ---
 
@@ -90,15 +93,16 @@ inn vest (Santiago) og ut øst (Buenos Aires).
 
 | Post | NOK |
 |------|-----|
-| Fly (intl. open-jaw + interne + bagasje) | ~17 000 |
+| Fly (intl. open-jaw + interne + bagasje) | ~15 000 |
 | Overnatting (27 netter) | ~55 000 |
 | Mat & drikke | ~28 000 |
 | Vingårdsturer + sjåfør (Mendoza/Colchagua) | ~12 000 |
-| Aktiviteter (Perito Moreno, Iguazu, tango) | ~7 000 |
+| Aktiviteter (Perito Moreno, Chaltén, tango) | ~6 000 |
 | Diverse (forsikring, vin hjem, buffer) | ~9 000 |
-| **TOTAL p.p.** | **~128 000** |
+| **TOTAL p.p.** | **~125 000** |
 
-For et par: ~256 000 kr. Strammere standard: ned mot ~90 000 p.p.
+For et par: ~250 000 kr. Strammere standard: ned mot ~88 000 p.p.
+(Å droppe Iguazu sparer ~3 000–4 000 kr i interne fly p.p.)
 
 ---
 
@@ -107,12 +111,11 @@ For et par: ~256 000 kr. Strammere standard: ned mot ~90 000 p.p.
 | | 🌸 Mars–april (denne ruten) | 🍂 November (alternativ) |
 |---|------------------------------|---------------------------|
 | Vin | ⭐⭐ **Vendimia – selve vinhøsten** | ✓ Vår, grønt, men ingen høst |
-| Iguazu | ⭐ Full vannmengde | ✓ Greit |
 | Patagonia | ✓ Åpent (gjør tidlig mars) | ⭐ Akkurat åpnet |
 | Buenos Aires | ⭐ Behagelig høst | ⭐ Vår, jakaranda |
 
 **Dom:** Siden vin er hovedmotivasjonen og Peru droppes, vinner **mars–april**
-klart. Velg november i stedet bare hvis Patagonia-vandring er viktigere enn vinhøst.
+klart. Velg november i stedet bare hvis du vil ha Patagonia på sitt aller beste.
 
 ---
 
@@ -120,7 +123,7 @@ klart. Velg november i stedet bare hvis Patagonia-vandring er viktigere enn vinh
 
 - **+3 dager:** legg til **Atacama** (fly Santiago→Calama) for stjernehimmel/ørken
 - **+3 dager:** legg til **Bariloche** (Lake District) mellom Mendoza og Patagonia
-- **Roligere tempo:** dropp Iguazu → mer tid i Mendoza + BA (mindre flyging)
+- **Roligere tempo:** kutt Chaltén → mer tid i Mendoza + BA
 - **Vil ha Peru tilbake:** utvid til 6 uker og legg Peru sist (april, tørket opp)
 
 ---
