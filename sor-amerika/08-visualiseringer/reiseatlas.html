@@ -1,0 +1,614 @@
+<title>Reiseatlas</title>
+<style>
+  :root {
+    --paper: #f7f6f2;
+    --ink: #22303c;
+    --ink-2: #5b6a76;
+    --ink-3: #8b98a3;
+    --hairline: #d8d5cc;
+    --land: #e9e3d3;
+    --land-line: #c8c1ab;
+    --card: #fdfcf9;
+    --route: #cf3f2f;
+    --route-soft: rgba(207, 63, 47, .12);
+    --w-nov: #2a78d6;
+    --w-des: #eb6834;
+    --w-jul: #1baf7a;
+    --gold: #b8860b;
+    --good: #1e7d1e;
+    --good-bg: rgba(30, 125, 30, .12);
+    --warn: #9a6a00;
+    --warn-bg: rgba(237, 161, 0, .16);
+    --bad: #b53230;
+    --bad-bg: rgba(227, 73, 72, .12);
+    --shadow: 0 1px 3px rgba(34, 48, 60, .08), 0 4px 18px rgba(34, 48, 60, .06);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #0f151c;
+      --ink: #e2e8ee;
+      --ink-2: #9aa8b4;
+      --ink-3: #6b7986;
+      --hairline: #2a3644;
+      --land: #202c3a;
+      --land-line: #3a4b5e;
+      --card: #151d26;
+      --route: #e66767;
+      --route-soft: rgba(230, 103, 103, .14);
+      --w-nov: #3987e5;
+      --w-des: #d95926;
+      --w-jul: #199e70;
+      --gold: #d9a441;
+      --good: #58b658;
+      --good-bg: rgba(88, 182, 88, .16);
+      --warn: #d9a92f;
+      --warn-bg: rgba(217, 169, 47, .16);
+      --bad: #e66767;
+      --bad-bg: rgba(230, 103, 103, .14);
+      --shadow: 0 1px 3px rgba(0, 0, 0, .4), 0 4px 18px rgba(0, 0, 0, .3);
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #0f151c;
+    --ink: #e2e8ee;
+    --ink-2: #9aa8b4;
+    --ink-3: #6b7986;
+    --hairline: #2a3644;
+    --land: #202c3a;
+    --land-line: #3a4b5e;
+    --card: #151d26;
+    --route: #e66767;
+    --route-soft: rgba(230, 103, 103, .14);
+    --w-nov: #3987e5;
+    --w-des: #d95926;
+    --w-jul: #199e70;
+    --gold: #d9a441;
+    --good: #58b658;
+    --good-bg: rgba(88, 182, 88, .16);
+    --warn: #d9a92f;
+    --warn-bg: rgba(217, 169, 47, .16);
+    --bad: #e66767;
+    --bad-bg: rgba(230, 103, 103, .14);
+    --shadow: 0 1px 3px rgba(0, 0, 0, .4), 0 4px 18px rgba(0, 0, 0, .3);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    line-height: 1.55;
+    margin: 0;
+    font-size: 15px;
+  }
+  .wrap { max-width: 1060px; margin: 0 auto; padding: 40px 20px 72px; display: flex; flex-direction: column; gap: 44px; }
+
+  .serif { font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif; }
+  .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace; font-variant-numeric: tabular-nums; }
+  .eyebrow { font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--ink-2); font-weight: 600; }
+
+  header.hero { border-bottom: 3px double var(--hairline); padding-bottom: 26px; display: flex; flex-direction: column; gap: 14px; }
+  header.hero h1 { font-size: clamp(34px, 5vw, 48px); margin: 0; letter-spacing: -.01em; text-wrap: balance; line-height: 1.1; }
+  header.hero p.lede { margin: 0; max-width: 62ch; color: var(--ink-2); }
+  .chips { display: flex; flex-wrap: wrap; gap: 10px; }
+  .chip { display: inline-flex; align-items: center; gap: 7px; font-size: 12.5px; font-weight: 600; padding: 5px 12px; border: 1px solid var(--hairline); border-radius: 999px; background: var(--card); }
+  .dot { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+
+  section.plate { background: var(--card); border: 1px solid var(--hairline); border-radius: 10px; box-shadow: var(--shadow); overflow: hidden; }
+  .plate-head { display: flex; align-items: baseline; gap: 14px; padding: 18px 24px 14px; border-bottom: 1px solid var(--hairline); flex-wrap: wrap; }
+  .plate-no { font-size: 13px; color: var(--ink-3); letter-spacing: .12em; }
+  .plate-head h2 { font-size: 24px; margin: 0; letter-spacing: -.005em; }
+  .plate-rank { font-size: 12px; font-weight: 700; padding: 3px 10px; border-radius: 999px; margin-left: auto; }
+  .rank-1 { background: var(--good-bg); color: var(--good); }
+  .rank-2 { background: rgba(42, 120, 214, .12); color: var(--w-nov); }
+  .rank-3 { background: var(--warn-bg); color: var(--warn); }
+  .rank-4 { background: var(--route-soft); color: var(--route); }
+
+  .plate-body { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 0; }
+  @media (max-width: 760px) { .plate-body { grid-template-columns: 1fr; } .facts { border-left: none !important; border-top: 1px solid var(--hairline); } }
+  figure.map { margin: 0; padding: 18px 10px 8px; display: flex; flex-direction: column; align-items: center; gap: 4px; }
+  figure.map svg { max-width: 100%; height: auto; display: block; }
+  figure.map figcaption { font-size: 12px; color: var(--ink-3); padding: 0 14px 10px; text-align: center; }
+  .maplegend { display: flex; gap: 18px; font-size: 11.5px; color: var(--ink-2); }
+  .maplegend span { display: inline-flex; align-items: center; gap: 6px; }
+  .lg-line { width: 26px; height: 0; border-top: 2.5px solid var(--route); }
+  .lg-fly { width: 26px; height: 0; border-top: 2.5px dashed var(--route); }
+
+  .facts { border-left: 1px solid var(--hairline); padding: 20px 24px; display: flex; flex-direction: column; gap: 18px; }
+  .facts h3 { margin: 0; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--ink-2); font-weight: 700; }
+  .winrows { display: flex; flex-direction: column; gap: 8px; }
+  .winrow { display: grid; grid-template-columns: 16px 86px 74px 1fr; align-items: center; gap: 10px; font-size: 13.5px; padding: 7px 10px; border-radius: 7px; border: 1px solid transparent; }
+  .winrow.best { border-color: var(--hairline); background: var(--paper); }
+  .winrow .price { font-weight: 700; }
+  .winrow .note { color: var(--ink-2); font-size: 12.5px; }
+  .stops { display: flex; flex-direction: column; gap: 6px; }
+  .stop { display: flex; align-items: baseline; gap: 10px; font-size: 13.5px; }
+  .score { font-weight: 700; min-width: 34px; text-align: right; }
+  .s10 { color: var(--gold); }
+  .stop small { color: var(--ink-2); }
+  .verdict { font-size: 13.5px; color: var(--ink-2); border-top: 1px solid var(--hairline); padding-top: 14px; margin: 0; }
+  .verdict strong { color: var(--ink); }
+
+  section.panel { display: flex; flex-direction: column; gap: 18px; }
+  section.panel > h2 { font-size: 26px; margin: 0; }
+  section.panel > p.sub { margin: 0; color: var(--ink-2); max-width: 68ch; }
+
+  .chart-card { background: var(--card); border: 1px solid var(--hairline); border-radius: 10px; box-shadow: var(--shadow); padding: 22px 26px; overflow-x: auto; }
+  .legend { display: flex; gap: 18px; font-size: 12.5px; margin-bottom: 18px; flex-wrap: wrap; }
+  .legend span { display: inline-flex; align-items: center; gap: 6px; font-weight: 600; }
+  .cgroups { display: flex; flex-direction: column; gap: 20px; min-width: 480px; }
+  .cgroup { display: grid; grid-template-columns: 168px 1fr; gap: 14px; align-items: center; }
+  .cgroup .glabel { font-size: 13.5px; font-weight: 650; line-height: 1.3; }
+  .cgroup .glabel small { display: block; font-weight: 400; color: var(--ink-3); font-size: 11.5px; }
+  .bars { display: flex; flex-direction: column; gap: 4px; }
+  .barrow { display: flex; align-items: center; gap: 8px; height: 16px; }
+  .bar { height: 13px; border-radius: 0 4px 4px 0; position: relative; transition: opacity .15s; min-width: 2px; }
+  .barrow:hover .bar { opacity: .8; }
+  .bval { font-size: 12px; color: var(--ink-2); white-space: nowrap; }
+  .bmiss { font-size: 12px; color: var(--ink-3); font-style: italic; }
+  .axis { grid-column: 2; display: flex; justify-content: space-between; font-size: 11px; color: var(--ink-3); border-top: 1px solid var(--hairline); padding-top: 5px; }
+
+  .matrix-card { background: var(--card); border: 1px solid var(--hairline); border-radius: 10px; box-shadow: var(--shadow); padding: 8px 6px; overflow-x: auto; }
+  table.matrix { border-collapse: collapse; width: 100%; min-width: 560px; font-size: 13.5px; }
+  table.matrix th, table.matrix td { padding: 9px 14px; text-align: left; }
+  table.matrix thead th { font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-2); border-bottom: 2px solid var(--hairline); }
+  table.matrix tbody tr + tr td { border-top: 1px solid var(--hairline); }
+  table.matrix td:first-child { font-weight: 600; }
+  table.matrix td small { color: var(--ink-3); font-weight: 400; }
+  .fit { display: inline-block; font-size: 12px; font-weight: 700; padding: 2.5px 10px; border-radius: 999px; white-space: nowrap; }
+  .f-ideal { background: var(--good-bg); color: var(--good); }
+  .f-god { background: rgba(42, 120, 214, .12); color: var(--w-nov); }
+  .f-ok { background: var(--warn-bg); color: var(--warn); }
+  .f-avoid { background: var(--bad-bg); color: var(--bad); }
+
+  footer { font-size: 12.5px; color: var(--ink-3); border-top: 1px solid var(--hairline); padding-top: 18px; max-width: 76ch; }
+
+  .map-land { fill: var(--land); stroke: var(--land-line); stroke-width: 1; }
+  .map-route { stroke: var(--route); stroke-width: 2.5; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+  .map-fly { stroke-dasharray: 3 5; }
+  .map-stopdot { fill: var(--route); stroke: var(--card); stroke-width: 1.6; }
+  .map-star { fill: none; stroke: var(--gold); stroke-width: 2; }
+  .map-label { font-size: 11.5px; fill: var(--ink); font-weight: 600; }
+  .map-label.minor { font-weight: 400; fill: var(--ink-2); }
+  .map-region { font-size: 10px; fill: var(--ink-3); letter-spacing: .18em; text-transform: uppercase; font-style: italic; }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+
+  <header class="hero">
+    <span class="eyebrow">Sør-Amerika-repoet · analyse august 2026 · 3–5 uker fra Oslo</span>
+    <h1 class="serif">Reiseatlas</h1>
+    <p class="lede">Fire turkandidater fra «verdens beste analyse» tegnet ut som atlas-plansjer: ruten på kartet,
+    skjønnhetsscore per stopp (1–10 mot verdensklasse), og totalpris per person i hvert av de tre avreisevinduene.</p>
+    <div class="chips">
+      <span class="chip"><span class="dot" style="background:var(--w-nov)"></span>Vindu A · ~1. november</span>
+      <span class="chip"><span class="dot" style="background:var(--w-des)"></span>Vindu B · ~1. desember</span>
+      <span class="chip"><span class="dot" style="background:var(--w-jul)"></span>Vindu C · romjula → januar</span>
+    </div>
+  </header>
+
+  <!-- PLANSJE I -->
+  <section class="plate">
+    <div class="plate-head">
+      <span class="plate-no serif">PLANSJE I</span>
+      <h2 class="serif">Sør-Amerika grand tour</h2>
+      <span class="plate-rank rank-1">🥇 Totalvinneren · reis ~1. nov</span>
+    </div>
+    <div class="plate-body">
+      <figure class="map">
+        <svg id="map-sa" role="img" aria-label="Kart over Sør-Amerika med ruten Lima, Cusco, Salar de Uyuni, Atacama, Santiago, Mendoza, El Chaltén, El Calafate og Buenos Aires"></svg>
+        <div class="maplegend"><span><span class="lg-line"></span>land/buss</span><span><span class="lg-fly"></span>fly</span><span><svg width="14" height="14" viewBox="0 0 14 14"><circle cx="7" cy="7" r="4.5" class="map-star"></circle></svg>10/10-landskap</span></div>
+        <figcaption>Inn Lima → ut Buenos Aires (open-jaw). Eneste vindu der Machu Picchu, vinregionene og Patagonia funker samtidig.</figcaption>
+      </figure>
+      <div class="facts">
+        <div>
+          <h3>Totalpris p.p. · 4 uker</h3>
+          <div class="winrows">
+            <div class="winrow best"><span class="dot" style="background:var(--w-nov)"></span><span>November</span><span class="price mono">45 000</span><span class="note">Patagonia i verdi-vinduet (−30–50 %)</span></div>
+            <div class="winrow"><span class="dot" style="background:var(--w-des)"></span><span>Desember</span><span class="price mono">48 000</span><span class="note">bra t.o.m. ~20. des — book nå</span></div>
+            <div class="winrow"><span class="dot" style="background:var(--w-jul)"></span><span>Romjula</span><span class="price mono">56 000</span><span class="note">fellesferie + regntid i Cusco</span></div>
+          </div>
+        </div>
+        <div>
+          <h3>Høydepunkter · score</h3>
+          <div class="stops">
+            <div class="stop"><span class="score s10 mono">10</span><span>Fitz Roy &amp; Perito Moreno <small>— verdens mest fotogene fjellsilhuett</small></span></div>
+            <div class="stop"><span class="score mono">9,5</span><span>Salar de Uyuni <small>— hvit og tørr i nov (speilet er jan–mars)</small></span></div>
+            <div class="stop"><span class="score mono">9</span><span>Machu Picchu <small>— hale av tørrsesongen tidlig i nov</small></span></div>
+            <div class="stop"><span class="score mono">9</span><span>Atacama <small>— ideal, verdens beste stjernehimmel</small></span></div>
+            <div class="stop"><span class="score mono">8</span><span>Mendoza &amp; Colchagua <small>— vår, 24–27 °C, grønne ranker</small></span></div>
+          </div>
+        </div>
+        <p class="verdict"><strong>Verdens tetteste konsentrasjon av 9–10/10-landskap</strong> i riktig sesong til lavest pris. Analysen endte med å bekrefte planen som allerede ligger i repoet.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- PLANSJE II -->
+  <section class="plate">
+    <div class="plate-head">
+      <span class="plate-no serif">PLANSJE II</span>
+      <h2 class="serif">Sør-Afrika: Kapp, vin &amp; Garden Route</h2>
+      <span class="plate-rank rank-2">🥈 Verdi-vinneren · reis ~1. nov</span>
+    </div>
+    <div class="plate-body">
+      <figure class="map">
+        <svg id="map-za" role="img" aria-label="Kart over det sørlige Afrika med ruten Cape Town, Winelands, Hermanus, Knysna, Tsitsikamma og Gqeberha"></svg>
+        <div class="maplegend"><span><span class="lg-line"></span>leiebil</span><span><span class="lg-fly"></span>fly</span><span><svg width="14" height="14" viewBox="0 0 14 14"><circle cx="7" cy="7" r="4.5" class="map-star"></circle></svg>10/10-landskap</span></div>
+        <figcaption>Én leiebil, null jetlag. Vin og mat i verdensklasse til 55–60 % av norsk prisnivå.</figcaption>
+      </figure>
+      <div class="facts">
+        <div>
+          <h3>Totalpris p.p. · 4 uker</h3>
+          <div class="winrows">
+            <div class="winrow best"><span class="dot" style="background:var(--w-nov)"></span><span>November</span><span class="price mono">35 000</span><span class="note">sommer, halv pris, hvaler i Hermanus</span></div>
+            <div class="winrow"><span class="dot" style="background:var(--w-des)"></span><span>Desember</span><span class="price mono">41 000</span><span class="note">fellesferie fra ~15. des (+50 %)</span></div>
+            <div class="winrow"><span class="dot" style="background:var(--w-jul)"></span><span>Romjula</span><span class="price mono">51 000</span><span class="note">flyets jule-tillegg +80–100 % (verst)</span></div>
+          </div>
+        </div>
+        <div>
+          <h3>Høydepunkter · score</h3>
+          <div class="stops">
+            <div class="stop"><span class="score s10 mono">10</span><span>Cape Town &amp; Kapphalvøya <small>— trolig verdens vakreste by-setting</small></span></div>
+            <div class="stop"><span class="score mono">9</span><span>Cape Winelands <small>— smaking 50–150 kr, druene på rankene</small></span></div>
+            <div class="stop"><span class="score mono">8,5</span><span>Garden Route + Route 62 <small>— en av verdens fineste roadtrips</small></span></div>
+          </div>
+        </div>
+        <p class="verdict"><strong>Best skjønnhet-per-krone i hele analysen.</strong> Safari-tillegg (Sabi Sands, grønn sesong-rabatt i nov) + ~15–20 000 p.p.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- PLANSJE III -->
+  <section class="plate">
+    <div class="plate-head">
+      <span class="plate-no serif">PLANSJE III</span>
+      <h2 class="serif">Romjul-ruten: Réveillon, is &amp; speil</h2>
+      <span class="plate-rank rank-3">🥉 Kun mulig i vindu C</span>
+    </div>
+    <div class="plate-body">
+      <figure class="map">
+        <svg id="map-c" role="img" aria-label="Kart over Sør-Amerika med romjulsruten Rio de Janeiro, El Calafate, Salar de Uyuni, Atacama og Santiago"></svg>
+        <div class="maplegend"><span><span class="lg-line"></span>land/buss</span><span><span class="lg-fly"></span>fly</span><span><svg width="14" height="14" viewBox="0 0 14 14"><circle cx="7" cy="7" r="4.5" class="map-star"></circle></svg>10/10-landskap</span></div>
+        <figcaption>Inn Rio → ut Santiago. Tre opplevelser som ikke finnes i andre vinduer: nyttår på Copacabana, Patagonia-peak og Salar-speilet.</figcaption>
+      </figure>
+      <div class="facts">
+        <div>
+          <h3>Totalpris p.p. · 3–4 uker</h3>
+          <div class="winrows">
+            <div class="winrow"><span class="dot" style="background:var(--w-nov)"></span><span>November</span><span class="price mono">—</span><span class="note">speilet finnes kun jan–mars</span></div>
+            <div class="winrow"><span class="dot" style="background:var(--w-des)"></span><span>Desember</span><span class="price mono">—</span><span class="note"></span></div>
+            <div class="winrow best"><span class="dot" style="background:var(--w-jul)"></span><span>Romjula</span><span class="price mono">51 000</span><span class="note">+40–55 % fly, fellesferie-trengsel</span></div>
+          </div>
+        </div>
+        <div>
+          <h3>Høydepunkter · score</h3>
+          <div class="stops">
+            <div class="stop"><span class="score s10 mono">10</span><span>Patagonia i peak <small>— toppvær, 17–18 t dagslys</small></span></div>
+            <div class="stop"><span class="score mono">9,5</span><span>Salar-speilet <small>— himmelspeil jan–mars, ha bufferdag</small></span></div>
+            <div class="stop"><span class="score mono">9</span><span>Rio Réveillon <small>— 2 mill. hvitkledde på Copacabana</small></span></div>
+            <div class="stop"><span class="score mono">9</span><span>Atacama <small>— stjernehimmel på vei ut</small></span></div>
+          </div>
+        </div>
+        <p class="verdict"><strong>Mest episk, dyrest.</strong> Hotell i Rio 3–5-dobles nyttårsuka — book 3–4 mnd før. Budsjettvarianten i vindu C er Sri Lanka eller Thailand (~34–35 000).</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- PLANSJE IV -->
+  <section class="plate">
+    <div class="plate-head">
+      <span class="plate-no serif">PLANSJE IV</span>
+      <h2 class="serif">Budsjett-vinneren: Thailand</h2>
+      <span class="plate-rank rank-4">Billigst i alle tre vinduer</span>
+    </div>
+    <div class="plate-body">
+      <figure class="map">
+        <svg id="map-th" role="img" aria-label="Kart over Indokina med ruten Bangkok, Chiang Mai, Krabi og Koh Lanta"></svg>
+        <div class="maplegend"><span><span class="lg-line"></span>land/tog</span><span><span class="lg-fly"></span>fly</span></div>
+        <figcaption>Norse flyr direkte Oslo–Bangkok. Nord i november = Yi Peng-lanternefestivalen (~24.–25. nov 2026).</figcaption>
+      </figure>
+      <div class="facts">
+        <div>
+          <h3>Totalpris p.p. · 4 uker</h3>
+          <div class="winrows">
+            <div class="winrow best"><span class="dot" style="background:var(--w-nov)"></span><span>November</span><span class="price mono">26 500</span><span class="note">fly fra ~5 500 t/r, før høysesong</span></div>
+            <div class="winrow"><span class="dot" style="background:var(--w-des)"></span><span>Desember</span><span class="price mono">29 000</span><span class="note">tørrsesong på topp</span></div>
+            <div class="winrow"><span class="dot" style="background:var(--w-jul)"></span><span>Romjula</span><span class="price mono">35 000</span><span class="note">flyet dobles (+70–100 %), bakken billig</span></div>
+          </div>
+        </div>
+        <div>
+          <h3>Høydepunkter · score</h3>
+          <div class="stops">
+            <div class="stop"><span class="score mono">8,5</span><span>Andamankysten <small>— Railay, Phang Nga, Koh Lanta</small></span></div>
+            <div class="stop"><span class="score mono">7,5</span><span>Nord-Thailand <small>— Chiang Mai, khao soi, lanterner</small></span></div>
+          </div>
+        </div>
+        <p class="verdict"><strong>Halv pris av Sør-Amerika, tredjedel av New Zealand.</strong> Svakheten for dere: vin er dyr import (fra ~280 kr flasken) — dette er mat- og strandturen, ikke vinturen.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRISSAMMENLIGNING -->
+  <section class="panel">
+    <h2 class="serif">Prisen på det samme, i tre vinduer</h2>
+    <p class="sub">Totalpris per person for 4 uker (fly + bakke + interne transporter, medium standard). November er billigst
+    til samtlige destinasjoner; romjula koster +25–40 % — og spennet mellom billigste og dyreste tur er nesten 3×.</p>
+    <div class="chart-card">
+      <div class="legend">
+        <span><span class="dot" style="background:var(--w-nov)"></span>November</span>
+        <span><span class="dot" style="background:var(--w-des)"></span>Desember</span>
+        <span><span class="dot" style="background:var(--w-jul)"></span>Romjula → jan</span>
+      </div>
+      <div class="cgroups" id="chart"></div>
+    </div>
+  </section>
+
+  <!-- SESONGMATRISE -->
+  <section class="panel">
+    <h2 class="serif">Sesong-fasiten</h2>
+    <p class="sub">Faktasjekket sesong-fit for nøkkelregionene i hvert vindu. Merk jokerne: Salar-speilet og Serengeti-kalvingen
+    finnes <em>kun</em> i vindu C — mens Machu Picchu og Nord-Vietnam kun er gode i vindu A.</p>
+    <div class="matrix-card">
+      <table class="matrix">
+        <thead><tr><th>Region <small>(score)</small></th><th>Nov</th><th>Des</th><th>Romjul–jan</th></tr></thead>
+        <tbody>
+          <tr><td>Patagonia <small>(10)</small></td><td><span class="fit f-ideal">Ideal · −30–50 %</span></td><td><span class="fit f-ideal">Ideal · best vær</span></td><td><span class="fit f-god">God · peak-fullt</span></td></tr>
+          <tr><td>Cape Town &amp; Winelands <small>(10/9)</small></td><td><span class="fit f-ideal">Ideal</span></td><td><span class="fit f-god">God · dyrt fra 15. des</span></td><td><span class="fit f-god">God · vind + pris</span></td></tr>
+          <tr><td>Machu Picchu <small>(9)</small></td><td><span class="fit f-god">God · tidlig nov</span></td><td><span class="fit f-ok">OK · regn tiltar</span></td><td><span class="fit f-ok">OK · våtest</span></td></tr>
+          <tr><td>Salar-speilet <small>(9,5)</small></td><td><span class="fit f-avoid">Finnes ikke</span></td><td><span class="fit f-ok">Sjanse sent i des</span></td><td><span class="fit f-ideal">Ideal · jan–mars</span></td></tr>
+          <tr><td>Atacama <small>(9)</small></td><td><span class="fit f-ideal">Ideal</span></td><td><span class="fit f-ideal">Ideal</span></td><td><span class="fit f-god">God</span></td></tr>
+          <tr><td>Rio de Janeiro <small>(9)</small></td><td><span class="fit f-ideal">Ideal · før peak</span></td><td><span class="fit f-god">God · Réveillon 2–3×</span></td><td><span class="fit f-god">God · fellesferie</span></td></tr>
+          <tr><td>Mendoza-vin <small>(8)</small></td><td><span class="fit f-ideal">Ideal · vår</span></td><td><span class="fit f-god">God · varmt</span></td><td><span class="fit f-ok">OK · 33 °C+</span></td></tr>
+          <tr><td>Andaman / Thailand <small>(8,5)</small></td><td><span class="fit f-god">God · billigst</span></td><td><span class="fit f-ideal">Ideal</span></td><td><span class="fit f-ideal">Ideal · dyrt fly</span></td></tr>
+          <tr><td>Palawan <small>(9,5)</small></td><td><span class="fit f-god">God · restbyger</span></td><td><span class="fit f-ideal">Ideal</span></td><td><span class="fit f-ideal">Ideal</span></td></tr>
+          <tr><td>NZ Sørøya <small>(10)</small></td><td><span class="fit f-ideal">Ideal · skulderpris</span></td><td><span class="fit f-god">God t.o.m. ~20. des</span></td><td><span class="fit f-ok">OK · makspris</span></td></tr>
+          <tr><td>Bali / Komodo <small>(8,5)</small></td><td><span class="fit f-ok">OK</span></td><td><span class="fit f-avoid">Unngå · våtsesong</span></td><td><span class="fit f-avoid">Unngå · våtest</span></td></tr>
+          <tr><td>Namibia <small>(9,5)</small></td><td><span class="fit f-ok">OK · 38 °C</span></td><td><span class="fit f-avoid">Unngå · 42 °C</span></td><td><span class="fit f-avoid">Unngå</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer>
+    Grunnlag: 9 parallelle research-agenter + 2 adversarielle faktasjekkere (87 påstander testet), ~330 000 tokens research, august 2026.
+    Priser er estimater t/r fra Oslo, per person, medium standard. Hele analysen ligger i
+    <span class="mono">00-planlegging/verdens-beste-analyse.md</span> på PR #3.
+  </footer>
+</div>
+
+<script>
+(function () {
+  'use strict';
+
+  /* ---------- geometry ---------- */
+  function project(coords, opts) {
+    // equirectangular w/ cos(midLat) correction, fit into width/height with padding
+    var lons = coords.map(function (c) { return c[0]; });
+    var lats = coords.map(function (c) { return c[1]; });
+    var minLon = Math.min.apply(null, lons), maxLon = Math.max.apply(null, lons);
+    var minLat = Math.min.apply(null, lats), maxLat = Math.max.apply(null, lats);
+    var midLat = (minLat + maxLat) / 2;
+    var kx = Math.cos(midLat * Math.PI / 180);
+    var w = opts.w, h = opts.h, pad = opts.pad;
+    var spanX = (maxLon - minLon) * kx, spanY = (maxLat - minLat);
+    var s = Math.min((w - 2 * pad) / spanX, (h - 2 * pad) / spanY);
+    var ox = (w - spanX * s) / 2, oy = (h - spanY * s) / 2;
+    return function (lon, lat) {
+      return [ox + (lon - minLon) * kx * s, oy + (maxLat - lat) * s];
+    };
+  }
+
+  var NS = 'http://www.w3.org/2000/svg';
+  function el(name, attrs, parent) {
+    var e = document.createElementNS(NS, name);
+    for (var k in attrs) e.setAttribute(k, attrs[k]);
+    if (parent) parent.appendChild(e);
+    return e;
+  }
+
+  function drawMap(svgId, cfg) {
+    var svg = document.getElementById(svgId);
+    if (!svg) return;
+    svg.setAttribute('viewBox', '0 0 ' + cfg.w + ' ' + cfg.h);
+    svg.setAttribute('width', cfg.w);
+    var p = project(cfg.outline, cfg);
+
+    // land
+    var d = cfg.outline.map(function (c, i) {
+      var xy = p(c[0], c[1]);
+      return (i ? 'L' : 'M') + xy[0].toFixed(1) + ' ' + xy[1].toFixed(1);
+    }).join('') + 'Z';
+    el('path', { d: d, 'class': 'map-land' }, svg);
+
+    // region labels
+    (cfg.regions || []).forEach(function (r) {
+      var xy = p(r[1], r[2]);
+      el('text', { x: xy[0], y: xy[1], 'class': 'map-region', 'text-anchor': 'middle' }, svg).textContent = r[0];
+    });
+
+    // route segments
+    cfg.legs.forEach(function (leg) {
+      var a = p(cfg.stops[leg[0]].lon, cfg.stops[leg[0]].lat);
+      var b = p(cfg.stops[leg[1]].lon, cfg.stops[leg[1]].lat);
+      var cls = 'map-route' + (leg[2] === 'fly' ? ' map-fly' : '');
+      if (leg[2] === 'fly') {
+        // gentle arc for flights
+        var mx = (a[0] + b[0]) / 2, my = (a[1] + b[1]) / 2;
+        var dx = b[0] - a[0], dy = b[1] - a[1];
+        var len = Math.sqrt(dx * dx + dy * dy) || 1;
+        var off = Math.min(30, len * 0.18);
+        var cx = mx - dy / len * off, cy = my + dx / len * off;
+        el('path', { d: 'M' + a[0] + ' ' + a[1] + ' Q' + cx + ' ' + cy + ' ' + b[0] + ' ' + b[1], 'class': cls }, svg);
+      } else {
+        el('line', { x1: a[0], y1: a[1], x2: b[0], y2: b[1], 'class': cls }, svg);
+      }
+    });
+
+    // stops
+    for (var key in cfg.stops) {
+      var s = cfg.stops[key];
+      var xy = p(s.lon, s.lat);
+      if (s.star) el('circle', { cx: xy[0], cy: xy[1], r: 8, 'class': 'map-star' }, svg);
+      el('circle', { cx: xy[0], cy: xy[1], r: 3.6, 'class': 'map-stopdot' }, svg);
+      var anchor = s.side === 'left' ? 'end' : 'start';
+      var dx = s.side === 'left' ? -9 : 9;
+      var t = el('text', {
+        x: xy[0] + dx, y: xy[1] + (s.dy || 4),
+        'text-anchor': anchor,
+        'class': 'map-label' + (s.minor ? ' minor' : '')
+      }, svg);
+      t.textContent = s.name;
+    }
+  }
+
+  /* ---------- outlines (forenklede kystlinjer, lon/lat) ---------- */
+  var SA_OUTLINE = [[-75,11],[-71.5,12.5],[-68,11.4],[-64,10.6],[-61.9,9.5],[-60,8.5],[-56,5.9],[-52.5,4.5],[-50,0.5],[-48,-1],[-44.3,-2.8],[-40,-3],[-37,-5],[-34.8,-7],[-35,-9.5],[-37.2,-11],[-39,-13],[-39,-17],[-40.3,-20.3],[-42,-23],[-44.7,-23.4],[-47,-24.6],[-48.6,-27],[-49.7,-29.4],[-51.3,-32],[-53.5,-34],[-56,-34.9],[-57.5,-38],[-62,-38.9],[-62.3,-40.8],[-65,-40.9],[-64.1,-42.6],[-65.3,-43.7],[-67.6,-46],[-67.3,-48],[-68.6,-50.1],[-69.2,-51.6],[-68.4,-52.3],[-65.1,-54.9],[-67.3,-55.9],[-70.9,-53.9],[-72.5,-51.5],[-73.6,-49.3],[-73.4,-46.6],[-73.9,-44.5],[-73.2,-41.8],[-73.7,-39.9],[-73.2,-37.3],[-71.6,-33.1],[-71.5,-30.3],[-70.6,-26.4],[-70.4,-23.7],[-70.2,-20.8],[-70.4,-18.4],[-71.9,-17.2],[-75.1,-15.4],[-77.2,-12.1],[-79.6,-7.9],[-81.3,-6.1],[-81,-4],[-80.4,-2.4],[-79.8,-2.2],[-80.9,-1],[-80.1,0.6],[-78.9,1.5],[-77.2,3.9],[-77.4,6.3],[-76.8,8.5],[-75.6,9.5]];
+
+  var ZA_OUTLINE = [[16.2,-28.2],[17.2,-30],[18,-31.5],[18.3,-32.7],[18.35,-33.3],[18.42,-34.1],[18.8,-34.4],[20,-34.8],[21.5,-34.4],[22.1,-34.2],[23.4,-34.1],[24.8,-34.2],[25.6,-34],[26.4,-33.8],[27.5,-33.2],[28.2,-32.6],[28.2,-28.2]];
+
+  var TH_OUTLINE = [[92.5,21.5],[92.6,19.5],[94,16],[96,15.5],[97.6,16.5],[97.6,14.5],[98.2,12],[98.6,10],[98.4,8.6],[99.2,7],[100.3,5.6],[101.7,5],[103.1,5.4],[103.5,7],[102.6,9],[100.9,9.5],[100.2,10.3],[99.2,11.6],[99.9,13],[100.6,13.5],[101.7,12.6],[103,10.6],[104.5,10.4],[105,9],[105.1,8.6],[106.2,9.5],[107.2,10.4],[108.1,11.3],[109.3,13.2],[109.1,14.5],[108.2,16.1],[107.2,17],[106.5,18.5],[105.8,19.8],[106.7,20.7],[107.8,21.3],[105.5,22.8],[104,22.5],[101.5,22],[100,21.5],[97.8,23.5],[95.2,23.8]];
+
+  /* ---------- plansje I: grand tour ---------- */
+  drawMap('map-sa', {
+    w: 400, h: 540, pad: 30,
+    outline: SA_OUTLINE,
+    regions: [['Stillehavet', -82.5, -26], ['Atlanterhavet', -46, -42]],
+    stops: {
+      lima:     { name: '1 Lima',            lon: -77.04, lat: -12.05, side: 'left' },
+      cusco:    { name: '2 Cusco · MP',      lon: -71.97, lat: -13.53, side: 'right' },
+      uyuni:    { name: '3 Salar de Uyuni',  lon: -66.83, lat: -20.46, side: 'right' },
+      atacama:  { name: '4 Atacama',         lon: -68.20, lat: -22.91, side: 'right', dy: 10 },
+      santiago: { name: '5 Santiago · vin',  lon: -70.66, lat: -33.45, side: 'left' },
+      mendoza:  { name: '6 Mendoza',         lon: -68.85, lat: -32.89, side: 'right', dy: -4 },
+      chalten:  { name: '7 El Chaltén',      lon: -72.89, lat: -49.33, side: 'right', star: true, dy: -4 },
+      calafate: { name: '8 El Calafate',     lon: -72.26, lat: -50.34, side: 'right', dy: 10 },
+      ba:       { name: '9 Buenos Aires',    lon: -58.38, lat: -34.60, side: 'right' }
+    },
+    legs: [
+      ['lima', 'cusco', 'fly'], ['cusco', 'uyuni', 'fly'], ['uyuni', 'atacama', 'land'],
+      ['atacama', 'santiago', 'fly'], ['santiago', 'mendoza', 'land'],
+      ['mendoza', 'calafate', 'fly'], ['calafate', 'chalten', 'land'], ['calafate', 'ba', 'fly']
+    ]
+  });
+
+  /* ---------- plansje II: Sør-Afrika ---------- */
+  drawMap('map-za', {
+    w: 440, h: 330, pad: 34,
+    outline: ZA_OUTLINE,
+    regions: [['Atlanterhavet', 16.9, -32.6], ['Indiahavet', 23.3, -35.5]],
+    stops: {
+      cpt:   { name: '1 Cape Town',        lon: 18.42, lat: -33.92, side: 'left', star: true, dy: 4 },
+      wine:  { name: '2 Winelands',        lon: 18.98, lat: -33.60, side: 'right', dy: -8 },
+      herm:  { name: '3 Hermanus',         lon: 19.25, lat: -34.42, side: 'left', dy: 16, minor: true },
+      knysna:{ name: '4 Knysna',           lon: 23.05, lat: -34.04, side: 'left', dy: -8, minor: true },
+      tsitsi:{ name: '5 Tsitsikamma',      lon: 23.90, lat: -33.98, side: 'right', dy: 16, minor: true },
+      pe:    { name: '6 Gqeberha (ut)',   lon: 25.60, lat: -33.96, side: 'left', dy: -10 }
+    },
+    legs: [
+      ['cpt', 'wine', 'land'], ['wine', 'herm', 'land'], ['herm', 'knysna', 'land'],
+      ['knysna', 'tsitsi', 'land'], ['tsitsi', 'pe', 'land']
+    ]
+  });
+
+  /* ---------- plansje III: romjul-ruten ---------- */
+  drawMap('map-c', {
+    w: 400, h: 540, pad: 30,
+    outline: SA_OUTLINE,
+    regions: [['Stillehavet', -82.5, -26], ['Atlanterhavet', -46, -42]],
+    stops: {
+      rio:      { name: '1 Rio · nyttår',   lon: -43.20, lat: -22.90, side: 'right', dy: -4 },
+      calafate: { name: '2 Patagonia',      lon: -72.26, lat: -50.34, side: 'right', star: true },
+      uyuni:    { name: '3 Salar-speilet',  lon: -66.83, lat: -20.46, side: 'right' },
+      atacama:  { name: '4 Atacama',        lon: -68.20, lat: -22.91, side: 'left', dy: 8 },
+      santiago: { name: '5 Santiago (ut)',  lon: -70.66, lat: -33.45, side: 'left' }
+    },
+    legs: [
+      ['rio', 'calafate', 'fly'], ['calafate', 'uyuni', 'fly'],
+      ['uyuni', 'atacama', 'land'], ['atacama', 'santiago', 'fly']
+    ]
+  });
+
+  /* ---------- plansje IV: Thailand ---------- */
+  drawMap('map-th', {
+    w: 400, h: 430, pad: 34,
+    outline: TH_OUTLINE,
+    regions: [['Andamanhavet', 95.3, 10.5], ['Thailandbukta', 104.2, 7.4]],
+    stops: {
+      bkk:  { name: '1 Bangkok',    lon: 100.50, lat: 13.75, side: 'right' },
+      cm:   { name: '2 Chiang Mai', lon: 98.98, lat: 18.79, side: 'right' },
+      krabi:{ name: '3 Krabi',      lon: 98.90, lat: 8.09, side: 'left', dy: -2 },
+      lanta:{ name: '4 Koh Lanta',  lon: 99.08, lat: 7.62, side: 'right', dy: 12 }
+    },
+    legs: [
+      ['bkk', 'cm', 'land'], ['cm', 'krabi', 'fly'], ['krabi', 'lanta', 'land'], ['lanta', 'bkk', 'fly']
+    ]
+  });
+
+  /* ---------- prisdiagram ---------- */
+  var MAXV = 80; // k NOK axis max
+  var WINDOWS = [
+    { key: 'nov', name: 'November', color: 'var(--w-nov)' },
+    { key: 'des', name: 'Desember', color: 'var(--w-des)' },
+    { key: 'jul', name: 'Romjula', color: 'var(--w-jul)' }
+  ];
+  var TRIPS = [
+    { name: 'Thailand', sub: 'budsjett-vinneren', v: { nov: 26.5, des: 29, jul: 35 } },
+    { name: 'Sør-Afrika', sub: 'verdi-vinneren', v: { nov: 35, des: 41, jul: 51 } },
+    { name: 'Sør-Amerika grand tour', sub: 'totalvinneren', v: { nov: 45, des: 48, jul: 56 } },
+    { name: 'Rio + Patagonia + Salar', sub: 'kun romjula', v: { nov: null, des: null, jul: 51 } },
+    { name: 'New Zealand Sørøya', sub: 'til referanse', v: { nov: 64, des: 68, jul: 74 } }
+  ];
+
+  var chart = document.getElementById('chart');
+  TRIPS.forEach(function (t) {
+    var g = document.createElement('div');
+    g.className = 'cgroup';
+    var lab = document.createElement('div');
+    lab.className = 'glabel';
+    lab.innerHTML = t.name + '<small>' + t.sub + '</small>';
+    g.appendChild(lab);
+    var bars = document.createElement('div');
+    bars.className = 'bars';
+    WINDOWS.forEach(function (w) {
+      var row = document.createElement('div');
+      row.className = 'barrow';
+      var v = t.v[w.key];
+      if (v == null) {
+        var m = document.createElement('span');
+        m.className = 'bmiss';
+        m.textContent = '— ikke mulig i dette vinduet';
+        row.appendChild(m);
+      } else {
+        var bar = document.createElement('div');
+        bar.className = 'bar';
+        bar.style.background = w.color;
+        bar.style.width = (v / MAXV * 100) + '%';
+        bar.title = t.name + ' · ' + w.name + ': ~' + Math.round(v) + ' 000 kr p.p.';
+        row.appendChild(bar);
+        var val = document.createElement('span');
+        val.className = 'bval mono';
+        val.textContent = (('' + v).replace('.', ',')) + ' k';
+        row.appendChild(val);
+      }
+      bars.appendChild(row);
+    });
+    g.appendChild(bars);
+    chart.appendChild(g);
+  });
+  // axis
+  var ax = document.createElement('div');
+  ax.className = 'axis mono';
+  ['0', '20k', '40k', '60k', '80k'].forEach(function (v) {
+    var s = document.createElement('span');
+    s.textContent = v;
+    ax.appendChild(s);
+  });
+  var axg = document.createElement('div');
+  axg.className = 'cgroup';
+  axg.appendChild(document.createElement('div'));
+  axg.appendChild(ax);
+  chart.appendChild(axg);
+})();
+</script>
