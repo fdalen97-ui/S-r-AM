@@ -1,0 +1,35 @@
+{
+  "valuta": "NOK",
+  "antall_voksne": 1,
+  "maks_mellomlandinger": 1,
+  "amadeus_base_url": "https://test.api.amadeus.com",
+  "sov_mellom_kall_sekunder": 1.0,
+  "varsling": {
+    "ntfy_emne": ""
+  },
+  "_kommentar": "ANBEFALT RUTE: open-jaw Iberia via Madrid. Inn til Lima, ut fra Buenos Aires. De to bena spores hver for seg som enveis-billetter. Summen av de to laveste = total intl. flypris (mål ~8 950 kr).",
+  "ruter": [
+    {
+      "navn": "1) Utreise OSL → LIM (open-jaw inn)",
+      "fra": "OSL",
+      "til": "LIM",
+      "avreise_fra": "2026-10-25",
+      "avreise_til": "2026-11-08",
+      "steg_dager": 1,
+      "kun_ukedager": [1, 2, 3, 5],
+      "ma_pris": 4850,
+      "varsle_under": 5000
+    },
+    {
+      "navn": "2) Retur EZE → OSL (open-jaw ut)",
+      "fra": "EZE",
+      "til": "OSL",
+      "avreise_fra": "2026-12-01",
+      "avreise_til": "2027-01-20",
+      "steg_dager": 3,
+      "kun_ukedager": [1, 2, 5],
+      "ma_pris": 4100,
+      "varsle_under": 4300
+    }
+  ]
+}

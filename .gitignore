@@ -12,3 +12,12 @@ Thumbs.db
 *.passport.*
 *-credit-card.*
 private/
+
+# Prissporing – nøkler og personlig historikk
+.env
+**/prishistorikk.csv
+**/logg.txt
+
+# Python
+__pycache__/
+*.pyc
