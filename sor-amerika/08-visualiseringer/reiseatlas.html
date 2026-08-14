@@ -155,6 +155,28 @@
   table.matrix tbody tr + tr td { border-top: 1px solid var(--hairline); }
   table.matrix td:first-child { font-weight: 600; }
   table.matrix td small { color: var(--ink-3); font-weight: 400; }
+  .etapper { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; }
+  .ecard { background: var(--card); border: 1px solid var(--hairline); border-radius: 10px; box-shadow: var(--shadow); padding: 18px 20px; display: flex; flex-direction: column; gap: 12px; }
+  .ecard .datebadge { align-self: flex-start; font-size: 11.5px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--route); background: var(--route-soft); border-radius: 999px; padding: 3px 12px; }
+  .ecard h3 { margin: 0; font-size: 18px; }
+  .ecard ul { margin: 0; padding-left: 18px; font-size: 13.5px; color: var(--ink-2); display: flex; flex-direction: column; gap: 4px; }
+  .ecard ul strong { color: var(--ink); }
+  .gmapsbtn { margin-top: auto; align-self: flex-start; font-size: 12.5px; font-weight: 700; color: var(--w-nov); text-decoration: none; border: 1.5px solid var(--w-nov); border-radius: 999px; padding: 5px 14px; }
+  .gmapsbtn:hover { background: rgba(42, 120, 214, .1); }
+  .twocol { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 16px; align-items: start; }
+  .budcard, .checkcard { background: var(--card); border: 1px solid var(--hairline); border-radius: 10px; box-shadow: var(--shadow); padding: 20px 24px; overflow-x: auto; }
+  .budcard h3, .checkcard h3 { margin: 0 0 12px; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--ink-2); font-weight: 700; }
+  table.bud { border-collapse: collapse; width: 100%; font-size: 13.5px; }
+  table.bud td { padding: 6px 10px 6px 0; border-bottom: 1px solid var(--hairline); }
+  table.bud td:last-child { text-align: right; white-space: nowrap; }
+  table.bud tr.total td { border-bottom: none; font-weight: 800; border-top: 2px solid var(--hairline); font-size: 14.5px; }
+  .checkcard ol { margin: 0; padding-left: 20px; font-size: 13.5px; display: flex; flex-direction: column; gap: 9px; }
+  .checkcard ol strong { color: var(--ink); }
+  .checkcard .flightwatch { margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--hairline); font-size: 12.5px; color: var(--ink-2); }
+  .aktgrid { display: flex; flex-wrap: wrap; gap: 8px; }
+  .akt { font-size: 12.5px; background: var(--paper); border: 1px solid var(--hairline); border-radius: 999px; padding: 4px 12px; }
+  .akt b { color: var(--ink); font-weight: 650; }
+  .akt span { color: var(--ink-3); }
   .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(310px, 1fr)); gap: 16px; }
   .gcard { background: var(--card); border: 1px solid var(--hairline); border-radius: 10px; box-shadow: var(--shadow); padding: 18px 20px 16px; display: flex; flex-direction: column; gap: 12px; }
   .gcard.avoidcard { opacity: .78; }
@@ -237,6 +259,110 @@
         <p class="verdict"><strong>Bobilen løser januar-problemet:</strong> den er hotell + bil + kjøkken til låst kampanjepris,
         mens hotellene tar fellesferie-tillegg. Book bobil, AO-billetter og campingplasser uke 1–2 nå. Detaljplan:
         <span class="mono">australia-bobil-jan2027.md</span>.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- AUSTRALIA: MÅNEDEN ETAPPE FOR ETAPPE -->
+  <section class="panel">
+    <h2 class="serif">Måneden etappe for etappe</h2>
+    <p class="sub">Kysten først, vinbeltet innlands, Great Ocean Road som finale. Hver etappe kan åpnes
+    rett i Google Maps og lagres som navigasjonsrute i appen.</p>
+    <div class="etapper">
+      <div class="ecard">
+        <span class="datebadge">Etappe 1 · 2.–14. jan</span>
+        <h3 class="serif">Brisbane → Sydney via kysten</h3>
+        <ul>
+          <li><strong>Brisbane:</strong> hent bobilen, storhandel, kort etappe</li>
+          <li><strong>Springbrook NP:</strong> regnskog og utsikt i baklandet</li>
+          <li><strong>Byron Bay:</strong> surf, kajakk med delfiner, fyrtårnet</li>
+          <li>Coffs Harbour → Port Macquarie → <strong>Seal Rocks</strong></li>
+          <li><strong>Hunter Valley:</strong> semillon-<em>vintage</em> midt i jan, luftballong ved soloppgang</li>
+          <li><strong>Sydney:</strong> Bondi–Coogee, BridgeClimb, Sydney Festival</li>
+        </ul>
+        <a class="gmapsbtn" href="https://www.google.com/maps/dir/Brisbane/Springbrook+QLD/Byron+Bay/Coffs+Harbour/Port+Macquarie/Seal+Rocks+NSW/Pokolbin+NSW/Sydney" target="_blank" rel="noopener">Åpne i Google Maps ↗</a>
+      </div>
+      <div class="ecard">
+        <span class="datebadge">Etappe 2 · 15.–24. jan</span>
+        <h3 class="serif">Sydney → Melbourne gjennom vinbeltet</h3>
+        <ul>
+          <li><strong>Jervis Bay:</strong> Hyams Beach (krittvhit sand), delfincruise</li>
+          <li><strong>Canberra:</strong> gratis nasjonalgalleri + War Memorial</li>
+          <li><strong>Clonakilla</strong> (Murrumbateman): shiraz-viognier i toppklasse</li>
+          <li>Evt. Snowy Mountains-avstikker: Kosciuszko-dagstur</li>
+          <li><strong>Rutherglen</strong> (muscat) → <strong>Beechworth</strong> (Giaconda) → <strong>King Valley</strong> (prosecco)</li>
+          <li><strong>Yarra Valley:</strong> Giant Steps, ballong, Healesville Sanctuary</li>
+        </ul>
+        <a class="gmapsbtn" href="https://www.google.com/maps/dir/Sydney/Huskisson+NSW/Canberra/Clonakilla+Wines+Murrumbateman/Rutherglen+VIC/Beechworth+VIC/Milawa+VIC/Healesville+VIC/Melbourne" target="_blank" rel="noopener">Åpne i Google Maps ↗</a>
+      </div>
+      <div class="ecard">
+        <span class="datebadge">Etappe 3 · 25.–31. jan</span>
+        <h3 class="serif">Great Ocean Road + Mornington-finale</h3>
+        <ul>
+          <li><strong>GOR:</strong> Apollo Bay, Otway-regnskogen (tretoppvandring), ville koalaer</li>
+          <li><strong>Twelve Apostles</strong> ved solnedgang — evt. helikopter</li>
+          <li><strong>Mornington/Red Hill:</strong> pinot &amp; chardonnay med havutsikt</li>
+          <li><strong>Phillip Island:</strong> pingvinparaden i skumringen</li>
+          <li>🎾 <strong>Australian Open-finalene 30.–31. jan</strong> på Melbourne Park</li>
+          <li>Lever bobilen, fly hjem fra Melbourne</li>
+        </ul>
+        <a class="gmapsbtn" href="https://www.google.com/maps/dir/Melbourne/Apollo+Bay+VIC/Twelve+Apostles/Red+Hill+VIC/Phillip+Island+Penguin+Parade/Melbourne" target="_blank" rel="noopener">Åpne i Google Maps ↗</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- AUSTRALIA: BUDSJETT + BOOKING -->
+  <section class="panel">
+    <h2 class="serif">Budsjett &amp; det som må bookes nå</h2>
+    <div class="twocol">
+      <div class="budcard">
+        <h3>Budsjett · 2 personer · 30 dager (kurs ~6,7)</h3>
+        <table class="bud">
+          <tr><td>Bobil Trailblazer (kampanjepris)</td><td class="mono">~51 000</td></tr>
+          <tr><td>Forsikring / egenandelsreduksjon</td><td class="mono">6–11 000</td></tr>
+          <tr><td>Camping (strøm ved kysten + NP-plasser)</td><td class="mono">10–14 000</td></tr>
+          <tr><td>Diesel (~3 200 km à ~2,25 AUD/l)</td><td class="mono">6–7 000</td></tr>
+          <tr><td>Mat (selvlaging + restaurant 2–3×/uke)</td><td class="mono">15–19 000</td></tr>
+          <tr><td>Vinsmaking + flasker hjem</td><td class="mono">3,5–6 000</td></tr>
+          <tr><td>Aktiviteter (AO, ballong, pingviner …)</td><td class="mono">5–11 000</td></tr>
+          <tr><td>Bom, parkering, SIM, diverse</td><td class="mono">2–3 000</td></tr>
+          <tr><td>Fly OSL↔AUS open-jaw, 2 pers</td><td class="mono">26–34 000</td></tr>
+          <tr class="total"><td>TOTALT for to</td><td class="mono">≈ 125–155 000</td></tr>
+        </table>
+        <h3 style="margin-top:18px">Aktiviteter langs ruta (AUD p.p.)</h3>
+        <div class="aktgrid">
+          <span class="akt"><b>AO-billetter</b> <span>fra ~30</span></span>
+          <span class="akt"><b>Surfekurs Byron</b> <span>~80</span></span>
+          <span class="akt"><b>Ballong Hunter/Yarra</b> <span>~300–350</span></span>
+          <span class="akt"><b>BridgeClimb</b> <span>fra ~300</span></span>
+          <span class="akt"><b>Delfincruise Jervis</b> <span>40–100</span></span>
+          <span class="akt"><b>Pingvinparaden</b> <span>~35</span></span>
+          <span class="akt"><b>Otway tretopp</b> <span>~60</span></span>
+          <span class="akt"><b>Apostles-helikopter</b> <span>~165</span></span>
+          <span class="akt"><b>Big Bash-cricket</b> <span>20–40</span></span>
+          <span class="akt"><b>Bondi–Coogee</b> <span>gratis</span></span>
+        </div>
+      </div>
+      <div class="checkcard">
+        <h3>Book nå — januar er høysesong</h3>
+        <ol>
+          <li><strong>Bobilen</strong> — lås kampanjeprisen (AUD 7 652 / 30 d)</li>
+          <li><strong>AO-billetter</strong> — særlig finalehelgen 30.–31. jan</li>
+          <li><strong>Campingplasser uke 1–2</strong> — skoleferie til ~26. jan; strandparker tar 250+/natt rundt nyttår</li>
+          <li><strong>Phillip Island + GOR-overnatting</strong> (Port Campbell)</li>
+          <li><strong>Fly fra oktober</strong> — multi-city inn Brisbane / ut Melbourne</li>
+        </ol>
+        <div class="flightwatch">
+          <strong>✈️ Flyjakten (automatisk):</strong> pris-scriptet i repoet sjekker daglig
+          OSL→BNE (28. des–2. jan) og MEL→OSL (30. jan–3. feb) og varsler på mobil under
+          <span class="mono">8 500</span> / <span class="mono">8 000</span> kr per ben.
+          <br><br><strong>Mål: sum ≤ 16 000 kr p.p.</strong> Under 14 000 = slå til umiddelbart.
+          Tips: 1.–2. jan-avgang er ofte merkbart billigere enn romjulsdatoene — skyv
+          bobil-hentingen én dag hvis prisen sier det.
+          <br><br><strong>Vær-obs:</strong> vinsmaking før kl. 14 (hetebølge-episoder 35 °C+),
+          respekter Total Fire Ban-dager innlands. Feb–mars hadde vært −15–30 % billigere —
+          januar kjøpes for AO-finalene og Hunter-vintage.
+        </div>
       </div>
     </div>
   </section>
