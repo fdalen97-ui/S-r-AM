@@ -69,6 +69,36 @@ Hele pakka underveis: **~2 500–3 500 kr p.p.** — alt lovlig på turistvisum.
 770); alt arbeid inkl. WWOOF er FORBUDT på eVisitor/NZeTA. WSET-datoer for
 Melbourne jan 2027 publiseres i okt — sjekk Melbourne Wine School da (bonus).
 
+## ⚠️ Annet viktig (ofte oversett)
+
+1. **REISEFORSIKRING — 45-dagers-fella:** Turen er 25. des–~15. feb = **~53 dager**.
+   De fleste norske helårsforsikringer dekker kun reiser **inntil 45 dager** —
+   dere MÅ kjøpe utvidelse (eller egen langreiseforsikring) FØR avreise, og
+   sjekke at den dekker bobil-egenandel. Kjøp forsikringen samtidig med
+   flybilletten (avbestillingsdekning gjelder fra kjøpsdato).
+2. **Biosikkerhet:** Australia er ekstremt streng ved innreise — deklarer ALT
+   (mat, tre, sko med jord). Underveis: **fruktfluesoner** — kast frukt/grønt
+   før delstatsgrenser (skiltede tønner). NZ enda strengere: deklarer tursko/
+   telt-utstyr, NZD 400 i bot på flekken for udeklarert.
+3. **Kjøring:** venstrekjøring; **unngå kjøring i grålysning/skumring på
+   landeveier (kenguru-kollisjoner!)**; promillegrense 0,05 begge land;
+   Driver Reviver-stasjoner gratis kaffe i høysesong.
+4. **Sol & sjø:** januar-UV er ekstrem (11+) — «slip slop slap», solkrem hver
+   2. time. Bad ALLTID mellom de rød-gule flaggene (rip-strømmer tar liv hvert
+   år); deres sørlige rute har ikke farlige maneter.
+5. **Brann:** last ned **VicEmergency + Hazards Near Me NSW**-appene; Total
+   Fire Ban = ingen gassgrill utendørs.
+6. **Penger/strøm/nett:** kort overalt (tipping unødvendig), Type I-adapter
+   (samme AU/NZ), eSIM med **Telstra-nett** for dekning på landeveiene
+   (Boost prepaid), medisiner i original-emballasje med engelsk legeerklæring.
+7. **🍷 Vin hjem til Norge:** avgiftsfri kvote er maks **4,5 l vin (6 flasker)**
+   p.p. (når sprit- og tobakkskvoten byttes i vin). Utover det: forenklet
+   fortolling i rød sone (~20 kr/flaske vin) — billig og lovlig, bare gjør det.
+   Pakk flasker i bobleplast midt i kofferten, eller bruk vingårdenes
+   eksporttjeneste for større kjøp.
+8. **Pass:** minst 6 mnd gyldighet etter hjemreise. eVisitor/NZeTA knyttes til
+   passnummeret — søk med passet dere faktisk reiser med.
+
 ## 🎾 Januar-essene
 - **Australian Open 2027**: Melbourne Park 11.–31. jan, finalehelg 30.–31. jan —
   akkurat når dere ruller inn. Grunnbilletter fra ~AUD 30; finaler må sikres tidlig.
