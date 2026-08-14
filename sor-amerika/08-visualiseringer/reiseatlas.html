@@ -264,6 +264,42 @@
     </div>
   </section>
 
+  <!-- PLANSJE I·B: NEW ZEALAND SØRØYA -->
+  <section class="plate">
+    <div class="plate-head">
+      <span class="plate-no serif">PLANSJE I·B</span>
+      <h2 class="serif">New Zealand Sørøya — februar-forlengelsen</h2>
+      <span class="plate-rank rank-1">✅ Del av valgt plan · ~1.–15. feb</span>
+    </div>
+    <div class="plate-body">
+      <figure class="map">
+        <svg id="map-nz" role="img" aria-label="Kart over New Zealands Sørøya med ruten Christchurch, Lake Tekapo, Mt Cook, Wanaka, Queenstown, Te Anau og Milford Sound"></svg>
+        <div class="maplegend"><span><span class="lg-line"></span>bil/bobil (enveis)</span><span><svg width="14" height="14" viewBox="0 0 14 14"><circle cx="7" cy="7" r="4.5" class="map-star"></circle></svg>10/10-landskap</span></div>
+        <figcaption>Inn Christchurch (fra Melbourne) → gjennom Mackenzie-bassenget og Central Otago → ut Queenstown
+        eller Christchurch. Enveis-leie er standard rute i NZ.</figcaption>
+      </figure>
+      <div class="facts">
+        <div>
+          <h3>Hvorfor februar er kuppet</h3>
+          <div class="winrows">
+            <div class="winrow"><span class="dot" style="background:var(--w-jul)"></span><span>Januar</span><span class="price mono">peak</span><span class="note">skoleferie, makspris, fullbooket</span></div>
+            <div class="winrow best"><span class="dot" style="background:var(--w-des)"></span><span>Februar ✅</span><span class="price mono">−15–30 %</span><span class="note">tørreste og roligste sommermåned — rett etter AO-finalene</span></div>
+          </div>
+        </div>
+        <div>
+          <h3>Høydepunkter · score</h3>
+          <div class="stops">
+            <div class="stop"><span class="score s10 mono">10</span><span>Fiordland / Milford Sound <small>— vakrest i hele analysen</small></span></div>
+            <div class="stop"><span class="score mono">9</span><span>Aoraki/Mt Cook + Tekapo <small>— Hooker Valley, turkise bresjøer, Dark Sky</small></span></div>
+            <div class="stop"><span class="score mono">8</span><span>Central Otago <small>— verdens sørligste vinregion, pinot noir 🍷</small></span></div>
+          </div>
+        </div>
+        <p class="verdict"><strong>Tillegg ~25–30 000 p.p.</strong> (12–14 dager + interne fly). MEL→CHC fra ~1 400 kr.
+        Flyjakten sporer begge utgangene (ZQN/CHC → OSL, 12.–16. feb) — book den som blir billigst.</p>
+      </div>
+    </div>
+  </section>
+
   <!-- AUSTRALIA: MÅNEDEN ETAPPE FOR ETAPPE -->
   <section class="panel">
     <h2 class="serif">Turen etappe for etappe</h2>
@@ -789,6 +825,28 @@
       ['bne', 'byron', 'land'], ['byron', 'hunter', 'land'], ['hunter', 'syd', 'land'],
       ['syd', 'jervis', 'land'], ['jervis', 'cbr', 'land'], ['cbr', 'ruth', 'land'],
       ['ruth', 'yarra', 'land'], ['yarra', 'mel', 'land'], ['mel', 'gor', 'land'], ['mel', 'phillip', 'land']
+    ]
+  });
+
+  var NZ_OUTLINE = [[172.5,-40.5],[173.0,-41.0],[173.3,-41.3],[174.0,-41.05],[174.3,-41.0],[174.3,-41.4],[174.27,-41.73],[173.7,-42.4],[173.1,-43.0],[172.7,-43.6],[173.1,-43.8],[172.9,-43.95],[172.2,-44.15],[171.25,-44.4],[170.97,-45.1],[170.7,-45.9],[169.7,-46.6],[168.3,-46.6],[167.5,-46.15],[166.6,-45.8],[166.5,-45.3],[167.0,-44.6],[167.9,-44.55],[168.4,-44.0],[169.0,-43.85],[170.0,-43.45],[170.97,-42.72],[171.2,-42.45],[171.6,-41.75],[172.1,-40.9]];
+
+  /* ---------- plansje I-B: NZ Sørøya ---------- */
+  drawMap('map-nz', {
+    w: 420, h: 420, pad: 34,
+    outline: NZ_OUTLINE,
+    regions: [['Tasmanhavet', 167.6, -42.6], ['Stillehavet', 173.6, -45.4]],
+    stops: {
+      chc:  { name: '1 Christchurch (inn/ut)', lon: 172.64, lat: -43.53, side: 'left', dy: -14 },
+      tekapo:{ name: '2 Lake Tekapo',          lon: 170.48, lat: -44.00, side: 'right', dy: 14 },
+      cook: { name: '3 Aoraki/Mt Cook',        lon: 170.10, lat: -43.73, side: 'left', dy: 0 },
+      wanaka:{ name: '4 Wanaka',               lon: 169.13, lat: -44.70, side: 'right', dy: 4, minor: true },
+      qt:   { name: '5 Queenstown (ut)',       lon: 168.66, lat: -45.03, side: 'right', dy: 14 },
+      teanau:{ name: '6 Te Anau',              lon: 167.72, lat: -45.41, side: 'left', dy: 12, minor: true },
+      milford:{ name: '7 Milford Sound',       lon: 167.93, lat: -44.67, side: 'right', dy: -14, star: true }
+    },
+    legs: [
+      ['chc', 'tekapo', 'land'], ['tekapo', 'cook', 'land'], ['cook', 'wanaka', 'land'],
+      ['wanaka', 'qt', 'land'], ['qt', 'teanau', 'land'], ['teanau', 'milford', 'land']
     ]
   });
 
