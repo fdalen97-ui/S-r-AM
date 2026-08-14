@@ -201,6 +201,9 @@
   .map-land { fill: var(--land); stroke: var(--land-line); stroke-width: 1; }
   .map-route { stroke: var(--route); stroke-width: 2.5; fill: none; stroke-linejoin: round; stroke-linecap: round; }
   .map-fly { stroke-dasharray: 3 5; }
+  .map-bil { stroke: var(--w-nov); }
+  .altprice { align-self: flex-start; font-weight: 800; font-size: 15px; }
+  .altsave { color: var(--good); font-weight: 700; font-size: 12.5px; }
   .map-stopdot { fill: var(--route); stroke: var(--card); stroke-width: 1.6; }
   .map-star { fill: none; stroke: var(--gold); stroke-width: 2; }
   .map-label { font-size: 11.5px; fill: var(--ink); font-weight: 600; }
@@ -429,6 +432,49 @@
         </div>
       </div>
     </div>
+  </section>
+
+  <!-- BOBIL-KUTTENE PÅ KARTET -->
+  <section class="panel">
+    <h2 class="serif">Bobil-kuttene på kartet</h2>
+    <p class="sub">Full bobil i 30 dager koster <strong>~71 500 kr for to</strong> (leie + forsikring + camping + diesel).
+    Tre måter å kutte: <span style="color:var(--route);font-weight:700">rød = bobil</span> ·
+    <span style="color:var(--w-nov);font-weight:700">blå = leiebil</span> · stiplet = fly. Gullring = høydepunktet som begrunner valget.</p>
+    <div class="etapper">
+      <div class="ecard">
+        <span class="datebadge">Alt A · full leiebil + B&amp;B</span>
+        <svg id="map-alt-a" role="img" aria-label="Alternativ A: hele ruten Brisbane til Melbourne med leiebil"></svg>
+        <span class="altprice mono">~50–56 000 for to <span class="altsave">−15–20 000</span></span>
+        <ul>
+          <li>Samme rute — men ekte seng + aircon hver natt i 35-gradersvarmen</li>
+          <li>Vinregionene blir <strong>bedre</strong>: bo på vingårds-B&amp;B, ingen bobil-parkering</li>
+          <li>Mister: campinglivet. Sjekk enveisgebyr for bil (0–300 AUD)</li>
+        </ul>
+      </div>
+      <div class="ecard">
+        <span class="datebadge">Alt B · bobil-smakebiten ⭐ anbefalt</span>
+        <svg id="map-alt-b" role="img" aria-label="Alternativ B: bobil Brisbane til Sydney langs kysten, deretter leiebil til Melbourne"></svg>
+        <span class="altprice mono">~56–62 000 for to <span class="altsave">−10–15 000</span></span>
+        <ul>
+          <li>🚐 Bobil kun kyst-uka (2.–9. jan): Brisbane → Byron → <strong>Seal Rocks under stjernene</strong> → lever Sydney (min. 7 dagers peak-leie akkurat oppfylt)</li>
+          <li>🚗 Bil + vingårdsovernattinger Sydney → Melbourne + GOR</li>
+          <li>Bobil-magien der den faktisk leverer — uten 30-dagers prisen</li>
+        </ul>
+      </div>
+      <div class="ecard">
+        <span class="datebadge">Alt C · Sydney-start + nyttår 🎆</span>
+        <svg id="map-alt-c" role="img" aria-label="Alternativ C: fly inn til Sydney, nyttår der, leiebil gjennom vinbeltet til Melbourne"></svg>
+        <span class="altprice mono">~60–70 000 for to <span class="altsave">−30–50 000</span></span>
+        <ul>
+          <li>✈️ Inn Sydney 25.–28. des (billigere enn Brisbane) — <strong>verdens mest berømte nyttårsfyrverkeri</strong> over operahuset</li>
+          <li>Kutter hele kyst-etappen; bil gjennom vinbeltet → AO → GOR → NZ som før</li>
+          <li>⚠️ Sydney-NYE-hotell (11–16 000 inkl.) må bookes omtrent nå</li>
+        </ul>
+      </div>
+    </div>
+    <p class="sub">🃏 <strong>Alt D — relocation-jokeren:</strong> Imoova/thl flytter bobiler Brisbane→Sydney/Melbourne for
+    AUD 1–5/dag (5–8 fastlåste dager, ofte med drivstoffbidrag) — kan ikke planlegges rundt, men dukker opp 1–4 uker før:
+    sett varsel på imoova.com og bytt til Alt B-geometrien gratis hvis den treffer.</p>
   </section>
 
   <!-- PLANSJE II -->
@@ -771,6 +817,7 @@
       var a = p(cfg.stops[leg[0]].lon, cfg.stops[leg[0]].lat);
       var b = p(cfg.stops[leg[1]].lon, cfg.stops[leg[1]].lat);
       var cls = 'map-route' + (leg[2] === 'fly' ? ' map-fly' : '');
+      if (leg[2] === 'bil') cls = 'map-route map-bil';
       if (leg[2] === 'fly') {
         // gentle arc for flights
         var mx = (a[0] + b[0]) / 2, my = (a[1] + b[1]) / 2;
@@ -835,7 +882,51 @@
     ]
   });
 
-  var NZ_OUTLINE = [[172.5,-40.5],[173.0,-41.0],[173.3,-41.3],[174.0,-41.05],[174.3,-41.0],[174.3,-41.4],[174.27,-41.73],[173.7,-42.4],[173.1,-43.0],[172.7,-43.6],[173.1,-43.8],[172.9,-43.95],[172.2,-44.15],[171.25,-44.4],[170.97,-45.1],[170.7,-45.9],[169.7,-46.6],[168.3,-46.6],[167.5,-46.15],[166.6,-45.8],[166.5,-45.3],[167.0,-44.6],[167.9,-44.55],[168.4,-44.0],[169.0,-43.85],[170.0,-43.45],[170.97,-42.72],[171.2,-42.45],[171.6,-41.75],[172.1,-40.9]];
+  /* ---------- budsjett-alternativene (tre minikart) ---------- */
+  var ALT_STOPS_A = {
+    bne: { name: 'Brisbane', lon: 153.03, lat: -27.47, side: 'left' },
+    byron: { name: 'Byron', lon: 153.60, lat: -28.64, side: 'left', dy: 12, minor: true },
+    syd: { name: 'Sydney', lon: 151.21, lat: -33.87, side: 'right', dy: 4 },
+    cbr: { name: 'Canberra', lon: 149.13, lat: -35.28, side: 'left', dy: -4, minor: true },
+    ruth: { name: 'Rutherglen', lon: 146.46, lat: -36.05, side: 'left', dy: -6, minor: true },
+    mel: { name: 'Melbourne', lon: 144.96, lat: -37.81, side: 'left', dy: -8 },
+    gor: { name: 'GOR', lon: 143.10, lat: -38.66, side: 'left', dy: 12, star: true, minor: true }
+  };
+  drawMap('map-alt-a', {
+    w: 330, h: 290, pad: 26,
+    outline: AU_OUTLINE,
+    stops: ALT_STOPS_A,
+    legs: [['bne','byron','bil'],['byron','syd','bil'],['syd','cbr','bil'],['cbr','ruth','bil'],['ruth','mel','bil'],['mel','gor','bil']]
+  });
+  drawMap('map-alt-b', {
+    w: 330, h: 290, pad: 26,
+    outline: AU_OUTLINE,
+    stops: {
+      bne: { name: 'Brisbane', lon: 153.03, lat: -27.47, side: 'left' },
+      byron: { name: 'Byron', lon: 153.60, lat: -28.64, side: 'left', dy: 12, minor: true },
+      seal: { name: 'Seal Rocks', lon: 152.53, lat: -32.44, side: 'right', dy: -4, star: true, minor: true },
+      syd: { name: 'Sydney (bytte)', lon: 151.21, lat: -33.87, side: 'left', dy: 14 },
+      ruth: { name: 'Rutherglen', lon: 146.46, lat: -36.05, side: 'left', dy: -6, minor: true },
+      mel: { name: 'Melbourne', lon: 144.96, lat: -37.81, side: 'left', dy: -8 },
+      gor: { name: 'GOR', lon: 143.10, lat: -38.66, side: 'left', dy: 12, minor: true }
+    },
+    legs: [['bne','byron','land'],['byron','seal','land'],['seal','syd','land'],['syd','ruth','bil'],['ruth','mel','bil'],['mel','gor','bil']]
+  });
+  drawMap('map-alt-c', {
+    w: 330, h: 290, pad: 26,
+    outline: AU_OUTLINE,
+    stops: {
+      syd: { name: 'Sydney 🎆 (inn)', lon: 151.21, lat: -33.87, side: 'right', dy: 0, star: true },
+      jervis: { name: 'Jervis Bay', lon: 150.67, lat: -35.05, side: 'right', dy: 12, minor: true },
+      cbr: { name: 'Canberra', lon: 149.13, lat: -35.28, side: 'left', dy: -6, minor: true },
+      ruth: { name: 'Rutherglen', lon: 146.46, lat: -36.05, side: 'left', dy: -6, minor: true },
+      mel: { name: 'Melbourne (ut)', lon: 144.96, lat: -37.81, side: 'left', dy: -8 },
+      gor: { name: 'GOR', lon: 143.10, lat: -38.66, side: 'left', dy: 12, minor: true }
+    },
+    legs: [['syd','jervis','bil'],['jervis','cbr','bil'],['cbr','ruth','bil'],['ruth','mel','bil'],['mel','gor','bil']]
+  });
+
+  var NZ_OUTLINE =[[172.5,-40.5],[173.0,-41.0],[173.3,-41.3],[174.0,-41.05],[174.3,-41.0],[174.3,-41.4],[174.27,-41.73],[173.7,-42.4],[173.1,-43.0],[172.7,-43.6],[173.1,-43.8],[172.9,-43.95],[172.2,-44.15],[171.25,-44.4],[170.97,-45.1],[170.7,-45.9],[169.7,-46.6],[168.3,-46.6],[167.5,-46.15],[166.6,-45.8],[166.5,-45.3],[167.0,-44.6],[167.9,-44.55],[168.4,-44.0],[169.0,-43.85],[170.0,-43.45],[170.97,-42.72],[171.2,-42.45],[171.6,-41.75],[172.1,-40.9]];
 
   /* ---------- plansje I-B: NZ Sørøya ---------- */
   drawMap('map-nz', {
