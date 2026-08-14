@@ -1,9 +1,23 @@
-# 🚐 Australia + New Zealand — januar/februar 2027 (valgt plan)
+# 🚐 Australia + New Zealand — romjul 2026 → februar 2027 (valgt plan)
 
-**2. jan – ~15. feb 2027 · Brisbane → Melbourne (bobil, vinfokus) → NZ Sørøya (forlengelse)**
+**Avreise Norge 25.–28. des 2026 → Brisbane → Melbourne (bobil, vinfokus) → NZ Sørøya → hjem ~15. feb**
 Basert på egen research-rapport (claude.ai, 251 kilder) + kryss-sjekket mot
-`verdens-beste-analyse.md`. Dette er den aktive hovedplanen. Fleksibilitet er
-ønsket — NZ-delen kan strekkes/krympes (10–14 dager).
+`verdens-beste-analyse.md`. Fleksibilitet ønsket — NZ-delen kan strekkes/krympes.
+
+> ⚠️ **Romjul-avreisen endrer to ting:** (1) flyet ut er i årets dyreste vindu
+> (book NÅ, ikke i oktober), og (2) dere lander midt i nyttårs-peaken for
+> campingplasser. Se «Fase NÅ»-listen nederst — flere frister er akutte.
+
+## 🎆 Nyttårsvalget (må tas før booking)
+
+Landing i Brisbane ~27.–30. des (2 døgn reisetid+tidssone). To alternativer:
+
+- **A) Hent bobilen med en gang (28.–30. des):** maksimal bobiltid, men krever
+  ny prisforespørsel (NYE-tillegg) og **nyttårs-campingplass må bookes UMIDDELBART**
+  (strandparker 250+ AUD/natt, utsolgt måneder i forveien).
+- **B) Anbefalt: nyttår på hotell, bobil fra 1.–2. jan:** 3–5 rolige dager i
+  Brisbane/Gold Coast/Byron (leiebil er billig), nyttårsfeiring uten camping-kaos,
+  og bobil-leien beholder jan-prisen fra eksisterende tilbud. Ruten videre uendret.
 
 ---
 
@@ -110,14 +124,42 @@ Februar er Sørøyas tørreste/roligste sommermåned. MEL→CHC/ZQN fra ~1 400�
 
 **Total for hele turen (2 pers):** ≈ 180 000–215 000 NOK inkl. alle fly.
 
-## ✅ Book nå (januar er høysesong)
-1. Bobil Australia (låser kampanjeprisen)
-2. AO-billetter (særlig finalehelgen)
-3. Campingplasser uke 1–2 (skoleferie) + Phillip Island
-4. Fly: jakt fra oktober med prisvarsel — open-jaw **inn Brisbane / ut
-   Queenstown el. Christchurch** (pris-scriptet sporer begge NZ-utganger)
-5. MEL → CHC énveis (Jetstar/Air NZ) + NZ enveis-bobil CHC→ZQN
-6. Milford Sound-cruise (feb er travel nok — book uker før)
+## 🚐 BILEN — dypdykk (viktigst å få riktig)
+
+**Aktører:** Apollo (5–15 % billigere enn Britz for tilsvarende bil, forsikring
+$3–5/dag billigere), Britz/Maui (THL — nyere flåte), Star RV, Jucy/Travellers
+Autobarn (budsjett). Eksisterende Trailblazer-tilbud (AUD 7 652/30 d) gjaldt
+2.–31. jan — **be om ny kvote for faktiske datoer før noe annet bookes.**
+
+| Sjekkpunkt | Detalj |
+|---|---|
+| **Depositum (bond)** | Apollo $5 000 (camper) / $7 500 (bobil); Britz $7 500 uten reduksjon. Holdes på **kredittkort** ved henting → **øk kredittgrensen hjemmefra** |
+| **Egenandelsreduksjon** | ~AUD 38/dag → $2 500 egenandel, ~AUD 45/dag → $0. Alternativ: tredjeparts egenandelsforsikring er billigere, men full bond holdes uansett |
+| **Enveisgebyr** | BNE→MEL, typisk AUD 100–200 — bekreft at det er MED i kvoten |
+| **Peak-vilkår** | Min. antall leiedager i des–jan + mulig NYE-tillegg ved henting før 1. jan |
+| **Førerkort** ⚠️ | Norsk førerkort er ikke på engelsk → **internasjonalt førerkort (IDP) fra NAF (~360 kr)** eller autorisert oversettelse KREVES, i tillegg til originalen |
+| **Kjøring** | Venstrekjøring; diesel; bomveier i Brisbane/Sydney/Melbourne krever bombrikke-avtale (bestill utleiers toll-pass eller Linkt-konto) |
+| **Ved henting** | Filmdokumentér alle skader, sjekk gass, vann, kjøkkenutstyr, sengetøy, campingstoler — FØR signering |
+| **Standard inkl.** | Ubegrensede km og veihjelp hos de store — verifiser i kvoten |
+
+## ✅ FASE NÅ (august 2026) — akutt bestillingsliste
+
+**⏰ DENNE UKEN:**
+1. 🎾 **AO-billetter — salget åpnet 13. august!** Finalehelgen (30.–31. jan) selges ut først — kjøp via Ticketmaster AU nå
+2. ✈️ **Internasjonale fly** — romjul-avreise bookes 4–5 mnd før, ikke i oktober: multi-city OSL→BNE (25.–28. des) + ZQN/CHC→OSL (feb). Forvent 18 000–21 000 p.p. totalt (romjul-tillegget). Pris-scriptet overvåker
+3. 🚐 **Bobil: ny kvote for nye datoer** + book (avbestillbar rate) — des-henting er årets travleste
+4. 🎆 **Ta nyttårsvalget (A/B over)** — ved A: book NYE-camping i dag
+
+**INNEN 2–4 UKER:**
+5. 🛂 eVisitor-visum Australia (gratis, online, 90 dager) + NZeTA/IVL for NZ + sjekk passgyldighet
+6. 🪪 **IDP hos NAF** (internasjonalt førerkort) for begge
+7. 🏕️ Campingplasser hele uke 1–3 (australsk skoleferie til ~26. jan) + Phillip Island
+8. ⛴️ Doubtful Sound overnattingscruise / Great Walks-hytter (fylles nå)
+9. 💳 Øk kredittkortgrense (bond $5 000–7 500 ≈ 35–50 000 kr holdes)
+
+**INNEN OKTOBER:**
+10. MEL→CHC énveis (Jetstar/Air NZ) + NZ enveis-bobil CHC→ZQN
+11. Milford-dagscruise, Tekapo-stjernetur, reiseforsikring m/bobil-dekning, eSIM
 
 ---
 

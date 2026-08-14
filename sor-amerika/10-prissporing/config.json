@@ -10,15 +10,15 @@
   "_kommentar": "VALGT PLAN: Australia (2.-31. jan) + NZ Sørøya (1.-15. feb 2027). Open-jaw inn Brisbane / ut Queenstown ELLER Christchurch - begge NZ-utganger spores, book den som blir billigst. Book som multi-city. Mål: sum inn+ut <= 16 000 kr p.p.",
   "ruter": [
     {
-      "navn": "1) Utreise OSL → BNE (Brisbane, open-jaw inn)",
+      "navn": "1) Utreise OSL → BNE (Brisbane, open-jaw inn, romjul)",
       "fra": "OSL",
       "til": "BNE",
-      "avreise_fra": "2026-12-28",
-      "avreise_til": "2027-01-02",
+      "avreise_fra": "2026-12-25",
+      "avreise_til": "2026-12-28",
       "steg_dager": 1,
       "kun_ukedager": [],
-      "ma_pris": 7000,
-      "varsle_under": 8500
+      "ma_pris": 9000,
+      "varsle_under": 10000
     },
     {
       "navn": "2a) Retur ZQN → OSL (Queenstown, NZ-utgang)",
