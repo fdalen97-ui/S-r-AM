@@ -1,9 +1,11 @@
-# ✈️ Daglig flyprissjekk – Oslo ↔ Australia (valgt plan, jan 2027)
+# ✈️ Daglig flyprissjekk – Oslo ↔ Australia/NZ (valgt plan, jan–feb 2027)
 
 Sporer flyene til den **valgte planen**: bobiltur Brisbane → Melbourne
-2.–31. januar 2027 (`../00-planlegging/australia-bobil-jan2027.md`).
-Open-jaw: **inn Brisbane (BNE), ut Melbourne (MEL)** — de to bena spores som
-enveis-billetter, men bookes som multi-city.
+(2.–31. jan) + NZ Sørøya-forlengelse (1.–15. feb) — se
+`../00-planlegging/australia-bobil-jan2027.md`.
+Open-jaw: **inn Brisbane (BNE), ut Queenstown (ZQN) eller Christchurch (CHC)** —
+begge NZ-utganger spores, book den som blir billigst. Bookes som multi-city.
+(MEL→CHC-hoppet midtveis bookes separat på Jetstar/Air NZ, ~1 400–2 500 kr.)
 
 **Mål: sum av de to bena ≤ 16 000 kr p.p.** (research-estimat 13 000–17 000
 for januar-open-jaw). Verktøyet sjekker laveste pris i avreisevinduene, logger
@@ -19,7 +21,11 @@ setter ny bunnrekord.
 | Ben | Datoer | Varsel under |
 |-----|--------|--------------|
 | OSL → BNE | 28. des 2026 – 2. jan 2027 (ankomst 1.–2. jan pga. tidssone) | 8 500 kr |
-| MEL → OSL | 30. jan – 3. feb 2027 (etter AO-finalene 30.–31. jan) | 8 000 kr |
+| ZQN → OSL | 12.–16. feb 2027 (etter NZ Sørøya-runden) | 8 000 kr |
+| CHC → OSL | 12.–16. feb 2027 (alternativ NZ-utgang) | 7 500 kr |
+
+Februar er lavsesong for retur fra NZ (skoleferien slutter ~1. feb) — returen
+blir sannsynligvis *billigere* enn en januar-retur fra Melbourne ville vært.
 
 Aktuelle selskaper: Qatar (Doha), Emirates (Dubai), Singapore Airlines,
 China Southern (ofte billigst, via Guangzhou). Stopover i Singapore/Doha
@@ -86,9 +92,9 @@ Mac: bruk `launchd`. Windows: Oppgaveplanlegging med `python sjekk_priser.py`.
   Under 16 000 samlet = bra; under 14 000 = slå til umiddelbart.
 - Romjuls-utreisen (28.–31. des) er peak — **1.–2. jan-avgang er ofte
   merkbart billigere** hvis bobil-hentingen kan skyves en dag.
-- Retur etter AO-finalene: 31. jan–3. feb. Australsk skoleferie varer ut
-  januar, så returen faller ikke like raskt som til Asia — ikke vent på et
-  stup som ikke kommer.
+- **NZ-returen i februar er gunstig**: skoleferien slutter ~1. feb og
+  prisene faller. Sammenlign ZQN- og CHC-utgang — CHC har flere ruter og er
+  ofte billigst; ZQN sparer dere kjøringen tilbake til Christchurch.
 
 ## 5. Tilpasse (`config.json`)
 

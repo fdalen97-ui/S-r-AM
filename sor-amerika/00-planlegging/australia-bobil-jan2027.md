@@ -1,8 +1,9 @@
-# 🚐 Australia bobiltur — januar 2027 (valgt plan)
+# 🚐 Australia + New Zealand — januar/februar 2027 (valgt plan)
 
-**2.–31. januar 2027 · Brisbane → Melbourne · bobil (Trailblazer) · vinfokus**
+**2. jan – ~15. feb 2027 · Brisbane → Melbourne (bobil, vinfokus) → NZ Sørøya (forlengelse)**
 Basert på egen research-rapport (claude.ai, 251 kilder) + kryss-sjekket mot
-`verdens-beste-analyse.md`. Dette er nå den aktive hovedplanen for januar-vinduet.
+`verdens-beste-analyse.md`. Dette er den aktive hovedplanen. Fleksibilitet er
+ønsket — NZ-delen kan strekkes/krympes (10–14 dager).
 
 ---
 
@@ -84,12 +85,39 @@ Twelve Apostles helikopter ~165 · AO-billetter fra ~30.
   250+/natt rundt nyttår) og AO-billetter tidlig. Legg vinsmaking til formiddag
   (hetebølge-episoder 35 °C+ forekommer); respekter Total Fire Ban-dager innlands.
 
+---
+
+## 🇳🇿 Del 2 — New Zealand Sørøya (ca. 1.–15. februar)
+
+**Hvorfor februar er perfekt:** AO-finalene slutter 31. jan → fly 1.–2. feb,
+akkurat når NZ-skoleferien slutter og januar-peakprisene faller (−15–30 %).
+Februar er Sørøyas tørreste/roligste sommermåned. MEL→CHC/ZQN fra ~1 400–2 500 kr
+én vei (Jetstar/Air NZ, ~3,5 t) — februar er billigste måned på ruten.
+
+```
+✈️ Melbourne → Christchurch (~1.–2. feb)
+→ Lake Tekapo + Aoraki/Mt Cook (Hooker Valley Track, Dark Sky-stjernehimmel)
+→ Wanaka (Roys Peak / Rob Roy Glacier)
+→ Queenstown + Central Otago-vin (Gibbston, Amisfield, Bannockburn) 🍷
+→ Te Anau → Milford Sound-cruise (evt. Doubtful Sound overnatting)
+→ ✈️ ut Queenstown/Christchurch → OSL (~14.–16. feb)
+```
+
+- 🚐 **Enveis bobil/bil Christchurch → Queenstown** er standard rute i NZ
+- 🍷 Central Otago = verdens sørligste vinregion — pinot noir-finalen på vinturen
+- Fleksibel lengde: 10 dager (kutt Wanaka/Doubtful) til 14 dager (alt + Marlborough? nei — for langt; heller ekstra Fiordland)
+- 💰 Tillegg ~**25–30 000 p.p.** (12–14 dager à ~1 600–1 800 + interne fly, feb-rabatt)
+
+**Total for hele turen (2 pers):** ≈ 180 000–215 000 NOK inkl. alle fly.
+
 ## ✅ Book nå (januar er høysesong)
-1. Bobil (låser kampanjeprisen)
+1. Bobil Australia (låser kampanjeprisen)
 2. AO-billetter (særlig finalehelgen)
 3. Campingplasser uke 1–2 (skoleferie) + Phillip Island
-4. Fly: jakt fra oktober med prisvarsel — open-jaw inn Brisbane / ut Melbourne,
-   mål 13 000–17 000 p.p.
+4. Fly: jakt fra oktober med prisvarsel — open-jaw **inn Brisbane / ut
+   Queenstown el. Christchurch** (pris-scriptet sporer begge NZ-utganger)
+5. MEL → CHC énveis (Jetstar/Air NZ) + NZ enveis-bobil CHC→ZQN
+6. Milford Sound-cruise (feb er travel nok — book uker før)
 
 ---
 
