@@ -54,6 +54,21 @@ Clonakilla (Murrumbateman, shiraz-viognier) · Giaconda (Beechworth, chardonnay)
 Hunter semillon — **innhøsting starter ofte midt i januar** (Australias
 tidligste region → vintage i full gang under besøket).
 
+## 🍷 Vin-læringspakken (research aug 2026)
+
+| Når | Hva | Pris p.p. |
+|-----|-----|-----------|
+| Sep–nov 2026, Oslo | **WSET Level 2 FØR avreise** (Jarles Vinskole ~9 800 / Kulinarisk Akademi 14 500) — dekker nettopp semillon/shiraz/muscat/chardonnay/pinot | 9 800–14 500 kr |
+| Hunter (10.–12. jan) | Hunter Valley Wine School (2 t) + **harvest-tur midt i semillon-vintage** (Tim Syrad) | fra ~270 kr |
+| Rutherglen ⭐ | **Pfeiffer muscat-blending** — tapp fra 100-årige fat, blend egen flaske (book via Rezdy) + All Saints blindfold-muscat | ~670 kr |
+| Yarra | **Oakridge Chardonnay/864 Masterclass** + Giant Steps single vineyard-flight | ~335–670 kr |
+| Central Otago (feb) | Gibbston vinhule-tur (NZD 35) + **Amisfield Bespoke library tasting** (NZD 95, ~pinot-masterclass) + Bannockburn på sykkel | ~930 kr |
+
+Hele pakka underveis: **~2 500–3 500 kr p.p.** — alt lovlig på turistvisum.
+**«Jobbe med vin»:** kun mulig med Working Holiday-visum (18–30 år, AUD 840/NZD
+770); alt arbeid inkl. WWOOF er FORBUDT på eVisitor/NZeTA. WSET-datoer for
+Melbourne jan 2027 publiseres i okt — sjekk Melbourne Wine School da (bonus).
+
 ## 🎾 Januar-essene
 - **Australian Open 2027**: Melbourne Park 11.–31. jan, finalehelg 30.–31. jan —
   akkurat når dere ruller inn. Grunnbilletter fra ~AUD 30; finaler må sikres tidlig.
@@ -136,11 +151,20 @@ Britz-camper med toalett/dusj. Apollo, Britz, Maui, Star RV, Cheapa og Mighty
 eies alle av **samme konsern (thl)** — samme flåte i ulike prisklasser.
 Tilbudet AUD 7 652/30 d ($255/dag) er **midt i normalområdet** for jan-peak.
 
-**Anbefalt bil:** Britz Trailblazer (match/forny tilbudet) eller Apollo Euro
-Tourer (~$230–300/dag). Budsjettvinner MED bad: Cheapa Campa 2 Berth
-(~$180–250/dag, lavest enveisgebyr $175). Oppgradering hvis diff < ~10 000 kr:
-Star RV Polaris 2 (ny Fiat Ducato). Velg alltid **2-berth MED bad** i
-januar-varmen. **Henting/levering: 2.–31. jan** (se nyttårsseksjonen).
+**Modell-rangering (dyp-research aug 2026):**
+1. **Maui Ultima** (Sprinter, ≤2,5 år) — beste totalkjøp: bredeste seng 1,78 m,
+   egen sittegruppe foran (sengen kan stå oppredd hele måneden), 130 L kjøleskap.
+   ~+1–2 000 AUD over Trailblazer-kvoten
+2. **Star RV Polaris 2** (Ducato 23–24) — litium+sol, dobbeltglass, kompakt 6,4 m
+   — men fast seng kun **1,32 m bred** (prøvesov målene!)
+3. **Britz Trailblazer** (kvoten $7 652) — beste budsjett m/bad, men dinette-seng
+   bygges om hver kveld, landstrøm annenhver dag, LDV-kvalitetsrykte
+4. Cruisin' Sandpiper — fast seng, beste omtaler (4,8/5), enveis $165, utenfor thl
+5. Apollo Euro Tourer — fin spek, svak service-historikk
+❌ Cheapa (5 år+ flåte på 3 200 km) · ❌ Camplify (enveis upraktisk)
+
+Velg alltid **2-berth MED bad** i januar-varmen. Taktikk: lås avbestillbare
+DriveNow-rater på både Ultima og Trailblazer nå, velg i ro. **Henting/levering: 2.–31. jan** (se nyttårsseksjonen).
 
 **Booking:** Avbestillbar rate via **DriveNow** (live-priser, ingen gebyr,
 gratis avbestilling) eller direkte hos thl — re-book ved kampanje i sep–nov.
