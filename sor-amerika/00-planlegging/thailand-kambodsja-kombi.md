@@ -1,30 +1,39 @@
-# 🇹🇭🇰🇭 Thailand + Kambodsja — kombiløsningen (des–jan-vindu)
+# 🇹🇭🇰🇭🇱🇦 «Det gylne triangelet» — Thailand + Laos + Kambodsja (romjul-vindu)
 
-Den utdypede planen for «reservekortet» fra analysen: begge lands **beste vær
-samtidig** (tørrsesong, 28–32 °C), til under halve Australia-prisen. Passer som
-egen vintertur et annet år (f.eks. des 2027/jan 2028) — eller kortes til 2–3 uker.
+Den utdypede planen for «reservekortet» fra analysen — **oppgradert med Luang
+Prabang** og romjul-optimalisert (paret kan kun reise i romjula). Begge lands
+beste vær samtidig (tørrsesong, 28–32 °C), til under halve Australia-prisen.
 
-> Hvorfor kombinere? Angkor Wat (8,5/10 i analysen) ligger bare én flytime fra
-> Bangkok, og des–jan er den kjøligste og beste tempeltiden på hele året. Å legge
-> Kambodsja midt i Thailand-turen gir kultur-tyngdepunktet strandferien mangler.
+> Hvorfor denne kombinasjonen? Angkor (8,5/10) og Luang Prabang (8/10 — ofte
+> kåret til Sørøst-Asias vakreste by, UNESCO, fortsatt rolig) er begge på sitt
+> aller beste des–jan. Nord-Vietnam (9/10) krever november og Komodo (9/10)
+> krever apr–sep — med romjul-avreise er DETTE regionens vakreste mulige tur.
+
+**Romjul-regelen:** templer og byer i nyttårsuka (koster nesten det samme da),
+øyene fra ~5.–6. jan (øyhotellene tar +50–100 % frem til da). Kultur først,
+strand når prisene faller.
 
 ---
 
-## 🗺️ Ruten (3,5–4 uker)
+## 🗺️ Ruten (3,5–4 uker, avreise ~26.–28. des)
 
 ```
-🏙️ Bangkok (3 d)         tempel, gatemat, rooftop-barer
-   │ tog/fly nord
-⛰️ Chiang Mai (4 d)       khao soi, Doi Suthep, etisk elefantreservat
-   │ ✈️ via BKK (~3 t totalt)
-🛕 Siem Reap (4 d)        Angkor Wat, Bayon, Ta Prohm, Banteay Srei
-   │ ✈️ via BKK til Krabi
-🏝️ Krabi/Railay (3 d)     karstklipper, Phang Nga-kajakk
+🏙️ Bangkok (2–3 d)        tempel, gatemat — evt. nyttårsaften ved elven
+   │ ✈️ (~2 t, evt. via CNX)
+🏮 Luang Prabang (3–4 d)   gyllen tempelby ved Mekong, munkealmisser ved
+   │                       soloppgang, turkise Kuang Si-fossene, Phousi-solnedgang
+   │ ✈️ direkte/via BKK
+🛕 Siem Reap (4 d)         Angkor Wat, Bayon, Ta Prohm, Banteay Srei
+   │ ✈️ via BKK til Krabi (~5.–6. jan — øyprisene har falt)
+🏝️ Krabi/Railay (3 d)      karstklipper, Phang Nga-kajakk
    │ ⛴️ ferge
-🏖️ Koh Lanta (5 d)        strandfinale, dykking/snorkling, solnedganger
-   │ evt. ⛴️ Trang-øyene (Koh Mook/Kradan) +2–3 d
-   │ ✈️ Krabi → BKK → hjem
+🏖️ Koh Lanta (5 d)         strandfinale, dykking/snorkling, solnedganger
+   │ evt. ⛴️ Trang-øyene (Koh Mook/Emerald Cave, Koh Kradan) +2–3 d
+   │ ✈️ Krabi → BKK → hjem (~medio/ultimo jan)
 ```
+
+(Chiang Mai kan byttes inn for Luang Prabang hvis flylogistikken en gang blir
+enklere — men Luang Prabang er vakrere og roligere, og vinner på skjønnhet.)
 
 ## 📅 Nøkkel-logistikk
 
