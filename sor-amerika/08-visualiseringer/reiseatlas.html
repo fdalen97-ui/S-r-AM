@@ -155,6 +155,19 @@
   table.matrix tbody tr + tr td { border-top: 1px solid var(--hairline); }
   table.matrix td:first-child { font-weight: 600; }
   table.matrix td small { color: var(--ink-3); font-weight: 400; }
+  .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(310px, 1fr)); gap: 16px; }
+  .gcard { background: var(--card); border: 1px solid var(--hairline); border-radius: 10px; box-shadow: var(--shadow); padding: 18px 20px 16px; display: flex; flex-direction: column; gap: 12px; }
+  .gcard.avoidcard { opacity: .78; }
+  .ghead { display: flex; align-items: baseline; gap: 10px; }
+  .ghead h3 { margin: 0; font-size: 17px; }
+  .gscore { margin-left: auto; font-weight: 700; font-size: 13px; color: var(--gold); white-space: nowrap; }
+  .chain { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 2px; font-size: 12.5px; line-height: 1.9; }
+  .chain .cnode { background: var(--paper); border: 1px solid var(--hairline); border-radius: 999px; padding: 1px 9px; white-space: nowrap; font-weight: 600; }
+  .chain .cnode.ctop { border-color: var(--gold); color: var(--gold); }
+  .chain .carr { color: var(--route); font-weight: 700; padding: 0 2px; }
+  .gmeta { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .gprice { margin-left: auto; font-weight: 700; font-size: 13px; }
+  .gnote { font-size: 12.5px; color: var(--ink-2); margin: 0; }
   .fit { display: inline-block; font-size: 12px; font-weight: 700; padding: 2.5px 10px; border-radius: 999px; white-space: nowrap; }
   .f-ideal { background: var(--good-bg); color: var(--good); }
   .f-god { background: rgba(42, 120, 214, .12); color: var(--w-nov); }
@@ -179,8 +192,10 @@
   <header class="hero">
     <span class="eyebrow">Sør-Amerika-repoet · analyse august 2026 · 3–5 uker fra Oslo</span>
     <h1 class="serif">Reiseatlas</h1>
-    <p class="lede">Fire turkandidater fra «verdens beste analyse» tegnet ut som atlas-plansjer: ruten på kartet,
-    skjønnhetsscore per stopp (1–10 mot verdensklasse), og totalpris per person i hvert av de tre avreisevinduene.</p>
+    <p class="lede">Turkandidatene fra «verdens beste analyse» tegnet ut som atlas-plansjer: ruten på kartet,
+    skjønnhetsscore per stopp (1–10 mot verdensklasse), og totalpris per person. <strong>Plansje I er den valgte
+    planen</strong> — Australia med bobil i januar 2027 — fulgt av alternativene og et galleri over alle
+    land som er vakre i perioden, med sine klassiske ruter.</p>
     <div class="chips">
       <span class="chip"><span class="dot" style="background:var(--w-nov)"></span>Vindu A · ~1. november</span>
       <span class="chip"><span class="dot" style="background:var(--w-des)"></span>Vindu B · ~1. desember</span>
@@ -188,12 +203,50 @@
     </div>
   </header>
 
-  <!-- PLANSJE I -->
+  <!-- PLANSJE I: AUSTRALIA (VALGT) -->
   <section class="plate">
     <div class="plate-head">
       <span class="plate-no serif">PLANSJE I</span>
+      <h2 class="serif">Australia: bobil-vinruten</h2>
+      <span class="plate-rank rank-1">✅ VALGT PLAN · 2.–31. januar 2027</span>
+    </div>
+    <div class="plate-body">
+      <figure class="map">
+        <svg id="map-au" role="img" aria-label="Kart over sørøst-Australia med bobilruten Brisbane, Byron Bay, Hunter Valley, Sydney, Jervis Bay, Canberra, Rutherglen, Yarra Valley, Melbourne og Great Ocean Road"></svg>
+        <div class="maplegend"><span><span class="lg-line"></span>bobil</span><span><svg width="14" height="14" viewBox="0 0 14 14"><circle cx="7" cy="7" r="4.5" class="map-star"></circle></svg>toppstopp</span></div>
+        <figcaption>Inn Brisbane → ut Melbourne (open-jaw). Kysten først, vinbeltet innlands, Great Ocean Road som finale.
+        Sørlig korridor = riktig i januar (nord for Agnes Water er våtsesong).</figcaption>
+      </figure>
+      <div class="facts">
+        <div>
+          <h3>Når er det best å reise?</h3>
+          <div class="winrows">
+            <div class="winrow best"><span class="dot" style="background:var(--w-jul)"></span><span>Januar (valgt)</span><span class="price mono">63–78 000</span><span class="note">🎾 AO-finalene 30.–31. jan + Hunter-vintage midt i jan</span></div>
+            <div class="winrow"><span class="dot" style="background:var(--w-des)"></span><span>Feb–mars</span><span class="price mono">−15–30 %</span><span class="note">objektivt beste vindu: skoleferien slutter 26. jan, innhøsting overalt</span></div>
+            <div class="winrow"><span class="dot" style="background:var(--w-nov)"></span><span>Okt–nov</span><span class="price mono">~62 000</span><span class="note">beste vår-alternativ, rolig og billig</span></div>
+          </div>
+        </div>
+        <div>
+          <h3>Høydepunkter · score</h3>
+          <div class="stops">
+            <div class="stop"><span class="score mono">8</span><span>Great Ocean Road <small>— topp-3 blant verdens bilturer, Twelve Apostles</small></span></div>
+            <div class="stop"><span class="score mono">8</span><span>Vinbeltet <small>— Hunter, Clonakilla, Rutherglen, Giaconda, Yarra, Mornington</small></span></div>
+            <div class="stop"><span class="score mono">7,5</span><span>Sydney + kysten <small>— Byron, Jervis Bay (Hyams Beach), Bondi–Coogee</small></span></div>
+          </div>
+        </div>
+        <p class="verdict"><strong>Bobilen løser januar-problemet:</strong> den er hotell + bil + kjøkken til låst kampanjepris,
+        mens hotellene tar fellesferie-tillegg. Book bobil, AO-billetter og campingplasser uke 1–2 nå. Detaljplan:
+        <span class="mono">australia-bobil-jan2027.md</span>.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- PLANSJE II -->
+  <section class="plate">
+    <div class="plate-head">
+      <span class="plate-no serif">PLANSJE II</span>
       <h2 class="serif">Sør-Amerika grand tour</h2>
-      <span class="plate-rank rank-1">🥇 Totalvinneren · reis ~1. nov</span>
+      <span class="plate-rank rank-1">🥇 Beste alternativ · ~1. nov</span>
     </div>
     <div class="plate-body">
       <figure class="map">
@@ -228,7 +281,7 @@
   <!-- PLANSJE II -->
   <section class="plate">
     <div class="plate-head">
-      <span class="plate-no serif">PLANSJE II</span>
+      <span class="plate-no serif">PLANSJE III</span>
       <h2 class="serif">Sør-Afrika: Kapp, vin &amp; Garden Route</h2>
       <span class="plate-rank rank-2">🥈 Verdi-vinneren · reis ~1. nov</span>
     </div>
@@ -263,7 +316,7 @@
   <!-- PLANSJE III -->
   <section class="plate">
     <div class="plate-head">
-      <span class="plate-no serif">PLANSJE III</span>
+      <span class="plate-no serif">PLANSJE IV</span>
       <h2 class="serif">Romjul-ruten: Réveillon, is &amp; speil</h2>
       <span class="plate-rank rank-3">🥉 Kun mulig i vindu C</span>
     </div>
@@ -299,7 +352,7 @@
   <!-- PLANSJE IV -->
   <section class="plate">
     <div class="plate-head">
-      <span class="plate-no serif">PLANSJE IV</span>
+      <span class="plate-no serif">PLANSJE V</span>
       <h2 class="serif">Budsjett-vinneren: Thailand</h2>
       <span class="plate-rank rank-4">Billigst i alle tre vinduer</span>
     </div>
@@ -327,6 +380,99 @@
         </div>
         <p class="verdict"><strong>Halv pris av Sør-Amerika, tredjedel av New Zealand.</strong> Svakheten for dere: vin er dyr import (fra ~280 kr flasken) — dette er mat- og strandturen, ikke vinturen.</p>
       </div>
+    </div>
+  </section>
+
+  <!-- GALLERI: ALLE VAKRE LAND I DES–JAN -->
+  <section class="panel">
+    <h2 class="serif">Alle land som er vakre i des–jan — med sine klassiske ruter</h2>
+    <p class="sub">Hele det faktasjekkede feltet. Gullkantede stopp = 9+ i skjønnhetsscore. Priser er totalpris
+    per person for 3–4 uker (fly + bakke, medium standard). Chips viser sesong-fit i desember/januar.</p>
+    <div class="gallery">
+
+      <div class="gcard">
+        <div class="ghead"><h3 class="serif">🇦🇺 Australia — bobil-vinruten</h3><span class="gscore mono">GOR 8</span></div>
+        <div class="chain"><span class="cnode">Brisbane</span><span class="carr">→</span><span class="cnode">Byron Bay</span><span class="carr">→</span><span class="cnode">Hunter</span><span class="carr">→</span><span class="cnode">Sydney</span><span class="carr">→</span><span class="cnode">Canberra</span><span class="carr">→</span><span class="cnode">Rutherglen</span><span class="carr">→</span><span class="cnode">Yarra</span><span class="carr">→</span><span class="cnode">Melbourne</span><span class="carr">→</span><span class="cnode ctop">Great Ocean Road</span></div>
+        <div class="gmeta"><span class="fit f-god">Des: god t.o.m. ~20.</span><span class="fit f-god">Jan: god · AO + vintage</span><span class="gprice mono">63–78 k</span></div>
+        <p class="gnote">Valgt plan. Bobilen nøytraliserer hotell-peaken; kjølig-klima-vin hele veien.</p>
+      </div>
+
+      <div class="gcard">
+        <div class="ghead"><h3 class="serif">🇦🇷🇨🇱 Patagonia + vin (Sør-Amerika)</h3><span class="gscore mono">10 + 10</span></div>
+        <div class="chain"><span class="cnode">Atacama</span><span class="carr">→</span><span class="cnode">Colchagua</span><span class="carr">→</span><span class="cnode">Mendoza</span><span class="carr">→</span><span class="cnode ctop">El Chaltén</span><span class="carr">→</span><span class="cnode ctop">Perito Moreno</span><span class="carr">→</span><span class="cnode">Buenos Aires</span><span class="carr">→</span><span class="cnode">Rio nyttår</span></div>
+        <div class="gmeta"><span class="fit f-ideal">Des: årets beste vær</span><span class="fit f-god">Jan: peak-fullt</span><span class="gprice mono">50–56 k</span></div>
+        <p class="gnote">1. des-avreise over nyttår = romjulas høydepunkter til desember-pris.</p>
+      </div>
+
+      <div class="gcard">
+        <div class="ghead"><h3 class="serif">🇿🇦 Sør-Afrika — Kapp-runden</h3><span class="gscore mono">10</span></div>
+        <div class="chain"><span class="cnode ctop">Cape Town</span><span class="carr">→</span><span class="cnode ctop">Winelands</span><span class="carr">→</span><span class="cnode">Hermanus</span><span class="carr">→</span><span class="cnode">Garden Route</span><span class="carr">→</span><span class="cnode">Route 62</span><span class="carr">→</span><span class="cnode">Gqeberha</span></div>
+        <div class="gmeta"><span class="fit f-god">Des: dyrt fra 15.</span><span class="fit f-god">Jan: rolig etter 10.</span><span class="gprice mono">41–51 k</span></div>
+        <p class="gnote">Vin i verdensklasse til 55–60 % av norsk pris, null jetlag. Best før 15. des eller etter 10. jan.</p>
+      </div>
+
+      <div class="gcard">
+        <div class="ghead"><h3 class="serif">🇹🇭🇰🇭 Thailand + Angkor</h3><span class="gscore mono">8,5</span></div>
+        <div class="chain"><span class="cnode">Bangkok</span><span class="carr">→</span><span class="cnode">Chiang Mai</span><span class="carr">→</span><span class="cnode ctop">Angkor Wat</span><span class="carr">→</span><span class="cnode">Krabi/Railay</span><span class="carr">→</span><span class="cnode">Koh Lanta</span></div>
+        <div class="gmeta"><span class="fit f-ideal">Des: ideal</span><span class="fit f-ideal">Jan: ideal</span><span class="gprice mono">29–35 k</span></div>
+        <p class="gnote">Begge lands beste vær samtidig. Angkor kjøligst des–jan. Billigst av alt.</p>
+      </div>
+
+      <div class="gcard">
+        <div class="ghead"><h3 class="serif">🇻🇳 Vietnam nord → sør</h3><span class="gscore mono">9</span></div>
+        <div class="chain"><span class="cnode ctop">Ha Long / Ninh Binh</span><span class="carr">→</span><span class="cnode">Hoi An</span><span class="carr">→</span><span class="cnode">Saigon</span><span class="carr">→</span><span class="cnode">Mekong</span><span class="carr">→</span><span class="cnode">Phu Quoc</span></div>
+        <div class="gmeta"><span class="fit f-god">Des: sør fint, nord grått</span><span class="fit f-ideal">Jan: sør ideal</span><span class="gprice mono">28–30 k</span></div>
+        <p class="gnote">Reis sørover med sola. Nord (karsten, 9/10) er egentlig november-vare.</p>
+      </div>
+
+      <div class="gcard">
+        <div class="ghead"><h3 class="serif">🇱🇰 Sri Lanka-runden</h3><span class="gscore mono">8,5</span></div>
+        <div class="chain"><span class="cnode">Sigiriya</span><span class="carr">→</span><span class="cnode">Kandy</span><span class="carr">→</span><span class="cnode ctop">togturen til Ella</span><span class="carr">→</span><span class="cnode">Yala-safari</span><span class="carr">→</span><span class="cnode">Mirissa</span><span class="carr">→</span><span class="cnode">Galle</span></div>
+        <div class="gmeta"><span class="fit f-ideal">Des: ideal</span><span class="fit f-ideal">Jan: ideal + blåhval</span><span class="gprice mono">28–34 k</span></div>
+        <p class="gnote">Te-høyland, strand, leoparder og blåhval på én liten øy. Privat sjåfør ~700 kr/dag delt.</p>
+      </div>
+
+      <div class="gcard">
+        <div class="ghead"><h3 class="serif">🇵🇭 Palawan-øyhopping</h3><span class="gscore mono">9,5</span></div>
+        <div class="chain"><span class="cnode">Manila/Cebu</span><span class="carr">→</span><span class="cnode">Puerto Princesa</span><span class="carr">→</span><span class="cnode ctop">El Nido</span><span class="carr">→</span><span class="cnode ctop">Coron</span></div>
+        <div class="gmeta"><span class="fit f-ideal">Des: ideal</span><span class="fit f-ideal">Jan: ideal</span><span class="gprice mono">31–34 k</span></div>
+        <p class="gnote">Sørøst-Asias vakreste øyrike — laguner, karst, vrakdykking. Julefly fylles tidlig (diaspora).</p>
+      </div>
+
+      <div class="gcard">
+        <div class="ghead"><h3 class="serif">🇳🇿 New Zealand Sørøya</h3><span class="gscore mono">10</span></div>
+        <div class="chain"><span class="cnode">Christchurch</span><span class="carr">→</span><span class="cnode ctop">Tekapo / Mt Cook</span><span class="carr">→</span><span class="cnode">Wanaka</span><span class="carr">→</span><span class="cnode">Queenstown</span><span class="carr">→</span><span class="cnode ctop">Milford Sound</span><span class="carr">→</span><span class="cnode">Marlborough</span></div>
+        <div class="gmeta"><span class="fit f-god">Des: fint før 20.</span><span class="fit f-ok">Jan: makspris + fullt</span><span class="gprice mono">68–74 k</span></div>
+        <p class="gnote">Vakrest av alt — men dyrest, og skoleferie-priser hele januar. November-land for verdi.</p>
+      </div>
+
+      <div class="gcard">
+        <div class="ghead"><h3 class="serif">🇨🇴 Colombia — Karibia + kaffe</h3><span class="gscore mono">8</span></div>
+        <div class="chain"><span class="cnode">Cartagena</span><span class="carr">→</span><span class="cnode">Medellín</span><span class="carr">→</span><span class="cnode ctop">Salento / Cocora</span><span class="carr">→</span><span class="cnode">Bogotá</span></div>
+        <div class="gmeta"><span class="fit f-ideal">Des: tørrsesong</span><span class="fit f-ideal">Jan: tørrest + rolig</span><span class="gprice mono">~30 k</span></div>
+        <p class="gnote">Undervurdert des–jan-vinner: 60 m vokspalmer, kaffefincaer, koloniby. Rolig etter 15. jan.</p>
+      </div>
+
+      <div class="gcard">
+        <div class="ghead"><h3 class="serif">🇹🇿 Serengeti + Zanzibar</h3><span class="gscore mono">9,5</span></div>
+        <div class="chain"><span class="cnode ctop">Ngorongoro</span><span class="carr">→</span><span class="cnode ctop">Ndutu-kalvingen</span><span class="carr">→</span><span class="cnode">Stone Town</span><span class="carr">→</span><span class="cnode">Nungwi-strendene</span></div>
+        <div class="gmeta"><span class="fit f-god">Des: grønt, flokkene sør</span><span class="fit f-ideal">Jan: kalving fra sent jan</span><span class="gprice mono">~66 k</span></div>
+        <p class="gnote">Naturteater i verdensklasse — men dyrest (safari 3 500–8 000 kr/dag). Midt-jan billigere enn jul.</p>
+      </div>
+
+      <div class="gcard">
+        <div class="ghead"><h3 class="serif">🇨🇳 Kina — is til sol</h3><span class="gscore mono">Yunnan 9</span></div>
+        <div class="chain"><span class="cnode">Harbin-isfestival</span><span class="carr">→</span><span class="cnode">Beijing + Muren</span><span class="carr">→</span><span class="cnode ctop">Lijiang / Yunnan</span><span class="carr">→</span><span class="cnode">Hainan / Hongkong</span></div>
+        <div class="gmeta"><span class="fit f-god">Des: Yunnan/Hainan fine</span><span class="fit f-god">Jan: Harbin åpner 5. jan</span><span class="gprice mono">35–50 k</span></div>
+        <p class="gnote">Unik kontrast (-25 °C → +26 °C). Men karst-ikonene er grå nå, og vin finnes ikke — oktober-land for dere.</p>
+      </div>
+
+      <div class="gcard avoidcard">
+        <div class="ghead"><h3 class="serif">❌ Vakre — men feil sesong nå</h3></div>
+        <div class="chain"><span class="cnode">🇮🇩 Bali/Komodo (våtest)</span><span class="cnode">🇳🇦 Namibia (40 °C+)</span><span class="cnode">🇸🇨 Seychellene (regn)</span><span class="cnode">🇲🇺 Mauritius (syklon i jan)</span><span class="cnode">🇵🇪 Cusco/MP (regntid)</span><span class="cnode">🇨🇳 Guilin/Zhangjiajie (grått)</span><span class="cnode">🇯🇵 Kyoto (vinter — nov-land)</span></div>
+        <p class="gnote">Alle 8,5–9,5 i score — spar dem til riktig sesong i stedet for å se dem på sitt svakeste.</p>
+      </div>
+
     </div>
   </section>
 
@@ -363,6 +509,8 @@
           <tr><td>Mendoza-vin <small>(8)</small></td><td><span class="fit f-ideal">Ideal · vår</span></td><td><span class="fit f-god">God · varmt</span></td><td><span class="fit f-ok">OK · 33 °C+</span></td></tr>
           <tr><td>Andaman / Thailand <small>(8,5)</small></td><td><span class="fit f-god">God · billigst</span></td><td><span class="fit f-ideal">Ideal</span></td><td><span class="fit f-ideal">Ideal · dyrt fly</span></td></tr>
           <tr><td>Palawan <small>(9,5)</small></td><td><span class="fit f-god">God · restbyger</span></td><td><span class="fit f-ideal">Ideal</span></td><td><span class="fit f-ideal">Ideal</span></td></tr>
+          <tr><td>Australia SØ + GOR <small>(8) ✅</small></td><td><span class="fit f-ideal">Ideal · rolig vår</span></td><td><span class="fit f-god">God t.o.m. ~20. des</span></td><td><span class="fit f-god">God · AO + Hunter-vintage</span></td></tr>
+          <tr><td>Colombia kaffeaksen <small>(8)</small></td><td><span class="fit f-ok">OK · regntopp</span></td><td><span class="fit f-ideal">Ideal · tørt</span></td><td><span class="fit f-ideal">Ideal · tørrest</span></td></tr>
           <tr><td>NZ Sørøya <small>(10)</small></td><td><span class="fit f-ideal">Ideal · skulderpris</span></td><td><span class="fit f-god">God t.o.m. ~20. des</span></td><td><span class="fit f-ok">OK · makspris</span></td></tr>
           <tr><td>Bali / Komodo <small>(8,5)</small></td><td><span class="fit f-ok">OK</span></td><td><span class="fit f-avoid">Unngå · våtsesong</span></td><td><span class="fit f-avoid">Unngå · våtest</span></td></tr>
           <tr><td>Namibia <small>(9,5)</small></td><td><span class="fit f-ok">OK · 38 °C</span></td><td><span class="fit f-avoid">Unngå · 42 °C</span></td><td><span class="fit f-avoid">Unngå</span></td></tr>
@@ -470,7 +618,34 @@
 
   var TH_OUTLINE = [[92.5,21.5],[92.6,19.5],[94,16],[96,15.5],[97.6,16.5],[97.6,14.5],[98.2,12],[98.6,10],[98.4,8.6],[99.2,7],[100.3,5.6],[101.7,5],[103.1,5.4],[103.5,7],[102.6,9],[100.9,9.5],[100.2,10.3],[99.2,11.6],[99.9,13],[100.6,13.5],[101.7,12.6],[103,10.6],[104.5,10.4],[105,9],[105.1,8.6],[106.2,9.5],[107.2,10.4],[108.1,11.3],[109.3,13.2],[109.1,14.5],[108.2,16.1],[107.2,17],[106.5,18.5],[105.8,19.8],[106.7,20.7],[107.8,21.3],[105.5,22.8],[104,22.5],[101.5,22],[100,21.5],[97.8,23.5],[95.2,23.8]];
 
-  /* ---------- plansje I: grand tour ---------- */
+  var AU_OUTLINE = [[153.1,-26.5],[153.6,-28.2],[153.6,-28.7],[153.2,-30.3],[152.9,-31.4],[152.5,-32.4],[151.8,-32.9],[151.3,-33.9],[150.9,-34.6],[150.7,-35.1],[150.1,-36.3],[149.9,-37.5],[148,-37.9],[146.5,-38.7],[145.4,-38.3],[145.1,-38.5],[144.9,-38.3],[144.6,-38.1],[143.6,-38.85],[142.5,-38.4],[141.5,-38.4],[140.5,-38.05],[140.5,-34],[144,-31],[147,-28.5],[150,-26.5]];
+
+  /* ---------- plansje I: Australia (valgt) ---------- */
+  drawMap('map-au', {
+    w: 460, h: 400, pad: 34,
+    outline: AU_OUTLINE,
+    regions: [['Tasmanhavet', 152.8, -36.3], ['Bass-stredet', 146.8, -39.6]],
+    stops: {
+      bne:  { name: '1 Brisbane (inn)',  lon: 153.03, lat: -27.47, side: 'left' },
+      byron:{ name: '2 Byron Bay',       lon: 153.60, lat: -28.64, side: 'left', dy: 12 },
+      hunter:{ name: '3 Hunter Valley',  lon: 151.30, lat: -32.78, side: 'left', dy: -4 },
+      syd:  { name: '4 Sydney',          lon: 151.21, lat: -33.87, side: 'right', dy: 8 },
+      jervis:{ name: '5 Jervis Bay',     lon: 150.67, lat: -35.05, side: 'right', dy: 6, minor: true },
+      cbr:  { name: '6 Canberra',        lon: 149.13, lat: -35.28, side: 'left', dy: -4 },
+      ruth: { name: '7 Rutherglen',      lon: 146.46, lat: -36.05, side: 'left', dy: -6 },
+      yarra:{ name: '8 Yarra Valley',    lon: 145.52, lat: -37.65, side: 'right', dy: -6 },
+      mel:  { name: '9 Melbourne (ut)',  lon: 144.96, lat: -37.81, side: 'left', dy: -8 },
+      gor:  { name: '10 Twelve Apostles',lon: 143.10, lat: -38.66, side: 'left', dy: 14, star: true },
+      phillip:{ name: 'Phillip Island',  lon: 145.23, lat: -38.49, side: 'right', dy: 14, minor: true }
+    },
+    legs: [
+      ['bne', 'byron', 'land'], ['byron', 'hunter', 'land'], ['hunter', 'syd', 'land'],
+      ['syd', 'jervis', 'land'], ['jervis', 'cbr', 'land'], ['cbr', 'ruth', 'land'],
+      ['ruth', 'yarra', 'land'], ['yarra', 'mel', 'land'], ['mel', 'gor', 'land'], ['mel', 'phillip', 'land']
+    ]
+  });
+
+  /* ---------- plansje II: grand tour ---------- */
   drawMap('map-sa', {
     w: 400, h: 540, pad: 30,
     outline: SA_OUTLINE,
@@ -558,6 +733,7 @@
     { name: 'Sør-Afrika', sub: 'verdi-vinneren', v: { nov: 35, des: 41, jul: 51 } },
     { name: 'Sør-Amerika grand tour', sub: 'totalvinneren', v: { nov: 45, des: 48, jul: 56 } },
     { name: 'Rio + Patagonia + Salar', sub: 'kun romjula', v: { nov: null, des: null, jul: 51 } },
+    { name: 'Australia bobil-vinruten', sub: '✅ valgt · jan 2027', v: { nov: 62, des: 66, jul: 70 } },
     { name: 'New Zealand Sørøya', sub: 'til referanse', v: { nov: 64, des: 68, jul: 74 } }
   ];
 
