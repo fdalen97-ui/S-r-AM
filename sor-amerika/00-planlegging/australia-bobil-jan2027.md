@@ -8,16 +8,17 @@ Basert på egen research-rapport (claude.ai, 251 kilder) + kryss-sjekket mot
 > (book NÅ, ikke i oktober), og (2) dere lander midt i nyttårs-peaken for
 > campingplasser. Se «Fase NÅ»-listen nederst — flere frister er akutte.
 
-## 🎆 Nyttårsvalget (må tas før booking)
+## 🎆 Nyttår: AVGJORT — hotell i Brisbane, bobil fra 2. jan
 
-Landing i Brisbane ~27.–30. des (2 døgn reisetid+tidssone). To alternativer:
-
-- **A) Hent bobilen med en gang (28.–30. des):** maksimal bobiltid, men krever
-  ny prisforespørsel (NYE-tillegg) og **nyttårs-campingplass må bookes UMIDDELBART**
-  (strandparker 250+ AUD/natt, utsolgt måneder i forveien).
-- **B) Anbefalt: nyttår på hotell, bobil fra 1.–2. jan:** 3–5 rolige dager i
-  Brisbane/Gold Coast/Byron (leiebil er billig), nyttårsfeiring uten camping-kaos,
-  og bobil-leien beholder jan-prisen fra eksisterende tilbud. Ruten videre uendret.
+Research (aug 2026) avgjorde valget entydig:
+- **Brisbane-hotell 28. des–2. jan:** sentralt 4★ ~800–1 100 AUD (5 400–7 400 kr)
+  for 4 netter — byen er billig over nyttår (ferierende drar UT). **Gratis
+  midnattsfyrverkeri** over elven (Lord Mayor's NYE, fire elvepresinkter).
+- **Byron-camping over nyttår frarådes:** 7-netters minimum, 348 AUD/natt,
+  nesten utsolgt. Byron tas 3.–5. jan i stedet.
+- **Bobil-henting 2. jan vinner også på leiepris:** unngår QLD-fridagen 28. des
+  og helligdagen 1. jan (helligdagsgebyr $125 / stengte depoter) og romjulens
+  makspriser — typisk AUD 500–1 500 spart vs. henting i romjula.
 
 ---
 
@@ -117,7 +118,11 @@ Februar er Sørøyas tørreste/roligste sommermåned. MEL→CHC/ZQN fra ~1 400�
 → ✈️ ut Queenstown/Christchurch → OSL (~14.–16. feb)
 ```
 
-- 🚐 **Enveis bobil/bil Christchurch → Queenstown** er standard rute i NZ
+- 🚗 **AVGJORT: enveis LEIEBIL + motell/hotell** (ikke bobil) — nye
+  selvforsynt-regler (juni 2026) fjernet frikjemping-gevinsten, bobilen ville
+  stått ubrukt under Doubtful-cruiset, og prisen er lik/lavere (~20 500–34 000 kr
+  for bil + 13 motellnetter). **Fly hjem fra Queenstown** med mindre
+  CHC-utgangen er >2 500 kr billigere p.p. ved booking
 - 🍷 Central Otago = verdens sørligste vinregion — pinot noir-finalen på vinturen
 - Fleksibel lengde: 10 dager (kutt Wanaka/Doubtful) til 14 dager (alt + Marlborough? nei — for langt; heller ekstra Fiordland)
 - 💰 Tillegg ~**25–30 000 p.p.** (12–14 dager à ~1 600–1 800 + interne fly, feb-rabatt)
@@ -126,10 +131,28 @@ Februar er Sørøyas tørreste/roligste sommermåned. MEL→CHC/ZQN fra ~1 400�
 
 ## 🚐 BILEN — dypdykk (viktigst å få riktig)
 
-**Aktører:** Apollo (5–15 % billigere enn Britz for tilsvarende bil, forsikring
-$3–5/dag billigere), Britz/Maui (THL — nyere flåte), Star RV, Jucy/Travellers
-Autobarn (budsjett). Eksisterende Trailblazer-tilbud (AUD 7 652/30 d) gjaldt
-2.–31. jan — **be om ny kvote for faktiske datoer før noe annet bookes.**
+**Avklart (research aug 2026):** «Trailblazer» er en **Britz**-modell — eneste
+Britz-camper med toalett/dusj. Apollo, Britz, Maui, Star RV, Cheapa og Mighty
+eies alle av **samme konsern (thl)** — samme flåte i ulike prisklasser.
+Tilbudet AUD 7 652/30 d ($255/dag) er **midt i normalområdet** for jan-peak.
+
+**Anbefalt bil:** Britz Trailblazer (match/forny tilbudet) eller Apollo Euro
+Tourer (~$230–300/dag). Budsjettvinner MED bad: Cheapa Campa 2 Berth
+(~$180–250/dag, lavest enveisgebyr $175). Oppgradering hvis diff < ~10 000 kr:
+Star RV Polaris 2 (ny Fiat Ducato). Velg alltid **2-berth MED bad** i
+januar-varmen. **Henting/levering: 2.–31. jan** (se nyttårsseksjonen).
+
+**Booking:** Avbestillbar rate via **DriveNow** (live-priser, ingen gebyr,
+gratis avbestilling) eller direkte hos thl — re-book ved kampanje i sep–nov.
+**Unngå Motorhome Republic** (ikke-refunderbare depositum, 1,3/5 i omtaler).
+August er på grensen for des-henting men OK for 2. jan — ikke vent.
+
+**Forsikring — her ligger ~20 000 kr:** Utleiers topppakke ($65–70/dag) koster
+~22–23 500 kr for 30 dager. Alternativ: standard ansvar + **Tripcover**
+(Allianz, ~$6–15/dag → 1 300–3 000 kr totalt). Krav: kredittkort med
+**≥ 55 000 kr ledig ramme** ($7 500-bond holdes; refusjonsmodell ved skade;
+kortgebyr 1,9–2,8 % refunderes hos thl ved skadefri retur). Uten slik ramme:
+Star RV «Essentials» ($60/dag, bond kun $2 500).
 
 | Sjekkpunkt | Detalj |
 |---|---|
@@ -146,9 +169,10 @@ Autobarn (budsjett). Eksisterende Trailblazer-tilbud (AUD 7 652/30 d) gjaldt
 
 **⏰ DENNE UKEN:**
 1. 🎾 **AO-billetter — salget åpnet 13. august!** Finalehelgen (30.–31. jan) selges ut først — kjøp via Ticketmaster AU nå
-2. ✈️ **Internasjonale fly** — romjul-avreise bookes 4–5 mnd før, ikke i oktober: multi-city OSL→BNE (25.–28. des) + ZQN/CHC→OSL (feb). Forvent 18 000–21 000 p.p. totalt (romjul-tillegget). Pris-scriptet overvåker
-3. 🚐 **Bobil: ny kvote for nye datoer** + book (avbestillbar rate) — des-henting er årets travleste
-4. 🎆 **Ta nyttårsvalget (A/B over)** — ved A: book NYE-camping i dag
+2. ✈️ **Internasjonale fly: Emirates multi-city** OSL→BNE **25. des** (billigste romjulsdato) + CHC/ZQN→OSL ~14.–15. feb — én billett, 15 000–19 000 p.p. Book direkte hos Emirates innen 2–4 uker (backup: Qatar via AKL-retur). Sjekk SYD-inngang i samme søk (bytt kun hvis >2 000 billigere p.p.)
+3. 🚐 **Bobil: avbestillbar booking 2.–31. jan via DriveNow** (Britz Trailblazer / Apollo Euro Tourer) + be thl matche $7 652-tilbudet
+4. 🎆 **Brisbane-hotell 28. des–2. jan** (fri avbestilling, sentralt v/South Bank for fyrverkeriet)
+5. 🏕️ **Kritiske campingnetter:** Byron 3.–5. jan (Discovery) · **Seal Rocks (Reflections — fylles NÅ)** · Sydney Lakeside 13.–15. jan · Jervis Bay/Booderee · evt. hele VIC-nasjonalparkdelen (halv pris, bookbar t.o.m. 28. feb)
 
 **INNEN 2–4 UKER:**
 5. 🛂 eVisitor-visum Australia (gratis, online, 90 dager) + NZeTA/IVL for NZ + sjekk passgyldighet
