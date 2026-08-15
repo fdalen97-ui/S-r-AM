@@ -1,0 +1,373 @@
+<title>Reiseverkstedet</title>
+<style>
+  :root {
+    --paper: #f2f5f1;
+    --card: #fbfcfa;
+    --ink: #202a24;
+    --ink-2: #57645c;
+    --ink-3: #8a958e;
+    --line: #d6ddd6;
+    --pinot: #8c2f42;
+    --pinot-soft: rgba(140, 47, 66, .09);
+    --fjord: #2e6070;
+    --fjord-soft: rgba(46, 96, 112, .1);
+    --gull: #a8842c;
+    --sel-bg: #8c2f42;
+    --sel-ink: #fdf6f4;
+    --shadow: 0 1px 2px rgba(32, 42, 36, .07), 0 6px 24px rgba(32, 42, 36, .07);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #141b17;
+      --card: #1c2420;
+      --ink: #e7ece7;
+      --ink-2: #a4b0a8;
+      --ink-3: #6f7c74;
+      --line: #32403a;
+      --pinot: #c4677c;
+      --pinot-soft: rgba(196, 103, 124, .14);
+      --fjord: #7fb3c2;
+      --fjord-soft: rgba(127, 179, 194, .12);
+      --gull: #d3a94e;
+      --sel-bg: #c4677c;
+      --sel-ink: #1a1114;
+      --shadow: 0 1px 2px rgba(0, 0, 0, .4), 0 6px 24px rgba(0, 0, 0, .35);
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #141b17;
+    --card: #1c2420;
+    --ink: #e7ece7;
+    --ink-2: #a4b0a8;
+    --ink-3: #6f7c74;
+    --line: #32403a;
+    --pinot: #c4677c;
+    --pinot-soft: rgba(196, 103, 124, .14);
+    --fjord: #7fb3c2;
+    --fjord-soft: rgba(127, 179, 194, .12);
+    --gull: #d3a94e;
+    --sel-bg: #c4677c;
+    --sel-ink: #1a1114;
+    --shadow: 0 1px 2px rgba(0, 0, 0, .4), 0 6px 24px rgba(0, 0, 0, .35);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 48px 20px 80px; display: flex; flex-direction: column; gap: 56px; }
+  .serif { font-family: Didot, "Bodoni MT", "Playfair Display", "Iowan Old Style", Georgia, serif; }
+  .eyebrow { font-size: 11.5px; letter-spacing: .18em; text-transform: uppercase; color: var(--pinot); font-weight: 700; }
+
+  header.hero { text-align: left; border-bottom: 1px solid var(--line); padding-bottom: 36px; display: flex; flex-direction: column; gap: 16px; }
+  header.hero h1 { font-size: clamp(40px, 7vw, 58px); margin: 0; line-height: 1.04; letter-spacing: .005em; text-wrap: balance; font-weight: 500; }
+  header.hero p { margin: 0; max-width: 58ch; color: var(--ink-2); font-size: 17px; }
+  .rules { display: flex; flex-direction: column; gap: 8px; margin-top: 6px; }
+  .rule { display: flex; gap: 12px; align-items: baseline; font-size: 15px; }
+  .rule b { color: var(--pinot); font-family: Didot, "Bodoni MT", Georgia, serif; font-size: 19px; min-width: 18px; }
+
+  section.akt { display: flex; flex-direction: column; gap: 18px; }
+  .akt-head { display: flex; align-items: baseline; gap: 16px; border-bottom: 1px solid var(--line); padding-bottom: 10px; }
+  .akt-no { font-family: Didot, "Bodoni MT", Georgia, serif; font-size: 44px; color: var(--pinot); line-height: 1; }
+  .akt-head h2 { margin: 0; font-size: 25px; font-weight: 600; letter-spacing: .003em; }
+  .akt-head .tid { margin-left: auto; font-size: 12px; color: var(--ink-3); white-space: nowrap; letter-spacing: .08em; text-transform: uppercase; }
+  .akt > p { margin: 0; color: var(--ink-2); max-width: 62ch; }
+  .akt > p strong { color: var(--ink); }
+
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip { font-size: 13.5px; border: 1px solid var(--line); background: var(--card); border-radius: 999px; padding: 6px 14px; color: var(--ink); }
+
+  .kontoer { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; }
+  .konto { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; font-size: 14.5px; box-shadow: var(--shadow); }
+  .konto b { display: block; }
+  .konto span { color: var(--ink-3); font-size: 13px; }
+
+  .valg { background: var(--card); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); padding: 20px 22px 18px; display: flex; flex-direction: column; gap: 12px; }
+  .valg h3 { margin: 0; font-size: 18.5px; font-weight: 650; }
+  .valg h3 em { font-family: Didot, "Bodoni MT", Georgia, serif; font-style: italic; font-weight: 500; color: var(--pinot); }
+  .valg .hint { font-size: 13.5px; color: var(--ink-2); margin: 0; }
+  .opts { display: flex; flex-direction: column; gap: 8px; }
+  button.opt {
+    text-align: left; font: inherit; color: var(--ink);
+    background: var(--paper); border: 1.5px solid var(--line); border-radius: 9px;
+    padding: 10px 14px; cursor: pointer; display: flex; gap: 10px; align-items: baseline;
+    transition: border-color .12s, background .12s;
+  }
+  button.opt:hover { border-color: var(--pinot); }
+  button.opt:focus-visible { outline: 2.5px solid var(--fjord); outline-offset: 2px; }
+  button.opt[aria-pressed="true"] { background: var(--sel-bg); border-color: var(--sel-bg); color: var(--sel-ink); }
+  button.opt[aria-pressed="true"] .konsekvens { color: var(--sel-ink); opacity: .82; }
+  .opt .tag { font-weight: 700; font-size: 14.5px; white-space: nowrap; }
+  .opt .konsekvens { font-size: 13px; color: var(--ink-2); }
+
+  .protokoll { background: var(--card); border: 1.5px solid var(--pinot); border-radius: 12px; box-shadow: var(--shadow); padding: 24px; display: flex; flex-direction: column; gap: 14px; }
+  .protokoll h2 { margin: 0; font-size: 24px; font-weight: 600; }
+  .protokoll p { margin: 0; color: var(--ink-2); font-size: 14.5px; }
+  textarea#ut {
+    width: 100%; min-height: 240px; resize: vertical;
+    font: 13px/1.6 ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+    color: var(--ink); background: var(--paper); border: 1px solid var(--line); border-radius: 8px; padding: 14px;
+  }
+  .knapper { display: flex; gap: 10px; flex-wrap: wrap; }
+  button.kn {
+    font: inherit; font-weight: 700; font-size: 14.5px; cursor: pointer;
+    border-radius: 999px; padding: 10px 22px; border: 1.5px solid var(--sel-bg);
+    background: var(--sel-bg); color: var(--sel-ink);
+  }
+  button.kn.sek { background: transparent; color: var(--pinot); }
+  button.kn:focus-visible { outline: 2.5px solid var(--fjord); outline-offset: 2px; }
+  .kvitto { font-size: 13.5px; color: var(--fjord); font-weight: 600; min-height: 1.2em; }
+
+  footer { color: var(--ink-3); font-size: 13px; border-top: 1px solid var(--line); padding-top: 20px; }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+
+  <header class="hero">
+    <span class="eyebrow">Én kveld · én flaske · to stemmer</span>
+    <h1 class="serif">Reiseverkstedet</h1>
+    <p>Fakta-arbeidet er gjort: priser, sesonger, biler og bookingfrister ligger klare i Reiseatlaset.
+    Det som gjenstår er verdispørsmålene bare dere to kan svare på. Denne økta tar ca. 90 minutter og
+    ender i en protokoll som låser planen.</p>
+    <div class="rules">
+      <div class="rule"><b>I</b><span>Telefonene bort — bare denne siden er lov.</span></div>
+      <div class="rule"><b>II</b><span>Uenighet er data, ikke konflikt. Der dere spriker, ligger de viktigste svarene.</span></div>
+      <div class="rule"><b>III</b><span>Hver av dere har <strong>ett veto-ess</strong> for hele kvelden: én ting du får kreve uten å begrunne den.</span></div>
+    </div>
+  </header>
+
+  <!-- AKT 1 -->
+  <section class="akt">
+    <div class="akt-head"><span class="akt-no">1</span><h2>Postkort-testen</h2><span class="tid">Hver for seg · 10 min</span></div>
+    <p>Se for dere en kveld i mars 2027, hjemme med venner. Noen spør: <strong>«Fortell da!»</strong> —
+    Hvilke <strong>tre øyeblikk</strong> forteller DU om først? Skriv dem på hver deres lapp før dere ser
+    hverandres. Trenger dere inspirasjon, er dette øyeblikk turen faktisk kan inneholde:</p>
+    <div class="chips">
+      <span class="chip">🎾 Brølet under AO-finalen</span>
+      <span class="chip">✨ Stjernehimmelen over Seal Rocks</span>
+      <span class="chip">🍷 Fatlageret hos Pfeiffer — egen blend</span>
+      <span class="chip">🌊 Twelve Apostles i solnedgang</span>
+      <span class="chip">🥂 Nyttårsfyrverkeri i shorts</span>
+      <span class="chip">🍇 Semillon-vintage i Hunter</span>
+      <span class="chip">🚐 Frokost i markisen, ingen planer</span>
+      <span class="chip">🛥️ Stillheten i Doubtful Sound</span>
+      <span class="chip">🏔️ Milford i morgentåke</span>
+      <span class="chip">🍷 Rippon-utsikten over Lake Wanaka</span>
+      <span class="chip">🐧 Pingvinparaden i skumringen</span>
+      <span class="chip">🦘 Første ville kenguru</span>
+    </div>
+    <p><strong>Så:</strong> les opp for hverandre. Ring rundt øyeblikk dere har felles — de er turens
+    fredede kjerne og skal aldri forhandles bort.</p>
+  </section>
+
+  <!-- AKT 2 -->
+  <section class="akt">
+    <div class="akt-head"><span class="akt-no">2</span><h2>Hundre poeng</h2><span class="tid">Hver for seg · 10 min</span></div>
+    <p>Fordel <strong>100 poeng</strong> på de seks kontoene under — på papir, uten å kikke. Poengene er
+    ferielykke: der du setter mange poeng, skal turen levere. Sammenlign etterpå: den kontoen med
+    <strong>størst sprik</strong> får fem minutters taletid til hver.</p>
+    <div class="kontoer">
+      <div class="konto"><b>🍷 Vin &amp; mat</b><span>masterclasses, vingårdslunsjer, blending</span></div>
+      <div class="konto"><b>🏔️ Natur-wow</b><span>fjorder, isbreer, klipper, utsikter</span></div>
+      <div class="konto"><b>🏖️ Strand &amp; ro</b><span>bade, lese, ingen vekkerklokke</span></div>
+      <div class="konto"><b>🎾 By &amp; puls</b><span>AO, restauranter, marked, nyttår</span></div>
+      <div class="konto"><b>🚐 Frihetsfølelsen</b><span>eget hjul, stoppe der det er fint</span></div>
+      <div class="konto"><b>🛏️ Komfort</b><span>god seng, dusj, aircon, enkelhet</span></div>
+    </div>
+  </section>
+
+  <!-- AKT 3 -->
+  <section class="akt">
+    <div class="akt-head"><span class="akt-no">3</span><h2>De sju skarpe valgene</h2><span class="tid">Sammen · 40 min</span></div>
+    <p>Nå brukes poengfordelingen. Diskuter — og <strong>klikk valget dere lander på</strong>.
+    Konsekvensene under hvert alternativ er hentet rett fra tallgrunnlaget. Klarer dere ikke lande ett:
+    hopp over, protokollen noterer det som åpent.</p>
+
+    <div class="valg" data-q="Bobilen" data-akt="3">
+      <h3>1 · Er bobilen en <em>drøm</em> — eller et transportmiddel?</h3>
+      <p class="hint">Test fra bilrapporten: klarer dere å rigge om gjestesenga sammen i kveld uten å bli irriterte? Gjør det. Nå. Det er Trailblazer-livet × 30 netter.</p>
+      <div class="opts">
+        <button class="opt" data-v="Full bobil – Maui Ultima"><span class="tag">Drømmen</span><span class="konsekvens">Full måned i Maui Ultima — oppredd seng, 130 L kjøleskap. ~71 500 for to</span></button>
+        <button class="opt" data-v="Bobil-uka på kysten (Alt B)"><span class="tag">Smakebiten</span><span class="konsekvens">Bobil kun kyst-uka (Seal Rocks!), bil + B&amp;B resten. Sparer 10–15 000</span></button>
+        <button class="opt" data-v="Bil + B&B hele veien (Alt A)"><span class="tag">Transport</span><span class="konsekvens">Leiebil + vingårds-B&amp;B hele veien. Sparer 15–20 000, ekte seng hver natt</span></button>
+      </div>
+    </div>
+
+    <div class="valg" data-q="Sydney→Melbourne" data-akt="3">
+      <h3>2 · Kysten eller <em>vinen</em>?</h3>
+      <p class="hint">De ligger på hver sin side av fjellene — dere må velge (eller kjøpe begge med 2–3 ekstra dager).</p>
+      <div class="opts">
+        <button class="opt" data-v="Vinbeltet (Clonakilla–Rutherglen–Yarra)"><span class="tag">Vinen</span><span class="konsekvens">Clonakilla, Pfeiffer-blending, Oakridge — turens identitet</span></button>
+        <button class="opt" data-v="Kysten (Sapphire Coast + Wilsons Prom)"><span class="tag">Kysten</span><span class="konsekvens">Sea Cliff Bridge, østers i Merimbula, Wilsons Prom — Instagram-ruta</span></button>
+        <button class="opt" data-v="Hybriden (kyst til Eden + Snowy + vin)"><span class="tag">Begge</span><span class="konsekvens">Kyst til Eden → over Snowy → King Valley/Yarra. +2–3 dager, mister Clonakilla</span></button>
+      </div>
+    </div>
+
+    <div class="valg" data-q="Nyttårsaften" data-akt="3">
+      <h3>3 · Fyrverkeri over <em>elva</em> — eller over operahuset?</h3>
+      <div class="opts">
+        <button class="opt" data-v="Brisbane (rolig + billig)"><span class="tag">Brisbane</span><span class="konsekvens">Gratis fyrverkeri, 4 hotellnetter ~5–7 000, jetlag-vennlig, planen som ligger</span></button>
+        <button class="opt" data-v="Sydney (ikonisk + dyrt)"><span class="tag">Sydney</span><span class="konsekvens">Verdens mest berømte nyttår — men +6–9 000 og kutter Queensland-kysten (= Alt C)</span></button>
+      </div>
+    </div>
+
+    <div class="valg" data-q="Tempo" data-akt="3">
+      <h3>4 · Flere steder — eller <em>færre, lenger</em>?</h3>
+      <p class="hint">Ærlig regel fra alle som har gjort denne turen: hver flytting koster en halv dag. 14 senger på 7 uker er mange flyttinger.</p>
+      <div class="opts">
+        <button class="opt" data-v="Som planlagt (se mest mulig)"><span class="tag">Se alt</span><span class="konsekvens">Planen som ligger — tett, men gjennomførbar</span></button>
+        <button class="opt" data-v="Roligere (kutt 2–3 stopp)"><span class="tag">Puste</span><span class="konsekvens">Kutt f.eks. Canberra + Jervis, +1 natt i Hunter/Wanaka — samme høydepunkter, halve stresset</span></button>
+      </div>
+    </div>
+
+    <div class="valg" data-q="NZ-ambisjonen" data-akt="3">
+      <h3>5 · Fjorden: <em>ro</em> — eller bragd?</h3>
+      <div class="opts">
+        <button class="opt" data-v="Doubtful-natt (ro)"><span class="tag">Roen</span><span class="konsekvens">Overnattingscruise, kajakk fra båten, stillhet. ~6–7 000 p.p. Ingen fysisk terskel</span></button>
+        <button class="opt" data-v="Doubtful + Routeburn-dagstur"><span class="tag">Ro + bein</span><span class="konsekvens">Som over + Key Summit/Routeburn Falls-dagstur (gratis)</span></button>
+        <button class="opt" data-v="Ultimate Hikes Milford (bragd)"><span class="tag">Bragden</span><span class="konsekvens">4 dagers guidet Milford Track m/lodger. ~NZD 3 000+ p.p., +2 netter, må bookes NÅ</span></button>
+      </div>
+    </div>
+
+    <div class="valg" data-q="Hjemreisen" data-akt="3">
+      <h3>6 · Siste uka: er <em>tid</em> eller penger mest verdt?</h3>
+      <div class="opts">
+        <button class="opt" data-v="Ut fra Queenstown (spar 2 dager)"><span class="tag">Tiden</span><span class="konsekvens">Ingen retur-kjøring. Verdt inntil ~2 500 p.p. i dyrere fly</span></button>
+        <button class="opt" data-v="Ut fra Christchurch (spar penger)"><span class="tag">Pengene</span><span class="konsekvens">1 500–3 000 billigere p.p. — koster 2 kjøredager. Åpner evt. Guangzhou-stopover</span></button>
+      </div>
+    </div>
+
+    <div class="valg" data-q="Great Ocean Road" data-akt="3">
+      <h3>7 · GOR: snu ved Apostles — eller <em>hele sløyfa</em>?</h3>
+      <div class="opts">
+        <button class="opt" data-v="Klassisk (snu ved Port Campbell)"><span class="tag">Klassisk</span><span class="konsekvens">Som planlagt — 2 dager, Apostles i solnedgang</span></button>
+        <button class="opt" data-v="Hele sløyfa (+ Port Fairy, hjem innlands)"><span class="tag">Sløyfa</span><span class="konsekvens">+Port Fairy, rask innlandsvei hjem, ingen dobbeltkjøring. +1 dag (reel-ruta)</span></button>
+      </div>
+    </div>
+  </section>
+
+  <!-- AKT 4 -->
+  <section class="akt">
+    <div class="akt-head"><span class="akt-no">4</span><h2>Angre-testen</h2><span class="tid">Sammen · 15 min</span></div>
+    <p>Dere sitter på flyet hjem. Hvilken av disse ville dere <strong>angret mest</strong> på å ha spart bort?
+    Velg ÉN — den er hellig og bookes uansett. Sett så taket: beløpet dere ikke vil krysse.</p>
+
+    <div class="valg" data-q="Den hellige splurgen" data-akt="4">
+      <h3>Én ting angrer man aldri på</h3>
+      <div class="opts">
+        <button class="opt" data-v="AO-finalebilletter"><span class="tag">🎾 AO-finalen</span><span class="konsekvens">selges ut først av alt</span></button>
+        <button class="opt" data-v="Doubtful privat lugar"><span class="tag">🛥️ Doubtful-natta</span><span class="konsekvens">18 lugarer finnes</span></button>
+        <button class="opt" data-v="Maui Ultima-komforten"><span class="tag">🛏️ Ultima-senga</span><span class="konsekvens">30 netter god søvn</span></button>
+        <button class="opt" data-v="GOR-helikopter over Apostles"><span class="tag">🚁 Helikopteret</span><span class="konsekvens">~AUD 165 p.p.</span></button>
+        <button class="opt" data-v="Luftballong over Hunter i vintage"><span class="tag">🎈 Ballongen</span><span class="konsekvens">soloppgang over vinmarkene</span></button>
+      </div>
+    </div>
+
+    <div class="valg" data-q="Budsjett-taket" data-akt="4">
+      <h3>Taket (for to, alt inkludert)</h3>
+      <div class="opts">
+        <button class="opt" data-v="~160 000 kr — da velger vi Alt A/B og kutter"><span class="tag">160 000</span><span class="konsekvens">krever bil-alternativ + kutt</span></button>
+        <button class="opt" data-v="~190 000 kr — planen slik den ligger"><span class="tag">190 000</span><span class="konsekvens">dagens plan, nøktern utgave</span></button>
+        <button class="opt" data-v="~220 000 kr — med Ultima og splurger"><span class="tag">220 000</span><span class="konsekvens">komfort + de hellige tingene</span></button>
+        <button class="opt" data-v="Opplevelsen styrer — innenfor fornuft"><span class="tag">Åpent</span><span class="konsekvens">bookingene tas på verdi, ikke tak</span></button>
+      </div>
+    </div>
+  </section>
+
+  <!-- AKT 5 / PROTOKOLL -->
+  <section class="akt">
+    <div class="akt-head"><span class="akt-no">5</span><h2>Protokollen</h2><span class="tid">2 min</span></div>
+    <div class="protokoll">
+      <h2 class="serif">Beslutningsprotokoll</h2>
+      <p>Fylles ut automatisk mens dere klikker. Lim den inn i chatten til Claude — så låses planen,
+      atlaset og bestillingslisten etter valgene deres samme kveld.</p>
+      <textarea id="ut" readonly aria-label="Beslutningsprotokoll"></textarea>
+      <div class="knapper">
+        <button class="kn" id="kopier">Kopier protokollen</button>
+        <button class="kn sek" id="nullstill">Nullstill</button>
+      </div>
+      <div class="kvitto" id="kvitto" role="status"></div>
+    </div>
+  </section>
+
+  <footer>
+    Reiseverkstedet hører til Reiseatlaset (Australia + New Zealand, romjul 2026 → februar 2027).
+    Tallene i konsekvenslinjene er fra det verifiserte tallgrunnlaget i reiseplan-repoet.
+  </footer>
+</div>
+
+<script>
+(function () {
+  'use strict';
+  var valgBokser = Array.prototype.slice.call(document.querySelectorAll('.valg'));
+  var ut = document.getElementById('ut');
+  var kvitto = document.getElementById('kvitto');
+
+  function oppdater() {
+    var linjer = [
+      'BESLUTNINGSPROTOKOLL — Reiseverkstedet',
+      'Tur: Australia + New Zealand, romjul 2026 -> februar 2027',
+      ''
+    ];
+    var aapne = [];
+    valgBokser.forEach(function (boks) {
+      var q = boks.getAttribute('data-q');
+      var valgt = boks.querySelector('.opt[aria-pressed="true"]');
+      if (valgt) {
+        linjer.push('* ' + q + ': ' + valgt.getAttribute('data-v'));
+      } else {
+        aapne.push(q);
+      }
+    });
+    if (aapne.length) {
+      linjer.push('');
+      linjer.push('Fortsatt aapne (trenger Claudes hjelp eller mer prat): ' + aapne.join(', '));
+    } else {
+      linjer.push('');
+      linjer.push('Alle valg tatt. Klare til aa laase planen.');
+    }
+    linjer.push('');
+    linjer.push('Veto-ess brukt paa: ______________________');
+    linjer.push('Postkort-oyeblikkene vaare (fra akt 1): ______________________');
+    ut.value = linjer.join('\n');
+  }
+
+  valgBokser.forEach(function (boks) {
+    var opts = Array.prototype.slice.call(boks.querySelectorAll('.opt'));
+    opts.forEach(function (o) {
+      o.setAttribute('aria-pressed', 'false');
+      o.addEventListener('click', function () {
+        var var_valgt = o.getAttribute('aria-pressed') === 'true';
+        opts.forEach(function (x) { x.setAttribute('aria-pressed', 'false'); });
+        if (!var_valgt) o.setAttribute('aria-pressed', 'true');
+        oppdater();
+      });
+    });
+  });
+
+  document.getElementById('kopier').addEventListener('click', function () {
+    var vis = function (t) { kvitto.textContent = t; setTimeout(function () { kvitto.textContent = ''; }, 3500); };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(ut.value).then(
+        function () { vis('Kopiert — lim inn i chatten til Claude.'); },
+        function () { ut.focus(); ut.select(); vis('Marker teksten og kopier manuelt (Ctrl/Cmd+C).'); }
+      );
+    } else {
+      ut.focus(); ut.select(); vis('Marker teksten og kopier manuelt (Ctrl/Cmd+C).');
+    }
+  });
+
+  document.getElementById('nullstill').addEventListener('click', function () {
+    document.querySelectorAll('.opt[aria-pressed="true"]').forEach(function (o) { o.setAttribute('aria-pressed', 'false'); });
+    oppdater();
+    kvitto.textContent = 'Nullstilt.';
+    setTimeout(function () { kvitto.textContent = ''; }, 2000);
+  });
+
+  oppdater();
+})();
+</script>
