@@ -23,7 +23,9 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/kurs-og-studier.md`](00-analyse/kurs-og-studier.md) | Kurs/studier i vin og tech: 3-mnd-regelen, WSET-priser, bootcamps, formelle studier, Lånekassen-fasit + morsomme intensivkurs (PDC, dykking, matlaging) |
 | [`00-analyse/restauranter.md`](00-analyse/restauranter.md) | Restaurantguiden: billig-ikon / midtsjikt / splurge per by, vingårdsrestauranter, spis-godt-billig-strategier |
 | [`00-analyse/bil-strategi.md`](00-analyse/bil-strategi.md) | Bil-strategien: leie vs. bobil vs. kjøpe-og-selge, relocation-deals, spare-triks |
-| [`00-analyse/pakkereiser.md`](00-analyse/pakkereiser.md) | Pakkereise eller DIY: dom per del av turen, AO-billettvinduet, charter-matten, pakkereiseloven |
+| [`00-analyse/pakkereiser.md`](00-analyse/pakkereiser.md) | Pakkereise eller DIY: dom per del av turen, charter-matten, pakkereiseloven |
+| [`00-analyse/buss-og-gruppeturer.md`](00-analyse/buss-og-gruppeturer.md) | Buss-pass (Whimit/FlexiPass/Kiwi Experience) og gruppeturer vs. leiebil — par-matten og hybridmodellen |
+| [`00-analyse/opplevelser.md`](00-analyse/opplevelser.md) | Opplevelses-guiden: beste bookbare turer per by (GetYourGuide/Viator/Klook) med priser |
 
 ### 10 · Australia 🇦🇺
 Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory
