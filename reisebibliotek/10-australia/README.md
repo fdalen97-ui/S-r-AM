@@ -2,11 +2,16 @@
 
 *Kompilert august 2026. Priser i NOK per person per dag (AUD × 6,7), inkl. overnatting (delt dobbeltrom), mat, lokal transport og aktiviteter. «Budsjett» = hostel/enkel motell + selvlaget mat + gratis natur. «Medium» = 3-stjerners/Airbnb + restaurant daglig + leiebil + 1 betalt aktivitet annenhver dag. «Komfort» = 4–5-stjerners + gode restauranter + guidede opplevelser. Generelle referansenivåer: budsjett ~AUD 100–130/dag, medium ~AUD 250–300, komfort ~AUD 580–700 ([Budget Your Trip](https://www.budgetyourtrip.com/australia), [Never Ending Footsteps](https://www.neverendingfootsteps.com/cost-of-travel-australia-budget/)).*
 
+**🗺️ Kart-oversikt:** [Den aktive kyst+vinbelte-ruten](https://www.google.com/maps/dir/Brisbane/Byron+Bay/Sydney/Canberra/Melbourne) (Brisbane → Byron Bay → Sydney → Canberra-distriktet → Melbourne) · [Great Ocean Road](https://www.google.com/maps/dir/Melbourne/Torquay/Port+Campbell/Port+Fairy) · [Australia i kartet](https://www.google.com/maps/place/Australia)
+
 **Viktig for dere som reiser i romjul/januar:** Det tropiske nord (Cairns, Whitsundays, Darwin, Kakadu, Broome) er da i våtsesong med kvelende fuktighet, sykloner og bokse-maneter («stinger season», nov–mai). Outback (Uluru, Karijini) er brennhett (35–40 °C). **Januar er derimot høysesong-perfekt i Tasmania, Victoria, South Australia, sørlige WA og NSW-kysten** – planlegg deretter.
 
 ---
 
 ## 1. Queensland-kysten
+
+![Hill Inlet og Whitehaven Beach](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aerial_View_of_Hill_Inlet_-_2013.04_-_panoramio.jpg/960px-Aerial_View_of_Hill_Inlet_-_2013.04_-_panoramio.jpg)
+*Hill Inlet og Whitehaven Beach sett fra luften, Whitsunday-øyene. Foto: rheins, CC BY 3.0, Wikimedia Commons* · 📍 [Whitsundays](https://www.google.com/maps/search/?api=1&query=Whitehaven+Beach) · [Cairns](https://www.google.com/maps/search/?api=1&query=Cairns) · [Noosa](https://www.google.com/maps/search/?api=1&query=Noosa)
 
 **Best på:** Great Barrier Reef, øyer, regnskog møter rev, strandliv. Svakest av alle på vin.
 
@@ -31,6 +36,9 @@
 
 ## 2. New South Wales
 
+![Sydney Opera House](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sydney_Opera_House_-_Dec_2008.jpg/960px-Sydney_Opera_House_-_Dec_2008.jpg)
+*Operahuset i Sydney lyser opp havnen etter mørkets frembrudd. Foto: Diliff (David Iliff), CC BY-SA 3.0, Wikimedia Commons* · 📍 [Sydney](https://www.google.com/maps/search/?api=1&query=Sydney+Opera+House) · [Blue Mountains](https://www.google.com/maps/search/?api=1&query=Blue+Mountains+NSW) · [Byron Bay](https://www.google.com/maps/search/?api=1&query=Byron+Bay)
+
 **Best på:** Sydney som verdensby, kombinasjonen storby + strand + fjell innen 2 timer.
 
 **Must-sees:**
@@ -53,6 +61,9 @@
 ---
 
 ## 3. Victoria
+
+![Twelve Apostles](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Twelve_Apostles%2C_East_view_20230218_1.jpg/960px-Twelve_Apostles%2C_East_view_20230218_1.jpg)
+*De tolv apostler — kalksteinssøylene langs Great Ocean Road. Foto: DXR, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Twelve Apostles](https://www.google.com/maps/search/?api=1&query=Twelve+Apostles+Victoria) · [Melbourne](https://www.google.com/maps/search/?api=1&query=Melbourne) · [Yarra Valley](https://www.google.com/maps/search/?api=1&query=Yarra+Valley)
 
 **Best på:** Australias mat- og kaffehovedstad, vinregioner 1 time fra byen, dramatisk kystlinje.
 
@@ -77,6 +88,9 @@
 
 ## 4. Tasmania
 
+![Wineglass Bay](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wineglass_Bay_from_Lookout.jpg/960px-Wineglass_Bay_from_Lookout.jpg)
+*Wineglass Bay sett fra utsiktspunktet i Freycinet nasjonalpark. Foto: JJ Harrison, CC BY-SA 3.0, Wikimedia Commons* · 📍 [Freycinet](https://www.google.com/maps/search/?api=1&query=Wineglass+Bay) · [Hobart/MONA](https://www.google.com/maps/search/?api=1&query=MONA+Hobart) · [Cradle Mountain](https://www.google.com/maps/search/?api=1&query=Cradle+Mountain)
+
 **Best på:** Villmark i verdensklasse, cool-climate-vin og musserende, sjømat, kort avstand mellom alt. Skreddersydd for dere.
 
 **Must-sees:**
@@ -99,6 +113,9 @@
 ---
 
 ## 5. South Australia
+
+![Barossa Valley fra Mengler Hill](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/View_of_Barossa_Valley_from_Mengler_Hill_20230207.jpg/960px-View_of_Barossa_Valley_from_Mengler_Hill_20230207.jpg)
+*Vinmarkene i Barossa Valley sett fra Mengler Hill. Foto: DXR, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Barossa Valley](https://www.google.com/maps/search/?api=1&query=Barossa+Valley) · [Clare Valley](https://www.google.com/maps/search/?api=1&query=Clare+Valley) · [Kangaroo Island](https://www.google.com/maps/search/?api=1&query=Kangaroo+Island)
 
 **Best på:** Vin, vin, vin – 18 vinregioner, halvparten av Australias produksjon – pluss dyreliv og outback. Landets mest undervurderte delstat.
 
@@ -123,6 +140,9 @@
 
 ## 6. Western Australia
 
+![Turquoise Bay, Ningaloo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Turquoise_Bay_Bundera.jpg/960px-Turquoise_Bay_Bundera.jpg)
+*Krystallklart, turkist vann ved Turquoise Bay på Ningaloo-kysten. Foto: Robert Young, CC BY 2.0, Wikimedia Commons* · 📍 [Turquoise Bay](https://www.google.com/maps/search/?api=1&query=Turquoise+Bay+Exmouth) · [Margaret River](https://www.google.com/maps/search/?api=1&query=Margaret+River) · [Rottnest](https://www.google.com/maps/search/?api=1&query=Rottnest+Island)
+
 **Best på:** Ningaloo-revet (bedre snorkling enn Great Barrier Reef), Margaret River (vin + surf), enorme avstander med ekte villmarksfølelse.
 
 **Must-sees:**
@@ -145,6 +165,9 @@
 ---
 
 ## 7. Northern Territory
+
+![Uluru i solnedgang](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sunset_at_Uluru_on_July_30%2C_2005.jpg/960px-Sunset_at_Uluru_on_July_30%2C_2005.jpg)
+*Uluru gløder rødt i solnedgangen. Foto: Thomas Schoch, CC BY-SA 3.0, Wikimedia Commons* · 📍 [Uluru](https://www.google.com/maps/search/?api=1&query=Uluru) · [Kata Tjuta](https://www.google.com/maps/search/?api=1&query=Kata+Tjuta) · [Kakadu](https://www.google.com/maps/search/?api=1&query=Kakadu+National+Park)
 
 **Best på:** Uluru – Australias åndelige hjerte – og Kakadus urfolkskultur og våtmarker. Natur/kultur-spissen; null vin, enkel mat, dyrt.
 

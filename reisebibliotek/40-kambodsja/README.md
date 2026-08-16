@@ -2,9 +2,14 @@
 
 *For et norsk par (29) med sans for mat, kultur og natur. Priser i NOK (USD × 10,5), per person/dag inkl. delt overnatting, mat, lokal transport og aktiviteter — større engangsbilletter nevnes separat. Valutaen på bakken er i praksis USD.*
 
+**🗺️ Kart-oversikt:** [Hele anbefalt rute i Google Maps](https://www.google.com/maps/dir/Siem+Reap/Battambang/Phnom+Penh/Kampot/Kep/Sihanoukville) (Siem Reap → Battambang → Phnom Penh → Kampot → Kep → øyene) · [Kambodsja i kartet](https://www.google.com/maps/place/Cambodia)
+
 ---
 
 ## 1. Siem Reap + Angkor
+
+![Angkor Wat i soloppgang](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Siem_Reap_Reflections_%28CAMBODIA-REFLECTION-ANGKOR_WAT%29_III_%281071292582%29.jpg/960px-Siem_Reap_Reflections_%28CAMBODIA-REFLECTION-ANGKOR_WAT%29_III_%281071292582%29.jpg)
+*Angkor Wat i soloppgang, speilet i tempeldammen. Foto: Chi King, CC BY 2.0, Wikimedia Commons* · 📍 [Åpne i Google Maps](https://www.google.com/maps/search/?api=1&query=Angkor+Wat%2C+Siem+Reap)
 
 **Best på:** Verdens største tempelkompleks — men også Kambodsjas beste mat- og kafé-scene og sosialt entreprenørskap.
 
@@ -31,6 +36,9 @@
 
 ## 2. Phnom Penh
 
+![Tronsalen i Det kongelige palasset](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Hala_Tronowa_%2804%29.jpg/960px-2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Hala_Tronowa_%2804%29.jpg)
+*Tronsalen i Det kongelige palasset i Phnom Penh. Foto: Marcin Konsek, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Åpne i Google Maps](https://www.google.com/maps/search/?api=1&query=Royal+Palace+Phnom+Penh)
+
 **Best på:** Historie som setter alt annet i perspektiv, kongelig prakt og en matscene i rivende utvikling langs Mekong.
 
 **Must-sees**
@@ -54,6 +62,9 @@
 ---
 
 ## 3. Sørkysten: Kampot, Kep og øyene
+
+![Solnedgang over Kampot-elven](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2016_Kampot%2C_Zach%C3%B3d_s%C5%82o%C5%84ca_nad_rzek%C4%85_Praek_Tuek_Chhu_%2822%29.jpg/960px-2016_Kampot%2C_Zach%C3%B3d_s%C5%82o%C5%84ca_nad_rzek%C4%85_Praek_Tuek_Chhu_%2822%29.jpg)
+*Solnedgang over Kampot-elven med Bokor-fjellet i bakgrunnen. Foto: Marcin Konsek, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Kampot](https://www.google.com/maps/search/?api=1&query=Kampot%2C+Cambodia) · [Kep](https://www.google.com/maps/search/?api=1&query=Kep%2C+Cambodia) · [Koh Rong Samloem](https://www.google.com/maps/search/?api=1&query=Koh+Rong+Samloem)
 
 **Best på:** Avslappet elveliv, verdens beste pepper, krabbe rett fra havet og øyer med selvlysende plankton.
 
@@ -80,6 +91,9 @@
 
 ## 4. Battambang
 
+![Bambustoget i Battambang](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Norrytourists01.JPG/960px-Norrytourists01.JPG)
+*Bambustoget («norry») ruller gjennom landsbygda utenfor Battambang. Foto: Henry Flower, CC BY-SA 3.0, Wikimedia Commons* · 📍 [Åpne i Google Maps](https://www.google.com/maps/search/?api=1&query=Battambang)
+
 **Best på:** Kambodsjas mest autentiske by — kunst, kolonialarkitektur og landsbygd uten turistmaskineri.
 
 **Must-sees**
@@ -101,6 +115,9 @@
 ---
 
 ## 5. Østlige Kambodsja: Mondulkiri, Ratanakiri, Kratie
+
+![Solnedgang over Mekong ved Kratie](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20171123_Sunset_over_Mekong_Kratie_3996_DxO.jpg/960px-20171123_Sunset_over_Mekong_Kratie_3996_DxO.jpg)
+*Solnedgang over Mekong ved Kratie — hjemmet til de sjeldne Irrawaddy-delfinene. Foto: Jakub Hałun, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Kratie](https://www.google.com/maps/search/?api=1&query=Kratie%2C+Cambodia) · [Sen Monorom (Mondulkiri)](https://www.google.com/maps/search/?api=1&query=Sen+Monorom)
 
 **Best på:** Natur og dyreliv — etiske elefantmøter, jungel, kratersjøer og ferskvannsdelfiner.
 
@@ -125,6 +142,9 @@
 ---
 
 ## 6. Preah Vihear + templer utenfor allfarvei
+
+![Prasat Preah Vihear](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/03_Prasat_Preah_Vihear-nX-06532.jpg/960px-03_Prasat_Preah_Vihear-nX-06532.jpg)
+*Munker ved klippetempelet Prasat Preah Vihear i Dangrek-fjellene (UNESCO). Foto: PsamatheM, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Åpne i Google Maps](https://www.google.com/maps/search/?api=1&query=Prasat+Preah+Vihear)
 
 **Best på:** Kambodsjas mest dramatisk beliggende tempel — og følelsen av å ha et UNESCO-monument helt for dere selv.
 

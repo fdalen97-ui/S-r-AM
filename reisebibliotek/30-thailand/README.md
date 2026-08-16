@@ -2,11 +2,16 @@
 
 *Alle priser i NOK (THB × 0,29), per person per dag inkl. overnatting (delt dobbeltrom), mat, lokal transport og aktiviteter. Flyreiser kommer i tillegg.*
 
+**🗺️ Kart-oversikt:** [«Ukjente Thailand»-ruten](https://www.google.com/maps/dir/Bangkok/Khon+Kaen/Ubon+Ratchathani/Trat/Ko+Kut) (Bangkok → Isaan → Koh Kood; Khao Sok nås med fly BKK→Surat Thani) · [Thailand i kartet](https://www.google.com/maps/place/Thailand)
+
 **Ærlig vin-varsel først:** Vin i Thailand er fortsatt dyrt, selv etter at importtollen (54–60 %) ble fjernet i 2024. En flaske som koster 200 kr på supermarked ligger på 520–730 kr på restaurant (1 800–2 500 THB), og et glass koster 80–160 kr ([Meininger's](https://www.meiningers-international.com/wine/news/thailand-slashes-taxes-wine), [The Londoner](https://www.the-londoner.com/blog/ordering-and-buying-wine-in-thailand/)). Omstill dere til Chang/Singha (25–45 kr), lokale gin-baserte cocktails — eller ta med vin fra taxfree til solnedgangene.
 
 ---
 
 ## 1. Bangkok + sentralt (Ayutthaya, Kanchanaburi)
+
+![Wat Arun i solnedgang](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Wat_Arun_Sunset.jpg/960px-Wat_Arun_Sunset.jpg)
+*Wat Arun i solnedgang ved Chao Phraya-elven, Bangkok. Foto: miketnorton, CC BY 2.0, Wikimedia Commons* · 📍 [Bangkok](https://www.google.com/maps/search/?api=1&query=Wat+Arun+Bangkok) · [Ayutthaya](https://www.google.com/maps/search/?api=1&query=Ayutthaya)
 
 **Best på:** Gatemat i verdensklasse, historie, kontraster. Bangkok er Asias beste matby målt i kvalitet per krone.
 
@@ -26,6 +31,9 @@
 ---
 
 ## 2. Nord (Chiang Mai, Chiang Rai, Pai/Mae Hong Son)
+
+![Wat Rong Khun, Chiang Rai](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wat_Rong_Khun_-_Chiang_Rai.jpg/960px-Wat_Rong_Khun_-_Chiang_Rai.jpg)
+*Wat Rong Khun — «Det hvite tempelet» — i Chiang Rai. Foto: JJ Harrison, CC BY-SA 3.0, Wikimedia Commons* · 📍 [Chiang Mai](https://www.google.com/maps/search/?api=1&query=Chiang+Mai) · [Chiang Rai](https://www.google.com/maps/search/?api=1&query=Wat+Rong+Khun) · [Pai](https://www.google.com/maps/search/?api=1&query=Pai+Thailand)
 
 **Best på:** Fjell, kaffe- og matkultur (khao soi!), templer, kjøreturer, kjøligere klima — og Thailands beste verdi for pengene utenom Isaan.
 
@@ -48,6 +56,9 @@
 
 ## 3. Isaan (nordøst) — insider-valget
 
+![Prasat Phanom Rung](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Phanom_Rung_Wikimedia_Commons.jpg/960px-Phanom_Rung_Wikimedia_Commons.jpg)
+*Khmer-tempelet Prasat Phanom Rung på en utdødd vulkan i Buriram. Foto: Benh Lieu Song, CC BY-SA 3.0, Wikimedia Commons* · 📍 [Phanom Rung](https://www.google.com/maps/search/?api=1&query=Phanom+Rung) · [Khon Kaen](https://www.google.com/maps/search/?api=1&query=Khon+Kaen) · [Ubon Ratchathani](https://www.google.com/maps/search/?api=1&query=Ubon+Ratchathani)
+
 **Best på:** Det Thailand som fantes før turismen. Under 1 % av utenlandske besøkende kommer hit ([Rough Guides](https://www.roughguides.com/thailand/northeast-isaan/)). Landets sterkeste mat (som lat, ekte som tam), Mekong-landskap, khmer-ruiner og en gjestfrihet som ikke er transaksjonell.
 
 **Must-sees:**
@@ -66,6 +77,9 @@
 ---
 
 ## 4. Andamankysten (Phuket, Krabi/Railay, Koh Lanta, Phi Phi, Trang-øyene, Koh Lipe)
+
+![Railay Beach](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Railay_Beach_5.jpg/960px-Railay_Beach_5.jpg)
+*Railay Beach i Krabi med sine karakteristiske kalksteinsklipper. Foto: kallerna, CC BY-SA 3.0, Wikimedia Commons* · 📍 [Railay](https://www.google.com/maps/search/?api=1&query=Railay+Beach) · [Koh Lanta](https://www.google.com/maps/search/?api=1&query=Koh+Lanta) · [Koh Lipe](https://www.google.com/maps/search/?api=1&query=Koh+Lipe)
 
 **Best på:** Thailands mest dramatiske landskap — kalksteinsklipper, det klareste vannet, beste dykkingen. Også mest turistifisert og dyrest.
 
@@ -86,6 +100,9 @@
 
 ## 5. Gulf-øyene (Koh Samui, Koh Phangan, Koh Tao)
 
+![Bottle Beach, Koh Phangan](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bottle_Beach%2C_Ko_Phangan_in_2023_1.jpg/960px-Bottle_Beach%2C_Ko_Phangan_in_2023_1.jpg)
+*Bottle Beach på Koh Phangan — bare tilgjengelig med båt eller til fots. Foto: Renek78, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Koh Phangan](https://www.google.com/maps/search/?api=1&query=Koh+Phangan) · [Koh Tao](https://www.google.com/maps/search/?api=1&query=Koh+Tao)
+
 **Best på:** Motsatt monsun av Andaman — **dette er sommerøyene deres.** Tørrest jan–sep, våtest okt–des ([Explorer Tom](https://explorertom.com/en/andaman-sea-or-gulf-of-thailand/)). Koh Tao = Asias billigste dykkersertifisering.
 
 **Must-sees:**
@@ -105,6 +122,9 @@
 
 ## 6. Østkysten (Koh Chang, Koh Kood) — ja, undervurdert
 
+![Koh Kood](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Koh_Kut%2C_Thailand%2C_Palm_trees%2C_Lagoon.jpg/960px-Koh_Kut%2C_Thailand%2C_Palm_trees%2C_Lagoon.jpg)
+*Palmer over krystallklart vann på Koh Kood. Foto: Vyacheslav Argenberg, CC BY 4.0, Wikimedia Commons* · 📍 [Koh Kood](https://www.google.com/maps/search/?api=1&query=Ko+Kut) · [Koh Chang](https://www.google.com/maps/search/?api=1&query=Ko+Chang+Trat)
+
 **Best på:** Koh Kood er kanskje Thailands vakreste øy som fortsatt er rolig: hvite strender, klart vann, ingen natteliv-sirkus, få biler. Koh Chang gir jungelfjell + strandliv. Nærmest Bangkok av alle øygruppene (buss/fly + ferge).
 
 **Must-sees:**
@@ -123,6 +143,9 @@
 ---
 
 ## 7. Hua Hin + Khao Sok nasjonalpark
+
+![Cheow Lan-sjøen, Khao Sok](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Karst_landscape_of_Cheow_Lan_Lake%2C_Surat_Thani%2C_Thailand.jpg/960px-Karst_landscape_of_Cheow_Lan_Lake%2C_Surat_Thani%2C_Thailand.jpg)
+*Kalksteinskarst i Cheow Lan-sjøen, Khao Sok nasjonalpark. Foto: Vyacheslav Argenberg, CC BY 4.0, Wikimedia Commons* · 📍 [Khao Sok](https://www.google.com/maps/search/?api=1&query=Khao+Sok+National+Park) · [Cheow Lan Lake](https://www.google.com/maps/search/?api=1&query=Cheow+Lan+Lake) · [Hua Hin](https://www.google.com/maps/search/?api=1&query=Hua+Hin)
 
 **Best på:** Khao Sok er 160 mill. år gammel regnskog — eldre enn Amazonas — og **Cheow Lan-sjøen med flytende hytter er en av Sørøst-Asias kuleste overnattinger**: kalksteinstårn rett opp av smaragdgrønt vann, kajakk fra døra, gibboner som vekker dere ([Southeast Asia Backpacker](https://southeastasiabackpacker.com/khao-sok-floating-bungalows/)). Hua Hin er kongefamiliens badeby — grei stopp, ikke et mål i seg selv.
 
