@@ -48,6 +48,14 @@
 **Pris:** 750 / 1 500 / 2 800 kr.
 **Insider:** Kerosene Creek sør for Rotorua er en gratis, naturlig varm elv – perfekt restitusjon dagen etter Crossing.
 
+📸 **Underveis i regionen:**
+
+![Hobbiton](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hobbiton_Movie_Set%2C_Matamata.jpg/960px-Hobbiton_Movie_Set%2C_Matamata.jpg)
+*Hobbithull med blå dør på Hobbiton-filmsettet i Matamata (på veien Auckland → Rotorua). Foto: Andres Iga, CC0, Wikimedia Commons* · 📍 [Hobbiton](https://www.google.com/maps/search/?api=1&query=Hobbiton+Movie+Set)
+
+![Huka Falls](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Huka_Falls_-_Waikato_River.jpg/960px-Huka_Falls_-_Waikato_River.jpg)
+*Det turkise vannet i Waikato-elva tordner gjennom Huka Falls ved Taupō. Foto: Dave Ozanne, CC BY 2.0, Wikimedia Commons* · 📍 [Huka Falls](https://www.google.com/maps/search/?api=1&query=Huka+Falls)
+
 ### 5. Hawke's Bay + Napier 🍷
 
 ![Te Mata Peak](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Te_mata_peak_and_over_view_of_Hawkes_Bay_Area.jpg/960px-Te_mata_peak_and_over_view_of_Hawkes_Bay_Area.jpg)
@@ -57,6 +65,11 @@
 **Beste måneder:** Feb–apr (innhøsting, F.A.W.C.-matfestival); solrikeste region på Nordøya.
 **Pris:** 700 / 1 450 / 2 700 kr.
 **Insider:** Lei sykler i Havelock North og gjør «vin-safari» på flate, bilfrie stier – billigere og morsommere enn minibusstur, og dere kan faktisk drikke.
+
+📸 **Underveis:**
+
+![Napier art deco](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Daily_Telegraph_Building_-_Napier%2C_New_Zealand.jpg/960px-Daily_Telegraph_Building_-_Napier%2C_New_Zealand.jpg)
+*Daily Telegraph-bygningen (1932) — et av Napiers fineste art deco-landemerker. Foto: Daderot, CC0, Wikimedia Commons* · 📍 [Napier](https://www.google.com/maps/search/?api=1&query=Napier+Art+Deco)
 
 ### 6. Wellington + Wairarapa/Martinborough 🍷
 
@@ -81,6 +94,11 @@
 **Beste måneder:** Des–apr; Marlborough Wine & Food Festival i februar.
 **Pris:** 750 / 1 500 / 2 900 kr.
 **Insider:** Kombiner «kajakk om morgenen, vandring etter lunsj, vanntaxi hjem» på egen hånd – langt billigere enn pakketurer. I Marlborough: Hans Herzog for lunsj er regionens best bevarte hemmelighet.
+
+📸 **Underveis:**
+
+![Abel Tasman Coast Track](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Beach_at_Anapai_Bay.jpg/960px-Beach_at_Anapai_Bay.jpg)
+*Gyllen sandstrand ved Anapai Bay langs Abel Tasman Coast Track. Foto: Pseudopanax, public domain, Wikimedia Commons* · 📍 [Abel Tasman Coast Track](https://www.google.com/maps/search/?api=1&query=Abel+Tasman+Coast+Track)
 
 ### 8. Kaikōura
 
@@ -132,6 +150,14 @@
 **Pris:** 950 / 1 900 / 3 700 kr (dyrest i NZ).
 **Insider:** Bo i **Cromwell eller Wanaka**, ikke Queenstown – 30–50 % billigere, og dere ligger midt i vinmarkene i stedet for i turistkøen. Rippon i Wanaka har gratis smaking (donasjon) med NZ' vakreste vineri-utsikt.
 
+📸 **Underveis i regionen:**
+
+![That Wanaka Tree](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%22The_Tree%22_Lake_Wanaka._NZ_%2824202789152%29.jpg/960px-%22The_Tree%22_Lake_Wanaka._NZ_%2824202789152%29.jpg)
+*«That Wanaka Tree» — det ensomme treet i Lake Wanaka. Foto: Bernard Spragg, CC0, Wikimedia Commons* · 📍 [Wanaka Tree](https://www.google.com/maps/search/?api=1&query=That+Wanaka+Tree)
+
+![Gibbston Valley-vinmarker](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Gibbston_Valley_vineyard_1.jpg/960px-Gibbston_Valley_vineyard_1.jpg)
+*Vinranker i Gibbston Valley, Central Otago, med golde fjell som bakteppe. Foto: tjabeljan, CC BY 2.0, Wikimedia Commons* · 📍 [Gibbston Valley](https://www.google.com/maps/search/?api=1&query=Gibbston+Valley)
+
 ### 13. Fiordland (Milford / Doubtful)
 
 ![Milford Sound](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/MilfordSound.jpg/960px-MilfordSound.jpg)
@@ -141,6 +167,11 @@
 **Beste måneder:** Okt–apr; regnvær er faktisk et pluss – fossene eksploderer.
 **Pris:** 900 / 1 900 / 3 500 kr.
 **Insider:** Overnatt i Te Anau og ta første eller siste cruise på dagen – dere unngår 90 % av bussturistene fra Queenstown. Har dere råd til én splurge i NZ: overnattingscruise på Doubtful.
+
+📸 **Underveis:**
+
+![Doubtful Sound](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Doubtful_Sound_-_Patea_-_DoubtfulSound9081.jpg/960px-Doubtful_Sound_-_Patea_-_DoubtfulSound9081.jpg)
+*Tåkekledde, regnskogsdekte fjellsider speiler seg i stille Doubtful Sound (Patea). Foto: lumoplank, CC0, Wikimedia Commons* · 📍 [Doubtful Sound](https://www.google.com/maps/search/?api=1&query=Doubtful+Sound)
 
 ### 14. Catlins / Dunedin / Otago Peninsula
 
@@ -153,6 +184,11 @@
 **Insider:** Katiki Point ved Moeraki: gratis, gulløyepingviner og seler på nært hold, null busser. Kombiner med Moeraki Boulders ved soloppgang og lunsj på Fleurs Place.
 
 ---
+
+📸 **Underveis:**
+
+![Moeraki Boulders](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/00_2104_Moeraki_Beach_Neuseeland_-_Moeraki_Boulders.jpg/960px-00_2104_Moeraki_Beach_Neuseeland_-_Moeraki_Boulders.jpg)
+*De kuleformede Moeraki-steinene på Koekohe Beach ved Otago-kysten. Foto: W. Bulach, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Moeraki Boulders](https://www.google.com/maps/search/?api=1&query=Moeraki+Boulders)
 
 ## ⚖️ Nordøya eller Sørøya — hva er best?
 
