@@ -19,6 +19,7 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/beste-ruter.md`](00-analyse/beste-ruter.md) | Beste totalruter med fleksibilitet (per land + kombinasjoner) |
 | [`00-analyse/transport.md`](00-analyse/transport.md) | Transportmatrisen: mellom og i landene, med priser |
 | [`00-analyse/wwoof-arbeidsopphold.md`](00-analyse/wwoof-arbeidsopphold.md) | WWOOF/Workaway: visum-fasit, navngitte verter, WHV-strategi for 29-åringer |
+| [`00-analyse/vinopplevelser-uten-visum.md`](00-analyse/vinopplevelser-uten-visum.md) | Den ærlige alternativanalysen: vingårds-immersjon som turist — uten WHV |
 
 ### 10 · Australia 🇦🇺
 Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory

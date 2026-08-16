@@ -61,9 +61,10 @@ hver kveld) kjennes ofte som «komfort» gjør i Oseania.
 2. **Reis 25. des, ikke 27.–28.** — flyprisen faller 20–30 % på selve
    juledagene.
 3. **Øy-oppholdet etter 5. januar** — halverer strandhotellet i Thailand.
-4. **WWOOF/Workaway-uker** (krever WHV i AU/NZ, se
-   [`wwoof-arbeidsopphold.md`](wwoof-arbeidsopphold.md)) — kost og losji dekket
-   = ~0 kr i bakkekostnad de ukene, og de beste minnene på kjøpet.
+4. ~~WWOOF/Workaway-uker~~ — **lønner seg IKKE på en kort ferie**: visum for to
+   (~21 000 kr) + ~100 arbeidstimer spiser opp besparelsen. Kun aktuelt på
+   langtur (2–3+ mnd) — se [`vinopplevelser-uten-visum.md`](vinopplevelser-uten-visum.md)
+   for det som faktisk lønner seg.
 5. **Isaan/Battambang i stedet for øy-hopping** — bibliotekets beste
    verdi-regioner; medium-liv til budsjettpris.
 
