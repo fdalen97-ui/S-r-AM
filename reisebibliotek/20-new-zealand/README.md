@@ -154,6 +154,30 @@
 
 ---
 
+## ⚖️ Nordøya eller Sørøya — hva er best?
+
+**Kortsvar: Sørøya, hvis dere må velge én.** Men det er et mer nyansert regnestykke:
+
+| | 🏝️ Nordøya | 🏔️ Sørøya |
+|---|---|---|
+| Natur-wow | ★★★★ (geotermisk, vulkaner, strender) | ★★★★★ (fjorder, breer, turkise sjøer — postkort-NZ) |
+| Vin | ★★★★★ **verdi**: Hawke's Bay, Martinborough, Waiheke | ★★★★★ **drama**: Central Otago, Marlborough |
+| Mat | ★★★★★ (Wellington = landets matby) | ★★★★ |
+| Vær i jan–feb | Varmere, tørrere, badevennlig | Mer ustabilt, men lange kvelder |
+| Priser | Lavere | Høyere (Queenstown +30–50 %) |
+| Folkemengder i jan | Moderate | Høysesong-fulle |
+
+**Dommen for dere:**
+- **Har dere ~2 uker** (som i planen): Sørøya. Fiordland, Mackenzie og Central
+  Otago finnes ikke i noen annen variant noe annet sted — det er dette dere
+  flyr 30 timer for.
+- **Har dere 3+ uker**: ta begge — fergen over Cook-stredet er selve
+  opplevelsen, og Nordøyas vinbelte (Hawke's Bay → Martinborough → Wellington)
+  er landets beste **vin-verdi** og perfekt mellomstopp.
+- **Ærlig unntak:** er været/badeliv viktigst og budsjettet stramt, vinner
+  Nordøya på poeng — den er billigere, varmere og mindre full i januar. Men
+  angre-risikoen er størst ved å droppe Sørøya.
+
 ## Vinregionene – hva skiller dem?
 
 | Region | Signatur | Stil/karakter | Opplevelse |
