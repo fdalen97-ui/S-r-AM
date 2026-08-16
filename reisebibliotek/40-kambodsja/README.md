@@ -34,6 +34,17 @@
 
 ---
 
+📸 **Underveis i regionen:**
+
+![Bayon-ansiktene](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/023_Bayon_Tower_Faces.jpg/960px-023_Bayon_Tower_Faces.jpg)
+*De gåtefulle steinansiktene på Bayon-tempelets tårn i Angkor Thom. Foto: Anandajoti, CC BY-SA 3.0, Wikimedia Commons* · 📍 [Bayon](https://www.google.com/maps/search/?api=1&query=Bayon+Temple)
+
+![Ta Prohm](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ta_Prohm_-_TaProhm1265.jpg/960px-Ta_Prohm_-_TaProhm1265.jpg)
+*Enorme kvelerfiken-røtter som brer seg over steingalleriene i Ta Prohm. Foto: lumoplank, CC0, Wikimedia Commons* · 📍 [Ta Prohm](https://www.google.com/maps/search/?api=1&query=Ta+Prohm)
+
+![Banteay Srei](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_Slightly_Different_View_of_Siem_Reap_I_%28CAMBODIA-BANTEAY_SREI%29_%28859407040%29.jpg/960px-A_Slightly_Different_View_of_Siem_Reap_I_%28CAMBODIA-BANTEAY_SREI%29_%28859407040%29.jpg)
+*Utsøkte relieffer i rosa sandstein i Banteay Srei. Foto: Chi King, CC BY 2.0, Wikimedia Commons* · 📍 [Banteay Srei](https://www.google.com/maps/search/?api=1&query=Banteay+Srei)
+
 ## 2. Phnom Penh
 
 ![Tronsalen i Det kongelige palasset](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Hala_Tronowa_%2804%29.jpg/960px-2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Hala_Tronowa_%2804%29.jpg)
@@ -88,6 +99,14 @@
 **Insider-tips:** Sov én natt på **M'Pai Bay** (Koh Rong Samloem) i stedet for Saracen Bay — landsbystemning, halv pris, og planktonet lyser like sterkt.
 
 ---
+
+📸 **Underveis i regionen:**
+
+![Saracen Bay](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Saracen_Bay_panoramic_view%2C_Koh_Rong_Sanloem%2C_Cambodia%2C_June_2014.jpg/960px-Saracen_Bay_panoramic_view%2C_Koh_Rong_Sanloem%2C_Cambodia%2C_June_2014.jpg)
+*Saracen Bay på Koh Rong Samloem med turkisblått vann og hvit sand. Foto: Wikirictor, CC BY-SA 3.0, Wikimedia Commons* · 📍 [Saracen Bay](https://www.google.com/maps/search/?api=1&query=Saracen+Bay+Koh+Rong+Samloem)
+
+![Krabbemarkedet i Kep](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kep_Crab_Market.jpg/960px-Kep_Crab_Market.jpg)
+*Krabbemarkedet i Kep — fersk sjømat med grønn Kampot-pepper. Foto: Mx. Granger, CC0, Wikimedia Commons* · 📍 [Kep Crab Market](https://www.google.com/maps/search/?api=1&query=Kep+Crab+Market)
 
 ## 4. Battambang
 
