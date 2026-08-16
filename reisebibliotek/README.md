@@ -20,7 +20,7 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/transport.md`](00-analyse/transport.md) | Transportmatrisen: mellom og i landene, med priser |
 | [`00-analyse/wwoof-arbeidsopphold.md`](00-analyse/wwoof-arbeidsopphold.md) | WWOOF/Workaway: visum-fasit, navngitte verter, WHV-strategi for 29-åringer |
 | [`00-analyse/vinopplevelser-uten-visum.md`](00-analyse/vinopplevelser-uten-visum.md) | Den ærlige alternativanalysen: vingårds-immersjon som turist — uten WHV |
-| [`00-analyse/kurs-og-studier.md`](00-analyse/kurs-og-studier.md) | Kurs/studier i vin og tech: 3-mnd-regelen, WSET-priser, bootcamps, formelle studier |
+| [`00-analyse/kurs-og-studier.md`](00-analyse/kurs-og-studier.md) | Kurs/studier i vin og tech: 3-mnd-regelen, WSET-priser, bootcamps, formelle studier, Lånekassen-fasit + morsomme intensivkurs (PDC, dykking, matlaging) |
 
 ### 10 · Australia 🇦🇺
 Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory
