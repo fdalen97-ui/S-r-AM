@@ -11,7 +11,7 @@ des 2026, AO-finaler 30.–31. jan 2027, NZ februar). 1 AUD ≈ 6,5 ·
 | Kandidat | DIY | Pakke | Dom |
 |---|---|---|---|
 | Thailand-charter i romjula (2 uker) | ~12–19 000 kr (Norse + egne hotell) | ~22–35 000 kr (est.) | **DIY** — charter taper akkurat i romjula |
-| **AO 2027-finalene** (billetter + 3 hotellnetter) | ~10–14 000 kr (Ticketmaster + eget hotell) | ~16–29 000 kr (AO Travel) | **DIY — men kjøp NÅ** (salget åpnet 13. aug!); pakken er plan B når kvoten er tom |
+| AO 2027 *(nedprioritert — ikke viktig for oss)* | Grounds pass fra ~AUD 30, kjøpes spontant | ~16–29 000 kr (AO Travel) | **Droppes.** Ingen finalebilletter, ingen pakke — tallene står under kun som referanse |
 | **Whitsundays 2-netters seiling** ⛵ | Finnes ikke reelt (bareboat A$600–1 500/dag uten skipper) | **A$470–750 (~3 100–4 900 kr)** alt inkludert | **PAKKE — klar vinner.** Book den. |
 | Kangaroo Island 2 dager | ~A$400–500 med egen bil på ferga | A$550–1 000 | **DIY** — *hvis* leiekontrakten tillater ferga (sjekk!) |
 | **Doubtful Sound overnattingscruise** 🛏️ | Umulig DIY (kun båt+buss over Wilmot Pass) | **NZ$749** twin (~4 500 kr) inkl. alle måltider/kajakk | **PAKKE — book direkte hos RealNZ, tidlig.** Rabatteres aldri; februar selges ut |
@@ -19,19 +19,17 @@ des 2026, AO-finaler 30.–31. jan 2027, NZ februar). 1 AUD ≈ 6,5 ·
 | Expedia-pakke Brisbane nyttår (4 netter) | Refunderbart hotell booket tidlig | ±0–10 % — pakkerater finnes knapt på nyttårsaften | **DIY** (refunderbart!) — sjekk bundle-prisen i én fane, forvent null gevinst |
 
 **Kortversjon: bare to pakker fortjener plass i turen — Whitsundays-seilingen
-og Doubtful Sound-cruiset. Begge fordi «pakken» ER produktet.** Pluss
-AO-pakken som beredskap hvis Ticketmaster-vinduet glipper.
+og Doubtful Sound-cruiset. Begge fordi «pakken» ER produktet.**
 
 ## De tre viktigste funnene
 
-### 1. ⏰ AO-billettene: nå eller pakke
-Det offentlige salget for AO 2027 **åpnet 13. august 2026** — tidligere enn
-noen gang pga. rekordetterspørsel. Herrefinalen fra ~A$1 300 (~8 500 kr),
-damefinalen omtrent halvparten — men i 2026 presset dynamisk prising
-«best available» til A$8 999, og billige kategorier forsvant på timer.
-**Kjøp finalebillettene på Ticketmaster nå + refunderbart Melbourne-hotell.**
-Går kvoten tom: AO Travel-pakkene (fra A$848 for 3 netter + billettgrunnlag)
-har egen prioritetskvote og slår alltid svartebørs.
+### 1. 🎾 AO — nedprioritert (referansetall hvis dere ombestemmer dere)
+AO er ikke viktig for oss — ingen finalebilletter, ingen pakke. Det frigjør
+Melbourne-delen fra 30.–31. jan-ankeret: **etappen kan skyves forbi 26. jan
+(skoleferieslutt) for −15–30 % på overnatting og færre folk.** Skulle lysten
+komme i Melbourne: grounds pass fra ~AUD 30 kjøpes spontant. (For referanse:
+finalebilletter fra ~A$1 300 via Ticketmaster, AO Travel-pakker fra A$848 +
+billetter — dynamisk prising presset «best available» til A$8 999 i 2026.)
 
 ### 2. ⛵ Whitsundays: den ene australske pakken som vinner
 2 netter/3 dager seilbåt med skipper, alle måltider, snorkleutstyr og
@@ -59,8 +57,8 @@ prisene en gang er like.
 
 ## Handlingsliste (i riktig rekkefølge)
 
-1. **Nå (aug–sep):** AO-finalebilletter på Ticketmaster + refunderbart
-   Melbourne-hotell og Brisbane-nyttårshotell.
+1. **Nå (aug–sep):** refunderbart Brisbane-nyttårshotell (AO er nedprioritert
+   — ingen billettfrist lenger).
 2. **Sept–okt:** Whitsundays-seiling (hvis QLD-svingen tas), Doubtful
    Sound-cruise direkte hos RealNZ, Apex/Snap-leiebil CHC + Queenstown/Te
    Anau-senger.
