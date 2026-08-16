@@ -30,6 +30,17 @@
 
 ---
 
+📸 **Underveis i regionen:**
+
+![Wat Phra Kaew](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Wat_Phra_Kaew_by_Ninara_TSP_edit_crop.jpg/960px-Wat_Phra_Kaew_by_Ninara_TSP_edit_crop.jpg)
+*Wat Phra Kaew, Smaragdbuddhaens tempel, inne i Det store palasset. Foto: Ninara/TSP, CC BY 4.0, Wikimedia Commons* · 📍 [Grand Palace](https://www.google.com/maps/search/?api=1&query=Grand+Palace+Bangkok)
+
+![Wat Chaiwatthanaram, Ayutthaya](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sunset_at_Wat_Chaiwatthanaram%2C_Ayutthaya%2C_Thailand.jpg/960px-Sunset_at_Wat_Chaiwatthanaram%2C_Ayutthaya%2C_Thailand.jpg)
+*Solnedgang over tempelruinene Wat Chaiwatthanaram i Ayutthaya. Foto: Justin Vidamo, CC BY 2.0, Wikimedia Commons* · 📍 [Ayutthaya](https://www.google.com/maps/search/?api=1&query=Wat+Chaiwatthanaram)
+
+![Yaowarat gatemat](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2016_Bangkok%2C_Dystrykt_Samphanthawong%2C_Ulica_Yaowarat_%2812%29.jpg/960px-2016_Bangkok%2C_Dystrykt_Samphanthawong%2C_Ulica_Yaowarat_%2812%29.jpg)
+*Gatekjøkkenboder langs Yaowarat Road i Bangkoks Chinatown. Foto: Marcin Konsek, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Yaowarat](https://www.google.com/maps/search/?api=1&query=Yaowarat+Road+Bangkok)
+
 ## 2. Nord (Chiang Mai, Chiang Rai, Pai/Mae Hong Son)
 
 ![Wat Rong Khun, Chiang Rai](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wat_Rong_Khun_-_Chiang_Rai.jpg/960px-Wat_Rong_Khun_-_Chiang_Rai.jpg)
@@ -98,6 +109,11 @@
 
 ---
 
+📸 **Underveis:**
+
+![Koh Lipe](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Koh_Lipe_%28island%29%2C_Tropical_beach%2C_Thailand.jpg/960px-Koh_Lipe_%28island%29%2C_Tropical_beach%2C_Thailand.jpg)
+*Krystallklart vann og hvit sandstrand på Koh Lipe i Andamanhavet. Foto: Vyacheslav Argenberg, CC BY 4.0, Wikimedia Commons* · 📍 [Koh Lipe](https://www.google.com/maps/search/?api=1&query=Koh+Lipe)
+
 ## 5. Gulf-øyene (Koh Samui, Koh Phangan, Koh Tao)
 
 ![Bottle Beach, Koh Phangan](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bottle_Beach%2C_Ko_Phangan_in_2023_1.jpg/960px-Bottle_Beach%2C_Ko_Phangan_in_2023_1.jpg)
@@ -163,6 +179,11 @@
 **Beste måneder:** desember–april. **Insider-tips:** Book flytende hytte **direkte** (f.eks. Panvaree eller 500 Rai) i stedet for standard gruppetur fra Khao Lak — dere får bedre hytter, færre mennesker og fri kajakkbruk for omtrent samme pris.
 
 ---
+
+📸 **Underveis:**
+
+![Flytende bungalower på Cheow Lan](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cheow_Lan_Lake%2C_Old_wooden_bungalows%2C_Surat_Thani%2C_Thailand.jpg/960px-Cheow_Lan_Lake%2C_Old_wooden_bungalows%2C_Surat_Thani%2C_Thailand.jpg)
+*Flytende trebungalower på Cheow Lan-sjøen i Khao Sok nasjonalpark. Foto: Vyacheslav Argenberg, CC BY 4.0, Wikimedia Commons* · 📍 [Cheow Lan Lake](https://www.google.com/maps/search/?api=1&query=Cheow+Lan+Lake)
 
 ## (a) Verdi-for-pengene-rangering — for dere som har tatt Andaman-klassikerne
 

@@ -60,6 +60,14 @@
 
 ---
 
+📸 **Underveis i regionen:**
+
+![Cape Byron Lighthouse](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2020-12-19_Cape_Byron_Lighthouse.jpg/960px-2020-12-19_Cape_Byron_Lighthouse.jpg)
+*Fyrtårnet på Cape Byron — Australias østligste punkt. Foto: Maksym Kozlenko, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Cape Byron](https://www.google.com/maps/search/?api=1&query=Cape+Byron+Lighthouse)
+
+![Three Sisters](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Blue_Mountains_National_Park_%28AU%29%2C_Three_Sisters_--_2019_--_1983.jpg/960px-Blue_Mountains_National_Park_%28AU%29%2C_Three_Sisters_--_2019_--_1983.jpg)
+*De tre søstrene i Blue Mountains, sett fra Echo Point ved Katoomba. Foto: Dietmar Rabich, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Echo Point](https://www.google.com/maps/search/?api=1&query=Echo+Point+Katoomba)
+
 ## 3. Victoria
 
 ![Twelve Apostles](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Twelve_Apostles%2C_East_view_20230218_1.jpg/960px-Twelve_Apostles%2C_East_view_20230218_1.jpg)
@@ -85,6 +93,14 @@
 | Komfort | 3 700–5 000 |
 
 ---
+
+📸 **Underveis i regionen:**
+
+![Hosier Lane](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hosier_Lane_Melbourne._%2825242293926%29.jpg/960px-Hosier_Lane_Melbourne._%2825242293926%29.jpg)
+*Gatekunst og smugstemning i Hosier Lane — hjertet av Melbournes laneway-kultur. Foto: Bernard Spragg, CC0, Wikimedia Commons* · 📍 [Hosier Lane](https://www.google.com/maps/search/?api=1&query=Hosier+Lane+Melbourne)
+
+![Loch Ard Gorge](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Loch_Ard_Gorge_-_Port_Campbell_National_Park-LR1_%2819390929031%29.jpg/960px-Loch_Ard_Gorge_-_Port_Campbell_National_Park-LR1_%2819390929031%29.jpg)
+*Loch Ard Gorge i Port Campbell nasjonalpark — skjult strand og dramatiske kalksteinsklipper. Foto: Jorge Láscar, CC BY 2.0, Wikimedia Commons* · 📍 [Loch Ard Gorge](https://www.google.com/maps/search/?api=1&query=Loch+Ard+Gorge)
 
 ## 4. Tasmania
 
@@ -112,6 +128,14 @@
 
 ---
 
+📸 **Underveis i regionen:**
+
+![Salamanca Place](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salamanca_Place%2C_Hobart_%281%29.jpg/960px-Salamanca_Place%2C_Hobart_%281%29.jpg)
+*Sandsteinslagrene fra 1830-tallet på Salamanca Place, med kunanyi/Mount Wellington bak. Foto: Tim J Keegan, CC BY-SA 2.0, Wikimedia Commons* · 📍 [Salamanca Place](https://www.google.com/maps/search/?api=1&query=Salamanca+Place+Hobart)
+
+![Vill vombat](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fauna_de_Tasmania10.JPG/960px-Fauna_de_Tasmania10.JPG)
+*Vill vombat i Cradle Mountain nasjonalpark. Foto: Diego Delso, CC BY 3.0, Wikimedia Commons* · 📍 [Cradle Mountain](https://www.google.com/maps/search/?api=1&query=Cradle+Mountain)
+
 ## 5. South Australia
 
 ![Barossa Valley fra Mengler Hill](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/View_of_Barossa_Valley_from_Mengler_Hill_20230207.jpg/960px-View_of_Barossa_Valley_from_Mengler_Hill_20230207.jpg)
@@ -137,6 +161,14 @@
 | Komfort | 3 300–4 500 |
 
 ---
+
+📸 **Underveis i regionen:**
+
+![Cellar door i Barossa](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cellar_door%2C_Penfold%27s_Wines%2C_Barossa_Valley%2C_South_Australia_%286177509592%29.jpg/960px-Cellar_door%2C_Penfold%27s_Wines%2C_Barossa_Valley%2C_South_Australia_%286177509592%29.jpg)
+*Cellar door med vinranker og fat hos Penfolds i Barossa Valley. Foto: Rexness, CC BY-SA 2.0, Wikimedia Commons* · 📍 [Penfolds Barossa](https://www.google.com/maps/search/?api=1&query=Penfolds+Barossa+Valley)
+
+![Remarkable Rocks](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Remarkable_Rocks_01.jpg/960px-Remarkable_Rocks_01.jpg)
+*Remarkable Rocks — vindslipte granittskulpturer i Flinders Chase nasjonalpark, Kangaroo Island. Foto: Bernard Gagnon, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Remarkable Rocks](https://www.google.com/maps/search/?api=1&query=Remarkable+Rocks+Kangaroo+Island)
 
 ## 6. Western Australia
 
