@@ -40,4 +40,4 @@ Region-filer: Siem Reap/Angkor · Phnom Penh · Sørkysten (Kampot/Kep/øyene) �
 - Reiseverkstedet (beslutningsverksted): `../sor-amerika/08-visualiseringer/reiseverkstedet.html`
 - Verdensanalysen: [`../sor-amerika/00-planlegging/verdens-beste-analyse.md`](../sor-amerika/00-planlegging/verdens-beste-analyse.md)
 
-*Status: under utfylling — seks research-agenter leverer innhold fortløpende.*
+*Status: komplett (august 2026). Priser og visumregler bør re-verifiseres nær booking.*
