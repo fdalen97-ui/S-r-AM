@@ -76,7 +76,8 @@ hjem fra Queenstown/Christchurch. **Med WHV** kan 1–2 ukers vintage-arbeid
 > **Statussjekk aug 2026:** TH–KH-grensen fortsatt stengt → **Sør-Vietnam +
 > Kambodsja er nå den bedre Indokina-komboen** (åpne grenser, Mekong-båt inn
 > til Phnom Penh, Kampot→Ha Tien→Phu Quoc-ferge, 45 dager visumfritt for
-> nordmenn). Se ruta i [`romjul-verdenskartet.md`](romjul-verdenskartet.md) #7.
+> nordmenn). Se ruta i [`romjul-verdenskartet.md`](romjul-verdenskartet.md) #7 —
+> og **alle tre landene i én tur:** [`indokina-storrunden.md`](indokina-storrunden.md).
 Bangkok → (Luang Prabang) → **fly** Siem Reap → Kambodsja-runden → **fly**
 tilbake → øyene etter 5. jan. Detaljplan:
 [`thailand-kambodsja-kombi.md`](../../sor-amerika/00-planlegging/thailand-kambodsja-kombi.md).
