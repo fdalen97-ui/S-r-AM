@@ -29,6 +29,7 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/romjul-verdenskartet.md`](00-analyse/romjul-verdenskartet.md) | Den siste kreative verdenssjekken: topp 7 romjul-reisemål med ruter, fly og dagspriser i NOK |
 | [`00-analyse/indokina-storrunden.md`](00-analyse/indokina-storrunden.md) | **Totalplanen TH+KH+VN i én tur**: én vei østover, ett fly midtveis, sol-finale på Phu Quoc — 46–67k for to |
 | [`00-analyse/peru-argentina-sommer.md`](00-analyse/peru-argentina-sommer.md) | **Sommerturen Peru+Argentina** (juni→10. aug): Inti Raymi 24. juni, Machu Picchu-praktikk, Cafayate/Mendoza-vinter, 140–170k for to |
+| [`00-analyse/de-tre-store.md`](00-analyse/de-tre-store.md) | ⚖️ **DE TRE STORE**: Indokina vs. Peru+Argentina vs. Australia+NZ — full prissammenligning, scenarioer og dommen |
 
 ### 10 · Australia 🇦🇺
 Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory
