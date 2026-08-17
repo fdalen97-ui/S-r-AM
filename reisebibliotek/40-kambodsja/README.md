@@ -2,7 +2,7 @@
 
 *For et norsk par (29) med sans for mat, kultur og natur. Priser i NOK (USD × 10,5), per person/dag inkl. delt overnatting, mat, lokal transport og aktiviteter — større engangsbilletter nevnes separat. Valutaen på bakken er i praksis USD.*
 
-**🗺️ Kart-oversikt:** [Hele anbefalt rute i Google Maps](https://www.google.com/maps/dir/Siem+Reap/Battambang/Phnom+Penh/Kampot/Kep/Sihanoukville) (Siem Reap → Battambang → Phnom Penh → Kampot → Kep → øyene) · [Kambodsja i kartet](https://www.google.com/maps/place/Cambodia)
+**🗺️ Kart-oversikt:** [Hele anbefalt rute i Google Maps](https://www.google.com/maps/dir/Siem+Reap,+Cambodia/Battambang,+Cambodia/Phnom+Penh,+Cambodia/Kampot,+Cambodia/Kep,+Cambodia/Sihanoukville,+Cambodia) (Siem Reap → Battambang → Phnom Penh → Kampot → Kep → Sihanoukville; ferge derfra til øyene) · [Kambodsja i kartet](https://www.google.com/maps/search/?api=1&query=Cambodia)
 
 ---
 
