@@ -7,7 +7,55 @@ buss/båt over åpne grenser — og finalen ligger på **Phu Quoc, Indokinas mes
 sol-sikre strandpunkt i januar** (tørrsesong-toppen: ~3–6 regndager/mnd,
 rolig hav, 28–32 °C). Alle priser i NOK.*
 
-**🗺️ Kart-oversikt:** [Kambodsja-delen](https://www.google.com/maps/dir/Siem+Reap,+Cambodia/Battambang,+Cambodia/Phnom+Penh,+Cambodia/Kampot,+Cambodia/Kep,+Cambodia) · [Vietnam-delen](https://www.google.com/maps/dir/Ha+Tien,+Vietnam/Chau+Doc,+Vietnam/Can+Tho,+Vietnam/Rach+Gia,+Vietnam) · flyene: OSL→BKK · BKK→Siem Reap · Phu Quoc→SGN→OSL
+## 🗺️ Total-ruten i Google Maps
+
+Google Maps kan ikke tegne én sammenhengende rute når fly og ferger er med —
+her er hele turen som fire klikkbare bakke-segmenter + fly/ferge-leddene som
+binder dem sammen (i rekkefølge):
+
+1. ✈️ **Fly:** Oslo → [Bangkok](https://www.google.com/maps/search/?api=1&query=Suvarnabhumi+Airport) (Norse direkte, ~11 t)
+2. 🚆 **Segment 1 — Bangkok + Ayutthaya:** [dagsturen BKK → Ayutthaya](https://www.google.com/maps/dir/Bangkok,+Thailand/Ayutthaya,+Thailand) (tog fra Krung Thep Aphiwat)
+3. ✈️ **Fly:** Bangkok → [Siem Reap–Angkor lufthavn](https://www.google.com/maps/search/?api=1&query=Siem+Reap+Angkor+International+Airport) (~1 t — turens eneste fly midtveis)
+4. 🚌 **Segment 2 — Kambodsja-runden:** [Siem Reap → Battambang → Phnom Penh → Kampot → Kep](https://www.google.com/maps/dir/Siem+Reap,+Cambodia/Battambang,+Cambodia/Phnom+Penh,+Cambodia/Kampot,+Cambodia/Kep,+Cambodia)
+5. 🚐 **Segment 3 — grensekryssingen og Mekong:** [Kep → Prek Chak/Ha Tien → Chau Doc → Can Tho → Rach Gia](https://www.google.com/maps/dir/Kep,+Cambodia/Ha+Tien,+Vietnam/Chau+Doc,+Vietnam/Can+Tho,+Vietnam/Rach+Gia,+Vietnam)
+6. ⛴️ **Ferge:** [Rach Gia-piren](https://www.google.com/maps/search/?api=1&query=Rach+Gia+ferry+terminal) → [Phu Quoc](https://www.google.com/maps/search/?api=1&query=Phu+Quoc) (Superdong/Phu Quoc Express, ~2,5 t)
+7. 🛵 **Segment 4 — Phu Quoc rundt:** [Duong Dong → Ong Lang → Bai Sao → An Thoi](https://www.google.com/maps/dir/Duong+Dong,+Phu+Quoc/Ong+Lang+Beach/Sao+Beach,+Phu+Quoc/An+Thoi)
+8. ✈️ **Fly:** Phu Quoc → [Saigon](https://www.google.com/maps/search/?api=1&query=Tan+Son+Nhat+International+Airport) (45 min) → hjem til Oslo
+
+## 🚌 Transportvalget etappe for etappe
+
+| Etappe | ✅ Anbefalt | Pris p.p. | Alternativ | Lokalt på stedet |
+|---|---|---|---|---|
+| Oslo → Bangkok | ✈️ Norse direkte | 3 500–5 500 (enveis) | Qatar/Emirates via Gulfen | **BTS/MRT + Grab** — aldri taxi uten taksameter |
+| Bangkok → Ayutthaya (dagstur) | 🚆 Tog fra Krung Thep Aphiwat | **5–15 kr!** | Minivan (~60 kr) | Tuk-tuk mellom templene (avtal dagspris ~150 kr) |
+| Bangkok → Siem Reap | ✈️ AirAsia/Bangkok Airways fra DMK | 500–800 | **Finnes ikke landeveien** (grensen stengt) | **Tuk-tuk-sjåfør 2 dager Angkor (210–315 kr/dag for dere begge)** — bedre enn scooter i tempelvarmen |
+| Siem Reap → Battambang | 🚌 Buss 3–4 t (~90 kr) | — | ⛴️ **Oppgrader hvis vannstand: Tonlé Sap-båten** 6–9 t (~260–420 kr) — en av Asias fineste båtreiser, sjekk vannstanden i jan | Tuk-tuk-dagstur (bambustog + grotter) |
+| Battambang → Phnom Penh | 🚌 Dagbuss 5–6 t (~110 kr) | Privat sjåfør delt (~500 kr for to) | **Ikke nattbuss her** — strekningen er kort nok til dag | PassApp (Kambodsjas Grab) |
+| Phnom Penh → Kampot | 🚌 Buss/minivan 3 t (~100 kr) | 🚂 Royal Railway-toget (~110 kr, helg — sakte og sjarmerende hvis dagen passer) | — | 🛵 **Scooter-landet:** Kampots landsbygd (pepperfarmer, Secret Lake) er perfekt scooterterreng, ~50–75 kr/dag — men kun med MC-førerkort + IDP; ellers tuk-tuk-dagstur ~260 kr |
+| Kampot/Kep → Ha Tien (grensen) | 🚐 Minibuss ~2 t (~100–150 kr) inkl. Prek Chak-krysset | — | E-visum klart på forhånd = 15 min på grensen | — |
+| Ha Tien → Chau Doc → Can Tho | 🚌 Lokalbusser (~100 kr totalt) | Privat bil delt | — | Båt er poenget her: Tra Su-skogen og Cai Rang kl. 05.30 |
+| Can Tho → Rach Gia | 🚌 Buss ~2,5 t (~80 kr) | — | — | — |
+| Rach Gia → Phu Quoc | ⛴️ Superdong-ferge 2,5 t (**~100 kr**) | ✈️ Can Tho→PQC hvis sjøen er røff | Book dagen før i høysesong | 🛵 **Øya er scooter-perfekt** (~120–160 kr/dag) — MEN Vietnam krever MC-kort + 1968-IDP, ellers er forsikringen ugyldig; uten kort: Grab-bil finnes på øya |
+| Phu Quoc → Saigon | ✈️ VietJet/Vietnam Airlines 45 min (260–630 kr) | Ferge+buss tilbake (7+ t — ikke verdt det på slutten) | — | Grab overalt i Saigon |
+| Saigon → Oslo | ✈️ Én stopp (Qatar/Turkish/EVA) | — | Book tidlig — 23. jan er før pre-Tet-rushet, men marginene krymper | — |
+
+### 🛵 Scooter-dommen (ærlig)
+Scooter frister tre steder på ruten — men reglene er like i alle tre land:
+**MC-førerkort (klasse A1/A) + internasjonalt førerkort etter
+1968-konvensjonen kreves, ellers er reiseforsikringen ugyldig ved ulykke.**
+- **Med MC-kort:** Kampot-landsbygda og Phu Quoc er turens to
+  scooter-høydepunkter (rolige veier, korte avstander). Siem Reap/Angkor:
+  tuk-tuk uansett — skygge, kald drikke og lokalkunnskap inkludert.
+- **Uten MC-kort:** tuk-tuk-dagsturer (Kampot ~260 kr), Grab/PassApp og
+  sykkel (Battambang og Mekong-deltaet er flate og sykkelvennlige) dekker
+  alt — dere mister ingenting av ruten.
+
+### 🌙 Nattbuss-dommen for denne ruten
+Kort: **dere trenger ingen nattbusser på hovedruten** — lengste bakke-etappe
+er 5–6 timer, og nattbussene i Kambodsja frarådes uansett (NR6, jf.
+[`transport.md`](transport.md)). Eneste nattbuss verdt navnet er
+**5-ukersvariantens Isaan-tillegg: NCA First Class BKK→Khon Kaen (186 kr)** —
+Thailands beste busselskap, og en opplevelse i seg selv.
 
 ---
 
