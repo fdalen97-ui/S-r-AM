@@ -2,7 +2,12 @@
 
 *For et norsk par (29) med sans for mat, kultur og natur. Priser i NOK (USD × 10,5), per person/dag inkl. delt overnatting, mat, lokal transport og aktiviteter — større engangsbilletter nevnes separat. Valutaen på bakken er i praksis USD.*
 
-**🗺️ Kart-oversikt:** [Hele anbefalt rute i Google Maps](https://www.google.com/maps/dir/Siem+Reap,+Cambodia/Battambang,+Cambodia/Phnom+Penh,+Cambodia/Kampot,+Cambodia/Kep,+Cambodia/Sihanoukville,+Cambodia) (Siem Reap → Battambang → Phnom Penh → Kampot → Kep → Sihanoukville; ferge derfra til øyene) · [Kambodsja i kartet](https://www.google.com/maps/search/?api=1&query=Cambodia)
+**🗺️ Kart-oversikt:** [Hele anbefalt rute i Google Maps](https://www.google.com/maps/dir/Siem+Reap,+Cambodia/Battambang,+Cambodia/Phnom+Penh,+Cambodia/Kampot,+Cambodia/Kep,+Cambodia/Sihanoukville,+Cambodia) (Siem Reap → Battambang → Phnom Penh → Kampot → Kep → Sihanoukville) · [Kambodsja i kartet](https://www.google.com/maps/search/?api=1&query=Cambodia)
+
+**⛴️✈️ Etappene uten vei:**
+- **Til/fra landet:** landegrensen mot Thailand er STENGT (2025/26) — **fly BKK ↔ [Siem Reap](https://www.google.com/maps/search/?api=1&query=Siem+Reap+Angkor+International+Airport)** (~1 t, ~500–1 100 kr t/r) er eneste vei; se [`transport.md`](../00-analyse/transport.md)
+- **Til øyene:** speedferge fra [Sihanoukville-piren](https://www.google.com/maps/search/?api=1&query=Sihanoukville+Autonomous+Port+ferry) → [Koh Rong Samloem/Saracen Bay](https://www.google.com/maps/search/?api=1&query=Saracen+Bay+Koh+Rong+Samloem) (~45 min, ~150–250 kr t/r med GTVC/Buva Sea — book på [12go.asia](https://12go.asia/en/travel/sihanoukville/koh-rong-samloem))
+- **Siem Reap → Battambang med båt** (alternativet til bilruten): Tonlé Sap-båten gjennom flytende landsbyer, 6–9 t i tørketid — en av Sørøst-Asias fineste båtreiser (se insider-tipset under Battambang)
 
 ---
 

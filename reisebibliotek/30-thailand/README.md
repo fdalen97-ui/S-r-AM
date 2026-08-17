@@ -2,7 +2,11 @@
 
 *Alle priser i NOK (THB × 0,29), per person per dag inkl. overnatting (delt dobbeltrom), mat, lokal transport og aktiviteter. Flyreiser kommer i tillegg.*
 
-**🗺️ Kart-oversikt:** [«Ukjente Thailand»-ruten på fastlandet](https://www.google.com/maps/dir/Bangkok,+Thailand/Khon+Kaen,+Thailand/Ubon+Ratchathani,+Thailand/Trat,+Thailand) (Bangkok → Isaan → Trat; derfra ferge til [Koh Kood](https://www.google.com/maps/search/?api=1&query=Ko+Kut+District,+Trat,+Thailand) — øya har ingen veiforbindelse, så den kan ikke være med i kjøreruten) · Khao Sok nås med fly BKK→Surat Thani · [Thailand i kartet](https://www.google.com/maps/search/?api=1&query=Thailand)
+**🗺️ Kart-oversikt:** [«Ukjente Thailand»-ruten på fastlandet](https://www.google.com/maps/dir/Bangkok,+Thailand/Khon+Kaen,+Thailand/Ubon+Ratchathani,+Thailand/Trat,+Thailand) (Bangkok → Isaan → Trat) · [Thailand i kartet](https://www.google.com/maps/search/?api=1&query=Thailand)
+
+**⛴️✈️ Etappene uten vei:**
+- **Til Koh Kood:** fly BKK→Trat (Bangkok Airways, ~1 t) eller buss (~4–5 t) → shuttle til [Laem Sok-piren](https://www.google.com/maps/search/?api=1&query=Laem+Sok+Pier+Trat) → **Boonsiri-katamaran ~1 t** til [Koh Kood](https://www.google.com/maps/search/?api=1&query=Ko+Kut+District,+Trat,+Thailand) (book på [boonsiriferry.com](https://www.boonsiriferry.com/) eller [12go.asia](https://12go.asia/en/travel/bangkok/koh-kood), ~350–500 kr med buss+ferge-kombo)
+- **Til Khao Sok:** fly BKK→[Surat Thani](https://www.google.com/maps/search/?api=1&query=Surat+Thani+Airport) (~1 t 15, fra ~300 kr) → buss/minivan ~2 t til [Khao Sok](https://www.google.com/maps/search/?api=1&query=Khao+Sok+National+Park); båtturen på Cheow Lan-sjøen går fra [Ratchaprapha-dammen](https://www.google.com/maps/search/?api=1&query=Ratchaprapha+Dam+Pier)
 
 **Ærlig vin-varsel først:** Vin i Thailand er fortsatt dyrt, selv etter at importtollen (54–60 %) ble fjernet i 2024. En flaske som koster 200 kr på supermarked ligger på 520–730 kr på restaurant (1 800–2 500 THB), og et glass koster 80–160 kr ([Meininger's](https://www.meiningers-international.com/wine/news/thailand-slashes-taxes-wine), [The Londoner](https://www.the-londoner.com/blog/ordering-and-buying-wine-in-thailand/)). Omstill dere til Chang/Singha (25–45 kr), lokale gin-baserte cocktails — eller ta med vin fra taxfree til solnedgangene.
 
