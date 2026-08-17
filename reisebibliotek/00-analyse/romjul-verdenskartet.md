@@ -135,6 +135,42 @@ Qatar binder OSL–Muscat og Doha–Zanzibar på én billett.
 - **Unikt:** ørkenstjerner i Wahiba; smaragdbassengene i Wadi Shab;
   Forodhani-nattmarkedet → Mnemba-revet. Minus: nesten null vinkultur.
 
+### 7. 🇻🇳🇰🇭 Sør-Vietnam + Kambodsja: «den åpne grense-løkka» — *comebacket*
+
+*Først avfeid som «for lik Thailand-planen» — men dypere sjekk (verifisert
+17. aug 2026) snur dommen: **så lenge Thailand–Kambodsja-grensen er stengt, er
+dette objektivt den beste Indokina-komboen.** Vietnam–Kambodsja-grensene er
+åpne og rutinemessige, og Sør-Vietnam + Kambodsja er den ene region-komboen
+der 25. des–ultimo jan er selve sesongtoppen.*
+
+- **Sesong:** Saigon/Mekong-deltaet/Phu Quoc i full tørrsesong (Phu Quoc:
+  årets beste sikt og roligste sjø). Nord (Hanoi) er kaldt/grått og Hoi An
+  fortsatt regnutsatt — sør er riktig. **Tet 2027 er 6. februar** — en tur
+  som ender medio/ultimo januar klarerer kaoset med god margin.
+- **Rute (4 uker):** Saigon m/nyttårsaften (4) → Dalat kaffe-høyland (3) →
+  Mekong-deltaet: homestay + Cai Rang flytemarked → Chau Doc (4) →
+  **Mekong-hurtigbåt over grensen til Phnom Penh** (~260–420 kr — den store
+  entréen) (4) → Siem Reap/Angkor (4) → Kampot/Kep (3) → **Ha Tien-grensen →
+  ferge til Phu Quoc (~92 kr!)** — strandfinale i høysesong med pepperfarmer
+  og fiskesaus-fabrikker som rimer på Kampot (4) → fly Phu Quoc→SGN og hjem.
+- **Visum-friksjon nær null:** Norge har **45 dager visumfritt** i Vietnam
+  (forlenget til 2028; ta 90-dagers e-visum USD 50 hvis dere vil være
+  bombesikre på gjeninnreisen) + Kambodsja e-visum ~380 kr.
+- **Fly:** OSL→SGN t/r i romjula ~9 000–14 000 kr (open jaw inn SGN / ut
+  Phnom Penh ~10 000–15 000 kr — null backtracking).
+- **Pris: billigst av alle realistiske alternativer** — 600–1 200 kr/dag for
+  dere to samlet; hele 4-ukersturen ≈ **50 000–56 000 kr totalt for to**
+  inkl. fly.
+- **Ærlig svakhet:** vin. Dalat-vinen er en kuriositet («lett, smaken
+  forsvinner») — kalibrer til kaffe (Dalat er arabica-landet), craft-øl
+  (Pasteur Street/Heart of Darkness) og pepper-terroir i stedet: Kampot-pepper
+  (PGI) OG Phu Quoc-pepper + fiskesaus (PDO) på samme tur.
+
+**Revidert Asia-rangering for romjula så lenge grensen er stengt:**
+1. **Sør-Vietnam + Kambodsja** (denne) · 2. Thailand alene (fly-inn sør) ·
+3. Sør-Vietnam alene · 4. ~~TH+KH «gylne triangelet»~~ — **på hylla til
+grensen gjenåpner.**
+
 ## ❌ Drept med respekt (så dere slipper å lure)
 
 | Kandidat | Hvorfor nei |
@@ -143,7 +179,7 @@ Qatar binder OSL–Muscat og Doha–Zanzibar på én billett.
 | Fiji/Samoa/Fransk Polynesia | Syklonsesong nov–apr (+ 2 500–4 000 kr/dag i Polynesia) |
 | Siargao/Filippinene | **Verste måneder er nettopp des–feb** (650–800 mm regn; tyfonen Rai flatla øya 16. des 2021) |
 | Taiwan / Japan vinter | Taipeis gråeste måned / −5 °C og det motsatte av sol+vin (magisk fremtidstur for andre årstider) |
-| Sør-Vietnam | Riktig sesong, men for lik Thailand/Kambodsja-planen — redundant |
+| ~~Sør-Vietnam~~ | **GJENOPPLIVET etter dypere sjekk — se #7 under:** så lenge Thailand–Kambodsja-grensen er stengt, er Sør-Vietnam+Kambodsja objektivt den beste Indokina-komboen |
 | Jordan/Egypt/Marokko | Helt fine i jan — men 1–2-ukers turer som ikke fortjener årets ene 4-ukers vindu |
 | Uruguay | Riktig par, katastrofalt feil måned for lommeboka (José Ignacio dobler des 15–jan 15) — **unntak: formørkelsen 6. feb 2027 krysser Uruguay** |
 | Costa Rica | Sesongen er feilfri fra romjula — drept kun på pris-per-wow (1 000–1 600 kr/dag) og tynn mat/vin-historie mot Mexico/Colombia |
