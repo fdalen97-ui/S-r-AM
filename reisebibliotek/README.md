@@ -40,6 +40,9 @@ Region-filer: Bangkok/sentralt · Nord · Isaan · Andaman · Gulf-øyene · Øs
 ### 40 · Kambodsja 🇰🇭
 Region-filer: Siem Reap/Angkor · Phnom Penh · Sørkysten (Kampot/Kep/øyene) · Battambang · Øst (Mondulkiri/Kratie)
 
+### 50 · Vietnam 🇻🇳
+Region-filer: Saigon · Mekong-deltaet · Phu Quoc · Con Dao · Dalat · Mui Ne/Nha Trang · Hoi An/Hue · Hanoi/Ha Long/Ninh Binh · Sapa/Ha Giang — *(nytt: VN+KH er beste Indokina-kombo mens TH–KH-grensen er stengt)*
+
 ---
 
 ## 🔗 Relatert
