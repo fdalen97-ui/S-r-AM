@@ -23,6 +23,9 @@ Kalibrér til det Vietnam er best på: **kaffe** (Dalat = arabica-landet),
 
 ## 1. Ho Chi Minh City (Saigon) + omland
 
+![Saigon skyline](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/R%C3%ADo_Saig%C3%B3n%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_29.JPG/960px-R%C3%ADo_Saig%C3%B3n%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_29.JPG)
+*Skyline med Bitexco-tårnet sett fra Saigon-elven. Foto: Diego Delso, CC BY-SA 3.0, Wikimedia Commons*
+
 **Best på:** Gatemat i verdensklasse, krigshistorie, craft-øl og storby-energi — Vietnams mathovedstad.
 
 **Must-sees:** War Remnants Museum (16 kr) · Cu Chi-tunnelene (54 kr entré, halvdagstur 150–250 kr) · matgatene Ho Thi Ky/Vinh Khanh (middag 40–80 kr) · craft-øl-runde i District 1 (Pasteur Street, Heart of Darkness) · Can Gio-mangroven som dagstur.
@@ -42,6 +45,12 @@ Kalibrér til det Vietnam er best på: **kaffe** (Dalat = arabica-landet),
 ---
 
 ## 2. Mekong-deltaet (Ben Tre, Can Tho/Cai Rang, Chau Doc)
+
+![Cai Rang flytemarked](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cai_Rang_Floating_Market_1.jpg/960px-Cai_Rang_Floating_Market_1.jpg)
+*Båter fulle av frukt på det flytende markedet Cai Rang i Can Tho. Foto: Christophe95, CC BY-SA 4.0, Wikimedia Commons*
+
+![Mekong-kanal](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_in_Mekong_Delta_-_My_Tho_-_Vietnam_%2815912635245%29.jpg/960px-Canal_in_Mekong_Delta_-_My_Tho_-_Vietnam_%2815912635245%29.jpg)
+*Sampan glir gjennom en palmekledd kanal i Mekong-deltaet. Foto: Esin Üstün, CC BY 2.0, Wikimedia Commons*
 
 **Best på:** Elveliv, flytende markeder, homestays — **landets beste verdi** og porten til Kambodsja med båt.
 
@@ -63,6 +72,9 @@ Kalibrér til det Vietnam er best på: **kaffe** (Dalat = arabica-landet),
 
 ## 3. Phu Quoc
 
+![Phu Quoc solnedgang](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/1_Phu_Quoc_sunset.jpg/960px-1_Phu_Quoc_sunset.jpg)
+*Solnedgang mellom palmene på stranden på Phu Quoc. Foto: Elmschrat, CC0, Wikimedia Commons*
+
 **Best på:** Hvite strender, solnedganger, sjømat — og pepperfarmer + fiskesausfabrikker (PDO-beskyttet!) som rimer på Kampot.
 
 **Must-sees:** Bai Sao/Bai Khem-strendene · snorkletur til An Thoi-øyene (450–700 kr) · Hon Thom-taubanen — verdens lengste over sjø (400–480 kr) · fiskesausfabrikk + pepperfarm (gratis/billig) · Duong Dong nattmarked (*goi ca trich*-sildesalat, middag 80–150 kr).
@@ -82,6 +94,9 @@ Kalibrér til det Vietnam er best på: **kaffe** (Dalat = arabica-landet),
 ---
 
 ## 4. Con Dao
+
+![Con Dao](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pulo_Condore_island_beach.jpg/960px-Pulo_Condore_island_beach.jpg)
+*Uberørt strand med grønne fjell på Con Dao. Foto: Tycho (shansov.net), CC BY-SA 3.0, Wikimedia Commons*
 
 **Best på:** Rå, uutbygd øynatur, sterk fengselshistorie, tomme strender — «anti-Phu Quoc».
 
@@ -103,6 +118,9 @@ Kalibrér til det Vietnam er best på: **kaffe** (Dalat = arabica-landet),
 
 ## 5. Dalat + det sentrale høylandet
 
+![Dalat](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Da_Lat_-_Xuan_Huong_Lake.jpg/960px-Da_Lat_-_Xuan_Huong_Lake.jpg)
+*Xuan Huong-sjøen i hjertet av fjellbyen Dalat. Foto: P. Hughes, CC BY 4.0, Wikimedia Commons*
+
 **Best på:** Kjølig fjelluft, fossefall, canyoning, landets beste kaffe — og Vietnams eneste «vinregion» (kuriositeten).
 
 **Must-sees:** canyoning i Datanla-juvet (600–750 kr heldag) · kaffefarm-smaking i Cau Dat-åsene (150–300 kr) · Ladora Winery/Vang Dalat-smaking · Crazy House (24 kr) + rodelbanen ved Datanla-fossen · Lang Biang-toppen.
@@ -122,6 +140,9 @@ Kalibrér til det Vietnam er best på: **kaffe** (Dalat = arabica-landet),
 ---
 
 ## 6. Mui Ne / Nha Trang-kysten
+
+![Mui Ne-sanddynene](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Vietnam%2C_Mui_Ne_sand_dune.jpg/960px-Vietnam%2C_Mui_Ne_sand_dune.jpg)
+*Bølgende sanddyner ved Mui Ne. Foto: Vyacheslav Argenberg, CC BY 4.0, Wikimedia Commons*
 
 **Best på:** Sanddyner, kitesurf, plaststol-sjømat (Mui Ne); øyhopping og gjørmebad (Nha Trang).
 
@@ -143,6 +164,9 @@ Kalibrér til det Vietnam er best på: **kaffe** (Dalat = arabica-landet),
 
 ## 7. Midt-Vietnam: Hoi An / Da Nang / Hue
 
+![Hoi An-lyktene](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lanterns_in_Hoi_An_%2840542858941%29.jpg/960px-Lanterns_in_Hoi_An_%2840542858941%29.jpg)
+*Lykter lyser opp gamlebyen i Hoi An om kvelden. Foto: Mig Gilbert, CC BY-SA 2.0, Wikimedia Commons*
+
 **Best på:** Vietnams vakreste gamleby, skreddersøm, keiserhistorie, gatemat-ikonene *cao lau* og *banh mi*.
 
 **Must-sees:** Hoi An gamleby med lyktekvelder (billett 48 kr) · skredderdress på 24–48 t (fra 800–1 500 kr) · Hue-citadellet (80 kr) · Hai Van-passet med easy rider · My Son-ruinene (60 kr).
@@ -163,6 +187,12 @@ Kalibrér til det Vietnam er best på: **kaffe** (Dalat = arabica-landet),
 
 ## 8. Nord: Hanoi / Ha Long / Ninh Binh
 
+![Ha Long-bukta](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ha_Long_Bay_-_Halong1419.jpg/960px-Ha_Long_Bay_-_Halong1419.jpg)
+*Kalksteinsklipper stiger opp av havet i Ha Long-bukta. Foto: lumoplank, CC0, Wikimedia Commons*
+
+![Tam Coc, Ninh Binh](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tam_Coc_11.jpg/960px-Tam_Coc_11.jpg)
+*Robåt på elven mellom karstfjellene i Tam Coc, Ninh Binh. Foto: Shyamal, CC BY-SA 4.0, Wikimedia Commons*
+
 **Best på:** Hovedstadssjarm, egg coffee, karst til vanns (Ha Long/Lan Ha) og til lands (Ninh Binh).
 
 **Must-sees:** gamlebyen med bia hoi-hjørner (øl 4–8 kr!) og egg coffee hos Café Giang (14 kr) · overnattingscruise **Lan Ha-bukta** (200–500 kr billigere enn Ha Long for samme kvalitet, langt færre båter; 2d/1n medium 1 500–2 600 kr) · Trang An-båtturen (100 kr) + Hang Mua-utsikten (40 kr) · train street + vannmarionetteteater.
@@ -182,6 +212,9 @@ Kalibrér til det Vietnam er best på: **kaffe** (Dalat = arabica-landet),
 ---
 
 ## 9. Ytterste nord: Sapa / Ha Giang-loopen
+
+![Ma Pi Leng-passet](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ma_Pi_Leng_Pass_winding_road_Ha_Giang_Vietnam.jpg/960px-Ma_Pi_Leng_Pass_winding_road_Ha_Giang_Vietnam.jpg)
+*Svingete fjellvei over Ma Pi Leng-passet på Ha Giang-sløyfa. Foto: Khánh Hmoong, CC BY 2.0, Wikimedia Commons*
 
 **Best på:** Vietnams mest dramatiske fjell, risterrasser, minoritetskulturer, Ma Pi Leng-passet — landets natur-høydepunkt.
 

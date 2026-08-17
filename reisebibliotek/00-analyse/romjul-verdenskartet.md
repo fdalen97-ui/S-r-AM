@@ -137,6 +137,12 @@ Qatar binder OSL–Muscat og Doha–Zanzibar på én billett.
 
 ### 7. 🇻🇳🇰🇭 Sør-Vietnam + Kambodsja: «den åpne grense-løkka» — *comebacket*
 
+![Cai Rang flytemarked](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cai_Rang_Floating_Market_1.jpg/960px-Cai_Rang_Floating_Market_1.jpg)
+*Cai Rang-flytemarkedet i Can Tho — Mekong-deltaets morgenrituale. Foto: Christophe95, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Cai Rang](https://www.google.com/maps/search/?api=1&query=Cai+Rang+Floating+Market)
+
+![Phu Quoc](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/1_Phu_Quoc_sunset.jpg/960px-1_Phu_Quoc_sunset.jpg)
+*Solnedgang på Phu Quoc — strandfinalen etter 92-kroners fergen fra Ha Tien. Foto: Elmschrat, CC0, Wikimedia Commons* · 📍 [Phu Quoc](https://www.google.com/maps/search/?api=1&query=Phu+Quoc)
+
 *Først avfeid som «for lik Thailand-planen» — men dypere sjekk (verifisert
 17. aug 2026) snur dommen: **så lenge Thailand–Kambodsja-grensen er stengt, er
 dette objektivt den beste Indokina-komboen.** Vietnam–Kambodsja-grensene er
