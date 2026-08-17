@@ -25,7 +25,9 @@ Ocean Road t/r) → evt. fly Adelaide/Tasmania.** Dette er den aktive planen
 - **Fleks 3 — finalen:** Great Ocean Road «baklengs» (vest→øst gir utsikten
   på din side), eller fly til Adelaide og gjør Barossa/Clare — kontinentets
   beste vinkjøp — eller Tasmania (jan = perfekt sesong).
-- **Låst punkt:** Australian Open-finalene i Melbourne 30.–31. jan 2027.
+- **Fleks 4** *(tidligere «låst punkt»)*: AO er nedprioritert — uten
+  finale-ankeret kan Melbourne-delen skyves forbi 26. jan (skoleferieslutt)
+  for lavere priser og færre folk.
 
 ## 🇳🇿 New Zealand — «Sørøya konsentrert» (2 uker) eller «hele NZ» (4–5 uker)
 

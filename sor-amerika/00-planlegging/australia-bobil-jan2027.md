@@ -100,8 +100,9 @@ Melbourne jan 2027 publiseres i okt — sjekk Melbourne Wine School da (bonus).
    passnummeret — søk med passet dere faktisk reiser med.
 
 ## 🎾 Januar-essene
-- **Australian Open 2027**: Melbourne Park 11.–31. jan, finalehelg 30.–31. jan —
-  akkurat når dere ruller inn. Grunnbilletter fra ~AUD 30; finaler må sikres tidlig.
+- **Australian Open 2027** *(⬇️ nedprioritert aug 2026 — ikke viktig for oss)*:
+  Melbourne Park 11.–31. jan. Blir vi nysgjerrige holder en grounds pass fra
+  ~AUD 30 (kjøpes når som helst) — ingen finalebilletter trengs.
 - Hunter-vintage midt i jan · Sydney Festival hele januar · Big Bash-cricket (~AUD 20–40).
 
 ## 💰 Budsjett (2 personer, 30 dager, kurs ~6,7)
@@ -140,17 +141,19 @@ Twelve Apostles helikopter ~165 · AO-billetter fra ~30.
 ## 🗓️ Timing — ærlig vurdering
 - **Feb–mars er objektivt beste vindu** for ruta (skoleferie slutter 26.–27. jan,
   priser −15–30 %, innhøsting i full gang). **Okt–nov** er beste vår-alternativ.
-- **Men januar har to ess ingen andre måneder gir:** AO-finalene + Hunter-vintage.
+- **Januar-esset som gjenstår er Hunter-vintage** (AO er nedprioritert). Uten
+  AO-ankeret står ruta friere: siste del kan skyves forbi 26. jan (skoleferieslutt)
+  for −15–30 % på overnatting, hvis flyprisene tillater det.
 - Uke 1–3 overlapper australsk skoleferie: book campingplasser (særlig strandparker,
-  250+/natt rundt nyttår) og AO-billetter tidlig. Legg vinsmaking til formiddag
+  250+/natt rundt nyttår) tidlig. Legg vinsmaking til formiddag
   (hetebølge-episoder 35 °C+ forekommer); respekter Total Fire Ban-dager innlands.
 
 ---
 
 ## 🇳🇿 Del 2 — New Zealand Sørøya (ca. 1.–15. februar)
 
-**Hvorfor februar er perfekt:** AO-finalene slutter 31. jan → fly 1.–2. feb,
-akkurat når NZ-skoleferien slutter og januar-peakprisene faller (−15–30 %).
+**Hvorfor februar er perfekt:** fly over ~1.–2. feb, akkurat når NZ-skoleferien
+slutter og januar-peakprisene faller (−15–30 %).
 Februar er Sørøyas tørreste/roligste sommermåned. MEL→CHC/ZQN fra ~1 400–2 500 kr
 én vei (Jetstar/Air NZ, ~3,5 t) — februar er billigste måned på ruten.
 
@@ -222,11 +225,12 @@ Star RV «Essentials» ($60/dag, bond kun $2 500).
 ## ✅ FASE NÅ (august 2026) — akutt bestillingsliste
 
 **⏰ DENNE UKEN:**
-1. 🎾 **AO-billetter — salget åpnet 13. august!** Finalehelgen (30.–31. jan) selges ut først — kjøp via Ticketmaster AU nå
-2. ✈️ **Internasjonale fly: Emirates multi-city** OSL→BNE **25. des** (billigste romjulsdato) + CHC/ZQN→OSL ~14.–15. feb — én billett, 15 000–19 000 p.p. Book direkte hos Emirates innen 2–4 uker (backup: Qatar via AKL-retur). Sjekk SYD-inngang i samme søk (bytt kun hvis >2 000 billigere p.p.)
-3. 🚐 **Bobil: avbestillbar booking 2.–31. jan via DriveNow** (Britz Trailblazer / Apollo Euro Tourer) + be thl matche $7 652-tilbudet
-4. 🎆 **Brisbane-hotell 28. des–2. jan** (fri avbestilling, sentralt v/South Bank for fyrverkeriet)
-5. 🏕️ **Kritiske campingnetter:** Byron 3.–5. jan (Discovery) · **Seal Rocks (Reflections — fylles NÅ)** · Sydney Lakeside 13.–15. jan · Jervis Bay/Booderee · evt. hele VIC-nasjonalparkdelen (halv pris, bookbar t.o.m. 28. feb)
+1. ✈️ **Internasjonale fly: Emirates multi-city** OSL→BNE **25. des** (billigste romjulsdato) + CHC/ZQN→OSL ~14.–15. feb — én billett, 15 000–19 000 p.p. Book direkte hos Emirates innen 2–4 uker (backup: Qatar via AKL-retur). Sjekk SYD-inngang i samme søk (bytt kun hvis >2 000 billigere p.p.)
+2. 🚐 **Bobil: avbestillbar booking 2.–31. jan via DriveNow** (Britz Trailblazer / Apollo Euro Tourer) + be thl matche $7 652-tilbudet
+3. 🎆 **Brisbane-hotell 28. des–2. jan** (fri avbestilling, sentralt v/South Bank for fyrverkeriet)
+4. 🏕️ **Kritiske campingnetter:** Byron 3.–5. jan (Discovery) · **Seal Rocks (Reflections — fylles NÅ)** · Sydney Lakeside 13.–15. jan · Jervis Bay/Booderee · evt. hele VIC-nasjonalparkdelen (halv pris, bookbar t.o.m. 28. feb)
+
+*🎾 AO er nedprioritert — ikke kjøp finalebilletter. En grounds pass (fra ~AUD 30) kan kjøpes spontant hvis lysten kommer i Melbourne.*
 
 **INNEN 2–4 UKER:**
 5. 🛂 eVisitor-visum Australia (gratis, online, 90 dager) + NZeTA/IVL for NZ + sjekk passgyldighet
