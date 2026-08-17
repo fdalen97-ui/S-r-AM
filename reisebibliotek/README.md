@@ -26,6 +26,7 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/pakkereiser.md`](00-analyse/pakkereiser.md) | Pakkereise eller DIY: dom per del av turen, charter-matten, pakkereiseloven |
 | [`00-analyse/buss-og-gruppeturer.md`](00-analyse/buss-og-gruppeturer.md) | Buss-pass (Whimit/FlexiPass/Kiwi Experience) og gruppeturer vs. leiebil — par-matten og hybridmodellen |
 | [`00-analyse/opplevelser.md`](00-analyse/opplevelser.md) | Opplevelses-guiden: beste bookbare turer per by (GetYourGuide/Viator/Klook) med priser |
+| [`00-analyse/romjul-verdenskartet.md`](00-analyse/romjul-verdenskartet.md) | Den siste kreative verdenssjekken: topp 6 nye romjul-reisemål med ruter, fly og dagspriser i NOK |
 
 ### 10 · Australia 🇦🇺
 Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory
