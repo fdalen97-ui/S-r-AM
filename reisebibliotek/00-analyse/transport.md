@@ -12,7 +12,7 @@ Valutakurser brukt: 1 USD ≈ 10 kr, 1 AUD ≈ 6,6 kr, 1 NZD ≈ 6,1 kr, 1 THB �
 - **Strategi for dere:** Fly Skandinavia→Bangkok, gjør Thailand/Kambodsja først, og fortsett sørover — det er den naturlige geografiske rekkefølgen.
 
 ### Bangkok ↔ Kambodsja — VIKTIG statusendring
-- **Landegrensene Thailand–Kambodsja er stengt** etter væpnede sammenstøt i 2025/26; per tidlig 2026 er alle syv overganger stengt uten gjenåpningsdato. **Tog/buss Bangkok–Poipet–Siem Reap er derfor ikke et alternativ nå** — det historiske toget Bangkok–Aranyaprathet går, men du kommer ikke over grensen. Jernbanen Poipet–Phnom Penh er også suspendert. **Sjekk status rett før avreise** (Thaiger, ambassadesider).
+- **Landegrensene Thailand–Kambodsja er stengt** etter væpnede sammenstøt i 2025/26; **re-verifisert 17. aug 2026:** våpenhvilen fra 27. des 2025 gjenåpnet IKKE grensen — alle syv overganger (inkl. Poipet/Aranyaprathet) er fortsatt stengt, og ferskeste daterte kilde (21. juli 2026) kaller gjenåpning «fjern». De direkte internasjonale bussene (Transport Co. BKK–Siem Reap/PP, Giant Ibis' BKK-ruter) er **suspendert på ubestemt tid** — Giant Ibis' nettside viser fortsatt gamle BKK-avganger, men det er en utdatert rutetabell; 12go bekrefter «kun fly». **Tog/buss Bangkok–Poipet–Siem Reap er derfor ikke et alternativ** — sjekk status ~2 uker før avreise (kan snu fort ved politisk avtale).
 - **Fly er løsningen:** Bangkok (DMK)–Siem Reap (SAI) med **Thai AirAsia fra ca. 800 kr** enveis (fra ca. 250–500 kr på kampanje); Bangkok–Phnom Penh tilsvarende. 1 time i lufta. Prisene har steget ~60 % pga. grensestengningen — book tidlig.
 
 ### Bangkok ↔ Australia
@@ -68,6 +68,15 @@ Valutakurser brukt: 1 USD ≈ 10 kr, 1 AUD ≈ 6,6 kr, 1 NZD ≈ 6,1 kr, 1 THB �
 | **Ferger til øyene** | Lomprayah katamaran Samui–Koh Tao ~700 THB (~220 kr); kombibillett buss+båt BKK–Koh Tao ~1 100–1 400 THB | Lomprayah = raskest/mest pålitelig; Songserm billigere og tregere. Book kombibilletter på 12Go. |
 | **Grab/Bolt** | Bytur 60–200 THB | Alltid Grab fremfor taxi uten taksameter; Bolt ofte 10–20 % billigere. BTS/MRT i Bangkok slår alt i rushtiden. |
 
+### 🌙 Nattbussene i Thailand — de som faktisk er gode
+| Operatør | Rute (natt) | Pris p.p. | Dom |
+|---|---|---|---|
+| **Nakhonchai Air (NCA) First Class** 💎 | BKK–Khon Kaen (~6–7 t, avg. 20–22:15) **186 kr** · BKK–Ubon (~9 t) **261 kr** | Gold Class 142/197 kr | **Thailands beste busselskap** (~30 år, egen terminal ved Mo Chit): 2+1 «kapsel»-seter med dyp recline, fotmassasje, måltider, damerad, CCTV/GPS. Perfekt for Isaan-ruta! |
+| Sombat Tour Super VIP | BKK–Chiang Mai (~10 t) | 239–296 kr | Solid premium — men **nattoget #9/#10 er fortsatt førstevalget** til Chiang Mai (bedre søvn, tryggere enn vei) |
+| Transport Co. (999) VIP24 | landsdekkende | 232–261 kr | Pålitelig statlig standard |
+| VIP-buss BKK–Surat Thani | ~9–11 t, avg. 19–21, fremme ~05–06 | 181–319 kr | Treffer morgen-minivanene til Khao Sok perfekt. **Aldri Khao San-«turistbussene»** (bagasjetyveri-rykte) — book terminalavganger via 12go |
+| Boonsiri buss+katamaran | BKK–Koh Kood dør-til-øy 7–8 t (avg. 05:30/08:00) | **~247 kr** | Ingen nattferge finnes — denne tidligmorgen-komboen er riktig svar til Koh Kood (2026-nyhet: egen rute fra Suvarnabhumi) |
+
 ---
 
 ## 5. I Kambodsja
@@ -80,6 +89,20 @@ Valutakurser brukt: 1 USD ≈ 10 kr, 1 AUD ≈ 6,6 kr, 1 NZD ≈ 6,1 kr, 1 THB �
 | **PassApp / Grab** (bytur) | 1–3 USD | PassApp er Kambodsjas svar på Grab — fastpris, ingen pruting. Fungerer i PP, Siem Reap, Kampot. |
 | **Båt Siem Reap–Battambang** | 25–40 USD, 4–8 t | **Kun fornuftig i/etter regntid (juni–jan)** — i tørketiden (feb–mai) lav vannstand, opptil 10+ timer eller innstilt. Vakker Tonlé Sap-tur, men hard trebenk. |
 | **Tog PP–Kampot/Sihanoukville** | 10–13 USD (~100–130 kr), ~4 t 40 min til Kampot | Royal Railway, helgeavganger + enkelte ukedager, én daglig avgang. Sakte, sjarmerende, aircondition. Ingen morgenavganger PP→Kampot — sjekk rutetabell. |
+
+### 🌙 Nattbussene i Kambodsja — ærlig vurdering
+| Operatør | Produkt | Pris p.p. | Dom |
+|---|---|---|---|
+| **Giant Ibis nattbuss** (PP↔Siem Reap, avg. 22–23) | **Ekte liggekøyer** (dobbeltkøye — book begge for å slippe å dele med fremmed!), USB, gardin, wifi | 179–200 kr | **Det konservative valget** — best sjåførdisiplin og rykte i landet. Velg nedre køye midt i bussen; de selges ut først |
+| Larryta Express | nattavganger PP–SR + PP–Sihanoukville, setebelter/GPS/forsikring | 89–305 kr | God #2 og hovedvalget PP–Sihanoukville natt |
+| Vireak Buntham «hotellbuss» | 20 private enkeltkabiner (seng, TV, gardin) | ~260–315 kr | Plushest maskinvare, **dårligst sikkerhetsrykte** (gjentatte førstehånds-rapporter om farlig kjøring) — ikke vårt valg for natt |
+
+⚠️ **Ærlig nattbuss-regel for Kambodsja:** NR6 er ulyst og deles med lastebiler
+uten lys, scootere og buskap — PP–Siem Reap er bare ~6 t, så **dagbuss
+(~105–160 kr) eller 45-min fly er objektivt tryggere.** Tar dere nattbussen:
+Giant Ibis, nedre køye. Praktisk for begge land: aircon står på 18–20 °C (ta
+fleece + sokker), verdisaker på kroppen (ikke hattehyllen), og book 2–3 uker
+før i høysesong nov–feb.
 
 ---
 
