@@ -33,6 +33,10 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/sorostasia-perler.md`](00-analyse/sorostasia-perler.md) | 💎 Sørøst-Asia-perlene: topp 10 opplevelser i des–jan-vinduet, nabolands-dommene og påbyggingsmodulene (Laos!) |
 | [`00-analyse/retreats-og-unike-steder.md`](00-analyse/retreats-og-unike-steder.md) | Retreats, workshops og kuleste overnattinger per land (rafthus, trehytter, flytende telt, palasser) |
 | [`00-analyse/bangkok-romjul.md`](00-analyse/bangkok-romjul.md) | Bangkok i romjula: Talat Noi-basen, Loy La Long, countdown-festivalen og 3-dagersprogrammet |
+| [`00-analyse/pakkeliste.md`](00-analyse/pakkeliste.md) | 🎒 Pakkelisten for storrunden — Osprey Farpoint 70-strategi, 12 kg-mål, det rutespesifikke |
+| [`00-analyse/strender-og-alternative-ruter.md`](00-analyse/strender-og-alternative-ruter.md) | 🏖️ Strand-toppen i sesong (hype-sjekket), Phuket-uka før julaften (Norse OSL–HKT direkte!) og fire alternative ruter fra Bangkok |
+| [`00-analyse/flerdagsopplegg.md`](00-analyse/flerdagsopplegg.md) | 🏕️ Retreats i tre prisnivåer per land + de 10 beste flerdagsoppleggene (Similan-liveaboard, Chi Phat, Mekong-cruise) |
+| [`00-analyse/vaksiner.md`](00-analyse/vaksiner.md) | 💉 Vaksiner og reisehelse: FHI-basert pakke, rabies/JE-vurderingene, Qdenga-dommen, malaria-kartet, tidslinje og priser |
 
 ### 10 · Australia 🇦🇺
 Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory
@@ -48,6 +52,9 @@ Region-filer: Siem Reap/Angkor · Phnom Penh · Sørkysten (Kampot/Kep/øyene) �
 
 ### 50 · Vietnam 🇻🇳
 Region-filer: Saigon · Mekong-deltaet · Phu Quoc · Con Dao · Dalat · Mui Ne/Nha Trang · Hoi An/Hue · Hanoi/Ha Long/Ninh Binh · Sapa/Ha Giang — *(nytt: VN+KH er beste Indokina-kombo mens TH–KH-grensen er stengt)*
+
+### 60 · Laos 🇱🇦
+Region-filer: Luang Prabang · Nong Khiaw/Muang Ngoi · Bokeo/slow boat · Vang Vieng · Vientiane · Krukkesletten · Thakhek/Kong Lor · **Bolaven-kaffelandet** · Champasak/4000 øyene — *(Sørøst-Asias billigste land + høyhastighetstoget)*
 
 ---
 

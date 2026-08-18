@@ -111,6 +111,34 @@ dyrere enn Peru, klart billigere enn Norge. Betal med utenlandsk kort
   (middag hjemme hos kokker): Casa Saltshaker, Steaks by Luis 650–1 100 kr
   alt inkludert.
 
+## 🏔️ Rutevariantene — og den nye vinneren (fordypning aug 2026)
+
+Dypere sjekk av retning, naboområder og sluttpunkt ga tre navngitte varianter:
+
+| Variant | Rute | Totalt for to | Dom |
+|---|---|---|---|
+| 1. «Planen som tegnet» | Lima→Cusco→Arequipa→fly Salta→Cafayate→Mendoza→BA+Iguazú | 120–155 000 | Tryggest, billigst |
+| **2. «Altiplano Grand»** ⭐ | Lima → Paracas/Huacachina (buss) → **Arequipa/Colca FØR Cusco** (bedre høydekurve!) → Sacred Valley/MP → Cusco/Inti Raymi → Ruta del Sol-buss → Titicaca → Bolivia Hop → La Paz → **Uyuni 3-dagers salttur som ender i San Pedro de Atacama** → **Paso de Jama-buss** → Salta → Cafayate → Mendoza → BA → Iguazú (arg.+bras. side) → **hjem via São Paulo** | **135–175 000** (6 uker) | **Vinneren:** hele Andes-ryggen overland, FÆRRE fly enn variant 1, og Bolivia-uka er turens billigste |
+| 3. «Ende i Chile» | …Mendoza → Andes-bussen → Santiago/Valparaíso/Casablanca → SCL hjem | 130–170 000 | ⚠️ Paso Los Libertadores har ~25 stengedager/år — juli verst; SCL→OSL dyrest hjem |
+
+**Hvorfor variant 2 vinner:** Uyuni i juni–juli er tørrsesong — ikke speilet,
+men polygon-saltskorpa, kontinentets klareste stjernehimmel (og −10/−15 °C
+netter: lag + leid sovepose). Å hoppe over Bolivia når man likevel skal fra
+Cusco til Salta er den klassiske angreren. Vin/mat-delen (Cafayate + Mendoza +
+BA) beholdes 100 %, alt er jeep-basert (medium aktivitet), og **hjem via
+Iguazú→São Paulo (GRU)** er ofte billigste Europa-retur — Brasil er visumfritt.
+
+**Ærlige nei fra fordypningen:** Huaraz-trekking (prime sesong, men egen
+6–7-dagers blindtarm med teltnetter i minus — feil aktivitetsnivå her),
+Nord-Peru/Kuélap og Máncora (feil geometri), Galápagos (25–40 % av budsjettet
+— egen tur). **Ja takk:** Paracas/Huacachina som busstopp (2–3 dager), og
+Iguazús brasilianske side som halvdag (lokalbuss ~80 kr — og IGU-flyplassen
+ligger der hvis dere flyr hjem via GRU).
+
+**Uyuni-sikkerhet (viktig):** velg operatør med navngitte sjåfører og
+«no night driving»-policy (Salty Desert, Andes Salt Expeditions m.fl.) —
+billigoperatørene har dokumenterte fyllekjørings-ulykker. Book 1–2 mnd før.
+
 ## ✅ Bookingfrister (for juni 2027)
 
 1. **Okt–nov 2026:** Inca Trail-permit (hvis trek) + følg 2027-slippet på tuboleto
