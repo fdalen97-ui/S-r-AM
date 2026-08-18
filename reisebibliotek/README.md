@@ -34,6 +34,7 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/retreats-og-unike-steder.md`](00-analyse/retreats-og-unike-steder.md) | Retreats, workshops og kuleste overnattinger per land (rafthus, trehytter, flytende telt, palasser) |
 | [`00-analyse/bangkok-romjul.md`](00-analyse/bangkok-romjul.md) | Bangkok i romjula: Talat Noi-basen, Loy La Long, countdown-festivalen og 3-dagersprogrammet |
 | [`00-analyse/pakkeliste.md`](00-analyse/pakkeliste.md) | 🎒 Pakkelisten for storrunden — Osprey Farpoint 70-strategi, 12 kg-mål, det rutespesifikke |
+| [`00-analyse/strender-og-alternative-ruter.md`](00-analyse/strender-og-alternative-ruter.md) | 🏖️ Strand-toppen i sesong (hype-sjekket), Phuket-uka før julaften (Norse OSL–HKT direkte!) og fire alternative ruter fra Bangkok |
 
 ### 10 · Australia 🇦🇺
 Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory
