@@ -26,7 +26,13 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/pakkereiser.md`](00-analyse/pakkereiser.md) | Pakkereise eller DIY: dom per del av turen, charter-matten, pakkereiseloven |
 | [`00-analyse/buss-og-gruppeturer.md`](00-analyse/buss-og-gruppeturer.md) | Buss-pass (Whimit/FlexiPass/Kiwi Experience) og gruppeturer vs. leiebil — par-matten og hybridmodellen |
 | [`00-analyse/opplevelser.md`](00-analyse/opplevelser.md) | Opplevelses-guiden: beste bookbare turer per by (GetYourGuide/Viator/Klook) med priser |
-| [`00-analyse/romjul-verdenskartet.md`](00-analyse/romjul-verdenskartet.md) | Den siste kreative verdenssjekken: topp 6 nye romjul-reisemål med ruter, fly og dagspriser i NOK |
+| [`00-analyse/romjul-verdenskartet.md`](00-analyse/romjul-verdenskartet.md) | Den siste kreative verdenssjekken: topp 7 romjul-reisemål med ruter, fly og dagspriser i NOK |
+| [`00-analyse/indokina-storrunden.md`](00-analyse/indokina-storrunden.md) | **Totalplanen TH+KH+VN i én tur**: én vei østover, ett fly midtveis, sol-finale på Phu Quoc — 46–67k for to |
+| [`00-analyse/peru-argentina-sommer.md`](00-analyse/peru-argentina-sommer.md) | **Sommerturen Peru+Argentina** (juni→10. aug): Inti Raymi 24. juni, Machu Picchu-praktikk, Cafayate/Mendoza-vinter, 140–170k for to |
+| [`00-analyse/de-tre-store.md`](00-analyse/de-tre-store.md) | ⚖️ **DE TRE STORE**: Indokina vs. Peru+Argentina vs. Australia+NZ — full prissammenligning, scenarioer og dommen |
+| [`00-analyse/sorostasia-perler.md`](00-analyse/sorostasia-perler.md) | 💎 Sørøst-Asia-perlene: topp 10 opplevelser i des–jan-vinduet, nabolands-dommene og påbyggingsmodulene (Laos!) |
+| [`00-analyse/retreats-og-unike-steder.md`](00-analyse/retreats-og-unike-steder.md) | Retreats, workshops og kuleste overnattinger per land (rafthus, trehytter, flytende telt, palasser) |
+| [`00-analyse/bangkok-romjul.md`](00-analyse/bangkok-romjul.md) | Bangkok i romjula: Talat Noi-basen, Loy La Long, countdown-festivalen og 3-dagersprogrammet |
 
 ### 10 · Australia 🇦🇺
 Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory
@@ -39,6 +45,9 @@ Region-filer: Bangkok/sentralt · Nord · Isaan · Andaman · Gulf-øyene · Øs
 
 ### 40 · Kambodsja 🇰🇭
 Region-filer: Siem Reap/Angkor · Phnom Penh · Sørkysten (Kampot/Kep/øyene) · Battambang · Øst (Mondulkiri/Kratie)
+
+### 50 · Vietnam 🇻🇳
+Region-filer: Saigon · Mekong-deltaet · Phu Quoc · Con Dao · Dalat · Mui Ne/Nha Trang · Hoi An/Hue · Hanoi/Ha Long/Ninh Binh · Sapa/Ha Giang — *(nytt: VN+KH er beste Indokina-kombo mens TH–KH-grensen er stengt)*
 
 ---
 

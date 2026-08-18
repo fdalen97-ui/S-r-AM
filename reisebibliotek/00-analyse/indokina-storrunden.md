@@ -1,0 +1,149 @@
+# 🇹🇭🇰🇭🇻🇳 Indokina-storrunden — Thailand + Kambodsja + Vietnam i én tur
+
+*Totalplanen for alle tre landene i romjul-vinduet (avreise ~26.–27. des,
+4 uker; 5-ukersvarianten nederst). **Designlogikken:** TH–KH-grensen er stengt
+→ ruten går én vei østover med bare ETT fly midtveis, alle andre etapper er
+buss/båt over åpne grenser — og finalen ligger på **Phu Quoc, Indokinas mest
+sol-sikre strandpunkt i januar** (tørrsesong-toppen: ~3–6 regndager/mnd,
+rolig hav, 28–32 °C). Alle priser i NOK.*
+
+## 🗺️ Total-ruten i Google Maps
+
+Google Maps kan ikke tegne én sammenhengende rute når fly og ferger er med —
+her er hele turen som fire klikkbare bakke-segmenter + fly/ferge-leddene som
+binder dem sammen (i rekkefølge):
+
+1. ✈️ **Fly:** Oslo → [Bangkok](https://www.google.com/maps/search/?api=1&query=Suvarnabhumi+Airport) (Norse direkte, ~11 t)
+2. 🚆 **Segment 1 — Bangkok + Ayutthaya:** [dagsturen BKK → Ayutthaya](https://www.google.com/maps/dir/Bangkok,+Thailand/Ayutthaya,+Thailand) (tog fra Krung Thep Aphiwat)
+3. ✈️ **Fly:** Bangkok → [Siem Reap–Angkor lufthavn](https://www.google.com/maps/search/?api=1&query=Siem+Reap+Angkor+International+Airport) (~1 t — turens eneste fly midtveis)
+4. 🚌 **Segment 2 — Kambodsja-runden:** [Siem Reap → Battambang → Phnom Penh → Kampot → Kep](https://www.google.com/maps/dir/Siem+Reap,+Cambodia/Battambang,+Cambodia/Phnom+Penh,+Cambodia/Kampot,+Cambodia/Kep,+Cambodia)
+5. 🚐 **Segment 3 — grensekryssingen og Mekong:** [Kep → Prek Chak/Ha Tien → Chau Doc → Can Tho → Rach Gia](https://www.google.com/maps/dir/Kep,+Cambodia/Ha+Tien,+Vietnam/Chau+Doc,+Vietnam/Can+Tho,+Vietnam/Rach+Gia,+Vietnam)
+6. ⛴️ **Ferge:** [Rach Gia-piren](https://www.google.com/maps/search/?api=1&query=Rach+Gia+ferry+terminal) → [Phu Quoc](https://www.google.com/maps/search/?api=1&query=Phu+Quoc) (Superdong/Phu Quoc Express, ~2,5 t)
+7. 🛵 **Segment 4 — Phu Quoc rundt:** [Duong Dong → Ong Lang → Bai Sao → An Thoi](https://www.google.com/maps/dir/Duong+Dong,+Phu+Quoc/Ong+Lang+Beach/Sao+Beach,+Phu+Quoc/An+Thoi)
+8. ✈️ **Fly:** Phu Quoc → [Saigon](https://www.google.com/maps/search/?api=1&query=Tan+Son+Nhat+International+Airport) (45 min) → hjem til Oslo
+
+## 🚌 Transportvalget etappe for etappe
+
+| Etappe | ✅ Anbefalt | Pris p.p. | Alternativ | Lokalt på stedet |
+|---|---|---|---|---|
+| Oslo → Bangkok | ✈️ Norse direkte | 3 500–5 500 (enveis) | Qatar/Emirates via Gulfen | **BTS/MRT + Grab** — aldri taxi uten taksameter |
+| Bangkok → Ayutthaya (dagstur) | 🚆 Tog fra Krung Thep Aphiwat | **5–15 kr!** | Minivan (~60 kr) | Tuk-tuk mellom templene (avtal dagspris ~150 kr) |
+| Bangkok → Siem Reap | ✈️ AirAsia/Bangkok Airways fra DMK | 500–800 | **Finnes ikke landeveien** (grensen stengt) | **Tuk-tuk-sjåfør 2 dager Angkor (210–315 kr/dag for dere begge)** — bedre enn scooter i tempelvarmen |
+| Siem Reap → Battambang | 🚌 Buss 3–4 t (~90 kr) | — | ⛴️ **Oppgrader hvis vannstand: Tonlé Sap-båten** 6–9 t (~260–420 kr) — en av Asias fineste båtreiser, sjekk vannstanden i jan | Tuk-tuk-dagstur (bambustog + grotter) |
+| Battambang → Phnom Penh | 🚌 Dagbuss 5–6 t (~110 kr) | Privat sjåfør delt (~500 kr for to) | **Ikke nattbuss her** — strekningen er kort nok til dag | PassApp (Kambodsjas Grab) |
+| Phnom Penh → Kampot | 🚌 Buss/minivan 3 t (~100 kr) | 🚂 Royal Railway-toget (~110 kr, helg — sakte og sjarmerende hvis dagen passer) | — | 🛵 **Scooter-landet:** Kampots landsbygd (pepperfarmer, Secret Lake) er perfekt scooterterreng, ~50–75 kr/dag — men kun med MC-førerkort + IDP; ellers tuk-tuk-dagstur ~260 kr |
+| Kampot/Kep → Ha Tien (grensen) | 🚐 Minibuss ~2 t (~100–150 kr) inkl. Prek Chak-krysset | — | E-visum klart på forhånd = 15 min på grensen | — |
+| Ha Tien → Chau Doc → Can Tho | 🚌 Lokalbusser (~100 kr totalt) | Privat bil delt | — | Båt er poenget her: Tra Su-skogen og Cai Rang kl. 05.30 |
+| Can Tho → Rach Gia | 🚌 Buss ~2,5 t (~80 kr) | — | — | — |
+| Rach Gia → Phu Quoc | ⛴️ Superdong-ferge 2,5 t (**~100 kr**) | ✈️ Can Tho→PQC hvis sjøen er røff | Book dagen før i høysesong | 🛵 **Øya er scooter-perfekt** (~120–160 kr/dag) — MEN Vietnam krever MC-kort + 1968-IDP, ellers er forsikringen ugyldig; uten kort: Grab-bil finnes på øya |
+| Phu Quoc → Saigon | ✈️ VietJet/Vietnam Airlines 45 min (260–630 kr) | Ferge+buss tilbake (7+ t — ikke verdt det på slutten) | — | Grab overalt i Saigon |
+| Saigon → Oslo | ✈️ Én stopp (Qatar/Turkish/EVA) | — | Book tidlig — 23. jan er før pre-Tet-rushet, men marginene krymper | — |
+
+### 🛵 Scooter-dommen (ærlig)
+Scooter frister tre steder på ruten — men reglene er like i alle tre land:
+**MC-førerkort (klasse A1/A) + internasjonalt førerkort etter
+1968-konvensjonen kreves, ellers er reiseforsikringen ugyldig ved ulykke.**
+- **Med MC-kort:** Kampot-landsbygda og Phu Quoc er turens to
+  scooter-høydepunkter (rolige veier, korte avstander). Siem Reap/Angkor:
+  tuk-tuk uansett — skygge, kald drikke og lokalkunnskap inkludert.
+- **Uten MC-kort:** tuk-tuk-dagsturer (Kampot ~260 kr), Grab/PassApp og
+  sykkel (Battambang og Mekong-deltaet er flate og sykkelvennlige) dekker
+  alt — dere mister ingenting av ruten.
+
+### 🌙 Nattbuss-dommen for denne ruten
+Kort: **dere trenger ingen nattbusser på hovedruten** — lengste bakke-etappe
+er 5–6 timer, og nattbussene i Kambodsja frarådes uansett (NR6, jf.
+[`transport.md`](transport.md)). Eneste nattbuss verdt navnet er
+**5-ukersvariantens Isaan-tillegg: NCA First Class BKK→Khon Kaen (186 kr)** —
+Thailands beste busselskap, og en opplevelse i seg selv.
+
+---
+
+## Ruten uke for uke (4-ukersversjonen)
+
+| Datoer (ca.) | Sted | Netter | Høydepunkter | Transport inn |
+|---|---|---|---|---|
+| 27.–30. des | 🇹🇭 **Bangkok** | 3 | Wat Arun, Yaowarat-gatemat, Jay Fai-forsøket (navneliste ~13), Ayutthaya-dagstur (DIY under 175 kr) | ✈️ **Norse OSL→BKK direkte** |
+| 30. des–3. jan | 🇰🇭 **Siem Reap/Angkor** | 4 | 3-dagerspass (650 kr): soloppgang, Bayon, Ta Prohm, Banteay Srei · **nyttårsaften på Pub Street/Phare-sirkuset** | ✈️ BKK→REP (~500–800 kr) — turens ENESTE fly midtveis |
+| 3.–5. jan | 🇰🇭 **Battambang** | 2 | Bambustoget, flaggermusgrotten, Phare Ponleu Selpak | Buss 3–4 t (~90 kr) |
+| 5.–8. jan | 🇰🇭 **Phnom Penh** | 3 | S-21 + Choeung Ek (formiddag, med respekt), palasset, **Mekong-solnedgangscruise 85–180 kr**, Bassac Lane | Buss 5–6 t (~110 kr) |
+| 8.–11. jan | 🇰🇭 **Kampot/Kep** | 3 | La Plantation-pepperfarm (gratis), krabbemarkedet i Kep, Bokor, ildflue-cruise (~50–85 kr) | Buss 3 t (~100 kr) |
+| 11.–12. jan | 🇻🇳 **Ha Tien → Chau Doc** | 1 | **Prek Chak-grensen (åpen!)**, Tra Su-flomskogen, Sam Mountain | Minibuss ~2 t (~100–150 kr) |
+| 12.–14. jan | 🇻🇳 **Can Tho** | 2 | **Cai Rang-flytemarkedet kl. 05.30** (20–40 kr), sampan-kanaler, homestay | Buss ~3 t (~100 kr) |
+| 14.–20. jan | 🇻🇳 **Phu Quoc** ☀️ | 6 | **SOL-FINALEN:** Ong Lang-solnedganger, Bai Sao, An Thoi-snorkling, pepperfarm + fiskesausfabrikk, nattmarkedet | Buss til Rach Gia ~2,5 t + **ferge 2,5 t (~100 kr)** |
+| 20.–23. jan | 🇻🇳 **Saigon** | 3 | Matgatene, craft-øl, Cu Chi, «apartment café» ved solnedgang | ✈️ PQC→SGN (~260–630 kr) |
+| 23. jan | Hjem | — | — | ✈️ SGN→OSL (én stopp) |
+
+**Hvorfor akkurat denne rekkefølgen vinner:**
+1. **Én vei, null backtracking, ett fly midtveis** — resten er buss/båt/ferge
+   over åpne grenser (~600–750 kr totalt i bakketransport per person!).
+2. **Kultur først, strand sist:** Angkor i nyttårsuka (koster nesten det
+   samme da), Phu Quoc etter at romjulspåslaget har sluppet taket.
+3. **Sesongene er perfekte hele veien:** Bangkok/Kambodsja kjøligst og
+   tørrest i des–jan; Phu Quoc på årets beste. **Tet 2027 (6. feb) klareres**
+   med god margin — og hjemreise 23. jan er før pre-Tet-rushet.
+4. **Inn Norse direkte (billigste Asia-inngang fra Oslo), ut fra Saigon** —
+   åpen kjeving uten omveier.
+
+## 💰 Budsjett for dere to (4 uker, medium)
+
+| Post | For to |
+|---|---|
+| Fly OSL→BKK (Norse, romjul enveis) | ~7 000–11 000 |
+| Fly SGN→OSL (enveis, én stopp) | ~8 000–12 000 |
+| Fly BKK→Siem Reap + PQC→SGN | ~1 600–2 900 |
+| Bakketransport (busser, Mekong-etapper, ferge) | ~1 500 |
+| Overnatting (27 netter, medium) | ~14 000–20 000 |
+| Mat & drikke | ~9 000–13 000 |
+| Angkor-pass, visum (KH e-visum ×2), aktiviteter | ~4 500–6 500 |
+| **TOTALT** | **≈ 46 000–67 000 kr** |
+
+*Vietnam: 45 dager visumfritt for nordmenn. Kambodsja: e-visum ~380 kr p.p.
+Thailand: visumfritt 60 dager.*
+
+## 5-ukersvarianten (+7 netter)
+
+Velg én av disse (eller kombiner to korte):
+- **+ Isaan (3–4 n):** NCA First Class-nattbuss BKK→Khon Kaen (186 kr!) før
+  Kambodsja-flyet — Phanom Rung, gai yang, null turister. Flyet går da fra
+  BKK etter retur, eller direkte Khon Kaen→BKK.
+- **+ Koh Rong Samloem (2–3 n):** speedferge fra Sihanoukville etter
+  Kampot — selvlysende plankton før Vietnam-delen.
+- **+ Dalat (3 n):** buss fra Saigon på slutten — kaffe-høylandet og
+  vinkuriositeten som kjølig kontrast.
+- **+ Mui Ne (2–3 n):** sanddynene mellom Saigon og hjemreise.
+
+## ⚠️ Viktig-listen
+
+1. **Grensestatus TH–KH sjekkes ~2 uker før avreise** — gjenåpner den, kan
+   flyet BKK→REP byttes mot tog+buss via Poipet (og ruten blir enda billigere).
+2. **Book tidlig:** Phu Quoc-rom rundt 14.–20. jan (høysesong), Norse-flyet
+   (romjul selges ut), Angkor-hotell for nyttårsuka.
+3. **Reiseforsikring: sjekk 45-dagersgrensen** hvis dere velger 5-ukers.
+4. **Scooter-fellen i Vietnam:** uten MC-førerkort er forsikringen ugyldig —
+   bruk Grab/easy riders.
+5. **Vaksiner** (hepatitt A/B, evt. tyfoid) — reiseklinikk 6–8 uker før.
+6. **Vin-forventning:** dette er mat-, kaffe- og pepperturen (Kampot-pepper
+   PGI + Phu Quoc-pepper/fiskesaus PDO på samme reise!) — spar vinbudsjettet
+   til vinlandene. Drikk Chang, ca phe sua da og Pasteur Street-IPA.
+
+## 📸 Turen i fire bilder
+
+![Wat Arun](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Wat_Arun_Sunset.jpg/960px-Wat_Arun_Sunset.jpg)
+*Akt 1 — Bangkok: Wat Arun i solnedgang. Foto: miketnorton, CC BY 2.0, Wikimedia Commons*
+
+![Angkor Wat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Siem_Reap_Reflections_%28CAMBODIA-REFLECTION-ANGKOR_WAT%29_III_%281071292582%29.jpg/960px-Siem_Reap_Reflections_%28CAMBODIA-REFLECTION-ANGKOR_WAT%29_III_%281071292582%29.jpg)
+*Akt 2 — Angkor i soloppgang, nyttårsuka. Foto: Chi King, CC BY 2.0, Wikimedia Commons*
+
+![Cai Rang](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cai_Rang_Floating_Market_1.jpg/960px-Cai_Rang_Floating_Market_1.jpg)
+*Akt 3 — Mekong: Cai Rang-flytemarkedet kl. 05.30. Foto: Christophe95, CC BY-SA 4.0, Wikimedia Commons*
+
+![Phu Quoc](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/1_Phu_Quoc_sunset.jpg/960px-1_Phu_Quoc_sunset.jpg)
+*Finalen — Phu Quoc: seks netter solnedgang, garantert tørrsesong. Foto: Elmschrat, CC0, Wikimedia Commons*
+
+---
+
+*Detaljene per land: [`../30-thailand/`](../30-thailand/README.md) ·
+[`../40-kambodsja/`](../40-kambodsja/README.md) · [`../50-vietnam/`](../50-vietnam/README.md) ·
+transport/nattbusser: [`transport.md`](transport.md) · restauranter og
+opplevelser underveis: [`restauranter.md`](restauranter.md) / [`opplevelser.md`](opplevelser.md)*

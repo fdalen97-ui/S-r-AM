@@ -1,5 +1,11 @@
 # 🇹🇭🇰🇭🇱🇦 «Det gylne triangelet» — Thailand + Laos + Kambodsja (romjul-vindu)
 
+> ⚠️ **Statusnotat aug 2026:** Thailand–Kambodsja-grensen er fortsatt stengt
+> (re-verifisert 17. aug — våpenhvilen des 2025 gjenåpnet den ikke). All
+> TH↔KH-transport i denne planen går derfor med fly. **Vurder alternativet
+> Sør-Vietnam + Kambodsja** — åpne grenser, samme sesongtopp, billigere —
+> beskrevet i `reisebibliotek/00-analyse/romjul-verdenskartet.md` (#7).
+
 Den utdypede planen for «reservekortet» fra analysen — **oppgradert med Luang
 Prabang** og romjul-optimalisert (paret kan kun reise i romjula). Begge lands
 beste vær samtidig (tørrsesong, 28–32 °C), til under halve Australia-prisen.
