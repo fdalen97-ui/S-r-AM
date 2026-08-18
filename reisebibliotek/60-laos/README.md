@@ -19,6 +19,12 @@ på appen 06:30 laotid.
 
 ## 1. Luang Prabang + omegn
 
+![Wat Xieng Thong](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Temple_Wat_Xieng_Thong_-_Luang_Prabang_-_Laos.jpg/960px-Temple_Wat_Xieng_Thong_-_Luang_Prabang_-_Laos.jpg)
+*Wat Xieng Thong, Luang Prabangs mest ikoniske tempel fra 1500-tallet. Foto: Basile Morin, CC BY-SA 4.0, Wikimedia Commons*
+
+![Kuang Si](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kuang_Si_Falls_and_its_turquoise_tiered_water_pools_in_Luang_Prabang_province_Laos.jpg/960px-Kuang_Si_Falls_and_its_turquoise_tiered_water_pools_in_Luang_Prabang_province_Laos.jpg)
+*Kuang Si-fossens turkise travertinbassenger. Foto: Basile Morin, CC BY-SA 4.0, Wikimedia Commons*
+
 **Best på:** Sørøst-Asias vakreste by — UNESCO-gamleby, fransk bakeri-arv, kaffe, Mekong-solnedganger. Perfekt for dere.
 
 **Must-sees:** Kuang Si-fossen (27 kr inkl. shuttle + bjørnesenter) · Mount Phousi ved solnedgang (9 kr) · Pak Ou-grottene med båt (100–150 kr) · tak bat-almisserunden ved soloppgang (gratis — se tipset) · nattmarkedet (buffét fra 25 kr).
@@ -38,6 +44,9 @@ på appen 06:30 laotid.
 ---
 
 ## 2. Nong Khiaw / Muang Ngoi (Nam Ou-dalen)
+
+![Nong Khiaw](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nong_Khiaw_pano%284%29.jpg/960px-Nong_Khiaw_pano%284%29.jpg)
+*Nam Ou-elven slynger seg gjennom karstfjellene ved Nong Khiaw. Foto: Ekrem Canli, CC BY-SA 4.0, Wikimedia Commons*
 
 **Best på:** Mest natur per krone i hele landet — dramatisk karst, veiløse landsbyer, 3–4 t fra Luang Prabang.
 
@@ -59,6 +68,9 @@ på appen 06:30 laotid.
 
 ## 3. Bokeo / Huay Xai + slow boat-ruten
 
+![Mekong i solnedgang](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pirogue_and_boat_on_the_Mekong_with_colorful_sky_at_sunset_in_Luang_Prabang_Laos.jpg/960px-Pirogue_and_boat_on_the_Mekong_with_colorful_sky_at_sunset_in_Luang_Prabang_Laos.jpg)
+*Langbåter på Mekong i solnedgang. Foto: Basile Morin, CC BY-SA 4.0, Wikimedia Commons*
+
 **Best på:** Selve ANKOMSTEN til Laos — to dager i sakte fart nedover Mekong, og jungelnetter i tretopphytter med gibboner.
 
 **Must-sees:** **The Gibbon Experience** (Express 2d/1n ~1 890 kr, Classic 3d/2n ~3 045 kr — book uker i forveien) · slow boat Huay Xai→Pakbeng→Luang Prabang (135–225 kr offentlig) · Pakbeng-solnedgang med Beerlao.
@@ -78,6 +90,9 @@ på appen 06:30 laotid.
 ---
 
 ## 4. Vang Vieng
+
+![Vang Vieng](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Vang_Vieng_-_Hot_Air_Balloon_%2823871064013%29.jpg/960px-Vang_Vieng_-_Hot_Air_Balloon_%2823871064013%29.jpg)
+*Luftballong foran karstfjellene i Vang Vieng i morgenlyset. Foto: Visions of Domino, CC BY 2.0, Wikimedia Commons*
 
 **Best på:** Karst-panorama og myk adrenalin — rebrandet fra fyllefest til luftballonger, laguner og klatring.
 
@@ -99,6 +114,9 @@ på appen 06:30 laotid.
 
 ## 5. Vientiane (+ Buddha Park)
 
+![Pha That Luang](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vientiane_-_Pha_That_Luang_-_0001.jpg/960px-Vientiane_-_Pha_That_Luang_-_0001.jpg)
+*Pha That Luang, den gylne nasjonalstupaen i Vientiane. Foto: Stefan Fussan, CC BY-SA 3.0, Wikimedia Commons*
+
 **Best på:** Sørøst-Asias mest avslappede hovedstad — 1–2 dager: templer, Mekong-solnedgang, overraskende god fransk mat.
 
 **Must-sees:** Pha That Luang (14 kr) · Buddha Park (27 kr, buss 14 for 15 kr) · **COPE Visitor Centre** (gratis — sterkt og viktig om UXO-arven; beste kontekst før Krukkesletten) · Patuxai · Mekong-nattmarkedet med solnedgangs-aerobic.
@@ -118,6 +136,9 @@ på appen 06:30 laotid.
 ---
 
 ## 6. Xieng Khouang / Krukkesletten (Phonsavan)
+
+![Krukkesletten](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20171115_Plain_of_Jars_Laos_2540_DxO.jpg/960px-20171115_Plain_of_Jars_Laos_2540_DxO.jpg)
+*Megalittiske steinkrukker på Krukkesletten i Xieng Khouang. Foto: Jakub Hałun, CC BY-SA 4.0, Wikimedia Commons*
 
 **Best på:** Mystiske jernalderkrukker i et månelandskap av bombekratre — landets mest tankevekkende reisemål.
 
@@ -141,6 +162,9 @@ på appen 06:30 laotid.
 
 ## 7. Thakhek-løkka (Khammouane)
 
+![Kong Lor](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/20171120_Wlot_jaskini_Kong_Lor_w_Laosie_3663_DxO.jpg/960px-20171120_Wlot_jaskini_Kong_Lor_w_Laosie_3663_DxO.jpg)
+*Inngangen til Kong Lor-grotten, der elven renner rett inn i fjellet. Foto: Jakub Hałun, CC BY-SA 4.0, Wikimedia Commons*
+
 **Best på:** Sørøst-Asias beste scooter-loop (3–4 dager, ~450 km) gjennom karst og grotter — kronen er **Kong Lor: 7,5 km elvegrotte i longtailbåt gjennom totalt mørke** (~68 kr/båt + 15 kr — et av Asias store naturøyeblikk).
 
 **Must-sees:** Kong Lor · scooterleie i Thakhek (68–115 kr/dag) · Buddha Cave · Cool Springs-badestopp · Nakai-platåets tåkemorgener.
@@ -161,6 +185,9 @@ på appen 06:30 laotid.
 
 ## 8. Bolaven-platået + Pakse ☕ — PARETS REGION
 
+![Tad Fane](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tad_Fane_waterfalls_%284203044120%29.jpg/960px-Tad_Fane_waterfalls_%284203044120%29.jpg)
+*Tvillingfossen Tad Fane stuper 120 meter ned fra Bolaven-platået. Foto: rubixcuben, CC BY 2.0, Wikimedia Commons*
+
 **Best på:** **Laos' kaffeland** — arabica på 1 000–1 300 moh vulkanjord, fosser overalt, 15 °C kjøligere enn Mekong-dalen. **Og januar er innhøstings-/prosesseringssesong — dere ser plukking og cupping live.**
 
 **Must-sees:** **Tad Fane** — tvillingfoss 120 m ned i jungelgryta, sett fra resort-kafeen med en Bolaven-brygg (zipline over gryta ~420 kr) · **Sinouk Coffee Resort** — plantasjevandring + cupping hos Laos' kaffepionér (100–200 kr; overnatting 450–600 kr/rom) · småfarm-tastings rundt Paksong (50–100 kr) · badefossene Tad Yuang + Tad Champee (svøm bak!) · Pakse-solnedgang fra Le Panorama-taket.
@@ -180,6 +207,9 @@ på appen 06:30 laotid.
 ---
 
 ## 9. Champasak / Wat Phou + Si Phan Don (4000 øyer)
+
+![Khone Phapheng](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Khone_Phapheng_Falls%2C_Si_Phan_Don%2C_Laos%2C_widest_waterfall_in_the_world.jpg/960px-Khone_Phapheng_Falls%2C_Si_Phan_Don%2C_Laos%2C_widest_waterfall_in_the_world.jpg)
+*Khone Phapheng — verdens bredeste foss — i Si Phan Don. Foto: Basile Morin, CC BY-SA 4.0, Wikimedia Commons*
 
 **Best på:** Khmer-tempel eldre enn Angkor uten køene + total nedkobling i hengekøye over Mekong. Varmeste hjørnet i vinduet (28–30 °C) — og perfekt siste stopp før Kambodsja.
 
