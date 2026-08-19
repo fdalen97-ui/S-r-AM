@@ -41,6 +41,7 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/oy-formelen.md`](00-analyse/oy-formelen.md) | 🧮 Øy-formelen: matematisk scoringsmodell for 21 Thailand-øyer i to vektinger — med åpne poeng og vekter |
 | [`00-analyse/snorkling-kh-vn.md`](00-analyse/snorkling-kh-vn.md) | 🤿 Snorkling i Kambodsja/Vietnam: spot-for-spot-dommer, overnattingsturene til Koh Tang, OnBird Phu Quoc og sesongfasiten |
 | [`00-analyse/utleie-leiligheten.md`](00-analyse/utleie-leiligheten.md) | 🏠 Utleie av leiligheten mens dere reiser: 30-døgnsregelen, inntektsscenarioer (~20–25k netto), skatteboksen og den ferdigskrevne annonsen |
+| [`00-analyse/festivaler-og-eventer.md`](00-analyse/festivaler-og-eventer.md) | 🎆 Festivaler og konserter i reisevinduet: Zamna Phuket 23.–24. jan (bekreftet!), NYE-byvalget, Da Lat Flower Festival, Phare-sirkuset og konsertkalenderen |
 
 ### 10 · Australia 🇦🇺
 Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory
