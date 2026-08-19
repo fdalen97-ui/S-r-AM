@@ -85,19 +85,41 @@ Vincotto). 2027-datoer annonseres ~desember (granmonte.com). Khao Yai er
 tidlig arrangement treffer; ellers går vanlig vingårdstur + smaking hele året
 (~130 kr).
 
-## 🎤 Konserter i regionen (bekreftet per aug. 2026)
+## 🎤 Konserter i regionen (dypdykk, verifisert aug. 2026)
+
+**Kupp-kandidaten: ✅ Fujii Kaze — Bangkok, lør 26. des 2026** (Supachalasai
+National Stadium, fra ~810 kr, i salg nå). J-pop/soul-superstjernen (synger
+på engelsk på siste album) holder sitt første Bangkok-stadionshow — **dagen
+før vinduet åpner**. Flyr dere inn 26. i stedet for 27. des, er dette
+vinduets kuleste konsert.
 
 | Konsert | Sted/dato | I vinduet? |
 |---|---|---|
-| **Westlife «25: The Anniversary Tour»** ✅ | Bangkok Impact Arena, **man 25. jan** (580–1 885 kr, i salg nå) | 2 dager etter — mulig hvis dere strekker turen |
-| BTS world tour | Bangkok 3/5/6. des · Jakarta 26.–27. des | Før vinduet / utsolgt off-route |
-| Jay Chou ✅ | Singapore 8.–10. jan | Kun med Singapore-stopover |
-| BIGBANG ✅ | Kuala Lumpur 9. jan | Kun med KL-stopover |
+| **Stray Kids «RUN IT»-turnéåpning** ✅ | Bangkok Impact Arena, **16.–17. jan** (dette var de unavngitte bookingene; ~725–1 885 kr) | Ja — men krever backtracking fra KH/VN |
+| Jimmy Carr (standup) ✅ | Bangkok, 16.–17. jan (465–785 kr) | Ja — samme backtrack-problem |
+| **Westlife «25»** ✅ | **Singapore 16.–17. jan** (1 005–2 395 kr, 16. utsolgt) · KL 14. jan · Bangkok 25. jan (2 dager etter) | **Singapore-datoene ER i vinduet** — trenger ikke Bangkok-datoen |
+| Jay Chou ✅ | Singapore 8.–10. jan (fra 1 740 kr, 9. utsolgt) | Med SG-stopover |
+| Sienna Spiro (UK indie-pop) ✅ | Singapore Capitol Theatre, 11. jan (fra 935 kr) | Beste indie-treffet i hele vinduet |
+| D.O. (EXO) ✅ / BoyNextDoor ✅ | Singapore 9. jan / 23. jan | Med SG-stopover |
+| BIGBANG ✅ | Kuala Lumpur 9. jan | Med KL-stopover |
 
-Ingen stor internasjonal stadionakt er ennå bekreftet for Bangkok/Saigon
-*inne i* vinduet — men Bangkoks konsertsesong topper nov–feb og slippene
-kommer løpende: **sjekk Thai Ticket Major / Live Nation Tero / Ticketmelon
-i okt–nov** (Impact Arena har unavngitte bookinger 16.–17. jan).
+**Mønsteret:** Singapore 8.–17. jan er vinduets sterkeste musikk-klynge —
+en SG-stopover *timet* dit er det høyeste-avkastnings-grepet. Bangkok/Saigon
+er strukturelt tynne for vestlige turneer i januar (Asia-etappene klumper seg
+i feb–mar: Maroon 5 tar Bangkok 9. feb og Singapore 12. feb — etter
+hjemreise). Januar-slipp lander sep–nov: **sjekk Live Nation Tero /
+Ticketmelon i midten av oktober og november.**
+
+**❌ Epizode-festivalen på Phu Quoc er trolig død:** siste verifiserbare
+utgave var des 2023–jan 2024, begge domenene er nede, null 2026/27-spor.
+Arven videreføres av mindre NYE-strandfestivaler (Likdo «NYE on the Beach»,
+Studio Adventure — annonseres okt–nov, ~420–1 050 kr flerdagspass). Jokeren
+for Vietnam-delen er **8Wonder** (VinGroup — hentet Maroon 5/Imagine Dragons
+tidligere): vinterutgave annonseres evt. okt–nov med ~6 ukers varsel.
+
+**Rett utenfor vinduet (FOMO-kontroll):** Bangkok Music City (86+ indie-akter,
+30.–31. jan) · Blue KL 24. jan · Zamna dag 2 24. jan · Kings of Convenience
+spiller Bangkok 1. des — en måned for tidlig, dessverre.
 
 ## 🎉 Full Moon Party-noten
 NYE-utgaven på Koh Phangan (31. des) er den legendariske — men Gulf-øyene er
