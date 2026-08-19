@@ -28,6 +28,44 @@ gir 80 % av vannet uten sirkuset. **Langkawi** er i sesong og har duty-free-vin(
 men Cenang er B-nivå. **Con Dao** i des–jan: tørt men vindfullt (østsiden røff) —
 ta den i mars–september. **Boracay**: objektivt topp, feil vibe.
 
+## 🎬 Kryssjekken: vloggerens tier-liste (delt av dere) mot biblioteket
+
+*En øy-vlogger som har besøkt alle Thailands 20 mest besøkte øyer rangerte dem
+S→D etter tilgjengelighet, pris og stemning. Slik står den mot vår analyse:*
+
+**Der listene er enige (betryggende):**
+- **Phuket = D-tier** («føles som et annet land — dobbelt/tredobbelt pris,
+  overutviklet») — matcher vårt «bruk bare flyplassen + evt. Nai Harn/Old
+  Town»-råd.
+- **Koh Lipe = B-tier** tross Maldiv-strender («vanskelig å komme til, lite å
+  gjøre») — matcher vår hype-sjekk.
+- **Koh Kradan/Koh Mook = A-tier** (Kradan «en av landets vakreste», Mook med
+  Emerald Cave, dugong-sjøgress og ekte landsbyliv) — vår Trang-trio står seg.
+- **Koh Kood og Koh Mak = A-tier** («definisjonen av tropisk paradis», Mak
+  trekkes for «litt kjedelig» — nettopp derfor vi liker den).
+- **Phi Phi = B** (magisk til riktig tid på døgnet, overkjørt ellers) og
+  **Koh Samui = D** («mistet magien») — Samui-bukta er uansett ute av sesong
+  i desember hos oss.
+
+**De tre nye funnene fra listen (nå lagt til her):**
+1. **Koh Samet — vloggerens S-tier:** 2–3 t fra Bangkok, dagsturistene fra
+   byen holder seg i ett område — resten er rustikke trebungalow-strender og
+   femstjerners bukter. **Perfekt 2–3-netters strand-tillegg til
+   Bangkok-starten i rute A** (minibuss+ferge ~150–250 kr p.p.), og i sesong
+   hele des–jan (Gulf-vestkysten).
+2. **Koh Munnork — privat øy til folkepris:** ~1 600–3 200 kr/natt for to
+   (alt på øya), 30–50 gjester totalt, kajakk/fiske/ro — unik overnatting à
+   la [`retreats-og-unike-steder.md`](retreats-og-unike-steder.md)-listen.
+3. **Koh Payam (Ranong, Andaman) — «sterk A, nesten S»:** cashewtrær, hvit
+   sand, sære småbarer, stenger halve året i monsunen — men **des–jan er
+   nettopp åpen-sesongen.** Ekte skjult perle for en senere tur.
+
+**Der vi justerer lett:** Koh Phangan *utenfor* fullmåne-uka er
+undervurdert (zen, fossefall, tomme bukter) — men ligger i Samui-bukta, som
+har regntopp i desember: gjelder januar og utover. Og **Koh Larn** utenfor
+Pattaya bekreftes som dagstur-felle. **Koh Wai på vloggerens S-tier** hadde
+vi allerede — hyggelig bekreftelse.
+
 ## ☀️ «Phuket-uka før julaften» (16.–23. des) — scenarioet som lønner seg
 
 **Pristimingen er genial:** 16.–23. des er siste «vanlige» høysesonguke —
