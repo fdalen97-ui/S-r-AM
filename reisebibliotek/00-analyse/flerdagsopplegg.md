@@ -61,6 +61,62 @@ faktisk er verdt det i des–jan.*
 reisende. Flerdagers matlagingsretreats finnes knapt — løsningen er 2–3
 netter på gård ved Mae Rim + to ulike dagskurs.
 
+## 🤿 Similan-liveaboards — konkrete båter og priser (2026/27-sesongen)
+
+*Sesong 15. okt–15. mai. Priser p.p.; nasjonalparkavgift kommer alltid i
+tillegg kontant om bord (dykker 465–665 kr, snorkler 290–435 kr).
+Statussjekk: Wicked Diving har forlatt Thailand, Oktavia er ute av drift —
+ikke jag gamle anbefalinger.*
+
+| Båt (operatør) | Tur | Dykker p.p. | Snorkler-politikk |
+|---|---|---|---|
+| MV Andaman (Sea Dragon, Khao Lak) | 4d/3n, ~11 dykk | ~4 700 | Budsjettvalget; ikke-dykker ~25 % lavere (est.) |
+| Manta Queen 1 (Khao Lak Scuba Adventures) | 4d/4n, **15 dykk** | 6 815–7 685; **−870 kr i okt/nov/des/apr/mai** | MQ-flåten gir bare ~5 % snorkler-avslag — primært dykkebåter. **Dobbeltseng m/privat bad finnes** |
+| **Dolphin Queen (Similan Diving Safaris)** 💎 | 4d/3n (10 dykk) el. **6d/5n m/Surin (18 dykk)** | 6 380–7 395 / 7 975–9 135 | **Beste par-valget: snorkler −15 % på alle lugarer**, eksplisitt snorkler-vennlig, dobbeltseng øvre dekk |
+| Pawara (mellomklasse) | 5d/4n, 14 dykk | 8 320–11 510 | Ikke-dykker −870 kr; **gratis nitrox** |
+| Sawasdee Fasai | 5d/4n | 10 060–14 410 | −870 kr; 10 % early-bird ved tidlig booking |
+| **Deep Andaman Queen** | 5d/4n, 15 dykk (Similan+Richelieu+Surin) | 10 210–16 820 | −10 % OG — unikt — **egen snorkleguide inkludert** |
+| MV Marco Polo (Sea Bees) | 5d/5n, kun 12 gjester | fra 16 240 | Ren par-båt: 6 doble ensuite; ikke-dykkende partnere eksplisitt velkomne (−10 %) |
+| The Junk (klassisk tre-junke) | 5d/4n | 11 150–16 750 | −10 %; den romantiske splurgen |
+
+**Booking-lead:** jul/nyttårs-avganger på parbåtene selges ut **3–5 måneder
+før** — book september/oktober. Ellers holder 6–10 uker.
+
+### 🤿🐠 Snorkler-alternativet som slår alt på pris: SOV PÅ SURIN
+
+Ingen ren snorkle-liveaboard finnes lenger — men Surin-øyene har Thailands
+beste hardkorall-snorkling på grunt vann, og nasjonalparkens telt/bungalower:
+
+- **3d/2n fra Kuraburi** (surinislands.com): 3 snorkeløkter/dag fra longtail,
+  Moken-landsbybesøk, alle måltider, telt — **~2 380 kr p.p.!**
+- **Andaman Discoveries** (community-turen): det etisk beste Moken-valget —
+  20 års samarbeid, inntektene går direkte lokalt (~2 600–3 500 kr).
+- Ærlig Richelieu-note: pinakkelen er dykkernes sted — snorkleren har sine
+  beste dager ved Similan #4/8, Koh Bon og Surin-revene.
+
+**Par-dommen (én dykker + én snorkler):** enten **Dolphin Queen 4d/3n
+sammen (~12 800 kr totalt for paret inkl. avgifter)** — eller splitten:
+dykkeren tar en 4-netters liveaboard mens snorkleren tar Surin-teltturen
+(2 380 kr), eller gjør Surin SAMMEN og la dykkeren ta Richelieu som
+langdagstur fra Khao Lak etterpå.
+
+### 🌏 Tilsvarende i resten av regionen — ærlig status
+
+- **Koh Lipe/Adang:** kun dagsturer (175–260 kr) — men DIY-perlen er å
+  **campe i Ko Adang nasjonalpark** (telt 115 kr/natt, taxibåt 30 kr):
+  superbudsjett og helt snorkler-likestilt.
+- **Kambodsja:** The Dive Shop Cambodias Koh Tang-«liveaboard» (2 750 kr)
+  er madrasser under kanvas på dekk — spartansk; bo heller på Samloem og ta
+  dagsbåter (Happy Boat-seilturen ~350 kr).
+- **Phu Quoc:** ærlig — kun dagsturer (An Thoi 200–300 kr), slitne rev mot
+  Andaman-standard. Strand-øy, ikke snorkle-destinasjon.
+- **Mergui/Myanmar:** båtene finnes teknisk (fra Ranong), men Do Not
+  Travel-råd, junta-avgifter og ugyldig forsikring: **dropp.**
+
+**Sjøsyke-praktisk:** Khao Lak→Similan er 60 km åpent hav; des–mars er
+roligst. Lugar lavt og midtskips, tabletter kvelden FØR avgang — og det
+gynger mest for anker om natten.
+
 ## De fem viktigste funnene
 
 1. **TUI BLUE Angkor Grace** — wellness-resort til ~550 kr natta for to,
