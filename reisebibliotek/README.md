@@ -58,6 +58,9 @@ Region-filer: Saigon · Mekong-deltaet · Phu Quoc · Con Dao · Dalat · Mui Ne
 ### 60 · Laos 🇱🇦
 Region-filer: Luang Prabang · Nong Khiaw/Muang Ngoi · Bokeo/slow boat · Vang Vieng · Vientiane · Krukkesletten · Thakhek/Kong Lor · **Bolaven-kaffelandet** · Champasak/4000 øyene — *(Sørøst-Asias billigste land + høyhastighetstoget)*
 
+### 70 · Flere land 🌏
+Mini-guider: Malaysia (vestkysten i sesong!) · Singapore-stopover · Filippinene (Visayas/Coron) · Indonesia (fremtidsbank mai–sep) · Sri Lanka (gratis visum 2026!) · Taiwan (Taroko-status)
+
 ---
 
 ## 🔗 Relatert
