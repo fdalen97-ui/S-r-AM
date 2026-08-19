@@ -38,6 +38,7 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/flerdagsopplegg.md`](00-analyse/flerdagsopplegg.md) | 🏕️ Retreats i tre prisnivåer per land + de 10 beste flerdagsoppleggene (Similan-liveaboard, Chi Phat, Mekong-cruise) |
 | [`00-analyse/vaksiner.md`](00-analyse/vaksiner.md) | 💉 Vaksiner og reisehelse: FHI-basert pakke, rabies/JE-vurderingene, Qdenga-dommen, malaria-kartet, tidslinje og priser |
 | [`00-analyse/smarte-kjop.md`](00-analyse/smarte-kjop.md) | 🛒 Smarte kjøp før turen: gebyrfritt kort, AirTags, permetrin — hva som er verdt det, gimmickene, og hva som kjøpes der |
+| [`00-analyse/oy-formelen.md`](00-analyse/oy-formelen.md) | 🧮 Øy-formelen: matematisk scoringsmodell for 21 Thailand-øyer i to vektinger — med åpne poeng og vekter |
 
 ### 10 · Australia 🇦🇺
 Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory
