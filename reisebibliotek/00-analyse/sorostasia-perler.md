@@ -22,6 +22,17 @@ SGD 7,3).*
 | 9 | **Khao Yai-vingårdene (GranMonte/PB Valley)** — ekte thai-vinmarker 2,5 t fra Bangkok, og **januar er innhøsting!** | Modul E — nisjen som er skreddersydd dere | smaking 150–250 |
 | 10 | **Singapore hawker-stopp** — Michelin-mat til 40 kr på hjemveien | Modul D, maks 48 timer | måltid 35–60 |
 
+📸 **Laos — sløyfa i tre bilder:**
+
+![Kuang Si](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kuang_Si_Falls_and_its_turquoise_tiered_water_pools_in_Luang_Prabang_province_Laos.jpg/960px-Kuang_Si_Falls_and_its_turquoise_tiered_water_pools_in_Luang_Prabang_province_Laos.jpg)
+*Kuang Si-fossene ved Luang Prabang — på sitt blåeste i tørrsesongen. Foto: Basile Morin, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Kuang Si](https://www.google.com/maps/search/?api=1&query=Kuang+Si+Falls)
+
+![Mekong-solnedgang](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pirogue_and_boat_on_the_Mekong_with_colorful_sky_at_sunset_in_Luang_Prabang_Laos.jpg/960px-Pirogue_and_boat_on_the_Mekong_with_colorful_sky_at_sunset_in_Luang_Prabang_Laos.jpg)
+*Slow boat-ruta: langbåter på Mekong ved Luang Prabang. Foto: Basile Morin, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Luang Prabang](https://www.google.com/maps/search/?api=1&query=Luang+Prabang)
+
+![Wat Xieng Thong](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Temple_Wat_Xieng_Thong_-_Luang_Prabang_-_Laos.jpg/960px-Temple_Wat_Xieng_Thong_-_Luang_Prabang_-_Laos.jpg)
+*Wat Xieng Thong — nyttårsaften i Luang Prabang er rolig og magisk. Foto: Basile Morin, CC BY-SA 4.0, Wikimedia Commons*
+
 ## 🧩 Påbyggingsmodulene (til storrunden)
 
 - **Modul A — Nord-Laos-sløyfa (7–9 dager)** 💎: legg den FØRST (27. des–4. jan

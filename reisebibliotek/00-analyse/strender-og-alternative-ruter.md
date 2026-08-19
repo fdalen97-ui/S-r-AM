@@ -75,6 +75,9 @@ Phu Quoc → Saigon).
   **58–85 000 totalt.**
 
 ### Rute C — «Laos-løkka først» (27. des–30. jan, 5 uker)
+
+![Nong Khiaw](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nong_Khiaw_pano%284%29.jpg/960px-Nong_Khiaw_pano%284%29.jpg)
+*Nam Ou-karsten — landskapet slow boat-ruta og Nord-Laos byr på. Foto: Ekrem Canli, CC BY-SA 4.0, Wikimedia Commons* · 📍 [Nong Khiaw](https://www.google.com/maps/search/?api=1&query=Nong+Khiaw)
 Bangkok (2 n) → fly Chiang Rai → Det hvite tempelet → Huay Xai →
 **Gibbon Experience** (2 n i tretopphyttene) → **slow boat 2 dager** →
 **nyttårsaften i Luang Prabang** (lykter over Mekong, rolig og magisk) →
