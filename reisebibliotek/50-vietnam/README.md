@@ -14,6 +14,20 @@ Kalibrér til det Vietnam er best på: **kaffe** (Dalat = arabica-landet),
 
 **🗺️ Kart-oversikt:** [Sør-ruten](https://www.google.com/maps/dir/Ho+Chi+Minh+City,+Vietnam/Da+Lat,+Vietnam/Ben+Tre,+Vietnam/Can+Tho,+Vietnam/Chau+Doc,+Vietnam) (Saigon → Dalat → Mekong-deltaet → Chau Doc) · [Vietnam i kartet](https://www.google.com/maps/search/?api=1&query=Vietnam)
 
+<img src="../kart/vietnam.svg" alt="Kart over Vietnams regioner i biblioteket" width="400">
+
+| # | Region i guiden | 📍 Google Maps |
+|---|---|---|
+| 1 | Saigon (HCMC) | [Åpne](https://www.google.com/maps/search/?api=1&query=Ho+Chi+Minh+City,+Vietnam) |
+| 2 | Mekong-deltaet (Can Tho/Ben Tre) | [Åpne](https://www.google.com/maps/search/?api=1&query=Can+Tho,+Vietnam) |
+| 3 | Phu Quoc | [Åpne](https://www.google.com/maps/search/?api=1&query=Phu+Quoc,+Vietnam) |
+| 4 | Con Dao | [Åpne](https://www.google.com/maps/search/?api=1&query=Con+Dao,+Vietnam) |
+| 5 | Dalat | [Åpne](https://www.google.com/maps/search/?api=1&query=Da+Lat,+Vietnam) |
+| 6 | Mui Ne / Nha Trang | [Åpne](https://www.google.com/maps/search/?api=1&query=Mui+Ne,+Vietnam) |
+| 7 | Hoi An / Hue | [Åpne](https://www.google.com/maps/search/?api=1&query=Hoi+An,+Vietnam) |
+| 8 | Hanoi / Ha Long / Ninh Binh | [Åpne](https://www.google.com/maps/search/?api=1&query=Hanoi,+Vietnam) |
+| 9 | Sapa / Ha Giang | [Åpne](https://www.google.com/maps/search/?api=1&query=Sa+Pa,+Vietnam) |
+
 **⛴️✈️ Etappene uten vei:**
 - **Mekong-båten til Kambodsja:** hurtigbåt [Chau Doc](https://www.google.com/maps/search/?api=1&query=Chau+Doc) → Phnom Penh (Vinh Xuong-grensen på elven), ~5–6 t, 450–660 kr (Hang Chau kl. 07.30; book på [12go](https://12go.asia/en/operator/hang-chau-tourist))
 - **Til Phu Quoc:** ferge [Ha Tien](https://www.google.com/maps/search/?api=1&query=Ha+Tien+ferry+terminal) → [Phu Quoc](https://www.google.com/maps/search/?api=1&query=Phu+Quoc) (Superdong, 1,5 t, **~92 kr**) — eller fly SGN→PQC (~260–630 kr)

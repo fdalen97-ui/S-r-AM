@@ -44,6 +44,11 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/festivaler-og-eventer.md`](00-analyse/festivaler-og-eventer.md) | 🎆 Festivaler og konserter i reisevinduet: Zamna Phuket 23.–24. jan (bekreftet!), NYE-byvalget, Da Lat Flower Festival, Phare-sirkuset og konsertkalenderen |
 | [`00-analyse/omakase.md`](00-analyse/omakase.md) | 🍣 Omakase langs ruta: hele Bangkok-stigen (Ichizu-splurgen, Masato-bookingritualet, lunsj-trikset), Sushi Rei i Saigon og de ærlige nei-dommene |
 
+### 🗺️ Kart (`kart/`)
+Hvert land har et regionskart (SVG, generert fra Natural Earth-data) øverst i
+sin README, med nummererte markører som matcher guidens regioner og
+Google Maps-lenker per region.
+
 ### 10 · Australia 🇦🇺
 Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory
 

@@ -4,6 +4,18 @@
 
 **🗺️ Kart-oversikt:** [«Ukjente Thailand»-ruten på fastlandet](https://www.google.com/maps/dir/Bangkok,+Thailand/Khon+Kaen,+Thailand/Ubon+Ratchathani,+Thailand/Trat,+Thailand) (Bangkok → Isaan → Trat) · [Thailand i kartet](https://www.google.com/maps/search/?api=1&query=Thailand)
 
+<img src="../kart/thailand.svg" alt="Kart over Thailands regioner i biblioteket" width="440">
+
+| # | Region i guiden | 📍 Google Maps |
+|---|---|---|
+| 1 | Bangkok + sentralt | [Åpne](https://www.google.com/maps/search/?api=1&query=Bangkok,+Thailand) |
+| 2 | Nord (Chiang Mai/Pai) | [Åpne](https://www.google.com/maps/search/?api=1&query=Chiang+Mai,+Thailand) |
+| 3 | Isaan (Khon Kaen/Ubon) | [Åpne](https://www.google.com/maps/search/?api=1&query=Khon+Kaen,+Thailand) |
+| 4 | Andamankysten (Khao Lak/Phuket/Krabi) | [Åpne](https://www.google.com/maps/search/?api=1&query=Khao+Lak,+Thailand) |
+| 5 | Gulf-øyene (Samui/Phangan/Tao) | [Åpne](https://www.google.com/maps/search/?api=1&query=Ko+Samui,+Thailand) |
+| 6 | Østkysten (Trat/Koh Kood/Koh Chang) | [Åpne](https://www.google.com/maps/search/?api=1&query=Trat,+Thailand) |
+| 7 | Khao Sok nasjonalpark | [Åpne](https://www.google.com/maps/search/?api=1&query=Khao+Sok+National+Park) |
+
 **⛴️✈️ Etappene uten vei:**
 - **Til Koh Kood:** fly BKK→Trat (Bangkok Airways, ~1 t) eller buss (~4–5 t) → shuttle til [Laem Sok-piren](https://www.google.com/maps/search/?api=1&query=Laem+Sok+Pier+Trat) → **Boonsiri-katamaran ~1 t** til [Koh Kood](https://www.google.com/maps/search/?api=1&query=Ko+Kut+District,+Trat,+Thailand) (book på [boonsiriferry.com](https://www.boonsiriferry.com/) eller [12go.asia](https://12go.asia/en/travel/bangkok/koh-kood), ~350–500 kr med buss+ferge-kombo)
 - **Til Khao Sok:** fly BKK→[Surat Thani](https://www.google.com/maps/search/?api=1&query=Surat+Thani+Airport) (~1 t 15, fra ~300 kr) → buss/minivan ~2 t til [Khao Sok](https://www.google.com/maps/search/?api=1&query=Khao+Sok+National+Park); båtturen på Cheow Lan-sjøen går fra [Ratchaprapha-dammen](https://www.google.com/maps/search/?api=1&query=Ratchaprapha+Dam+Pier)

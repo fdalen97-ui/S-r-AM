@@ -4,6 +4,24 @@
 
 **🗺️ Kart-oversikt:** [Nordøya-ruten](https://www.google.com/maps/dir/Auckland/Rotorua/Taupo/Napier/Martinborough/Wellington) · [Sørøya-ruten](https://www.google.com/maps/dir/Picton/Blenheim/Kaikoura/Christchurch/Lake+Tekapo/Queenstown/Te+Anau) · [New Zealand i kartet](https://www.google.com/maps/place/New+Zealand)
 
+<img src="../kart/new-zealand.svg" alt="Kart over New Zealands regioner i biblioteket" width="480">
+
+| # | Region i guiden | 📍 Google Maps |
+|---|---|---|
+| 1 | Bay of Islands (Paihia) | [Åpne](https://www.google.com/maps/search/?api=1&query=Paihia,+New+Zealand) |
+| 2 | Auckland / Waiheke | [Åpne](https://www.google.com/maps/search/?api=1&query=Auckland,+New+Zealand) |
+| 3 | Coromandel | [Åpne](https://www.google.com/maps/search/?api=1&query=Coromandel+Peninsula) |
+| 4 | Rotorua / Taupo | [Åpne](https://www.google.com/maps/search/?api=1&query=Rotorua,+New+Zealand) |
+| 5 | Hawke's Bay (Napier) | [Åpne](https://www.google.com/maps/search/?api=1&query=Napier,+New+Zealand) |
+| 6 | Wellington / Martinborough | [Åpne](https://www.google.com/maps/search/?api=1&query=Wellington,+New+Zealand) |
+| 7 | Marlborough / Nelson | [Åpne](https://www.google.com/maps/search/?api=1&query=Blenheim,+New+Zealand) |
+| 8 | Kaikoura | [Åpne](https://www.google.com/maps/search/?api=1&query=Kaikoura,+New+Zealand) |
+| 9 | West Coast (Franz Josef) | [Åpne](https://www.google.com/maps/search/?api=1&query=Franz+Josef,+New+Zealand) |
+| 10 | Mackenzie (Tekapo/Mt Cook) | [Åpne](https://www.google.com/maps/search/?api=1&query=Lake+Tekapo,+New+Zealand) |
+| 11 | Queenstown / Otago | [Åpne](https://www.google.com/maps/search/?api=1&query=Queenstown,+New+Zealand) |
+| 12 | Fiordland (Te Anau/Milford) | [Åpne](https://www.google.com/maps/search/?api=1&query=Te+Anau,+New+Zealand) |
+| 13 | Catlins | [Åpne](https://www.google.com/maps/search/?api=1&query=The+Catlins,+New+Zealand) |
+
 ---
 
 ## NORDØYA
