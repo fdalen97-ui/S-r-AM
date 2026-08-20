@@ -63,6 +63,13 @@ kapitalinntekt (22 %).
 vinner dere borettslagsregelen OG korttids-skatteregimet samtidig. Ikke
 forleng frivillig til «en hel måned».
 
+**⚠️ Hvis turen blir ~5 uker (35 døgn):** ikke lei ut hele perioden i ett
+leieforhold — det krysser både 30-døgnsregelen og korttids-skatteregimet.
+To trygge løsninger: (a) lei ut 27.12–23.1 (27 netter) og la leiligheten stå
+tom siste uka, eller (b) del i to separate leieforhold — ett i 2026 og ett i
+2027 (30-døgnsgrensen gjelder per kalenderår) — og informer styret om
+opplegget. Alternativ (a) er enklest og taper bare ~5–6 000 kr brutto.
+
 ---
 
 ## ✍️ 4. ANNONSEN — ferdig til å lime inn

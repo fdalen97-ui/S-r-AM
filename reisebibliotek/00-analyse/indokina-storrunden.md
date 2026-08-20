@@ -7,6 +7,62 @@ buss/båt over åpne grenser — og finalen ligger på **Phu Quoc, Indokinas mes
 sol-sikre strandpunkt i januar** (tørrsesong-toppen: ~3–6 regndager/mnd,
 rolig hav, 28–32 °C). Alle priser i NOK.*
 
+## 🆕 Revidert hovedrute (aug. 2026): Andaman-finalen
+
+![Kart over storrunden](../kart/storrunden.svg)
+
+Festival- og snorkelresearchen flyttet konklusjonen: **avslutt på
+Andaman-siden, ikke Phu Quoc.** Tre grunner: (1) **Zamna Phuket 23.–24. jan
+er bekreftet** mens Epizode på Phu Quoc er død, (2) verdensklasse-snorklingen
+(Surin/Similan) har perfekt sesong nettopp i slutten av januar — og
+øy-formelen kåret Khao Lak til praktisk vinner som Similan-porten, (3)
+snorkel-dramaturgien blir riktig: Koh Koun → Koh Tang → Similan som crescendo.
+Kostnad for byttet: ett ekstra fly (SGN→HKT direkte, ~600–1 000) — og hjem
+**direkte HKT–OSL med Norse**.
+
+| # | Datoer | Sted | Dit med | Nøkkelen |
+|---|---|---|---|---|
+| 1 | 26.–30. des | Bangkok | ✈️ OSL→BKK (ankom 26.!) | Fujii Kaze-konserten 26., omakasen (mange tellere stenger 31/12–3/1) |
+| 2 | 30/31. des–3. jan | Siem Reap | ✈️ BKK→REP (500–900) | NYE på Pub Street, Angkor 1. jan, Phare-sirkuset |
+| 3 | 4.–6. jan | Phnom Penh | 🚌 6 t (~150) | Historien; Victory Day 7. jan |
+| 4 | 6.–8. jan | Kampot/Kep | 🚐 3 t (~80) | Pepperfarm, krabbemarkedet |
+| 5 | 8.–11. jan | Koh Rong Samloem | 🚌+⛴️ via Sihanoukville | Sunset Beach, **Koh Tang-overnattingsturen** (1 700–2 250) |
+| 6 | 11.–14. jan | Phu Quoc | 🚐 Ha Tien + ⛴️ Superdong (~92!) | Strandpause, OnBird-turen, Kiss of the Sea |
+| 7 | 14.–17. jan | Saigon | ✈️ PQC→SGN (300–600) | Sushi Rei, craft-øl, Mekong-dagstur |
+| 8 | 17.–22. jan | Khao Lak | ✈️ SGN→HKT (~600–1 000) + 1,5 t | **Similan/Surin-liveaboard i perfekt sesong** |
+| 9 | 23.–24. jan | Phuket | 🚗 1 t | **Zamna begge dagene** |
+
+### 🗓️ Uke 5 (ved ~5 ukers tur): festival- og vinfinalen
+
+Med fem uker åpner alt som lå «rett utenfor vinduet» seg — og finalen blir
+turens beste uke for et vin/mat-par:
+
+| Datoer | Sted | Dit med | Nøkkelen |
+|---|---|---|---|
+| 25. jan | Bangkok | ✈️ HKT→BKK (300–600) | **Westlife, Impact Arena** (580–1 885) — eller bare hvile |
+| 26.–28. jan | Khao Yai 🍷 | 🚗 leiebil/minivan 2,5 t | **GranMonte i innhøstingssesongen** — druehøsting, vingårdslunsj på Vincotto, jazz-helgene starter typisk nå (2027-datoer slippes i des) |
+| 29.–31. jan | Bangkok | 🚗 tilbake | **Bangkok Music City 30.–31. jan** (86+ thai/int. indie-akter — midt i blinken) + Thailand Int'l Jazz Conference ~29. · siste omakase |
+| 31. jan/1. feb | Hjem | ✈️ BKK–OSL | Norse direkte |
+
+Fem-ukersversjonen puster også bedre underveis: legg gjerne inn Battambang
+(Tonlé Sap-båten) mellom Siem Reap og Phnom Penh, og en ekstra natt på både
+Samloem og Phu Quoc.
+
+**⚠️ Utleie-konsekvensen av 5 uker:** ~35 døgn borte krysser borettslagets
+30-døgnsregel og korttids-skatteregimet **hvis det leies ut hele perioden i
+ett leieforhold**. Løsningen er enkel: hold leiekontrakten på maks 29 netter
+(f.eks. 27. des–23. jan) og la leiligheten stå tom siste uka — eller del i to
+kontrakter (én i 2026, én i 2027) og sjekk med styret. Se
+[`utleie-leiligheten.md`](utleie-leiligheten.md).
+
+*Fallback hvis Zamna-lineupen skuffer eller Norse-dagene ikke passer:
+originalruten under (Phu Quoc-finalen) står seg fortsatt — Khao Lak-uka er
+uansett verdt det for Similan alene. Eventene: se
+[`festivaler-og-eventer.md`](festivaler-og-eventer.md) · maten:
+[`omakase.md`](omakase.md) · snorklingen: [`snorkling-kh-vn.md`](snorkling-kh-vn.md).*
+
+---
+
 ## 🗺️ Total-ruten i Google Maps
 
 Google Maps kan ikke tegne én sammenhengende rute når fly og ferger er med —
