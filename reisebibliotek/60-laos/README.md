@@ -13,6 +13,20 @@ på appen 06:30 laotid.
 
 **🗺️ Kart-oversikt:** [Nord-ruten](https://www.google.com/maps/dir/Huay+Xai,+Laos/Luang+Prabang,+Laos/Vang+Vieng,+Laos/Vientiane,+Laos) (Huay Xai → Luang Prabang → Vang Vieng → Vientiane — men ta båt/tog, ikke bil!) · [Sør](https://www.google.com/maps/dir/Pakse,+Laos/Paksong,+Laos/Champasak,+Laos/Don+Khon) · [Laos i kartet](https://www.google.com/maps/search/?api=1&query=Laos)
 
+<img src="../kart/laos.svg" alt="Kart over Laos' regioner i biblioteket" width="560">
+
+| # | Region i guiden | 📍 Google Maps |
+|---|---|---|
+| 1 | Luang Prabang | [Åpne](https://www.google.com/maps/search/?api=1&query=Luang+Prabang,+Laos) |
+| 2 | Nong Khiaw / Muang Ngoi | [Åpne](https://www.google.com/maps/search/?api=1&query=Nong+Khiaw,+Laos) |
+| 3 | Bokeo / slow boat (Huay Xai) | [Åpne](https://www.google.com/maps/search/?api=1&query=Huay+Xai,+Laos) |
+| 4 | Vang Vieng | [Åpne](https://www.google.com/maps/search/?api=1&query=Vang+Vieng,+Laos) |
+| 5 | Vientiane | [Åpne](https://www.google.com/maps/search/?api=1&query=Vientiane,+Laos) |
+| 6 | Krukkesletten (Phonsavan) | [Åpne](https://www.google.com/maps/search/?api=1&query=Phonsavan,+Laos) |
+| 7 | Thakhek / Kong Lor | [Åpne](https://www.google.com/maps/search/?api=1&query=Thakhek,+Laos) |
+| 8 | Bolaven-platået (Paksong) | [Åpne](https://www.google.com/maps/search/?api=1&query=Paksong,+Laos) |
+| 9 | Champasak / 4000 øyene | [Åpne](https://www.google.com/maps/search/?api=1&query=Don+Det,+Laos) |
+
 **⛴️✈️ Etappene uten vei:** slow boat [Huay Xai](https://www.google.com/maps/search/?api=1&query=Huay+Xai) → Pakbeng → [Luang Prabang](https://www.google.com/maps/search/?api=1&query=Luang+Prabang) (2 dager, 135–225 kr offentlig / 1 000–1 600 kr premium) · båt [Nong Khiaw](https://www.google.com/maps/search/?api=1&query=Nong+Khiaw) → Muang Ngoi (1 t, 14–18 kr) · fly Vientiane→Pakse (~700–1 000 kr — **aldri 11 t nattbuss**).
 
 ---

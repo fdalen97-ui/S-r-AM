@@ -4,6 +4,18 @@
 
 **🗺️ Kart-oversikt:** [Den aktive kyst+vinbelte-ruten](https://www.google.com/maps/dir/Brisbane/Byron+Bay/Sydney/Canberra/Melbourne) (Brisbane → Byron Bay → Sydney → Canberra-distriktet → Melbourne) · [Great Ocean Road](https://www.google.com/maps/dir/Melbourne/Torquay/Port+Campbell/Port+Fairy) · [Australia i kartet](https://www.google.com/maps/place/Australia)
 
+<img src="../kart/australia.svg" alt="Kart over Australias regioner i biblioteket" width="620">
+
+| # | Region i guiden | 📍 Google Maps |
+|---|---|---|
+| 1 | Queensland-kysten (Cairns→Brisbane) | [Åpne](https://www.google.com/maps/search/?api=1&query=Cairns,+Australia) |
+| 2 | New South Wales (Sydney/Blue Mountains) | [Åpne](https://www.google.com/maps/search/?api=1&query=Sydney,+Australia) |
+| 3 | Victoria (Melbourne/Great Ocean Road) | [Åpne](https://www.google.com/maps/search/?api=1&query=Melbourne,+Australia) |
+| 4 | Tasmania (Hobart/Freycinet) | [Åpne](https://www.google.com/maps/search/?api=1&query=Hobart,+Tasmania) |
+| 5 | South Australia (Adelaide/Barossa) | [Åpne](https://www.google.com/maps/search/?api=1&query=Adelaide,+Australia) |
+| 6 | Western Australia (Perth/Margaret River) | [Åpne](https://www.google.com/maps/search/?api=1&query=Perth,+Australia) |
+| 7 | Northern Territory (Darwin/Uluru) | [Åpne](https://www.google.com/maps/search/?api=1&query=Darwin,+Australia) |
+
 **Viktig for dere som reiser i romjul/januar:** Det tropiske nord (Cairns, Whitsundays, Darwin, Kakadu, Broome) er da i våtsesong med kvelende fuktighet, sykloner og bokse-maneter («stinger season», nov–mai). Outback (Uluru, Karijini) er brennhett (35–40 °C). **Januar er derimot høysesong-perfekt i Tasmania, Victoria, South Australia, sørlige WA og NSW-kysten** – planlegg deretter.
 
 ---

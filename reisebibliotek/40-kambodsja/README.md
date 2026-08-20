@@ -4,6 +4,17 @@
 
 **🗺️ Kart-oversikt:** [Hele anbefalt rute i Google Maps](https://www.google.com/maps/dir/Siem+Reap,+Cambodia/Battambang,+Cambodia/Phnom+Penh,+Cambodia/Kampot,+Cambodia/Kep,+Cambodia/Sihanoukville,+Cambodia) (Siem Reap → Battambang → Phnom Penh → Kampot → Kep → Sihanoukville) · [Kambodsja i kartet](https://www.google.com/maps/search/?api=1&query=Cambodia)
 
+<img src="../kart/kambodsja.svg" alt="Kart over Kambodsjas regioner i biblioteket" width="620">
+
+| # | Region i guiden | 📍 Google Maps |
+|---|---|---|
+| 1 | Siem Reap + Angkor | [Åpne](https://www.google.com/maps/search/?api=1&query=Siem+Reap,+Cambodia) |
+| 2 | Phnom Penh | [Åpne](https://www.google.com/maps/search/?api=1&query=Phnom+Penh,+Cambodia) |
+| 3 | Sørkysten (Kampot/Kep) | [Åpne](https://www.google.com/maps/search/?api=1&query=Kampot,+Cambodia) |
+| 4 | Øyene (Koh Rong/Samloem) | [Åpne](https://www.google.com/maps/search/?api=1&query=Koh+Rong+Samloem) |
+| 5 | Battambang | [Åpne](https://www.google.com/maps/search/?api=1&query=Battambang,+Cambodia) |
+| 6 | Øst (Mondulkiri/Kratie) | [Åpne](https://www.google.com/maps/search/?api=1&query=Sen+Monorom,+Cambodia) |
+
 **⛴️✈️ Etappene uten vei:**
 - **Til/fra landet:** landegrensen mot Thailand er STENGT (2025/26) — **fly BKK ↔ [Siem Reap](https://www.google.com/maps/search/?api=1&query=Siem+Reap+Angkor+International+Airport)** (~1 t, ~500–1 100 kr t/r) er eneste vei; se [`transport.md`](../00-analyse/transport.md)
 - **Til øyene:** speedferge fra [Sihanoukville-piren](https://www.google.com/maps/search/?api=1&query=Sihanoukville+Autonomous+Port+ferry) → [Koh Rong Samloem/Saracen Bay](https://www.google.com/maps/search/?api=1&query=Saracen+Bay+Koh+Rong+Samloem) (~45 min, ~150–250 kr t/r med GTVC/Buva Sea — book på [12go.asia](https://12go.asia/en/travel/sihanoukville/koh-rong-samloem))
