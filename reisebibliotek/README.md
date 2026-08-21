@@ -44,6 +44,7 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/festivaler-og-eventer.md`](00-analyse/festivaler-og-eventer.md) | 🎆 Festivaler og konserter i reisevinduet: Zamna Phuket 23.–24. jan (bekreftet!), NYE-byvalget, Da Lat Flower Festival, Phare-sirkuset og konsertkalenderen |
 | [`00-analyse/omakase.md`](00-analyse/omakase.md) | 🍣 Omakase langs ruta: hele Bangkok-stigen (Ichizu-splurgen, Masato-bookingritualet, lunsj-trikset), Sushi Rei i Saigon og de ærlige nei-dommene |
 | [`00-analyse/cruise-og-halong.md`](00-analyse/cruise-og-halong.md) | 🚢 Cruise-analysen: Karibia-prisjakten (jan-bunnen + Kanariøy-jokeren), SEA-havcruise med Ha Long-anløpsfasit, og Ha Long-båtenes komplette kjøpsguide |
+| [`00-analyse/batturer.md`](00-analyse/batturer.md) | 🛶 Båtturene langs ruta i tre nivåer: Hong by Starlight, Cheow Lan-rafthus, Mekong-sampan over natten, Kompong Khleang — og dropp-lista med grunner |
 
 ### 🗺️ Kart (`kart/`)
 Hvert land har et regionskart (SVG, generert fra Natural Earth-data) øverst i
