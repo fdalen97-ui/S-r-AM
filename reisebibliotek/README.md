@@ -46,6 +46,7 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/cruise-og-halong.md`](00-analyse/cruise-og-halong.md) | 🚢 Cruise-analysen: Karibia-prisjakten (jan-bunnen + Kanariøy-jokeren), SEA-havcruise med Ha Long-anløpsfasit, og Ha Long-båtenes komplette kjøpsguide |
 | [`00-analyse/batturer.md`](00-analyse/batturer.md) | 🛶 Båtturene langs ruta i tre nivåer: Hong by Starlight, Cheow Lan-rafthus, Mekong-sampan over natten, Kompong Khleang — og dropp-lista med grunner |
 | [`00-analyse/looper.md`](00-analyse/looper.md) | 🏍️ Loopene etter Ha Giang: Mae Hong Son-dypdykket (4-dagersplan, førerkort-realiteten, bil-alternativet), Thakhek/Bolaven/Nan/Cao Bang rangert og sør-Laos-strategien |
+| [`00-analyse/kaffe.md`](00-analyse/kaffe.md) | ☕ Kaffen langs ruta: Eiah-Sae (1927) til Roots, Lacàph-verkstedet i Saigon, K'Ho-gården i Dalat, Rumblefish' Indokina-flight — og hva som er verdt å ta med hjem |
 
 ### 🗺️ Kart (`kart/`)
 Hvert land har et regionskart (SVG, generert fra Natural Earth-data) øverst i
