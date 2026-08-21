@@ -48,6 +48,7 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/looper.md`](00-analyse/looper.md) | 🏍️ Loopene etter Ha Giang: Mae Hong Son-dypdykket (4-dagersplan, førerkort-realiteten, bil-alternativet), Thakhek/Bolaven/Nan/Cao Bang rangert og sør-Laos-strategien |
 | [`00-analyse/kaffe.md`](00-analyse/kaffe.md) | ☕ Kaffen langs ruta: Eiah-Sae (1927) til Roots, Lacàph-verkstedet i Saigon, K'Ho-gården i Dalat, Rumblefish' Indokina-flight — og hva som er verdt å ta med hjem |
 | [`00-analyse/overnatting.md`](00-analyse/overnatting.md) | 🛏️ Hvor dere skal sove, stopp for stopp: live-priser for deres datoer, budsjett/hoved/splurge per stopp, bookingrekkefølgen og totalen (~28k med de smarte kompromissene) |
+| [`00-analyse/forsikring-og-rettigheter.md`](00-analyse/forsikring-og-rettigheter.md) | 🛡️ Reiseforsikring og rettigheter verifisert mot vilkårene: scooter-risikoen, 45/70-dagersgrensene, bagasje (Montreal 1 519 SDR + PIR-fristene), EU261 per flystrekning, separate billetter og kredittkortets innsigelsesrett |
 
 ### 🗺️ Kart (`kart/`)
 Hvert land har et regionskart (SVG, generert fra Natural Earth-data) øverst i
