@@ -14,6 +14,7 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 ### 00 · Analyse (på tvers)
 | Fil | Innhold |
 |-----|---------|
+| ⭐ [`00-analyse/sjekkliste-for-avreise.md`](00-analyse/sjekkliste-for-avreise.md) | **START HER:** alt som må ordnes før avreise, sortert etter frist — booking som forsvinner, forsikring, vaksiner, utleien, visum og de fem åpne beslutningene |
 | [`00-analyse/sammenstilling.md`](00-analyse/sammenstilling.md) | Den store sammenstillingen: landene mot hverandre — skjønnhet, pris, sesong, match |
 | [`00-analyse/priskategorier.md`](00-analyse/priskategorier.md) | Budsjett / medium / komfort — kr per dag, per land og region |
 | [`00-analyse/beste-ruter.md`](00-analyse/beste-ruter.md) | Beste totalruter med fleksibilitet (per land + kombinasjoner) |
