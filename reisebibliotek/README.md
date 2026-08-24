@@ -53,6 +53,7 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/scooterregler.md`](00-analyse/scooterregler.md) | 🛵 Scooterreglene land for land: smutthullene (Vietnam <50cc, Kambodsja <125cc), IDP-konvensjon per land, bøtenivåer og håndheving, utleiesvindlene, A1 vs full A — og beslutningsguiden |
 | [`00-analyse/chiang-mai-mat.md`](00-analyse/chiang-mai-mat.md) | 🍜 Chiang Mai-matguiden: khao soi-rangeringen, Huen Muan Jai og nord-kanonen, Blackitch-splurgen, naturvin og craft-øl, nattmarkedene — og nyttårsukas åpningstider |
 | [`00-analyse/direktefly-og-nattransport.md`](00-analyse/direktefly-og-nattransport.md) | ✈️🚂 Direktefly-matrisen per etappe (CNX→HKT finnes, CNX→SAI ikke, Sihanoukville er en blindvei), nattoget til Chiang Mai, Kambodsjas nattbuss-advarsel og bookingrekkefølgen |
+| [`00-analyse/chiang-mai-bo-og-kjore.md`](00-analyse/chiang-mai-bo-og-kjore.md) | 🏡🛵 Chiang Mai: hvor dere bor (hva som allerede er utsolgt til nyttår, de unike fjellstedene, elefant-etikken) og de syv kjørerutene med veipunkter, priser og januarværet |
 
 ### 🗺️ Kart (`kart/`)
 Hvert land har et regionskart (SVG, generert fra Natural Earth-data) øverst i
