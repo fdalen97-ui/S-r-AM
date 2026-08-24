@@ -9,6 +9,138 @@ folkeregistrert adresse til dere er tilbake — ikke fra flyavgang.
 
 ---
 
+---
+
+# 📄 DERES EGEN POLISE: Tekna Reise (Gjensidige) — Fredrik Dalen
+
+*Lest mot forsikringsbeviset. Dette erstatter de generelle vurderingene
+under for Fredriks del.*
+
+## 🔴 Funn 1: polisen dekker ÉN person
+
+Forsikringsbeviset sier **«Forsikring for en person – Fredrik Dalen»**.
+**Kjæresten er ikke dekket av denne.** Hun må ha sin egen reiseforsikring —
+via eget forbund, arbeidsgiver, bank eller privat. Sjekk dette først av alt;
+det er den eneste virkelig kritiske mangelen.
+
+*(Merk at «Dette gjelder også ektefelle og samboer» under
+sikkerhetsforskriftene handler om at reglene BINDER samboer — ikke at hun er
+dekket.)*
+
+## ✅ Funn 2: varigheten er helt uproblematisk — men én fordel ryker
+
+**«Ferie-/fritids- og yrkesreiser i hele verden med inntil 10 ukers
+varighet»** — 70 dager. Turen på 37 dager er godt innenfor, og selv en
+utvidelse ville gått fint. **Ingen utvidelse nødvendig.**
+
+> ⚠️ **MEN:** feriekompensasjonen (20 000 kr, sengeleie ved sykdom) gjelder
+> kun *«feriereise med planlagt varighet **inntil 5 uker**»*. 26. des–31. jan
+> er **37 dager = 5 uker + 2 dager** — så den ene dekningen faller bort.
+> Ferieavbrytelse (100 000) har ingen slik grense og består.
+> **Vil dere beholde feriekompensasjonen: legg turen på 35 dager eller
+> kortere.**
+
+## 💰 Funn 3: polisen er sterk — og har NULL egenandel
+
+| Dekning | Sum |
+|---|---|
+| Behandling, sykehus, hjemtransport, tilkalling | **Ubegrenset** |
+| **Reisegods** | **Ubegrenset** (verdigjenstander samlet 40 000) |
+| **Avbestilling** | **Ubegrenset** |
+| **Leiebil — egenandelskrav** | **Ubegrenset** ⭐ |
+| Evakuering | Ubegrenset (+ 15 000 tapt ferie) |
+| Ansvar | 15 000 000 · Rettshjelp 100 000 (**ingen egenandel** på reise) |
+| Forsinket transportmiddel | 25 000 · forsinket bagasje 5 000 |
+| Tapt arrangement/overnatting | 5 000 |
+| Ulykke: invaliditet 300 000 · **dødsfall 100 000** | |
+| **Egenandel** | **Ingen** (unntak: mobil 1 000, eller 3 000 hvis annen reparatør enn Elcare) |
+
+Pris 1 490 kr/år. ⚠️ **Betinger medlemskap i Tekna** — ryker medlemskapet,
+ryker forsikringen.
+
+## 🛵 Funn 4: scooter-dommen står — svart på hvitt i deres vilkår
+
+**Ansvarsdekningen, ordrett unntatt:** *«for ansvar som eier, fører eller
+bruker av **motorvogn** … båt … drone eller luftfartøy»*.
+→ Kjører dere på noen med scooter, dekker ikke ansvarsforsikringen dere.
+**Rettshjelpen unntar det samme.**
+
+**Leiebil-egenandelen, ordrett:** dekker bil og motorsykkel **«(over
+125 cm³)»**, og *«Omfattes ikke: **moped, scooter eller ATV**»*.
+→ Verken scooter eller ATV — og heller ikke en MC på 125cc eller mindre.
+
+> 🚗 **Men her er den gode nyheten for Chiang Mai:** **leiebil-egenandelen er
+> UBEGRENSET.** Krasjer dere leiebilen, dekker Gjensidige hele egenandelen
+> utleieren krever. Vilkår: bilen må være kaskoforsikret (**CDW + TP**),
+> egenandelen må stå tydelig i leiekontrakten, og leien må gjelde **denne ene
+> feriereisen** (ikke privatperson-utleie, ikke abonnement).
+> **Dette gjør bil-valget i Chiang Mai enda riktigere enn jeg trodde.**
+
+💡 **Kuriositet med verdi:** **el-sparkesykkel er eksplisitt IKKE klassifisert
+som motorvogn utenfor Norge** i deres ansvarsvilkår — så ansvar på
+el-sparkesykkel i utlandet ER dekket. Sykkel og små el-kjøretøy dekkes også
+som reisegods med 40 000 — **men bare hvis de ikke kan overstige 25 km/t for
+motorkraft.** (Samme 25 km/t-grense som thailandsk lov bruker for
+el-sykkel — de to reglene matcher.)
+
+## 🤿 Funn 5: dykking er trygt
+
+Unntaket er *«dykking dypere enn 40 meter»* — Similan-liveaboarden og alt
+rekreasjonsdykk ligger langt innenfor. **Ingen DAN-forsikring nødvendig.**
+
+## ⚠️ Detaljer fra vilkårene som faktisk vil treffe dere
+
+**Bagasje — hva som ALDRI skal innsjekkes** (sikkerhetsforskrift; brudd gir
+avkortning etter FAL § 4-8): *«foto-/video-/datautstyr og annet elektrisk,
+elektronisk og optisk utstyr; smykker, smartklokker/ur, kontanter og
+verdibevis; flasker, skjøre gjenstander; mat og drikke; **medisiner**»*.
+→ Dykkecomputer, kamera, GoPro, laptop **og medisiner** i håndbagasjen.
+
+**Forsinkelse — grensen er 1,5 time**, men kun ved *værforhold, skred,
+teknisk/mekanisk feil, trafikkuhell eller nødlanding*.
+❌ **Ikke dekket: «transportforsinkelse som skyldes personellmangel»** — og
+generelle vilkår unntar **streik**. Det er nettopp de to årsakene EU261
+derimot kan gi kompensasjon for, så **de to ordningene utfyller hverandre.**
+Ved ≥8 timers forsinket ankomst dekkes ett forhåndsbetalt arrangement eller
+én overnatting (5 000).
+⚠️ **Sikkerhetsforskrift: «Transportørens bestemmelser om fremmøtetid skal
+følges»** — dette er bufferkravet ved separate billetter, i deres egne
+vilkår.
+
+**Forsinket bagasje:** 5 000 til nødvendige klær/utstyr, må dokumenteres.
+❌ Ikke ved **hjemkomst**, og ikke det transportøren selv plikter å refundere
+(altså: **krev fra flyselskapet først**).
+
+**Avbestilling er ubegrenset** og dekker bl.a. **samlivsbrudd** og
+UD-reiseråd utstedt *etter* betaling. ⚠️ **Men ikke reiser betalt før
+forsikringen var gyldig** — altså står regelen «kjøp/aktiver før første
+innbetaling».
+
+**UD-reiseråd:** reiser til områder med offisiell reiseadvarsel er unntatt.
+Er dere allerede på stedet når rådet kommer, dekkes dere i **6 uker**.
+
+**⚫ Dødsfallserstatningen — hvis dere er samboere:** *«Samboer er ikke
+likestilt med ektefelle ved utbetaling av dødsfallserstatning, hvis ikke
+han/hun er oppnevnt som begunstiget.»* Er dere ikke gift, går de 100 000 til
+arvinger etter lov — ikke til henne. **Oppnevn hverandre som begunstiget**
+hvis dere vil noe annet.
+
+**Frist for å melde skade: ett år** fra dere fikk kunnskap om forholdet.
+
+## ✅ Handlingslista fra polisen
+
+- [ ] 🔴 **Skaff kjæresten hennes egen reiseforsikring** (eller bekreft at
+      hun har en) — dette er den eneste kritiske mangelen
+- [ ] 🟡 Vurder **35 dager i stedet for 37** hvis feriekompensasjonen betyr noe
+- [ ] 🟡 **Oppnevn hverandre som begunstiget** (dødsfall) hvis dere er samboere
+- [ ] 🟡 Bekreft at **Tekna-medlemskapet løper** gjennom hele reisen
+- [ ] 🟢 Leiebil i Chiang Mai: sørg for **CDW + TP** og at egenandelen står i
+      kontrakten — da er den ubegrenset dekket
+- [ ] 🟢 Lagre **Gjensidige Travel Assistance**-nummeret (døgnåpent) i
+      telefonen og på papir
+
+---
+
 ## 1️⃣ Varighet: 37 dager er trygt innenfor hos alle
 
 | Selskap | Dager per utenlandsreise |
