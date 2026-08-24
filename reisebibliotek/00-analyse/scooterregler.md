@@ -324,6 +324,102 @@ reserveplanen uansett.
 
 ---
 
+---
+
+# 🌍 Verdenssveipet: hvor KAN dere kjøre lovlig på klasse B?
+
+*Verifisert mot Statens vegvesen, Lovdata, EU-direktiv 2006/126/EF,
+Autoliitto (IDP-utsteder), DGT (Spania), FEMA og nasjonale
+transportmyndigheter.*
+
+## 🟢 Den gode nyheten: dere HAR en europeisk mopedrett
+
+**Norsk klasse B bærer ekte EU-kategori AM** (Statens vegvesen: «du kan
+kjøre enhver type moped … som er merket kategori AM i førerkortet»). Og
+førerkortforskriften § 3-1 sier at de nasjonale kodene 145/146/147 kun
+begrenser kjøring **i Norge** — under EU-direktivets vedlegg I er koder over
+100 nasjonale og faller bort i utlandet. **Igjen står ren kategori AM.**
+
+**Artikkel 2 i direktiv 2006/126/EF krever gjensidig anerkjennelse.**
+Altså: **dere kan lovlig kjøre 50cc moped (45 km/t) i HELE EU/EØS**,
+pluss Sveits og Storbritannia.
+
+> ⚠️ **Sjekk baksiden av begge førerkortene** — dere ser etter **AM** i
+> kategoritabellen (vises typisk som AM 145/146/147). Alt over avhenger av
+> at den står der.
+
+**Men: AM finnes ikke på noe internasjonalt førerkort.** Autoliitto (offisiell
+IDP-utsteder) sier det rett ut: det finnes ingen moped-kategori i verken
+Genève- eller Wien-modellen. **AM gjelder i EU — ikke andre steder.**
+
+## 🏆 De beste stedene i verden for dere
+
+| # | Sted | Hva | Vilkår |
+|---|---|---|---|
+| 1 | 🇧🇲 **Bermuda** | **50cc, ingen førerrett kreves i det hele tatt** | **Turister har lov til å leie bil — de har det IKKE.** Mopeden ER turistkjøretøyet, og hele øyas infrastruktur er bygget rundt nøyaktig deres situasjon. Alder 18+ |
+| 2 | 🇬🇷 **Hellas (øyene)** | 50cc på deres AM | Europas beste 50cc-utleiemarked. **Aldri en 125 — den krever A1 trykt på kortet** |
+| 3 | 🇪🇸 **Spania** | 50cc sikkert · **125cc trolig** | B holdt >3 år (dere har ~11). DGT-instruks 15/C-121 heter bokstavelig «for conductores comunitarios» — eneste land med noe som ligner offisiell bekreftelse for besøkende |
+| 4 | 🇻🇳 **Vietnam** | **under 50cc, ingen førerrett** | Bekreftet i lov 36/2024. ⚠️ «50cc» brukes som *markedsføringsord* for 110–160cc automater — **sjekk vognkortet, ikke skiltet** |
+| 5 | 🇨🇰 **Cookøyene** | **125cc!** | ⭐ **Det eneste stedet på jorden som faktisk oppgraderer et bilførerkort:** teoriprøve + oppkjøring på politistasjonen i Avarua, **NZD 40 totalt** (~250 kr), en formiddag, gyldig 30 dager. På Aitutaki utstedes det **uten prøve** |
+| 6 | 🇨🇼 **Curaçao** | 50cc, ingen førerrett | Alder 16+ |
+| 7 | 🇫🇷 **Frankrike** | **125cc etter 7-timerskurs** | B holdt >2 år + endagskurs (~250–350 €, ingen eksamen). Eneste fullt dokumenterte lovlige 125cc-vei en ikke-bosatt kan gjennomføre |
+
+**Ellers i EØS:** Italia, Portugal, Kroatia, Malta, Kypros, Sveits, UK og
+resten — **50cc lovlig**, men reelt utleiemarked for ekte 45 km/t-mopeder
+finnes stort sett bare i Sør-Europa. Nord-Europa har retten, ikke syklene.
+
+**USA:** de fleste delstater definerer moped som **≤50cc OG ≤48 km/t** og
+lar bilførerkort dekke den — Florida, Arizona, Illinois, Michigan, Nevada,
+California m.fl. (Key West er et av verdens reneste scooter-turistoppsett.)
+**Canada:** BC og Alberta ja, Ontario og Quebec nei.
+
+## ❌ Mytene som må avlives
+
+| Påstand | Realitet |
+|---|---|
+| «Sri Lankas AA-permit lar hvem som helst kjøre» | **Feil.** Deres egen FAQ: **B = biler og tuk-tuker**, og «du kan ikke oppgradere til en høyere kategori i Sri Lanka». *(Tuk-tuk er derimot lovlig for dere!)* |
+| «Italia/Spania lar B-innehavere kjøre 125 — bare dra» | Halvsant. Det er en **territoriell** unntaksbestemmelse (art. 6(3)), og **Polens statlige portal sier eksplisitt at den ikke gjelder besøkende der**. Kun Spania har noe som ligner bekreftelse |
+| «Skaff IDP så er du fine» | **Et IDP kan ikke skape en kategori.** For B-innehavere er MC-boksen strøket ut |
+| «Taiwan lar bilførerkort kjøre 50cc» | Var sant — **endret 30. juni 2023.** Utleierne sier nå rett ut nei |
+| «Barbados utsteder turistpermit» | **Avskaffet 15. oktober 2025** |
+| «Japan lar deg kjøre 50cc på bil-IDP» | Gjentas av japanske utleiekjeder, men motsies av politiets egen kategoritabell. **Ikke sats en sykehusregning på det** |
+
+**Og for sommerturen deres:** ❌ **Peru og Argentina har ingen unntak** —
+Argentina er eksplisitt på at *alle* motorsykler inkludert scootere krever
+klasse A. Regn med null scooterkjøring der.
+
+## 🔴 Forsikringskruxet — som fortsatt er uavklart
+
+Norske vilkår krever **«gyldig førerrett for kjøretøyet»**. Men hva skjer i
+et land der **ingen** førerrett kreves (Vietnam <50cc, Kambodsja <125cc,
+Bermuda, Curaçao)? To lesninger er begge plausible:
+
+1. **Etterlevelses-lesningen:** dere brøt ingen lov → ingen uaktsomhet →
+   dekningen står.
+2. **Kompetanse-lesningen:** vilkåret krever førerkort *for den
+   kjøretøyklassen*, og klasse B er ikke det for en 110cc kambodsjansk
+   scooter — uansett hva lokal lov sier.
+
+Lesning 2 er ikke søkt: selskapene skriver disse klausulene for å prise
+førerkompetanse, ikke for å spore utenlandsk lovgivning. **Merk asymmetrien:**
+i Kambodsja ville dere sittet på en 100–125cc som førerkortet ikke
+autoriserer noe sted i Europa — materielt farligere enn en 45 km/t moped på
+Bermuda.
+
+**📧 Send denne e-posten til selskapet og ta vare på svaret:**
+
+> *«Vi har førerkort klasse B med klasse AM (kode 146). Dekker
+> reiseforsikringen personskade, ansvar og hjemtransport dersom vi kjører
+> (a) en 50 ccm moped i EU/EØS, (b) en moped under 50 ccm i Vietnam, og
+> (c) en motorsykkel under 125 ccm i Kambodsja, hvor lokal lov ikke krever
+> førerkort for kjøretøyet? Vennligst bekreft skriftlig, med henvisning til
+> vilkårspunkt.»*
+
+Spør spesifikt om svaret avhenger av **lokal lovlighet** eller av **klassen
+trykt på førerkortet**.
+
+---
+
 ## Anbefalingen på én linje
 
 **Book full A (eller minimum A1) i september hvis dere har tenkt å fortsette
