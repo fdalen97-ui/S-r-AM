@@ -268,6 +268,41 @@ lange bukser (løser også tempel- og palass-kledningskoden) · lukkede sko ·
 solbriller og høy faktor (vintersola på 2 500 m er sterk tross kulden) ·
 badetøy til varmekildene · **kontanter**.
 
+## ♨️ Onsen og spa — byens undervurderte side
+
+Chiang Mai har fått en liten **onsen-eksplosjon** de siste årene (japansk-
+interesse + wellness-bølgen etter 2020). Perfekt kombinasjon med kalde
+fjellmorgener i januar.
+
+### Japansk-stil onsen
+
+| Sted | Hvor | Hva | Pris |
+|---|---|---|---|
+| 🥇 **Onsen @ Moncham** | Pong Yaeng, Mae Rim (40 min — **på Samoeng-loopen!**) | Tre ekte onsen-bad på **lokalt varmekildevann**: privat hagebad, kjønnsdelt fellesbad, og fot-onsen med utsikt over dalen. Også ryokan-rom med *eget* onsen-bad | **145 kr** fellesbad · **232 kr** privat hagebad · **08–18, forhåndsbooking påkrevd** |
+| **Sense Onsen Suandok** | Suan Dok Rd, Suthep | Fire **private** onsen-rom med mineralvann importert fra **Beppu i Japan** (kalsium, magnesium, svovel) | **131 kr/time** · 11–23 |
+| **Hokka-An Sauna & Steam** | Santitham | Kjønnsdelt, to varmebasseng + kaldt basseng + badstue. **Nakenbading tillatt** (ekte japansk skikk), to håndklær inkludert | **131 kr** · 13–22 |
+| **Nozawa Hostel & Onsen** | Chang Phueak | Tre bassenger (26–38 °C / 40–42 °C / **15–17 °C**), dampbad, badstue. Kjønnsdelte tider: kvinner 13–17, menn 17–24 | **131 kr** dagspass |
+| **The Old City Spa** | Intrawarorot Rd, gamlebyen | **Teakved-badekar på 43 °C** med epsomsalt og magnesium, isbad, thai urte-dampbad, finsk badstue + infrarød. Maks 20 gjester | **131 kr for TO timer** · 10–22 |
+| 💰 **Looper** | Jed Yot | Onsen ~40 °C + kaldbad 12–14 °C + svømmebasseng, kafé og minigym | **73 kr** — billigst i byen · 07–21 |
+| **Rarinjinda Wellness Spa** | Wat Ket, elvesiden | Tre-bassengs krets (40–42/36–38/16 °C) + hydroterapibasseng med åtte jet-stasjoner | **513 kr** (90 min hydro-pakke) · 10–24 |
+
+### Naturlige varme kilder (på kjørerutene)
+**San Kamphaeng varme kilder** (rute 2) — geysir, egg-koking i kurver,
+private badstuer · **Roong Aroon Hot Springs Resort** (Mae On) — kan også
+overnattes · **Chiang Dao varme kilder** (rute 4).
+
+### Thai-massasje og Lanna-spa
+🏆 **Fah Lanna Spa** — byens mest prisbelønte dagspa i tradisjonell
+nordthai-setting, tre filialer (gamlebyen, Nimman, Night Bazaar).
+**Thai-massasje 60 min fra 232 kr**, urtekule-massasje 464 kr.
+Ellers: **Oasis Spa Lanna** (luksusenden) og gatenivå-massasjer overalt til
+**60–90 kr timen** — Chiang Mai er stedet å ta én hver dag uten å merke det
+på budsjettet.
+
+> 💡 **Kombinasjonen som funker:** kjør Samoeng-loopen, avslutt på
+> **Onsen @ Moncham** i skumringen (145 kr) — varmt bad, 14 °C fjellufta
+> utenfor, og valgen under. Book på forhånd.
+
 ## ⚠️ «De syv farlige dagene»
 
 **29. des–4. jan er Thailands verste uke for trafikkdødsfall** — overveiende
