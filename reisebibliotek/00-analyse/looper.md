@@ -53,15 +53,25 @@ dropp uten skyld).
 Thailand krever **A-førerkort for ALL scooter** — norsk klasse B + IDP
 dekker ingenting på to hjul, og «under 125cc er greit» er en myte. Kontroller
 er fast inventar på akkurat denne loopen (1095 mot Pai), bøter 500–2 000 THB
-per stopp — og det egentlige problemet: **uten gyldig førerkort er
-reiseforsikringen ugyldig ved ulykke.**
+per stopp.
+
+*Forsikringspresisering (rettet):* selve **aktiviteten** er dekket av vanlig
+reiseforsikring — det er ikke et unntak å kjøre scooter. Men mangler du
+førerrett, kan selskapet **avkorte** erstatningen for grov uaktsomhet der det
+er årsakssammenheng mellom manglende førerrett og skaden (FAL § 4-9). Og
+**ansvarsdekningen** din dekker uansett ikke motorvogn — kjører du på noen,
+står du personlig for kravet. Se
+[`forsikring-og-rettigheter.md`](forsikring-og-rettigheter.md).
 
 **🚗 Bil-løsningen er genuint god her:** loopen er 100 % asfaltert og en av
 Asias store *kjøre*veier også. Leiebil fra Chiang Mai 155–350 kr/dag, lovlig
 på norsk B + IDP, forsikret, med varmeapparat til 12°-morgenene og
-bagasjerom til te-innkjøpene. Dere mister ~25 % av gleden mot sykkel og
-beholder 100 % av lovligheten. **Uten A-kort: bil er den ærlige
-anbefalingen.** (Har én av dere A-kort: én sykkel to-opp er drømmeversjonen
+bagasjerom til te-innkjøpene. **Og Tekna-polisen dekker
+leiebil-egenandelen ubegrenset** (krever CDW + tyveriforsikring) — mens
+«moped, scooter eller ATV» er eksplisitt unntatt fra samme dekning. Dere
+mister ~25 % av gleden mot sykkel og beholder 100 % av lovligheten —
+og hele forsikringen. **Uten A-kort: bil er den ærlige anbefalingen.**
+(Har én av dere A-kort: én sykkel to-opp er drømmeversjonen
 — Nmax/PCX 116–203 kr/dag; Cat Motors/Mango Bikes, book før.)
 
 ### 🗓️ Januar-fasiten + kostnad
@@ -108,6 +118,41 @@ tåkehav på Laos-grensen · **Da Lat→Nha Trang over Khanh Le-passet (QL27C)**
 relevant for *denne* turen hvis Dalat kommer inn: 37 km pass fra furuplatå
 og kaffegårder ned gjennom tåkejungel til kysten — suveren som bildag, null
 førerkortdrama.
+
+## ⚖️ Loopene rangert UTEN A-kort
+
+Premisset «uten scooterlappen faller loopene bort» stemmer bare for én av
+tre måter å gjøre dem på. Det finnes tre lovlige modus, og alle tre er
+fullt forsikret:
+
+| Modus | Lovlig på norsk klasse B + IDP? | Forsikring |
+|---|---|---|
+| **Selv, leiebil** | ✅ ja, i alle fire land | ✅ full, + ubegrenset egenandelsdekning |
+| **Bil med sjåfør / privat guide** | ✅ ja (dere er passasjerer) | ✅ full |
+| **Passasjer bakpå andres sykkel** («easy rider») | ✅ ja — passasjer trenger ikke førerkort | ✅ full, men *føreren* må ha lappen sin i orden |
+| Selv, scooter | ❌ nei | ⚠️ avkortningsrisiko + ansvar udekket |
+
+**Hvor mye taper loopen på å bytte to hjul mot fire:**
+
+| Loop | Tap ved bil | Dom uten A-kort |
+|---|---|---|
+| **Mae Hong Son** | ~25 % | ✅ **Overlever best.** Helasfaltert, 1 864 svinger som er morsomme i bil også, kaldt om morgenen (varmeapparat er faktisk et pluss), og attraksjonene — tehusene, Ban Rak Thai, Tham Lod, Pang Oung — er stopp, ikke kjøring. Gjør den |
+| **Bolaven, Laos** | ~10 % | ✅ **Taper nesten ingenting.** Poenget er kaffegårdene, fossene og landsbyene — flatt, rolig terreng der sykkelen aldri var gleden. Kan også gjøres med sjåfør fra Pakse |
+| **Da Lat→Nha Trang (QL27C)** | 0 % | ✅ Var alltid en bildag |
+| **Nan (Sky Road 1256)** | ~30 % | 🟡 Asfalten *er* poenget — men den er like god i bil. Fungerer, hvis den i det hele tatt kommer inn |
+| **Thakhek, Laos** | ~40 % | 🟡 Her er kjøringen halve saken, og leiebil i Laos er dyrere/tyngre enn i Thailand. Kong Lor-grotta (båt) er uansett uavhengig. Utsett til A-kortet er i boks |
+| **Cao Bang** | — | ❌ Feil sesong uansett (sep–nov) |
+
+**Konklusjonen:** det er *ikke* riktig at loopene faller bort. Mae Hong Son
+og Bolaven — de to som faktisk er aktuelle for denne turen — er begge
+loopene som taper minst på fire hjul, fordi de er mat-, kaffe- og
+landsby-turer der kjøringen er transporten mellom høydepunktene, ikke
+høydepunktet selv. Ha Giang var det motsatte: der *var* kjøringen turen.
+Det er nettopp derfor disse to føles nye.
+
+Det som derimot faller bort uten A-kort, er **korte scooterdager på egen
+hånd** — Samoeng-miniloopen, Mae Kampong-runden, øy-runder på Phuket. Der
+er alternativet leiebil for dagen eller Grab/rød taxi.
 
 ## 3️⃣ Syntesen
 
