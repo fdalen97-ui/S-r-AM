@@ -48,6 +48,41 @@ etisk betent** (inngjerdede fotolandsbyer vs. inntekt til karenni-flyktninger
 — ingen ren fasit; går dere, gå respektfullt og kjøp vevde varer; ellers
 dropp uten skyld).
 
+### 🌅 Det aller fineste skjer mellom 05:30 og 08:00
+
+Den enkeltregelen som betyr mest på denne loopen: **nesten alt som gjør den
+vakker, er et morgenfenomen.** Tåkehavet, speilvannet, munkene, kirsebær-
+blomsten i motlys — alt er borte innen kl. 09. Det betyr at **hvor dere
+sover bestemmer hva dere ser**, mer enn på noen annen tur vi har sett på.
+(Og at bilens varmeapparat kl. 06 i 8–12 °C er en reell luksus, ikke en
+trøstepremie.)
+
+**De fire gryene, i rekkefølge langs ruta:**
+
+| Sted | Prime | Hvor dere må sove | Hva dere får |
+|---|---|---|---|
+| **Pang Oung ↔ Ban Rak Thai** | 06:00–07:30 | Ban Rak Thai (13 km unna på 4001) | Tåke som ligger på vannet |
+| **Ban Jabo, «skyhavet»** | rett før soloppgang | Soppong eller Ban Jabo-homestay | Fjelltopper som øyer over et skydekke — og etterpå nudler med beina dinglende utfor kanten |
+| **Su Tong Pae** | 06:30–07:30 | Mae Hong Son by (20 min) | 500 m bambusbro, munkenes almisserunde i motlys og morgentåke |
+| **Doi Kiew Lom, Huai Nam Dang** | 05:30–07:30 | Pai | Tåkehav over hele dalen — og i januar **vill himalayakirsebær i blomst** langs ryggen. Ligger på 1095 mellom Pai og Chiang Mai = perfekt siste morgen |
+
+**⚠️ Det ene valget dere ikke kan snike dere unna:** morgentåka på Pang Oung
+og på Ban Rak Thai-sjøen varer bare en kort stund. Kjører dere fra den ene
+til den andre, er den borte når dere kommer fram. **Velg én.** Vår
+anbefaling: sov i Ban Rak Thai, kjør ut til Pang Oung i grålysningen, kom
+tilbake til te og frokost i landsbyen.
+
+**Ikke forvent i januar (ærlig liste):**
+
+- **Thung Bua Tong / Doi Mae U-Kho** (de berømte gule åssidene ved Khun
+  Yuam) — blomstrer **midten av nov.–tidlig des.** I januar er det bare åser.
+  Ikke legg om ruta for dem.
+- **Pha Sua- og Mae Surin-fossene** — tørketid. Svak vannføring.
+- **Su Tong Pae-jordene** — broen og munkene leverer, men jordene under er
+  stubbmark etter innhøstingen. Smaragdgrønt er regntid, gullhav er november.
+- **Pai Canyon** — fin i solnedgang, men det er loopens mest turisttette
+  time. Doi Kiew Lom neste morgen er samme landskap uten køen.
+
 ### ⚖️ Førerkort-realiteten (usminket)
 
 Thailand krever **A-førerkort for ALL scooter** — norsk klasse B + IDP
