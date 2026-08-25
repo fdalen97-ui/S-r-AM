@@ -8,6 +8,8 @@ reprise?» **Alle priser i NOK** (THB 0,29 · LAK 0,00045 · USD 10,2).*
 
 ## 1️⃣ Mae Hong Son-loopen — dypdykket
 
+![Kart over Mae Hong Son-loopen](../kart/mae-hong-son.svg)
+
 **~600 km, «1 864 svinger», helasfaltert:** Chiang Mai → Doi Inthanon/Mae
 Chaem → (Rute 1263) → Khun Yuam → Mae Hong Son → Ban Rak Thai/Pang Oung →
 Soppong (Tham Lod) → Pai → Chiang Mai.

@@ -9,6 +9,11 @@ rolig hav, 28–32 °C). Alle priser i NOK.*
 
 ## 🥇 ANBEFALT RUTE ved 5–6 uker (aug. 2026) — «Nord først, Andaman sist»
 
+![Kart over anbefalt rute med alternativer](../kart/storrunden.svg)
+
+*Kartet viser hovedruta (stopp 1–10), blokk 4 i oransje (kun ved 6 uker),
+Saigon-varianten i lilla, og Phu Quoc som utgått.*
+
 Tre harde fakta låser rekkefølgen, og når de er på plass tegner ruta seg
 nesten selv:
 
@@ -95,9 +100,10 @@ stresset.
 
 ---
 
-## 🆕 Revidert hovedrute (aug. 2026): Andaman-finalen
+## 🆕 Forrige versjon (aug. 2026): Andaman-finalen med Vietnam
 
-![Kart over storrunden](../kart/storrunden.svg)
+*⚠️ Erstattet av ruta over — den la Mae Hong Son til slutten av januar, midt
+i opptakten til brennesesongen. Beholdt her som referanse og fallback.*
 
 Festival- og snorkelresearchen flyttet konklusjonen: **avslutt på
 Andaman-siden, ikke Phu Quoc.** Tre grunner: (1) **Zamna Phuket 23.–24. jan
