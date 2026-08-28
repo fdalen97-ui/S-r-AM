@@ -87,6 +87,71 @@ faktisk *ødelegger* ferien; innhøstingen på GranMonte skjer uansett. Men
 vet dere at dere er risikosky, er 29. januar hjemreisedagen som gir dere
 begge deler minus vinen.
 
+### 📏 Stigen 5 → 8 uker: hva hver ekstra uke faktisk kjøper
+
+| Lengde | Hjem | Legger til | Hovedhaken |
+|---|---|---|---|
+| **5 uker** (35 d) | 29. jan | Grunnruta: Bangkok · nord · Kambodsja · Andaman | — (beholder feriekompensasjonen) |
+| **6 uker** (42 d) | 5. feb | Khao Yai-innhøsting + Bangkok Music City | Mister feriekompensasjonen |
+| **7 uker** (49 d) | 12. feb | **Sør-Laos: Pakse + Bolaven-platået** | Krever at januar bygges om |
+| **8 uker** (56 d) | 19. feb | + Sør-Vietnam (Saigon, Mekong, Dalat/Con Dao) | Går rett gjennom Tet |
+
+Forsikringen holder hele veien — hoveddekningen går til **10 uker (70 d)**.
+
+### 🧨 Tet og kinesisk nyttår: **6. februar 2027**
+
+Begge faller på samme dag i 2027. Lovfestet helligdag i Vietnam **5.–9.
+februar**, og regjeringen utvider den vanligvis til 7–9 dager (beslutningen
+kommer sent i 2026). Dette er den harde datoen i enhver 7–8-ukersplan:
+
+- 🇻🇳 **Vietnam:** transport utsolgt og opppriset, mange restauranter og
+  butikker stengt i dagevis. **Regelen er å være ett sted og ikke flytte seg
+  4.–10. februar.** Saigon på nyttårsaften (Nguyen Hue-blomstergata,
+  fyrverkeri) er til gjengjeld storslått.
+- 🇹🇭 **Thailand:** ingen helligdag, men **Yaowarat i Bangkok på kinesisk
+  nyttår er en av Asias beste gateopplevelser** — et pluss, ikke et problem,
+  hvis turen ender midt i februar.
+- 🇰🇭 **Kambodsja:** upåvirket. Khmer-nyttår er i april. **Derfor hører
+  Kambodsja til Tet-uka, og Vietnam til etterpå.**
+
+### 🌫️ Hvor februar-halen KAN ligge
+
+Dette avgjør rekkefølgen mer enn noe annet i en 7–8-ukersplan:
+
+| Region | Februar | Konsekvens |
+|---|---|---|
+| Nord-Thailand, Nord-Laos | ❌ Brennesesong bygger seg opp, verst feb.–mars | Må ligge i **desember/januar** |
+| Sør-Laos (Bolaven) | 🟡 Januar er perfekt, februar begynner å bli disig | Må ligge i **januar** |
+| Sør-Thailand (Andaman + Gulf) | ✅ Toppsesong, tørt | Fritt |
+| Kambodsja | ✅ Tørt og varmt | Fritt |
+| Sør-Vietnam | ✅ Tørt | Fritt |
+
+**Konklusjonen i én setning: alt som ligger høyt og nordlig må gjøres unna
+før februar, og februar-halen må være kyst, øyer eller Mekong.**
+
+### 🥇 Anbefalt 8-ukersform (26. des – 18. feb)
+
+| # | Datoer | Sted | Hvorfor akkurat der |
+|---|---|---|---|
+| 1 | 26. des – 8. jan (13 n) | Bangkok · Chiang Mai · Mae Hong Son | Nord i ren luft, nyttår med lanterner |
+| 2 | 8.–15. jan (7 n) | **Pakse + Bolaven-platået 🇱🇦** | Kaffeplantasjer på 1 000–1 350 m, Tad Fane. **Januar er platåets beste måned** — og turen som føles minst lik Ha Giang |
+| 3 | 15.–19. jan (4 n) | Bangkok + **Khao Yai 🍷** | Druehøsting på GranMonte |
+| 4 | 19.–23. jan (4 n) | Khao Lak | **Similan-liveaboard** i toppsesong |
+| 5 | 23.–25. jan (2 n) | Phuket | **Zamna begge dagene** |
+| 6 | 25.–29. jan (4 n) | Koh Yao Noi | Dekompresjonen |
+| 7 | 29. jan – 8. feb (10 n) | **Kambodsja** | Siem Reap, Phnom Penh, Kampot/Kep, Koh Rong Samloem — **landet som er upåvirket av Tet** |
+| 8 | 8.–17. feb (9 n) | **Sør-Vietnam** | Saigon idet landet åpner igjen (blomstergatene står fortsatt), Mekong, Dalat eller Con Dao |
+| | 17./18. feb | Hjem | ✈️ SGN–OSL |
+
+**Hvis dere heller vil oppleve Tet enn å unngå den:** bytt blokk 7 og 8.
+Vær i Saigon 3.–10. februar, bli værende, ikke flytt dere — og ta Kambodsja
+etterpå. Det er en av regionens store opplevelser, men den koster dere
+bevegelsesfrihet i en hel uke.
+
+**Visum holder hele veien:** Thailand 60 døgn visumfritt per innreise (deres
+lengste stint er 13 døgn), Laos visum ved ankomst 30 døgn, Kambodsja e-visum
+30 døgn, Vietnam e-visum 90 døgn.
+
 ### 🔀 Variant: Saigon inn uten smerte
 
 Vil dere ha Vietnam med likevel — **ikke** gjør det via Ha Tien-kjeden

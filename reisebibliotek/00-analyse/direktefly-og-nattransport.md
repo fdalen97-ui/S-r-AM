@@ -154,6 +154,36 @@ klønete side som av og til avviser utenlandske kort) eller **12Go**
 før — for 30. des 2026 betyr det ~1. oktober. 1. klasse og underkøyer på #9
 går på timer i høysesong. Sett alarm nå.**
 
+### 💰 Totalregnskapet for to, dør til dør (30. des 2026)
+
+Flybilletten alene ser billigere ut. Den er det ikke når alt er med:
+
+| | 🚂 **Nattog #9, 1. klasse** | ✈️ **Fly BKK/DMK → CNX** |
+|---|---|---|
+| Billetter, to personer | **901** (1 453 + 1 653 THB — hele kupeen er deres) | 522–1 160 (lavpris, 30. des er nyttårstopp) |
+| Innsjekket bagasje 20 kg × 2 | inkludert, ingen vektgrense i praksis | **232–378** (Vietjet/AirAsia) |
+| Til terminalen | 24 (MRT til Krung Thep Aphiwat) | 87–131 (taxi til Suvarnabhumi/Don Mueang) |
+| Fra terminalen | 44 (stasjonen ligger 3 km fra gamlebyen) | 44–58 |
+| **Delsum** | **≈ 970** | **≈ 885–1 727** |
+| 🛏️ Hotellnatt 30./31. des | **0 — dere sover om bord** | **800–2 000** (nyttårsuka, Bangkok eller Chiang Mai) |
+| **REELL TOTAL for to** | **≈ 970 kr** | **≈ 1 685–3 727 kr** |
+| Tidsbruk | 12 t 35 min, men om natten | 1 t 20 flytid, **5–6 t dør til dør** — på dagtid |
+| Ankomst | **07:15, hele nyttårsaften i behold** | midt på dagen, halve dagen borte |
+
+**Toget er 700–2 750 kr billigere for dere to** — og forskjellen er størst
+nettopp fordi dere reiser i nyttårsuka, når både flybilletten og hotellnatten
+er på årstoppen.
+
+Velger dere fullservice i stedet (Bangkok Airways, Thai Airways: bagasje
+inkludert, Suvarnabhumi) lander flybilletten på ~520–725 kr p.p. og
+totalen på 2 200–3 200 kr for to. Da er toget billigere med margin.
+
+**Motargumentene, ærlig:** tog på denne linja kommer jevnlig 1–3 timer for
+sent (ankomst 07:15 kan bli 09:30 — ikke planlegg noe før lunsj), dere
+mister kvelden 30. desember, og **30. desember er årets vanskeligste dato å
+få 1. klasse på**. Booking åpner nøyaktig 90 dager før — **~1. oktober 2026,
+sett alarm.**
+
 ### ✅ DOMMEN: TA DET
 Flyet er 1t20 og koster 260–725. På papiret er toget absurd. Men det
 **sparer en hotellnatt**, **sparer en hel reisedag** (Bangkok→flyplass→
