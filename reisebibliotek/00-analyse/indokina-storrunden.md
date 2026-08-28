@@ -133,7 +133,7 @@ før februar, og februar-halen må være kyst, øyer eller Mekong.**
 
 | # | Datoer | Sted | Hvorfor akkurat der |
 |---|---|---|---|
-| 1 | 26. des – 8. jan (13 n) | Bangkok · Chiang Mai · Mae Hong Son | Nord i ren luft, nyttår med lanterner |
+| 1 | 26. des – 8. jan (13 n) | Bangkok (4 n) · 🚂 nattoget · **Chiang Mai (4 n)** · **Mae Hong Son-loopen (4 n)** | Nord i ren luft, nyttår med lanterner. **Nordblokka er identisk i alle fire turlengdene** — brennesesongen låser den til akkurat disse datoene, så den kan verken flyttes eller ofres |
 | 2 | 8.–15. jan (7 n) | **Pakse + Bolaven-platået 🇱🇦** | Kaffeplantasjer på 1 000–1 350 m, Tad Fane. **Januar er platåets beste måned** — og turen som føles minst lik Ha Giang |
 | 3 | 15.–19. jan (4 n) | Bangkok + **Khao Yai 🍷** | Druehøsting på GranMonte |
 | 4 | 19.–23. jan (4 n) | Khao Lak | **Similan-liveaboard** i toppsesong |
