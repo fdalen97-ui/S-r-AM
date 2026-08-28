@@ -14,6 +14,7 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 ### 00 · Analyse (på tvers)
 | Fil | Innhold |
 |-----|---------|
+| ⭐ [`00-analyse/sjekkliste-for-avreise.md`](00-analyse/sjekkliste-for-avreise.md) | **START HER:** alt som må ordnes før avreise, sortert etter frist — booking som forsvinner, forsikring, vaksiner, utleien, visum og de fem åpne beslutningene |
 | [`00-analyse/sammenstilling.md`](00-analyse/sammenstilling.md) | Den store sammenstillingen: landene mot hverandre — skjønnhet, pris, sesong, match |
 | [`00-analyse/priskategorier.md`](00-analyse/priskategorier.md) | Budsjett / medium / komfort — kr per dag, per land og region |
 | [`00-analyse/beste-ruter.md`](00-analyse/beste-ruter.md) | Beste totalruter med fleksibilitet (per land + kombinasjoner) |
@@ -45,11 +46,26 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | [`00-analyse/omakase.md`](00-analyse/omakase.md) | 🍣 Omakase langs ruta: hele Bangkok-stigen (Ichizu-splurgen, Masato-bookingritualet, lunsj-trikset), Sushi Rei i Saigon og de ærlige nei-dommene |
 | [`00-analyse/cruise-og-halong.md`](00-analyse/cruise-og-halong.md) | 🚢 Cruise-analysen: Karibia-prisjakten (jan-bunnen + Kanariøy-jokeren), SEA-havcruise med Ha Long-anløpsfasit, og Ha Long-båtenes komplette kjøpsguide |
 | [`00-analyse/batturer.md`](00-analyse/batturer.md) | 🛶 Båtturene langs ruta i tre nivåer: Hong by Starlight, Cheow Lan-rafthus, Mekong-sampan over natten, Kompong Khleang — og dropp-lista med grunner |
+| [`00-analyse/looper.md`](00-analyse/looper.md) | 🏍️ Loopene etter Ha Giang: Mae Hong Son-dypdykket (4-dagersplan, førerkort-realiteten, bil-alternativet), Thakhek/Bolaven/Nan/Cao Bang rangert og sør-Laos-strategien |
+| [`00-analyse/kaffe.md`](00-analyse/kaffe.md) | ☕ Kaffen langs ruta: Eiah-Sae (1927) til Roots, Lacàph-verkstedet i Saigon, K'Ho-gården i Dalat, Rumblefish' Indokina-flight — og hva som er verdt å ta med hjem |
+| [`00-analyse/overnatting.md`](00-analyse/overnatting.md) | 🛏️ Hvor dere skal sove, stopp for stopp: live-priser for deres datoer, budsjett/hoved/splurge per stopp, bookingrekkefølgen og totalen (~28k med de smarte kompromissene) |
+| [`00-analyse/forsikring-og-rettigheter.md`](00-analyse/forsikring-og-rettigheter.md) | 🛡️ Reiseforsikring og rettigheter verifisert mot vilkårene: scooter-risikoen, 45/70-dagersgrensene, bagasje (Montreal 1 519 SDR + PIR-fristene), EU261 per flystrekning, separate billetter og kredittkortets innsigelsesrett |
+| [`00-analyse/scooterregler.md`](00-analyse/scooterregler.md) | 🛵 Scooterreglene land for land: smutthullene (Vietnam <50cc, Kambodsja <125cc), IDP-konvensjon per land, bøtenivåer og håndheving, utleiesvindlene, A1 vs full A — og beslutningsguiden |
+| [`00-analyse/chiang-mai-mat.md`](00-analyse/chiang-mai-mat.md) | 🍜 Chiang Mai-matguiden: khao soi-rangeringen, Huen Muan Jai og nord-kanonen, Blackitch-splurgen, naturvin og craft-øl, nattmarkedene — og nyttårsukas åpningstider |
+| [`00-analyse/direktefly-og-nattransport.md`](00-analyse/direktefly-og-nattransport.md) | ✈️🚂 Direktefly-matrisen per etappe (CNX→HKT finnes, CNX→SAI ikke, Sihanoukville er en blindvei), nattoget til Chiang Mai, Kambodsjas nattbuss-advarsel og bookingrekkefølgen |
+| [`00-analyse/chiang-mai-bo-og-kjore.md`](00-analyse/chiang-mai-bo-og-kjore.md) | 🏡🛵 Chiang Mai: hvor dere bor (hva som allerede er utsolgt til nyttår, de unike fjellstedene, elefant-etikken) og de syv kjørerutene med veipunkter, priser og januarværet |
 
 ### 🗺️ Kart (`kart/`)
 Hvert land har et regionskart (SVG, generert fra Natural Earth-data) øverst i
 sin README, med nummererte markører som matcher guidens regioner og
 Google Maps-lenker per region.
+
+**Rutekart:**
+
+| Kart | Viser |
+|---|---|
+| [`kart/storrunden.svg`](kart/storrunden.svg) | Anbefalt rute 5–6 uker med alternativer: hovedruta (stopp 1–10), blokk 4 i oransje (kun ved 6 uker), Saigon-varianten i lilla, Phu Quoc som utgått |
+| [`kart/mae-hong-son.svg`](kart/mae-hong-son.svg) | Mae Hong Son-loopen med kjøreretning, der gry- og skumringsstoppene er markert i oransje så overnattingene kan planlegges rundt dem |
 
 ### 10 · Australia 🇦🇺
 Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory

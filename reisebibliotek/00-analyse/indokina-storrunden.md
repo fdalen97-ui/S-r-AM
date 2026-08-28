@@ -7,9 +7,168 @@ buss/båt over åpne grenser — og finalen ligger på **Phu Quoc, Indokinas mes
 sol-sikre strandpunkt i januar** (tørrsesong-toppen: ~3–6 regndager/mnd,
 rolig hav, 28–32 °C). Alle priser i NOK.*
 
-## 🆕 Revidert hovedrute (aug. 2026): Andaman-finalen
+## 🥇 ANBEFALT RUTE ved 5–6 uker (aug. 2026) — «Nord først, Andaman sist»
 
-![Kart over storrunden](../kart/storrunden.svg)
+![Kart over anbefalt rute med alternativer](../kart/storrunden.svg)
+
+*Kartet viser hovedruta (stopp 1–10), blokk 4 i oransje (kun ved 6 uker),
+Saigon-varianten i lilla, og Phu Quoc som utgått.*
+
+Tre harde fakta låser rekkefølgen, og når de er på plass tegner ruta seg
+nesten selv:
+
+1. **Zamna Phuket 23.–24. jan** og **Similan i toppsesong** låser Andaman
+   til siste halvdel av januar. Ikke flyttbart.
+2. **Brennesesongen i nord bygger seg opp fra slutten av januar** og topper
+   i mars. Dis kan komme allerede i januar. Chiang Mai og Mae Hong Son
+   **må derfor ligge tidlig** — 4.–8. jan er trygt, 25.–29. jan var det
+   ikke. Dette snur den gamle uke-5-planen på hodet.
+3. **CNX→HKT går direkte** (4–5 avganger daglig), og **HKT–OSL og BKK–OSL
+   går direkte med Norse**. Begge ender er løst uten mellomlanding.
+
+**Konsekvens: nord i begynnelsen, Kambodsja i midten, Andaman til slutt.**
+Det gamle forslaget om Mae Hong Son som uke 5 er herved forlatt.
+
+### Ruta i fire blokker
+
+**🌄 Blokk 1 — Nord i ren luft (26. des – 8. jan, 13 netter)**
+
+| Datoer | Sted | Dit med | Nøkkelen |
+|---|---|---|---|
+| 26.–30. des | Bangkok (4 n) | ✈️ OSL→BKK Norse | Fujii Kaze 26., omakase (book Masato 14. sep!), Ayutthaya-dagstur |
+| 30. des | 🚆 Nattog #9 | ~900–930 kr for to, 1. kl. | Erstatter en hotellnatt. Booking åpner ~1. okt |
+| 31. des – 4. jan | Chiang Mai (4 n) | | **Nyttår med khom loi-lanterner ved Tha Phae Gate**, khao soi, Elephant Nature Park, Doi Suthep |
+| 4.–8. jan | **Mae Hong Son-loopen** (4 d) | 🚗 leiebil fra CNX | Gryturene: Ban Rak Thai, Ban Jabo, Su Tong Pae, Tham Lod. Ren luft |
+
+**🛕 Blokk 2 — Kambodsja (8.–18. jan, 10 netter)**
+
+| Datoer | Sted | Dit med | Nøkkelen |
+|---|---|---|---|
+| 8. jan | | ✈️ CNX→BKK→REP (samme PNR) | |
+| 8.–11. jan | Siem Reap (3 n) | | Angkor i soloppgang, Phare-sirkuset, Kompong Khleang |
+| 11.–13. jan | Phnom Penh (2 n) | 🚌 Giant Ibis **dagbuss** 08:45 | Historien. Victory Day 7. jan er dessverre passert |
+| 13.–15. jan | Kampot/Kep (2 n) | 🚌 Giant Ibis 08:00 | Pepperfarm, krabbemarkedet |
+| 15.–18. jan | Koh Rong Samloem (3 n) | 🚌+⛴️ | Sunset Beach, **Koh Tang-overnattingsturen** |
+
+**🐠 Blokk 3 — Andaman-finalen (18.–29. jan, 11 netter)**
+
+| Datoer | Sted | Dit med | Nøkkelen |
+|---|---|---|---|
+| 18. jan | Bangkok (1 n) | ⛴️+🚌 PP + ✈️ PNH→BKK | Obligatorisk mellomnatt — aldri øy→fly samme dag |
+| 19.–23. jan | Khao Lak (4 n) | ✈️ BKK→HKT + 1,5 t | **Similan-liveaboard 2N/3D fra Tap Lamu i perfekt sesong** |
+| 23.–25. jan | Phuket (2 n) | 🚗 1 t | **Zamna begge dagene** |
+| 25.–29. jan | Koh Yao Noi (4 n) | ⛴️ 45 min | Stille øy midt i Phang Nga-bukta — dekompresjonen etter festivalen |
+
+**🍷 Blokk 4 — Vin og musikk (29. jan – 4. feb, 6 netter) — *kun ved 6 uker***
+
+| Datoer | Sted | Dit med | Nøkkelen |
+|---|---|---|---|
+| 29.–1. feb | Bangkok (3 n) | ⛴️+✈️ HKT→BKK | **Bangkok Music City 30.–31. jan** (86+ akter), siste omakase |
+| 1.–4. feb | Khao Yai 🍷 (3 n) | 🚗 2,5 t | **GranMonte i innhøstingssesongen** — druehøsting, lunsj på Vincotto |
+| 4./5. feb | Hjem | ✈️ BKK–OSL Norse | |
+
+### ⚖️ 35 dager eller 42 — den faktiske avveiningen
+
+| | **35 dager** (26. des – 29. jan) | **42 dager** (26. des – 5. feb) |
+|---|---|---|
+| Innhold | Blokk 1–3 | Blokk 1–4 |
+| Hjemreise | ✈️ **HKT–OSL direkte** fra Phuket | ✈️ BKK–OSL direkte |
+| 🛡️ Feriekompensasjon (20 000 kr) | ✅ **Beholdes** — polisen krever «inntil 5 uker» | ❌ Faller bort |
+| 🏠 Utleie | 29-natters kontrakt dekker det meste | Mer inntekt, men 30-døgnsregelen binder hardere |
+| Hva den 6. uka kjøper | — | Druehøsting på GranMonte + Bangkok Music City |
+
+**Dette er hele valget, usminket: den sjette uka koster dere en
+forsikringsdekning på 20 000 kr og kjøper turens beste uke for et
+vin- og matpar.** 35 dager er nøyaktig 5 uker og lander presis på
+polisens grense — det er ingen tilfeldighet at den datoen er verdt å kjenne.
+
+**Vår anbefaling: 42 dager.** Feriekompensasjonen utbetales bare hvis noe
+faktisk *ødelegger* ferien; innhøstingen på GranMonte skjer uansett. Men
+vet dere at dere er risikosky, er 29. januar hjemreisedagen som gir dere
+begge deler minus vinen.
+
+### 📏 Stigen 5 → 8 uker: hva hver ekstra uke faktisk kjøper
+
+| Lengde | Hjem | Legger til | Hovedhaken |
+|---|---|---|---|
+| **5 uker** (35 d) | 29. jan | Grunnruta: Bangkok · nord · Kambodsja · Andaman | — (beholder feriekompensasjonen) |
+| **6 uker** (42 d) | 5. feb | Khao Yai-innhøsting + Bangkok Music City | Mister feriekompensasjonen |
+| **7 uker** (49 d) | 12. feb | **Sør-Laos: Pakse + Bolaven-platået** | Krever at januar bygges om |
+| **8 uker** (56 d) | 19. feb | + Sør-Vietnam (Saigon, Mekong, Dalat/Con Dao) | Går rett gjennom Tet |
+
+Forsikringen holder hele veien — hoveddekningen går til **10 uker (70 d)**.
+
+### 🧨 Tet og kinesisk nyttår: **6. februar 2027**
+
+Begge faller på samme dag i 2027. Lovfestet helligdag i Vietnam **5.–9.
+februar**, og regjeringen utvider den vanligvis til 7–9 dager (beslutningen
+kommer sent i 2026). Dette er den harde datoen i enhver 7–8-ukersplan:
+
+- 🇻🇳 **Vietnam:** transport utsolgt og opppriset, mange restauranter og
+  butikker stengt i dagevis. **Regelen er å være ett sted og ikke flytte seg
+  4.–10. februar.** Saigon på nyttårsaften (Nguyen Hue-blomstergata,
+  fyrverkeri) er til gjengjeld storslått.
+- 🇹🇭 **Thailand:** ingen helligdag, men **Yaowarat i Bangkok på kinesisk
+  nyttår er en av Asias beste gateopplevelser** — et pluss, ikke et problem,
+  hvis turen ender midt i februar.
+- 🇰🇭 **Kambodsja:** upåvirket. Khmer-nyttår er i april. **Derfor hører
+  Kambodsja til Tet-uka, og Vietnam til etterpå.**
+
+### 🌫️ Hvor februar-halen KAN ligge
+
+Dette avgjør rekkefølgen mer enn noe annet i en 7–8-ukersplan:
+
+| Region | Februar | Konsekvens |
+|---|---|---|
+| Nord-Thailand, Nord-Laos | ❌ Brennesesong bygger seg opp, verst feb.–mars | Må ligge i **desember/januar** |
+| Sør-Laos (Bolaven) | 🟡 Januar er perfekt, februar begynner å bli disig | Må ligge i **januar** |
+| Sør-Thailand (Andaman + Gulf) | ✅ Toppsesong, tørt | Fritt |
+| Kambodsja | ✅ Tørt og varmt | Fritt |
+| Sør-Vietnam | ✅ Tørt | Fritt |
+
+**Konklusjonen i én setning: alt som ligger høyt og nordlig må gjøres unna
+før februar, og februar-halen må være kyst, øyer eller Mekong.**
+
+### 🥇 Anbefalt 8-ukersform (26. des – 18. feb)
+
+| # | Datoer | Sted | Hvorfor akkurat der |
+|---|---|---|---|
+| 1 | 26. des – 8. jan (13 n) | Bangkok (4 n) · 🚂 nattoget · **Chiang Mai (4 n)** · **Mae Hong Son-loopen (4 n)** | Nord i ren luft, nyttår med lanterner. **Nordblokka er identisk i alle fire turlengdene** — brennesesongen låser den til akkurat disse datoene, så den kan verken flyttes eller ofres |
+| 2 | 8.–15. jan (7 n) | **Pakse + Bolaven-platået 🇱🇦** | Kaffeplantasjer på 1 000–1 350 m, Tad Fane. **Januar er platåets beste måned** — og turen som føles minst lik Ha Giang |
+| 3 | 15.–19. jan (4 n) | Bangkok + **Khao Yai 🍷** | Druehøsting på GranMonte |
+| 4 | 19.–23. jan (4 n) | Khao Lak | **Similan-liveaboard** i toppsesong |
+| 5 | 23.–25. jan (2 n) | Phuket | **Zamna begge dagene** |
+| 6 | 25.–29. jan (4 n) | Koh Yao Noi | Dekompresjonen |
+| 7 | 29. jan – 8. feb (10 n) | **Kambodsja** | Siem Reap, Phnom Penh, Kampot/Kep, Koh Rong Samloem — **landet som er upåvirket av Tet** |
+| 8 | 8.–17. feb (9 n) | **Sør-Vietnam** | Saigon idet landet åpner igjen (blomstergatene står fortsatt), Mekong, Dalat eller Con Dao |
+| | 17./18. feb | Hjem | ✈️ SGN–OSL |
+
+**Hvis dere heller vil oppleve Tet enn å unngå den:** bytt blokk 7 og 8.
+Vær i Saigon 3.–10. februar, bli værende, ikke flytt dere — og ta Kambodsja
+etterpå. Det er en av regionens store opplevelser, men den koster dere
+bevegelsesfrihet i en hel uke.
+
+**Visum holder hele veien:** Thailand 60 døgn visumfritt per innreise (deres
+lengste stint er 13 døgn), Laos visum ved ankomst 30 døgn, Kambodsja e-visum
+30 døgn, Vietnam e-visum 90 døgn.
+
+### 🔀 Variant: Saigon inn uten smerte
+
+Vil dere ha Vietnam med likevel — **ikke** gjør det via Ha Tien-kjeden
+(1,5 dag, 8 forflytninger, 2 valutaer, 1 landegrense). Gjør det slik:
+etter Phnom Penh, **fly PNH→SGN (45 min)**, tre netter i Saigon, så
+**SGN→HKT direkte** rett inn i blokk 3. Null overlandssmerte. Prisen er
+tre netter som må tas fra Kambodsja eller Koh Yao Noi — og Phu Quoc
+faller uansett bort. Saigon er byen som skiller seg mest fra alt annet på
+ruta, så byttet er ærlig; men Koh Rong Samloem under fire netter blir
+stresset.
+
+---
+
+## 🆕 Forrige versjon (aug. 2026): Andaman-finalen med Vietnam
+
+*⚠️ Erstattet av ruta over — den la Mae Hong Son til slutten av januar, midt
+i opptakten til brennesesongen. Beholdt her som referanse og fallback.*
 
 Festival- og snorkelresearchen flyttet konklusjonen: **avslutt på
 Andaman-siden, ikke Phu Quoc.** Tre grunner: (1) **Zamna Phuket 23.–24. jan
