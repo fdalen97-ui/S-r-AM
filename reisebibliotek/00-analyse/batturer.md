@@ -87,6 +87,8 @@ Angkor.
 
 ## 🇱🇦 Mekong-slowboaten — hele stigen fra ryggsekk til luksus
 
+![Kart over Mekong-slowboaten](../kart/mekong-slowboat.svg)
+
 **Ruta er alltid den samme:** **Huay Xai** (Bokeo, ved Thailand-grensa) →
 **Pakbeng** (obligatorisk overnatting midtveis) → **Luang Prabang**. To dager
 på Øvre Mekong. Går begge veier; nedstrøms (Huay Xai→LP) er raskere og

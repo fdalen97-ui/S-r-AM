@@ -66,6 +66,7 @@ Google Maps-lenker per region.
 |---|---|
 | [`kart/storrunden.svg`](kart/storrunden.svg) | Anbefalt rute 5–6 uker med alternativer: hovedruta (stopp 1–10), blokk 4 i oransje (kun ved 6 uker), Saigon-varianten i lilla, Phu Quoc som utgått |
 | [`kart/mae-hong-son.svg`](kart/mae-hong-son.svg) | Mae Hong Son-loopen med kjøreretning, der gry- og skumringsstoppene er markert i oransje så overnattingene kan planlegges rundt dem |
+| [`kart/mekong-slowboat.svg`](kart/mekong-slowboat.svg) | Slowboaten Huay Xai → Pakbeng → Luang Prabang, med veien inn fra Chiang Mai og enveis-flyet ut |
 
 ### 10 · Australia 🇦🇺
 Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory
