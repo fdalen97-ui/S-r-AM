@@ -85,6 +85,59 @@ Angkor.
 
 ---
 
+## 🇱🇦 Mekong-slowboaten — hele stigen fra ryggsekk til luksus
+
+**Ruta er alltid den samme:** **Huay Xai** (Bokeo, ved Thailand-grensa) →
+**Pakbeng** (obligatorisk overnatting midtveis) → **Luang Prabang**. To dager
+på Øvre Mekong. Går begge veier; nedstrøms (Huay Xai→LP) er raskere og
+vanligst.
+
+**Dit fra Chiang Mai:** Chiang Rai → Chiang Khong → Vennskapsbrua IV →
+Huay Xai. 4–6 timer på bakken. **Det er dette som gjør turen relevant for
+dere — Huay Xai ligger i praksis rett ved nordblokka.**
+
+| Nivå | Produkt | Pris p.p. | Hva dere får |
+|---|---|---|---|
+| 🎒 Ryggsekk | **Offentlig slowboat** | ~250–360 kr | Trebenker eller utrangerte bilseter, stappfullt, 8 t/dag. Legendarisk, men ikke det dere leter etter |
+| 💎 **Verdi** | **Shompoo Cruise** 2d/1n | **~1 330** (nedstrøms $155) · $130 oppstrøms | Færre passasjerer, polstrede seter, guide, lunsjer, hotell i Pakbeng. **Det ærlige kjøpet** |
+| 🏆 **Sweet spot** | **Luang Say Cruise** 2d/1n + premiumhotell | **~2 650** ($260) | 34 m teak-pram, maks 40 gjester, og deres **egen Luang Say Lodge i Pakbeng** — den eneste virkelig fine overnattingen i den byen. Kun cruise: $175. Med standardhotell: $230 |
+| 🏆 Lang versjon | Luang Say 3d/2n | $300 std · **$370 premium** | Hotell i begge byer |
+| | Luang Say 4d/3n | $420 | + natt i Chiang Khong før avreise |
+| 👑 Ultraluksus | **Mekong Kingdoms «Gypsy»** | privatcharter | Gresstekket to-suiters båt for **kun 4 gjester**, chartres fra Luang Prabang oppover, ruta bestemmes underveis. Den mest romantiske båten på Mekong |
+
+> ⚠️ **«Bohème» er en annen tur.** Mekong Kingdoms' nye 50-meters,
+> 13-lugars skip (sjøsatt des. 2024) går **Luang Prabang ↔ Vientiane**, ikke
+> slowboat-korridoren. 5 netter fra **$3 400 p.p.** Vakkert, men det er et
+> elvecruise, ikke slowboaten.
+
+> ⚠️ **Luang Say krever minimum 4 personer.** For et par betyr det at
+> avgangen må fylles av andre. Book tidlig i høysesongen og få bekreftelse.
+
+**Sesong:** oktober–mars er sesongen, så januar er midt i blinken — tørt,
+kjølig, klar luft. Brennesesongen når Luang Prabang først i februar/mars.
+
+### ⚖️ Dommen for denne turen
+
+**Slowboaten konkurrerer ikke med de andre båtturene — den konkurrerer med
+Mae Hong Son-loopen.** Begge går ut fra nordblokka, begge tar 5–6 dager,
+begge er perfekte i januar.
+
+| | Mae Hong Son-loopen | Slowboat + Luang Prabang |
+|---|---|---|
+| Dager | 4–5, **tilbake til Chiang Mai** | 5–6, **enveis, ender i Laos** |
+| Logistikk etterpå | Ingen — bilen leveres | Må fly LPQ→BKK for å komme videre |
+| Tempo | Aktivt: kjøring, gryturer, grotter | **To hele dager sittende på en båt** |
+| Mat og kaffe | Khao soi, Yunnan-te | **Luang Prabang er Laos' beste mat- og kaffeby** |
+| Pris for to | ~3 300–4 300 (bil + hotell) | ~5 300–7 000 (Luang Say) + fly ut |
+
+**Konklusjon: ikke bytt bort loopen for slowboaten på en 5–6-ukerstur.**
+Loopen er mer aktiv, billigere og logistisk gratis. Men på **7–8 uker er
+slowboaten det sterkeste enkelttillegget i nord** — og da er den også en
+ærligere måte å få Laos inn på enn Bolaven, som krever egen flyreise via
+Ubon Ratchathani. **Velg ett Laos, ikke to:** nord (slowboat + Luang
+Prabang) *eller* sør (Pakse + Bolaven-kaffen). De ligger i hver sin ende av
+landet.
+
 ## 🗓️ Slik faller de inn i ruta
 
 | Etappe | Båtturene |
