@@ -14,13 +14,55 @@ VND 0,00042 · LAK 0,00045).*
 
 ## 🏆 Topp 5 — verdt å planlegge rundt
 
+> ⭐ **Ny topp (aug. 2026): Shompoos 2-dagers kaffegårdstur fra Luang
+> Prabang.** Den slår alt annet i dybde og kommer med sin egen strategiske
+> konsekvens — se eget avsnitt under tabellen.
+
 | # | Opplevelse | Hvor | Pris p.p. | Hvorfor |
 |---|---|---|---|---|
+| 0 | 🏆 **Shompoo: «2 days Coffee Farm Tour & Hiking in a Hmong Village»** | Luang Prabang (krever nord-Laos-blokka) | **$180 ≈ 1 836** (2 dager, alt inkl.) | **Den eneste som varer over natta.** Se under |
 | 1 | **K'Ho Coffee — gårdsbesøk + cupping** | Dalat (krever ruteendring) | **~168–250** (inkl. lunsj) | Fjerdegenerasjons K'Ho-urfolksfamilie på 1 650 m, i slekta siden 1860-tallet. Rolan Co Liêng + Josh Guikema brenner selv. Ekte gård, ekte kooperativ, ekte innhøsting i januar. Den mest substansielle opprinnelsesopplevelsen i nærheten av ruta |
 | 2 | **Lacàph «Hands-on Discovery of Vietnamese Coffee & Culture»** | Saigon, 220A Nguyễn Công Trứ, D1 | **361** (2t30) | Den eneste virkelig seriøse bookbare kaffeskolen i Saigon. Topp 100 i Asia 2025. Robusta/arabica/liberica/excelsa, phin-teknikk og *hvorfor*-et — ikke et latte art-kurs. Book ≥2t før: hello@lacaph.com |
 | 3 | **Hill-tribe kaffegårdstur** (trek → plukk → pulp → brenn → brygg) | Chiang Mai (uke 5) | **580–1 120** (6,5–9 t) | I januar plukker dere faktisk. Forskjellen på å lese om vasket vs. natural og å gjøre det |
 | 4 | **Doi Chang — Thailands «Napa»** | Chiang Rai (dagstur) | ~520–900 guidet | Akha/Lisu-landsby på 1 500 m. Brennerikurs der dere velger grønne bønner, brenner, maler og brygger egen kopp. Opprinnelsen bak halve Bangkok-kaffen |
 | 5 | **Kaffe-vandretur Talat Noi → Song Wat → Chinatown** | Bangkok — deres eget nabolag! | **520** (3t) / **663** (3,5t) | Fra 1920-talls hainanske kopibutikker til nordthai specialty på 200 meter shophouse. Ruta-beste kaffekjøp, og den starter på dørstokken |
+
+### 🏆 Shompoos 2-dagers i Long Lan — og hvorfor den avgjør Laos-valget
+
+**$180 p.p. (~1 836 kr), maks 8 personer, alt inkludert.** Ut fra Sahai Lao
+Coffee i Luang Prabang kl. 07, opp i fjellene til hmong-landsbyen **Long
+Lan**.
+
+| | Dag 1 | Dag 2 |
+|---|---|---|
+| | 10 km vandring langs risterrasser opp til utsiktsryggen, piknik på toppen | Valgfri soloppgangsvandring bak landsbyen |
+| | Kaffegård kl. 13:30, ferskbrygget hos verten kl. 14:30 | **Innhøstingen kl. 09: plukking, sortering, avskalling — hendene i det** |
+| | **Baci-seremoni med landsbysjamanen**, hmong-musikk | Hmong-lunsj, siste håndbrygg |
+| | Middag lagd sammen med vertsfamilien, historier med de eldste | **Tilbake til Luang Prabang og brenne sine egne bønner** — sortere, styre brenningen, pakke 200 g |
+| **Sover** | Homestay i landsbyen | |
+
+**Hvorfor den slår resten:** alle de andre på lista er dagsturer. Denne er
+den eneste der dere sover i landsbyen, gjør innhøstingen om morgenen når den
+faktisk foregår, og avslutter med å brenne bønnene dere plukket. **Og januar
+er nøyaktig innhøstingsmåneden** — se advarselen øverst i filen: utenfor
+des–jan er et «gårdsbesøk» en omvisning i tomme trær.
+
+**Etikken er også den rette enden av skalaen** — vertsfamilie, landsbyguide,
+homestay og betaling som blir i Long Lan. Motsatt av de inngjerdede
+«langhals»-landsbyene vi flagget i [`looper.md`](looper.md).
+
+> ⚡ **Den strategiske konsekvensen:** hele argumentet for **Sør-Laos
+> (Pakse/Bolaven)** var kaffen. Men Shompoo ligger i **Luang Prabang** — samme
+> sted slowboaten ender. **Nord-Laos gir dere altså både slowboaten OG
+> kaffegården, i én blokk, uten ekstra fly.** Bolaven krever egen flyreise
+> via Ubon Ratchathani og gir bare kaffen.
+>
+> **Dermed er «velg ett Laos» avgjort: velg nord.** Se
+> [`batturer.md`](batturer.md).
+
+**Shompoos øvrige prislapper** (fra deres egen side): 1 dag oppstrøms
+Pakbeng→Houay Xay **$130** · 1 dag nedstrøms Pakbeng→Luang Prabang **$150** ·
+Pak Ou-grottene halvdag **$35**.
 
 ---
 

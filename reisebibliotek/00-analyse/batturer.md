@@ -134,11 +134,20 @@ begge er perfekte i januar.
 
 **Konklusjon: ikke bytt bort loopen for slowboaten på en 5–6-ukerstur.**
 Loopen er mer aktiv, billigere og logistisk gratis. Men på **7–8 uker er
-slowboaten det sterkeste enkelttillegget i nord** — og da er den også en
-ærligere måte å få Laos inn på enn Bolaven, som krever egen flyreise via
-Ubon Ratchathani. **Velg ett Laos, ikke to:** nord (slowboat + Luang
-Prabang) *eller* sør (Pakse + Bolaven-kaffen). De ligger i hver sin ende av
-landet.
+slowboaten det sterkeste enkelttillegget i nord.**
+
+> ⚡ **Og «velg ett Laos» er nå avgjort — velg nord.** Argumentet for
+> Sør-Laos (Pakse/Bolaven) var kaffen. Men **Shompoo, som driver
+> slowboaten, driver også en 2-dagers kaffegårdstur med homestay og
+> innhøsting ut fra Luang Prabang ($180 p.p.)** — altså i samme by som
+> båten ender. **Nord gir dere begge deler i én blokk uten ekstra fly;
+> Bolaven krever egen flyreise via Ubon Ratchathani og gir bare kaffen.**
+> Se [`kaffe.md`](kaffe.md).
+
+**Nord-Laos-blokka blir da:** 1 dag inn til grensa · 2 dager slowboat ·
+2–3 dager Luang Prabang · **2 dager kaffegård i Long Lan** · fly ut =
+**7–8 dager.** Det er en hel uke, men det er også turens tetteste
+konsentrasjon av det dere faktisk liker.
 
 ## 🗓️ Slik faller de inn i ruta
 
