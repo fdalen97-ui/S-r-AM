@@ -85,6 +85,84 @@ tilbake til te og frokost i landsbyen.
 - **Pai Canyon** — fin i solnedgang, men det er loopens mest turisttette
   time. Doi Kiew Lom neste morgen er samme landskap uten køen.
 
+### 🚗 Bilen: hva dere skal be om, og hva dere skal si nei til
+
+**Motoren er det eneste valget som faktisk betyr noe.** Loopen har 1 864
+svinger, men problemet er ikke svingene — det er de lange, bratte
+stigningene over Doi Inthanon og på rute 1263, med to personer og bagasje.
+
+| | Anbefaling |
+|---|---|
+| 🏆 **Motor** | **1,5–1,8 liter, minimum.** En 1,2 sliter merkbart oppover fullastet. 1,6 sedan er nok for to; 1,5 turbo eller 1,8 er komfortsonen |
+| 🏆 **Modell** | **Kompakt SUV** — Toyota Corolla Cross, Honda HR-V, MG ZS. Høyere sittestilling, bedre sikt i svingene, plass til bagasjen, og litt bakkeklaring for grusavstikkerne til utsiktspunktene |
+| **Girkasse** | **Automat.** Men krev en med **L- eller S-modus / manuell overstyring** — se bremseavsnittet under |
+| ❌ **Ikke** | Bykassene (Mazda 2, Yaris 1,2). ❌ Firehjulstrekk: unødvendig, loopen er 100 % asfaltert |
+| **Diesel?** | Billigere drivstoff og bedre dreiemoment i bakkene — men sjelden i utleieflåten. Ta det hvis det tilbys |
+
+**Pris:** 155–350 kr/dag for en kompaktbil, 350–500 for en SUV. Fire dager
+med SUV: ~1 400–2 000 kr for hele bilen. Delt på to er det billigere enn
+minivan-billettene.
+
+### 🛡️ Utleier, forsikring og papirer
+
+**Lei fra Chiang Mai, ikke flyplassen** hvis dere kan — bysentrum er
+billigere og leveringen er enklere. Internasjonale kjeder (Budget, Avis,
+Hertz, Sixt) koster mer, men har standardiserte kontrakter og
+egenandelsbeløp som faktisk **står skrevet** — det er poenget:
+
+> ⚠️ **Tekna-polisen dekker leiebil-egenandelen ubegrenset — men bare hvis
+> egenandelen står oppgitt i leiekontrakten, og bare med CDW +
+> tyveriforsikring kjøpt.** Krev begge deler, og krev at egenandelen står
+> med tall på papiret. Da er hele bilen forsikret uten egenrisiko.
+> (Til sammenligning: «moped, scooter eller ATV» er eksplisitt unntatt.)
+
+**Ta med:** norsk førerkort + **IDP** (Thailand godtar både 1949 og 1968 —
+dere har begge uansett for Vietnam og Kambodsja) + pass + **kredittkort til
+depositum**. Depositumet er typisk 5 000–20 000 THB, blokkert på kortet.
+Debetkort avvises ofte.
+
+**Sjekk før dere kjører:** film hele bilen rundt før avreise, sjekk at
+reservehjul og jekk finnes, og at bremsene ikke føles svampete.
+
+### 🛑 De fem tingene som faktisk betyr noe på veien
+
+1. **Bremsene, ikke svingene, er faren.** 1 864 svinger med lange bratte
+   nedstigninger koker bremsevæsken hvis dere står på pedalen hele veien.
+   **Legg bilen i L/S/2 og la motoren bremse.** Dette er den ene tekniske
+   tingen som skiller en fin dag fra en skummel.
+2. **Fyll tanken i hver by.** Bensinstasjoner er glisne mellom Mae Chaem og
+   Khun Yuam, og mellom Mae Hong Son og Soppong. **Regelen: under halv tank
+   = fyll ved neste stasjon**, uansett om det føles unødvendig.
+3. **Ikke kjør i mørket.** Ingen veibelysning, ingen autovern på lange
+   strekk, og kveldsstrafikk av hunder, storfe og sene mopeder uten lys.
+   Planlegg å være framme før solnedgang (~18:15 i januar).
+4. **Venstrekjøring**, og fjellsvingene er ofte blinde — thailandske
+   sjåfører tuter kort før uoversiktlige svinger, det er høflighet, ikke
+   sinne.
+5. **Politikontroller** er faste på 1095 mot Pai. **Med bil er det
+   udramatisk:** førerkort, IDP, leiekontrakt. Ferdig. (Det er scooterne de
+   stopper for.)
+
+### 🛏️ Hvor dere sover — og hvorfor det er hele planen
+
+Fire netter, og hver av dem er valgt for morgenen etter:
+
+| Natt | Sted | Hva den låser opp |
+|---|---|---|
+| **1** | **Khun Yuam** | Etter Doi Inthanon + rute 1263. Enkel overnattingsby, ikke et mål i seg selv |
+| **2** | 🏆 **Ban Rak Thai** (Lee Wine Ruk Thai, bungalow i teterrassene, 530–820) | **Pang Oung i grålysningen.** Dagsturistene drar kl. 16 og dere får sjøen alene |
+| **3** | 🏆 **Cave Lodge, Tham Lod** (fra 1984, australsk-shansk, vedfyrt bakerovn) | **Dobbeltgevinsten:** ~300 000 seilere inn i grotteåpningen ved skumring *samme kveld*, og **Ban Jabo-skyhavet** 10 minutter unna neste morgen |
+| **4** | **Pai** | **Doi Kiew Lom 05:30** på vei hjem til Chiang Mai |
+
+> ⚠️ **Dere rekker ikke alle fire gryene.** Su Tong Pae krever en natt i
+> Mae Hong Son by, og den natta finnes ikke når Ban Rak Thai og Cave Lodge
+> begge skal med. **Ta Su Tong Pae som ettermiddagsstopp uten munkene** når
+> dere passerer — broen står der uansett. De tre andre er de sterkeste.
+
+> ⚠️ **Siste morgen er stram:** Doi Kiew Lom kl. 05:30, Chiang Mai ~09:00,
+> levere bil, fly videre samme dag. Vil dere ha marginen, ta Doi Kiew Lom
+> som **solnedgang kvelden før** i stedet — nesten like fint, null stress.
+
 ### ⚖️ Førerkort-realiteten (usminket)
 
 Thailand krever **A-førerkort for ALL scooter** — norsk klasse B + IDP
