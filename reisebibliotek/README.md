@@ -15,6 +15,7 @@ vin/mat/sol/natur, romjul er det typiske reisevinduet.
 | Fil | Innhold |
 |-----|---------|
 | ⭐ [`00-analyse/sjekkliste-for-avreise.md`](00-analyse/sjekkliste-for-avreise.md) | **START HER:** alt som må ordnes før avreise, sortert etter frist — booking som forsvinner, forsikring, vaksiner, utleien, visum og de fem åpne beslutningene |
+| 🗺️ [`00-analyse/REISEATLAS.md`](00-analyse/REISEATLAS.md) | **ATLASET:** alle ~100 stedene fra hele biblioteket på ett kart, nummerert og fargekodet etter tema, med reisetid fra nærmeste flyplass/knutepunkt, 📍 Google Maps-lenke per sted, og KML-fil som importeres rett i Google My Maps |
 | [`00-analyse/sammenstilling.md`](00-analyse/sammenstilling.md) | Den store sammenstillingen: landene mot hverandre — skjønnhet, pris, sesong, match |
 | [`00-analyse/priskategorier.md`](00-analyse/priskategorier.md) | Budsjett / medium / komfort — kr per dag, per land og region |
 | [`00-analyse/beste-ruter.md`](00-analyse/beste-ruter.md) | Beste totalruter med fleksibilitet (per land + kombinasjoner) |
@@ -67,6 +68,9 @@ Google Maps-lenker per region.
 | [`kart/storrunden.svg`](kart/storrunden.svg) | Anbefalt rute 5–6 uker med alternativer: hovedruta (stopp 1–10), blokk 4 i oransje (kun ved 6 uker), Saigon-varianten i lilla, Phu Quoc som utgått |
 | [`kart/mae-hong-son.svg`](kart/mae-hong-son.svg) | Mae Hong Son-loopen med kjøreretning, der gry- og skumringsstoppene er markert i oransje så overnattingene kan planlegges rundt dem |
 | [`kart/mekong-slowboat.svg`](kart/mekong-slowboat.svg) | Slowboaten Huay Xai → Pakbeng → Luang Prabang, med veien inn fra Chiang Mai og enveis-flyet ut |
+| 🗺️ [`kart/reiseatlas.svg`](kart/reiseatlas.svg) | **Atlaset:** alle stedene i biblioteket på ett kart, nummerert etter tema, med etappetider på strekene og reisetid fra knutepunkt i lista. Indeks: [`00-analyse/REISEATLAS.md`](00-analyse/REISEATLAS.md) |
+| 📲 [`kart/reiseatlas.kml`](kart/reiseatlas.kml) | Samme steder som lag i **Google My Maps** — importer fila, så ligger alt i Google Maps-appen med reisetid og kildefil i hvert punkt |
+| [`kart/chiang-mai-dagsturer.svg`](kart/chiang-mai-dagsturer.svg) | De sju kjørerutene ut fra Chiang Mai med kjøretid fra gamlebyen til hvert stopp |
 
 ### 10 · Australia 🇦🇺
 Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory
