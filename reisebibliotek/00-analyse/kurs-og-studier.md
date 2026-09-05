@@ -38,6 +38,49 @@ koster **12 900 kr** (10 900 på Zoom) — samme kurs i Adelaide koster ~7 200 k
 og i Melbourne ~6 800 kr. **Å ta WSET-en på reisen SPARER 4–6 000 kr p.p.**
 og legger kursukene midt i vinregionene dere likevel skal til.
 
+### 🌏 WSET i Sørøst-Asia (sjekket aug. 2026, for Indokina-turen)
+
+**Ja, det finnes — men bare i tre av landene, og bare ett format passer en
+tur i bevegelse.** Kambodsja og Laos har ingen godkjente tilbydere (APP).
+
+| Land | Tilbyder | Level 2 | Format | Level 1 / 3 |
+|---|---|---|---|---|
+| 🇻🇳 **Vietnam** 💎 | **Red Apron Wine School** (Saigon, Hanoi, Da Nang, Phu Quoc) | **23 mill. VND ≈ 9 660 kr** | **3 dager intensiv** (18 t), engelsk, eksamen dag 3 | L1 7,8 mill. ≈ 3 280 (1 dag) · L3 38 mill. ≈ 15 960 (5 dager) |
+| 🇹🇭 **Thailand** | **Wine & Spirit IQ**, Bangkok (maks 15 pers.) | **37 900 THB ≈ 10 990 kr** | **3 søndager + eksamen en uke etter** = spredt over 4 uker | L1 12 000 THB ≈ 3 480 (1 dag) · L3 49 900 ≈ 14 470 |
+| 🇹🇭 Thailand | APBA, Bangkok | — | nettsiden viser ingen kurs siden 2020 — ring 062-515-2352 | |
+| 🇸🇬 Singapore | Wine & Co, Wine Connection, Beverage Clique m.fl. | **S$2 150 ≈ 15 700 kr** | 3 dager intensiv | dyrere enn Oslo |
+| 🇰🇭🇱🇦 Kambodsja / Laos | **ingen** | | | |
+
+**Prisbildet mot Oslo Wine School (12 900 / 10 900 på Zoom):** Vietnam sparer
+~3 200 kr p.p., Bangkok ~1 900, Singapore koster *mer*. Besparelsen er langt
+mindre enn i Australia (7 200) — så her er det **formatet, ikke prisen**, som
+avgjør.
+
+**Formatproblemet, konkret:** Wine & Spirit IQs januar-kurs går **søndagene
+10., 17. og 24. januar med eksamen 31. januar 2027.** Dere er i Kambodsja og
+på Andaman de tre søndagene. Kun eksamensdagen treffer et Bangkok-vindu
+(29. jan–1. feb). Red Aprons 3-dagers intensiv er det eneste som lar seg
+legge inn i en rute — men de publiserer datoer bare ~2 måneder fram, og
+ingenting for des–feb er ute ennå.
+
+**Dommen for turen:**
+
+1. 🏆 **8-ukersversjonen med Saigon-blokka (8.–17. feb):** en Red Apron
+   L2-intensiv i Saigon rett etter Tet ville sittet perfekt — tre dager, hele
+   sertifikatet, 9 660 kr, midt i den ene byen på ruta med flest vinbarer.
+   **Send e-post nå og be om februardatoer** (wineschool.redapron.vn).
+2. **5–6-ukersversjonen:** det finnes ikke et vindu. Ikke vri ruta for
+   1 900 kr i besparelse. **Ta L2 i Oslo på Zoom i høst (10 900)** — da blir
+   turen selve feltarbeidet: GranMonte i innhøsting, Dalat, Winellar i Chiang
+   Mai, naturvinbarene i Saigon.
+3. **Dropp Level 1** — én dag, grunnleggende, under nivået deres. **Dropp
+   Level 3 på reise** — fem dager pluss blindsmaking krever ro dere ikke har.
+4. **Kuriositet verdt et spørsmål:** Wine & Spirit IQs eksamen 31. januar
+   ligger i Bangkok-vinduet. Spør om de godtar eksamen der etter selvstudium
+   eller nettklasserom — WSET tillater normalt bare eksamen hos tilbyderen
+   man er påmeldt hos, så svaret er sannsynligvis nei, men det koster en
+   e-post.
+
 ### Universitets-sporet under 3 mnd — ærlig status
 Tynt: Adelaide/EIT/Lincoln har ingen åpne kortsertifikater for besøkende.
 NMITs «Cellar Operations» med betalt vintage-praksis er 19 uker + arbeid =
