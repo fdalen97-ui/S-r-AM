@@ -57,6 +57,7 @@ vin/mat/sol/natur, prisbevisste, romjul + januar er reisevinduet.
 
 | Fil | Innhold |
 |-----|---------|
+| 🆕 [`00-analyse/verdens-spennende-land.md`](00-analyse/verdens-spennende-land.md) | 🌍 **VERDENSMATRISEN:** 33 land scoret på deres kriterier i BEGGE vinduene (januar og sommer) — Sør-Afrika vinner januar, Georgia vinner sommeren — med visum, fly, dagspris, UD-status og dypdykk på Kina, Taiwan, Georgia, Sør-Afrika, Mexico, Colombia, Portugal, Japan |
 | [`00-analyse/de-tre-store.md`](00-analyse/de-tre-store.md) | ⚖️ **DE TRE STORE**: Indokina vs. Peru+Argentina vs. Australia+NZ — full prissammenligning og dommen |
 | [`00-analyse/romjul-verdenskartet.md`](00-analyse/romjul-verdenskartet.md) | 🌍 Den kreative verdenssjekken: topp 7 romjul-reisemål med ruter, fly og dagspriser |
 | [`00-analyse/sammenstilling.md`](00-analyse/sammenstilling.md) | 🧭 Landene mot hverandre — skjønnhet, pris, sesong, match *(fire opprinnelige land)* |
