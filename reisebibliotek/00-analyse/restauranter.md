@@ -1,5 +1,7 @@
 # 🍽️ Restaurantguiden — spise godt (og smart) langs rutene
 
+> 🌏 **Omfang:** skrevet for de fire opprinnelige landene (Australia · NZ · Thailand · Kambodsja). Sørøst-Asia-maten er fordelt på [`chiang-mai-mat.md`](chiang-mai-mat.md), [`omakase.md`](omakase.md), [`bangkok-romjul.md`](bangkok-romjul.md), [`kaffe.md`](kaffe.md) og landmappene for Vietnam/Laos.
+
 *Kuratert og statusverifisert august 2026. Tre nivåer per by: billig-ikonet,
 midtsjiktsperlen og én verdig splurge — med vekt på vingårdsrestauranter.
 **Alle priser i NOK per person** (kurs: AUD ≈ 6,7 · NZD ≈ 6,1 · THB ≈ 0,29 ·
@@ -77,4 +79,4 @@ USD ≈ 10,5); (est.) = anslag.*
 ---
 
 *Prisnivåene per land: [`priskategorier.md`](priskategorier.md) ·
-vingårdsopplevelsene: [`vinopplevelser-uten-visum.md`](vinopplevelser-uten-visum.md)*
+vingårdsopplevelsene: [`vinopplevelser-uten-visum.md`](australia-nz/vinopplevelser-uten-visum.md)*

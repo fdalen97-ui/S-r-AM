@@ -1,5 +1,7 @@
 # Transportmatrise: Australia, New Zealand, Thailand og Kambodsja (august 2026)
 
+> 🌏 **Omfang:** skrevet for de fire opprinnelige landene (Australia · NZ · Thailand · Kambodsja). Hele Sørøst-Asia-matrisen — med Vietnam og Laos, direktefly, nattog og nattbuss-dommene — ligger i [`direktefly-og-nattransport.md`](direktefly-og-nattransport.md).
+
 Valutakurser brukt: 1 USD ≈ 10 kr, 1 AUD ≈ 6,6 kr, 1 NZD ≈ 6,1 kr, 1 THB ≈ 0,31 kr. Priser er typiske lavpris-/normalnivåer per person én vei der annet ikke er oppgitt.
 
 ---

@@ -1,5 +1,7 @@
 # 🚗 Bil-strategien — leie, bobil eller kjøpe-og-selge?
 
+> 🇦🇺🇳🇿 **Gjelder Australia/New Zealand** — romjul-planen som nå ligger i fremtidsbanken. Sørøst-Asia-motstykket: leiebil til loopene i [`../looper.md`](../looper.md) og [`../chiang-mai-bo-og-kjore.md`](../chiang-mai-bo-og-kjore.md), scooter i [`../scooterregler.md`](../scooterregler.md).
+
 *Den ærlige analysen for turen deres (4–5 uker Australia Brisbane→Melbourne
 des–jan + 2 uker NZ Sørøya feb), verifisert august 2026. 1 AUD ≈ 6,7 ·
 1 NZD ≈ 6,1 kr. Alle tall for dere to samlet.*
@@ -86,5 +88,5 @@ enda et argument for leiebil + motell der (som allerede er planen).
 ---
 
 *Bakgrunn: den aktive turplanens bilanalyse (Maui/Star RV/Britz + Tripcover-
-trikset) ligger i [turplanen](../../sor-amerika/00-planlegging/australia-bobil-jan2027.md);
-transportmatrisen i [`transport.md`](transport.md).*
+trikset) ligger i [turplanen](../../../sor-amerika/00-planlegging/australia-bobil-jan2027.md);
+transportmatrisen i [`transport.md`](../transport.md).*

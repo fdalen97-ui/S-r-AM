@@ -1,5 +1,7 @@
 # 🗺️ Beste totalruter — med innebygd fleksibilitet
 
+> 🌏 **Omfang:** skrevet for de fire opprinnelige landene (Australia · NZ · Thailand · Kambodsja). Den aktive Indokina-ruta (5–8 uker, med kart) er [`indokina-storrunden.md`](indokina-storrunden.md); alternativene fra Bangkok: [`strender-og-alternative-ruter.md`](strender-og-alternative-ruter.md).
+
 *De beste rutene per land og i kombinasjon, bygget for et par som vil ha
 vin/mat/sol/natur og som helst reiser i romjula. Hver rute har fleks-punkter:
 steder der den kan forkortes, forlenges eller snus uten at helheten ryker.*

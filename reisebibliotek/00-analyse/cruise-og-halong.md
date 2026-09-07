@@ -170,4 +170,4 @@ Andaman-dager — da 2 netter på Ylang eller Stellar (innendørs-komfort-båten
 
 *Ruta dette spiller mot: [`indokina-storrunden.md`](indokina-storrunden.md) ·
 Nord-Vietnam-regionene: [`../50-vietnam/README.md`](../50-vietnam/README.md) ·
-pakkereise-matten: [`pakkereiser.md`](pakkereiser.md)*
+pakkereise-matten: [`pakkereiser.md`](australia-nz/pakkereiser.md)*

@@ -1,5 +1,7 @@
 # 💰 Priskategoriene — budsjett / medium / komfort på tvers av fire land
 
+> 🌏 **Omfang:** skrevet for de fire opprinnelige landene (Australia · NZ · Thailand · Kambodsja). Vietnam/Laos-priser: [`../50-vietnam/README.md`](../50-vietnam/README.md), [`../60-laos/README.md`](../60-laos/README.md); Indokina-totalen for dere to: [`indokina-storrunden.md`](indokina-storrunden.md) og [`overnatting.md`](overnatting.md).
+
 *Alle tall i NOK per person per dag (bakkekostnader: overnatting, mat, lokal
 transport, aktiviteter — fly til/fra landet kommer i tillegg). Kompilert fra
 region-filene, august 2026. Kurs: 1 AUD ≈ 6,8 · 1 NZD ≈ 6,2 · 1 THB ≈ 0,31 ·
@@ -63,7 +65,7 @@ hver kveld) kjennes ofte som «komfort» gjør i Oseania.
 3. **Øy-oppholdet etter 5. januar** — halverer strandhotellet i Thailand.
 4. ~~WWOOF/Workaway-uker~~ — **lønner seg IKKE på en kort ferie**: visum for to
    (~21 000 kr) + ~100 arbeidstimer spiser opp besparelsen. Kun aktuelt på
-   langtur (2–3+ mnd) — se [`vinopplevelser-uten-visum.md`](vinopplevelser-uten-visum.md)
+   langtur (2–3+ mnd) — se [`vinopplevelser-uten-visum.md`](australia-nz/vinopplevelser-uten-visum.md)
    for det som faktisk lønner seg.
 5. **Isaan/Battambang i stedet for øy-hopping** — bibliotekets beste
    verdi-regioner; medium-liv til budsjettpris.

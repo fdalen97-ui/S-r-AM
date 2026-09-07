@@ -617,5 +617,5 @@ gratis og lykkes i de aller fleste klare saker.
 
 *Vaksinene: [`vaksiner.md`](vaksiner.md) · scooter-alternativet med bil:
 [`looper.md`](looper.md) · pakkereiserettigheter:
-[`pakkereiser.md`](pakkereiser.md) · smarte kjøp (AirTag m.m.):
+[`pakkereiser.md`](australia-nz/pakkereiser.md) · smarte kjøp (AirTag m.m.):
 [`smarte-kjop.md`](smarte-kjop.md)*

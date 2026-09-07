@@ -1,5 +1,7 @@
 # 🍷 Vingårds-opplevelsen UTEN arbeidsvisum — den ærlige alternativanalysen
 
+> 🇦🇺🇳🇿 **Gjelder Australia/New Zealand** — romjul-planen som nå ligger i fremtidsbanken. Vin og kaffe i Sørøst-Asia: Khao Yai-innhøstingen i [`../indokina-storrunden.md`](../indokina-storrunden.md), [`../kaffe.md`](../kaffe.md), WSET-alternativene i [`../kurs-og-studier.md`](../kurs-og-studier.md) og Yunnan/Hongkong i [`../naboland-og-alternativer.md`](../naboland-og-alternativer.md).
+
 *Svar på det gode spørsmålet «er ikke WWOOF via WHV en dårlig deal — bør man
 ikke heller feriere?». Kortversjon: **jo, for en 3–5-ukers ferie er ferien
 bedre.** Her er regnestykket og hele menyen av lovlige alternativer.
@@ -98,4 +100,4 @@ man gjør i en romjulsferie.
 > hvis den pausen skal skje før dere fyller 31.
 
 *Bakgrunn og verts-listene som fortsatt gjelder for en ev. langtur:
-[`wwoof-arbeidsopphold.md`](wwoof-arbeidsopphold.md)*
+[`wwoof-arbeidsopphold.md`](../wwoof-arbeidsopphold.md)*
