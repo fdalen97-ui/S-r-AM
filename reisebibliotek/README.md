@@ -1,62 +1,94 @@
-# 🌏 Reisebiblioteket — Australia · New Zealand · Thailand · Kambodsja
+# 🌏 Reisebiblioteket — Sørøst-Asia-turen 2026/27 + fremtidsbanken
 
-Omfattende, region-for-region kunnskapsbase for parets fire kjerneland, bygget på
-verifisert research (august 2026). Alt i tre priskategorier, med transportmatrise,
-WWOOF/arbeidsopphold-guide og en samlet sammenstillingsanalyse.
+Omfattende kunnskapsbase for parets reiser, bygget på verifisert research
+(august 2026). **Aktiv plan:** Indokina-storrunden — Thailand · Kambodsja ·
+Laos (· Vietnam) fra 26. des 2026, 5–8 uker. **Fremtidsbank:** Australia,
+New Zealand, Peru/Argentina og nabolandene i Asia.
 
 **Om paret:** begge 29 år (⚠️ = Working Holiday-kvalifisert i AU/NZ til fylte 31),
-vin/mat/sol/natur, romjul er det typiske reisevinduet.
+vin/mat/sol/natur, prisbevisste, romjul + januar er reisevinduet.
 
 ---
 
-## 📂 Struktur
+## 🧭 Start her
 
-### 00 · Analyse (på tvers)
 | Fil | Innhold |
 |-----|---------|
 | ⭐ [`00-analyse/sjekkliste-for-avreise.md`](00-analyse/sjekkliste-for-avreise.md) | **START HER:** alt som må ordnes før avreise, sortert etter frist — booking som forsvinner, forsikring, vaksiner, utleien, visum og de fem åpne beslutningene |
 | 🗺️ [`00-analyse/REISEATLAS.md`](00-analyse/REISEATLAS.md) | **ATLASET:** alle ~100 stedene fra hele biblioteket på ett kart, nummerert og fargekodet etter tema, med reisetid fra nærmeste flyplass/knutepunkt, 📍 Google Maps-lenke per sted, og KML-fil som importeres rett i Google My Maps |
-| [`00-analyse/sammenstilling.md`](00-analyse/sammenstilling.md) | Den store sammenstillingen: landene mot hverandre — skjønnhet, pris, sesong, match |
-| [`00-analyse/priskategorier.md`](00-analyse/priskategorier.md) | Budsjett / medium / komfort — kr per dag, per land og region |
-| [`00-analyse/beste-ruter.md`](00-analyse/beste-ruter.md) | Beste totalruter med fleksibilitet (per land + kombinasjoner) |
-| [`00-analyse/transport.md`](00-analyse/transport.md) | Transportmatrisen: mellom og i landene, med priser |
-| [`00-analyse/wwoof-arbeidsopphold.md`](00-analyse/wwoof-arbeidsopphold.md) | WWOOF/Workaway: visum-fasit, navngitte verter, WHV-strategi for 29-åringer |
-| [`00-analyse/vinopplevelser-uten-visum.md`](00-analyse/vinopplevelser-uten-visum.md) | Den ærlige alternativanalysen: vingårds-immersjon som turist — uten WHV |
-| [`00-analyse/kurs-og-studier.md`](00-analyse/kurs-og-studier.md) | Kurs/studier i vin og tech: 3-mnd-regelen, WSET-priser, bootcamps, formelle studier, Lånekassen-fasit + morsomme intensivkurs (PDC, dykking, matlaging) |
-| [`00-analyse/restauranter.md`](00-analyse/restauranter.md) | Restaurantguiden: billig-ikon / midtsjikt / splurge per by, vingårdsrestauranter, spis-godt-billig-strategier |
-| [`00-analyse/bil-strategi.md`](00-analyse/bil-strategi.md) | Bil-strategien: leie vs. bobil vs. kjøpe-og-selge, relocation-deals, spare-triks |
-| [`00-analyse/pakkereiser.md`](00-analyse/pakkereiser.md) | Pakkereise eller DIY: dom per del av turen, charter-matten, pakkereiseloven |
-| [`00-analyse/buss-og-gruppeturer.md`](00-analyse/buss-og-gruppeturer.md) | Buss-pass (Whimit/FlexiPass/Kiwi Experience) og gruppeturer vs. leiebil — par-matten og hybridmodellen |
-| [`00-analyse/opplevelser.md`](00-analyse/opplevelser.md) | Opplevelses-guiden: beste bookbare turer per by (GetYourGuide/Viator/Klook) med priser |
-| [`00-analyse/romjul-verdenskartet.md`](00-analyse/romjul-verdenskartet.md) | Den siste kreative verdenssjekken: topp 7 romjul-reisemål med ruter, fly og dagspriser i NOK |
-| [`00-analyse/indokina-storrunden.md`](00-analyse/indokina-storrunden.md) | **Totalplanen TH+KH+VN i én tur**: én vei østover, ett fly midtveis, sol-finale på Phu Quoc — 46–67k for to |
-| [`00-analyse/peru-argentina-sommer.md`](00-analyse/peru-argentina-sommer.md) | **Sommerturen Peru+Argentina** (juni→10. aug): Inti Raymi 24. juni, Machu Picchu-praktikk, Cafayate/Mendoza-vinter, 140–170k for to |
-| [`00-analyse/de-tre-store.md`](00-analyse/de-tre-store.md) | ⚖️ **DE TRE STORE**: Indokina vs. Peru+Argentina vs. Australia+NZ — full prissammenligning, scenarioer og dommen |
-| [`00-analyse/sorostasia-perler.md`](00-analyse/sorostasia-perler.md) | 💎 Sørøst-Asia-perlene: topp 10 opplevelser i des–jan-vinduet, nabolands-dommene og påbyggingsmodulene (Laos!) |
-| [`00-analyse/retreats-og-unike-steder.md`](00-analyse/retreats-og-unike-steder.md) | Retreats, workshops og kuleste overnattinger per land (rafthus, trehytter, flytende telt, palasser) |
-| [`00-analyse/bangkok-romjul.md`](00-analyse/bangkok-romjul.md) | Bangkok i romjula: Talat Noi-basen, Loy La Long, countdown-festivalen og 3-dagersprogrammet |
-| [`00-analyse/pakkeliste.md`](00-analyse/pakkeliste.md) | 🎒 Pakkelisten for storrunden — Osprey Farpoint 70-strategi, 12 kg-mål, det rutespesifikke |
-| [`00-analyse/strender-og-alternative-ruter.md`](00-analyse/strender-og-alternative-ruter.md) | 🏖️ Strand-toppen i sesong (hype-sjekket), Phuket-uka før julaften (Norse OSL–HKT direkte!) og fire alternative ruter fra Bangkok |
-| [`00-analyse/flerdagsopplegg.md`](00-analyse/flerdagsopplegg.md) | 🏕️ Retreats i tre prisnivåer per land + de 10 beste flerdagsoppleggene (Similan-liveaboard, Chi Phat, Mekong-cruise) |
-| [`00-analyse/vaksiner.md`](00-analyse/vaksiner.md) | 💉 Vaksiner og reisehelse: FHI-basert pakke, rabies/JE-vurderingene, Qdenga-dommen, malaria-kartet, tidslinje og priser |
-| [`00-analyse/smarte-kjop.md`](00-analyse/smarte-kjop.md) | 🛒 Smarte kjøp før turen: gebyrfritt kort, AirTags, permetrin — hva som er verdt det, gimmickene, og hva som kjøpes der |
-| [`00-analyse/oy-formelen.md`](00-analyse/oy-formelen.md) | 🧮 Øy-formelen: matematisk scoringsmodell for 21 Thailand-øyer i to vektinger — med åpne poeng og vekter |
-| [`00-analyse/snorkling-kh-vn.md`](00-analyse/snorkling-kh-vn.md) | 🤿 Snorkling i Kambodsja/Vietnam: spot-for-spot-dommer, overnattingsturene til Koh Tang, OnBird Phu Quoc og sesongfasiten |
-| [`00-analyse/utleie-leiligheten.md`](00-analyse/utleie-leiligheten.md) | 🏠 Utleie av leiligheten mens dere reiser: 30-døgnsregelen, inntektsscenarioer (~20–25k netto), skatteboksen og den ferdigskrevne annonsen |
-| [`00-analyse/festivaler-og-eventer.md`](00-analyse/festivaler-og-eventer.md) | 🎆 Festivaler og konserter i reisevinduet: Zamna Phuket 23.–24. jan (bekreftet!), NYE-byvalget, Da Lat Flower Festival, Phare-sirkuset og konsertkalenderen |
-| [`00-analyse/omakase.md`](00-analyse/omakase.md) | 🍣 Omakase langs ruta: hele Bangkok-stigen (Ichizu-splurgen, Masato-bookingritualet, lunsj-trikset), Sushi Rei i Saigon og de ærlige nei-dommene |
-| [`00-analyse/cruise-og-halong.md`](00-analyse/cruise-og-halong.md) | 🚢 Cruise-analysen: Karibia-prisjakten (jan-bunnen + Kanariøy-jokeren), SEA-havcruise med Ha Long-anløpsfasit, og Ha Long-båtenes komplette kjøpsguide |
-| [`00-analyse/batturer.md`](00-analyse/batturer.md) | 🛶 Båtturene langs ruta i tre nivåer: Hong by Starlight, Cheow Lan-rafthus, Mekong-sampan over natten, Kompong Khleang — og dropp-lista med grunner |
-| [`00-analyse/looper.md`](00-analyse/looper.md) | 🏍️ Loopene etter Ha Giang: Mae Hong Son-dypdykket (4-dagersplan, førerkort-realiteten, bil-alternativet), Thakhek/Bolaven/Nan/Cao Bang rangert og sør-Laos-strategien |
-| [`00-analyse/kaffe.md`](00-analyse/kaffe.md) | ☕ Kaffen langs ruta: Eiah-Sae (1927) til Roots, Lacàph-verkstedet i Saigon, K'Ho-gården i Dalat, Rumblefish' Indokina-flight — og hva som er verdt å ta med hjem |
-| [`00-analyse/overnatting.md`](00-analyse/overnatting.md) | 🛏️ Hvor dere skal sove, stopp for stopp: live-priser for deres datoer, budsjett/hoved/splurge per stopp, bookingrekkefølgen og totalen (~28k med de smarte kompromissene) |
-| [`00-analyse/forsikring-og-rettigheter.md`](00-analyse/forsikring-og-rettigheter.md) | 🛡️ Reiseforsikring og rettigheter verifisert mot vilkårene: scooter-risikoen, 45/70-dagersgrensene, bagasje (Montreal 1 519 SDR + PIR-fristene), EU261 per flystrekning, separate billetter og kredittkortets innsigelsesrett |
-| [`00-analyse/scooterregler.md`](00-analyse/scooterregler.md) | 🛵 Scooterreglene land for land: smutthullene (Vietnam <50cc, Kambodsja <125cc), IDP-konvensjon per land, bøtenivåer og håndheving, utleiesvindlene, A1 vs full A — og beslutningsguiden |
-| [`00-analyse/chiang-mai-mat.md`](00-analyse/chiang-mai-mat.md) | 🍜 Chiang Mai-matguiden: khao soi-rangeringen, Huen Muan Jai og nord-kanonen, Blackitch-splurgen, naturvin og craft-øl, nattmarkedene — og nyttårsukas åpningstider |
-| [`00-analyse/direktefly-og-nattransport.md`](00-analyse/direktefly-og-nattransport.md) | ✈️🚂 Direktefly-matrisen per etappe (CNX→HKT finnes, CNX→SAI ikke, Sihanoukville er en blindvei), nattoget til Chiang Mai, Kambodsjas nattbuss-advarsel og bookingrekkefølgen |
-| [`00-analyse/chiang-mai-bo-og-kjore.md`](00-analyse/chiang-mai-bo-og-kjore.md) | 🏡🛵 Chiang Mai: hvor dere bor (hva som allerede er utsolgt til nyttår, de unike fjellstedene, elefant-etikken) og de syv kjørerutene med veipunkter, priser og januarværet |
+| 🥇 [`00-analyse/indokina-storrunden.md`](00-analyse/indokina-storrunden.md) | **RUTA:** anbefalt rute for 5–8 uker («nord først, Andaman sist»), stigen fra 35 til 56 dager, Tet-datoen, blokkene med datoer og transport |
+| ✈️ [`00-analyse/direktefly-og-nattransport.md`](00-analyse/direktefly-og-nattransport.md) | **TRANSPORTEN:** direktefly-matrisen per etappe, nattog vs. fly-regnskapet, Kambodsjas nattbuss-advarsel, bookingrekkefølgen |
 
-### 🗺️ Kart (`kart/`)
+## 🇹🇭🇰🇭🇱🇦🇻🇳 Indokina-turen — planen
+
+| Fil | Innhold |
+|-----|---------|
+| [`00-analyse/overnatting.md`](00-analyse/overnatting.md) | 🛏️ Hvor dere skal sove, stopp for stopp: live-priser for deres datoer, budsjett/hoved/splurge per stopp, bookingrekkefølgen og totalen |
+| [`00-analyse/bangkok-romjul.md`](00-analyse/bangkok-romjul.md) | 🏮 Bangkok i romjula: Talat Noi-basen, Loy La Long, countdown-festivalen og 3-dagersprogrammet |
+| [`00-analyse/chiang-mai-bo-og-kjore.md`](00-analyse/chiang-mai-bo-og-kjore.md) | 🏡🚗 Chiang Mai: hvor dere bor (hva som er utsolgt til nyttår, de unike fjellstedene), de sju kjørerutene med veipunkter, onsen/spa og januarværet |
+| [`00-analyse/chiang-mai-mat.md`](00-analyse/chiang-mai-mat.md) | 🍜 Chiang Mai-matguiden: khao soi-rangeringen, Huen Muan Jai, Blackitch-splurgen, naturvin — og nyttårsukas åpningstider |
+| [`00-analyse/looper.md`](00-analyse/looper.md) | 🏍️ Loopene etter Ha Giang: Mae Hong Son-dypdykket (4 dager med bil, biltypen, gryturene, hvor dere sover), Thakhek/Bolaven/Nan rangert, og hva som overlever uten A-kort |
+| [`00-analyse/batturer.md`](00-analyse/batturer.md) | 🛶 Båtturene i tre nivåer: Hong by Starlight, Cheow Lan-rafthus, Mekong-sampan, Kompong Khleang — **og Mekong-slowboaten fra ryggsekk til luksus** |
+| [`00-analyse/snorkling-kh-vn.md`](00-analyse/snorkling-kh-vn.md) | 🤿 Snorkling i Kambodsja/Vietnam: spot-for-spot, Koh Tang-overnattingen, OnBird Phu Quoc og sesongfasiten |
+| [`00-analyse/flerdagsopplegg.md`](00-analyse/flerdagsopplegg.md) | 🏕️ Retreats i tre prisnivåer per land + de beste flerdagsoppleggene (Similan-liveaboard, sov på Surin, Chi Phat) |
+| [`00-analyse/kaffe.md`](00-analyse/kaffe.md) | ☕ Kaffen langs ruta: **Shompoos 2-dagers kaffegård i Long Lan**, Eiah-Sae (1927) til Roots, Lacàph i Saigon, K'Ho i Dalat — og hvorfor det avgjør Laos-valget |
+| [`00-analyse/omakase.md`](00-analyse/omakase.md) | 🍣 Omakase langs ruta: hele Bangkok-stigen (Ichizu, Masato-bookingritualet), Sushi Rei i Saigon og nei-dommene |
+| [`00-analyse/festivaler-og-eventer.md`](00-analyse/festivaler-og-eventer.md) | 🎆 Festivaler og konserter i vinduet: Zamna Phuket 23.–24. jan, Fujii Kaze 26. des, NYE-byvalget, Bangkok Music City |
+| [`00-analyse/strender-og-alternative-ruter.md`](00-analyse/strender-og-alternative-ruter.md) | 🏖️ Strand-toppen i sesong (hype-sjekket), Phuket-uka før julaften og fire alternative ruter fra Bangkok |
+| [`00-analyse/oy-formelen.md`](00-analyse/oy-formelen.md) | 🧮 Øy-formelen: scoringsmodell for 21 Thailand-øyer i to vektinger |
+| [`00-analyse/retreats-og-unike-steder.md`](00-analyse/retreats-og-unike-steder.md) | 🧘🏡 Retreats, workshops og kuleste overnattinger per land (rafthus, trehytter, flytende telt, palasser) |
+| [`00-analyse/cruise-og-halong.md`](00-analyse/cruise-og-halong.md) | 🚢 Cruise-analysen: Karibia-prisjakten, SEA-havcruise med Ha Long-anløp, og Ha Long-båtenes kjøpsguide |
+| [`00-analyse/sorostasia-perler.md`](00-analyse/sorostasia-perler.md) | 💎 Sørøst-Asia-perlene: topp 10 i des–jan-vinduet og påbyggingsmodulene |
+| 🆕 [`00-analyse/naboland-og-alternativer.md`](00-analyse/naboland-og-alternativer.md) | 🌏 **Nabolandene:** Kina/Yunnan (toget fra Luang Prabang!), Hongkong (null vinavgift), Taiwan, Japan, Kerala — sesong, visum og hvordan de bolter på ruta |
+| [`00-analyse/scooterregler.md`](00-analyse/scooterregler.md) | 🛵 Scooterreglene land for land, IDP-konvensjon, bøter og håndheving, verdenssveipet — og beslutningsguiden |
+
+## 🧰 Praktisk før avreise
+
+| Fil | Innhold |
+|-----|---------|
+| [`00-analyse/forsikring-og-rettigheter.md`](00-analyse/forsikring-og-rettigheter.md) | 🛡️ Reiseforsikring verifisert mot vilkårene — **inkl. deres egen Tekna/Gjensidige-polise lest linje for linje** — bagasje, forsinkelse, EU261, kredittkortets innsigelsesrett |
+| [`00-analyse/vaksiner.md`](00-analyse/vaksiner.md) | 💉 Vaksiner og reisehelse: FHI-basert pakke, rabies/JE, malaria-kartet, tidslinje og priser |
+| [`00-analyse/pakkeliste.md`](00-analyse/pakkeliste.md) | 🎒 Pakkelisten — Osprey Farpoint 70-strategi, 12 kg-mål, det rutespesifikke |
+| [`00-analyse/smarte-kjop.md`](00-analyse/smarte-kjop.md) | 🛒 Smarte kjøp før turen: gebyrfritt kort, AirTags, permetrin — og hva som kjøpes der |
+| [`00-analyse/utleie-leiligheten.md`](00-analyse/utleie-leiligheten.md) | 🏠 Utleie av leiligheten: 30-døgnsregelen, inntektsscenarioer, skatteboksen og den ferdigskrevne annonsen |
+| [`00-analyse/kurs-og-studier.md`](00-analyse/kurs-og-studier.md) | 🎓 Kurs og studier i vin og tech: **WSET i Sørøst-Asia** (Red Apron Saigon, Bangkok, Singapore), Australia/NZ-kursene, Lånekassen-fasit |
+
+## 📊 På tvers av alle turene
+
+| Fil | Innhold |
+|-----|---------|
+| [`00-analyse/de-tre-store.md`](00-analyse/de-tre-store.md) | ⚖️ **DE TRE STORE**: Indokina vs. Peru+Argentina vs. Australia+NZ — full prissammenligning og dommen |
+| [`00-analyse/romjul-verdenskartet.md`](00-analyse/romjul-verdenskartet.md) | 🌍 Den kreative verdenssjekken: topp 7 romjul-reisemål med ruter, fly og dagspriser |
+| [`00-analyse/sammenstilling.md`](00-analyse/sammenstilling.md) | 🧭 Landene mot hverandre — skjønnhet, pris, sesong, match *(fire opprinnelige land)* |
+| [`00-analyse/priskategorier.md`](00-analyse/priskategorier.md) | 💰 Budsjett / medium / komfort — kr per dag, per land og region *(fire opprinnelige land)* |
+| [`00-analyse/beste-ruter.md`](00-analyse/beste-ruter.md) | 🗺️ Beste totalruter per land + kombinasjoner *(fire opprinnelige land)* |
+| [`00-analyse/transport.md`](00-analyse/transport.md) | 🚌 Transportmatrisen mellom og i landene *(AU · NZ · TH · KH — Vietnam/Laos i direktefly-fila)* |
+| [`00-analyse/restauranter.md`](00-analyse/restauranter.md) | 🍽️ Restaurantguiden: billig-ikon / midtsjikt / splurge per by, vingårdsrestauranter |
+| [`00-analyse/opplevelser.md`](00-analyse/opplevelser.md) | 🎟️ Opplevelses-guiden: beste bookbare turer per by (GetYourGuide/Viator/Klook) |
+| [`00-analyse/wwoof-arbeidsopphold.md`](00-analyse/wwoof-arbeidsopphold.md) | 🌾 WWOOF/Workaway: visum-fasit, navngitte verter, WHV-strategi for 29-åringer |
+
+## 🇦🇺🇳🇿 Australia/NZ-verktøyene (fremtidsbanken)
+
+*Skrevet for romjul-planen Brisbane→Melbourne + NZ. Flyttet til egen mappe
+så de ikke forveksles med Indokina-planen; hver fil peker til sitt
+Sørøst-Asia-motstykke.*
+
+| Fil | Innhold |
+|-----|---------|
+| [`00-analyse/australia-nz/bil-strategi.md`](00-analyse/australia-nz/bil-strategi.md) | 🚗 Leie vs. bobil vs. kjøpe-og-selge, relocation-deals |
+| [`00-analyse/australia-nz/buss-og-gruppeturer.md`](00-analyse/australia-nz/buss-og-gruppeturer.md) | 🚌 Buss-pass (Whimit/FlexiPass/Kiwi Experience) og gruppeturer vs. leiebil |
+| [`00-analyse/australia-nz/pakkereiser.md`](00-analyse/australia-nz/pakkereiser.md) | 📦 Pakkereise eller DIY: dom per del av turen, pakkereiseloven |
+| [`00-analyse/australia-nz/vinopplevelser-uten-visum.md`](00-analyse/australia-nz/vinopplevelser-uten-visum.md) | 🍷 Vingårds-immersjon som turist — uten WHV |
+
+## 🇵🇪🇦🇷 Sommerturen
+
+| Fil | Innhold |
+|-----|---------|
+| [`00-analyse/peru-argentina-sommer.md`](00-analyse/peru-argentina-sommer.md) | Peru+Argentina (juni→10. aug): Inti Raymi, Machu Picchu-praktikk, Cafayate/Mendoza-vinter, 140–170k for to |
+
+---
+
+## 🗺️ Kart (`kart/`)
 Hvert land har et regionskart (SVG, generert fra Natural Earth-data) øverst i
 sin README, med nummererte markører som matcher guidens regioner og
 Google Maps-lenker per region.
@@ -65,18 +97,14 @@ Google Maps-lenker per region.
 
 | Kart | Viser |
 |---|---|
-| [`kart/storrunden.svg`](kart/storrunden.svg) | Anbefalt rute 5–6 uker med alternativer: hovedruta (stopp 1–10), blokk 4 i oransje (kun ved 6 uker), Saigon-varianten i lilla, Phu Quoc som utgått |
-| [`kart/mae-hong-son.svg`](kart/mae-hong-son.svg) | Mae Hong Son-loopen med kjøreretning, der gry- og skumringsstoppene er markert i oransje så overnattingene kan planlegges rundt dem |
-| [`kart/mekong-slowboat.svg`](kart/mekong-slowboat.svg) | Slowboaten Huay Xai → Pakbeng → Luang Prabang, med veien inn fra Chiang Mai og enveis-flyet ut |
 | 🗺️ [`kart/reiseatlas.svg`](kart/reiseatlas.svg) | **Atlaset:** alle stedene i biblioteket på ett kart, nummerert etter tema, med etappetider på strekene og reisetid fra knutepunkt i lista. Indeks: [`00-analyse/REISEATLAS.md`](00-analyse/REISEATLAS.md) |
 | 📲 [`kart/reiseatlas.kml`](kart/reiseatlas.kml) | Samme steder som lag i **Google My Maps** — importer fila, så ligger alt i Google Maps-appen med reisetid og kildefil i hvert punkt |
+| [`kart/storrunden.svg`](kart/storrunden.svg) | Anbefalt rute 5–6 uker med alternativer: hovedruta (stopp 1–10), blokk 4 i oransje (kun ved 6 uker), Saigon-varianten i lilla, Phu Quoc som utgått |
+| [`kart/mae-hong-son.svg`](kart/mae-hong-son.svg) | Mae Hong Son-loopen med kjøreretning, der gry- og skumringsstoppene er markert i oransje så overnattingene kan planlegges rundt dem |
 | [`kart/chiang-mai-dagsturer.svg`](kart/chiang-mai-dagsturer.svg) | De sju kjørerutene ut fra Chiang Mai med kjøretid fra gamlebyen til hvert stopp |
+| [`kart/mekong-slowboat.svg`](kart/mekong-slowboat.svg) | Slowboaten Huay Xai → Pakbeng → Luang Prabang, med veien inn fra Chiang Mai og enveis-flyet ut |
 
-### 10 · Australia 🇦🇺
-Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory
-
-### 20 · New Zealand 🇳🇿
-Region-filer: Nordøya (Auckland/Waiheke, Bay of Islands, Coromandel, Rotorua/Taupo, Hawke's Bay, Wellington/Martinborough) · Sørøya (Marlborough/Nelson, Kaikoura, Mackenzie, West Coast, Queenstown/Otago, Fiordland, Catlins)
+## 🌍 Landmappene
 
 ### 30 · Thailand 🇹🇭
 Region-filer: Bangkok/sentralt · Nord · Isaan · Andaman · Gulf-øyene · Østkysten · Khao Sok
@@ -85,20 +113,27 @@ Region-filer: Bangkok/sentralt · Nord · Isaan · Andaman · Gulf-øyene · Øs
 Region-filer: Siem Reap/Angkor · Phnom Penh · Sørkysten (Kampot/Kep/øyene) · Battambang · Øst (Mondulkiri/Kratie)
 
 ### 50 · Vietnam 🇻🇳
-Region-filer: Saigon · Mekong-deltaet · Phu Quoc · Con Dao · Dalat · Mui Ne/Nha Trang · Hoi An/Hue · Hanoi/Ha Long/Ninh Binh · Sapa/Ha Giang — *(nytt: VN+KH er beste Indokina-kombo mens TH–KH-grensen er stengt)*
+Region-filer: Saigon · Mekong-deltaet · Phu Quoc · Con Dao · Dalat · Mui Ne/Nha Trang · Hoi An/Hue · Hanoi/Ha Long/Ninh Binh · Sapa/Ha Giang
 
 ### 60 · Laos 🇱🇦
-Region-filer: Luang Prabang · Nong Khiaw/Muang Ngoi · Bokeo/slow boat · Vang Vieng · Vientiane · Krukkesletten · Thakhek/Kong Lor · **Bolaven-kaffelandet** · Champasak/4000 øyene — *(Sørøst-Asias billigste land + høyhastighetstoget)*
+Region-filer: Luang Prabang · Nong Khiaw/Muang Ngoi · Bokeo/slow boat · Vang Vieng · Vientiane · Krukkesletten · Thakhek/Kong Lor · Bolaven-kaffelandet · Champasak/4000 øyene
 
 ### 70 · Flere land 🌏
-Mini-guider: Malaysia (vestkysten i sesong!) · Singapore-stopover · Filippinene (Visayas/Coron) · Indonesia (fremtidsbank mai–sep) · Sri Lanka (gratis visum 2026!) · Taiwan (Taroko-status)
+Mini-guider: Malaysia (vestkysten i sesong!) · Singapore-stopover · Filippinene (Visayas/Coron) · Indonesia (fremtidsbank mai–sep) · Sri Lanka (gratis visum 2026!) · Taiwan (Taroko-status) — *utvidet med Kina, Hongkong, Japan og Kerala i [`00-analyse/naboland-og-alternativer.md`](00-analyse/naboland-og-alternativer.md)*
+
+### 10 · Australia 🇦🇺 *(fremtidsbank)*
+Region-filer: Queensland-kysten · NSW · Victoria · Tasmania · South Australia · Western Australia · Northern Territory
+
+### 20 · New Zealand 🇳🇿 *(fremtidsbank)*
+Region-filer: Nordøya (Auckland/Waiheke, Bay of Islands, Coromandel, Rotorua/Taupo, Hawke's Bay, Wellington/Martinborough) · Sørøya (Marlborough/Nelson, Kaikoura, Mackenzie, West Coast, Queenstown/Otago, Fiordland, Catlins)
 
 ---
 
 ## 🔗 Relatert
-- Den aktive turplanen (Australia+NZ romjul 2026): [`../sor-amerika/00-planlegging/australia-bobil-jan2027.md`](../sor-amerika/00-planlegging/australia-bobil-jan2027.md)
-- Reiseatlaset (visuelt): `../sor-amerika/08-visualiseringer/reiseatlas.html`
+- **Den aktive turplanen:** [`00-analyse/indokina-storrunden.md`](00-analyse/indokina-storrunden.md) (Indokina, avreise 26. des 2026)
+- Australia+NZ-planen (fremtidsbank): [`../sor-amerika/00-planlegging/australia-bobil-jan2027.md`](../sor-amerika/00-planlegging/australia-bobil-jan2027.md)
+- Reiseatlaset (visuelt, eldre versjon): `../sor-amerika/08-visualiseringer/reiseatlas.html`
 - Reiseverkstedet (beslutningsverksted): `../sor-amerika/08-visualiseringer/reiseverkstedet.html`
 - Verdensanalysen: [`../sor-amerika/00-planlegging/verdens-beste-analyse.md`](../sor-amerika/00-planlegging/verdens-beste-analyse.md)
 
-*Status: komplett (august 2026). Priser og visumregler bør re-verifiseres nær booking.*
+*Status: aktiv planlegging (august 2026). Priser og visumregler bør re-verifiseres nær booking.*

@@ -1,5 +1,7 @@
 # 🎟️ Opplevelses-guiden — det beste bookbare per by
 
+> 🌏 **Omfang:** skrevet for de fire opprinnelige landene (Australia · NZ · Thailand · Kambodsja). Vietnam/Laos-opplevelsene: [`sorostasia-perler.md`](sorostasia-perler.md), [`batturer.md`](batturer.md), [`flerdagsopplegg.md`](flerdagsopplegg.md), [`../50-vietnam/README.md`](../50-vietnam/README.md), [`../60-laos/README.md`](../60-laos/README.md).
+
 *Kuratert august 2026 (GetYourGuide/Viator/Klook + direkteoperatører) for et
 vin/mat/natur-par. **Alle priser i NOK per person** (kurs: AUD ≈ 6,7 ·
 NZD ≈ 6,1 · THB ≈ 0,29 · USD ≈ 10,5); (est.) = verifiser ved booking.
@@ -40,7 +42,7 @@ direkteoperatørene billigst og tryggest.*
 ### Adelaide / Barossa / McLaren Vale
 - **Taste the Barossa** — #1 på Tripadvisor 8 år på rad, 4 vinhus + lunsj, **~1 200 kr** · [tastethebarossa.com.au](https://tastethebarossa.com.au/) (budsjettvariant 700–930 kr)
 - **d'Arenberg Cube** — med egen bil: entré **135 kr** + tasting **~335 kr** slår dagsturene (1 120–1 150 kr); McLaren Vale er 45 min unna
-- **Kangaroo Island-dagstur fra Adelaide:** ærlig talt en brutal 16-timersdag (1 660–2 580 kr) — gjør 2 dager (~3 000 kr+) eller dropp (jf. [`bil-strategi.md`](bil-strategi.md) om ferge med leiebil)
+- **Kangaroo Island-dagstur fra Adelaide:** ærlig talt en brutal 16-timersdag (1 660–2 580 kr) — gjør 2 dager (~3 000 kr+) eller dropp (jf. [`bil-strategi.md`](australia-nz/bil-strategi.md) om ferge med leiebil)
 - Gratis: Central Market + Hahndorf med bybuss.
 
 ### Hobart / Tasmania
@@ -107,4 +109,4 @@ direkteoperatørene billigst og tryggest.*
 ---
 
 *Restaurantene: [`restauranter.md`](restauranter.md) · pakkedommene (Whitsundays/Doubtful):
-[`pakkereiser.md`](pakkereiser.md) · buss/gruppeturer: [`buss-og-gruppeturer.md`](buss-og-gruppeturer.md)*
+[`pakkereiser.md`](australia-nz/pakkereiser.md) · buss/gruppeturer: [`buss-og-gruppeturer.md`](australia-nz/buss-og-gruppeturer.md)*

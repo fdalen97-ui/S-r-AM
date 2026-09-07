@@ -1,5 +1,7 @@
 # 📦 Pakkereise eller DIY? — dommen per del av turen
 
+> 🇦🇺🇳🇿 **Gjelder Australia/New Zealand** — romjul-planen som nå ligger i fremtidsbanken. For Indokina er dommen DIY hele veien — se [`../indokina-storrunden.md`](../indokina-storrunden.md); det eneste «pakke»-spørsmålet der er cruiset i [`../cruise-og-halong.md`](../cruise-og-halong.md).
+
 *Verifisert august 2026, med konkrete datoer for turen deres (avreise 25.–28.
 des 2026, AO-finaler 30.–31. jan 2027, NZ februar). 1 AUD ≈ 6,5 ·
 1 NZD ≈ 6,0 kr. Priser per person når ikke annet står.*
@@ -69,6 +71,6 @@ prisene en gang er like.
 
 ---
 
-*Transportprisene: [`transport.md`](transport.md) · bilvalget:
+*Transportprisene: [`transport.md`](../transport.md) · bilvalget:
 [`bil-strategi.md`](bil-strategi.md) · turplanens bookingliste:
-[turplanen](../../sor-amerika/00-planlegging/australia-bobil-jan2027.md)*
+[turplanen](../../../sor-amerika/00-planlegging/australia-bobil-jan2027.md)*

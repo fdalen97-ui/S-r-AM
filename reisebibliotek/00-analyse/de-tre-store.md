@@ -93,4 +93,4 @@ romjul-vinduet for akkurat den turen (jf. turplanens egen timing-analyse).
 *Detaljene: [`indokina-storrunden.md`](indokina-storrunden.md) ·
 [`peru-argentina-sommer.md`](peru-argentina-sommer.md) ·
 [Australia-planen](../../sor-amerika/00-planlegging/australia-bobil-jan2027.md) ·
-kutt-knappene som kan senke Australia-prisen: [`priskategorier.md`](priskategorier.md) og [`bil-strategi.md`](bil-strategi.md)*
+kutt-knappene som kan senke Australia-prisen: [`priskategorier.md`](priskategorier.md) og [`bil-strategi.md`](australia-nz/bil-strategi.md)*

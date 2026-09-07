@@ -1,5 +1,7 @@
 # 🧭 Den store sammenstillingen — fire land mot hverandre
 
+> 🌏 **Omfang:** skrevet for de fire opprinnelige landene (Australia · NZ · Thailand · Kambodsja). Vietnam og Laos: [`../50-vietnam/README.md`](../50-vietnam/README.md), [`../60-laos/README.md`](../60-laos/README.md); den oppdaterte tre-veis-sammenligningen er [`de-tre-store.md`](de-tre-store.md).
+
 *Syntese av region-kompileringene, transportmatrisen og WWOOF-guiden (august 2026).
 For paret: begge 29, vin/mat/sol/natur, romjul som typisk vindu, WHV-kvalifiserte til 31.*
 

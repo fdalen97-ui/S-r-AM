@@ -1,5 +1,7 @@
 # 🚌 Buss-pass og gruppeturer — er det bedre enn leiebil?
 
+> 🇦🇺🇳🇿 **Gjelder Australia/New Zealand** — romjul-planen som nå ligger i fremtidsbanken. Sørøst-Asia-motstykket: [`../direktefly-og-nattransport.md`](../direktefly-og-nattransport.md) (fly, nattog, Giant Ibis, ferger) og [`../transport.md`](../transport.md) §4–5.
+
 *Verifisert august 2026. **Alle priser i NOK** (AUD ≈ 6,7 · NZD ≈ 6,1 ·
 USD ≈ 10,5). Kjernefunnet først: **pass og 18–35-turer er solo-produkter.**
 Prisene er per person — bilen deles på to. For et par som liker vin fremfor
@@ -79,4 +81,4 @@ aldersgruppe på vin-dagsturer, holiday parks og hosteller — og de koster
 ---
 
 *Bilregnestykket: [`bil-strategi.md`](bil-strategi.md) · transportmatrisen:
-[`transport.md`](transport.md) · dagsturene per by: [`opplevelser.md`](opplevelser.md)*
+[`transport.md`](../transport.md) · dagsturene per by: [`opplevelser.md`](../opplevelser.md)*

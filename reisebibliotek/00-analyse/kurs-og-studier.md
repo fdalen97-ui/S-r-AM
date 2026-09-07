@@ -1,4 +1,4 @@
-# 🎓 Kurs, workshops og studier — vin og teknologi i Australia/NZ
+# 🎓 Kurs, workshops og studier — vin og teknologi (Australia/NZ + Sørøst-Asia)
 
 *Tredje vei mellom «ren ferie» og «jobbe der»: lære noe skikkelig. Og her
 ligger visum-godbiten. Research verifisert august 2026. 1 AUD ≈ 6,5 ·
@@ -183,6 +183,6 @@ folkehøyskole utenfor Norden; engelskkurs. (Egen ordning for
 
 ---
 
-*Ses i sammenheng med: [`vinopplevelser-uten-visum.md`](vinopplevelser-uten-visum.md)
+*Ses i sammenheng med: [`vinopplevelser-uten-visum.md`](australia-nz/vinopplevelser-uten-visum.md)
 (1-dags opplevelser) og [`wwoof-arbeidsopphold.md`](wwoof-arbeidsopphold.md)
 (arbeids-sporet, kun for langtur).*
