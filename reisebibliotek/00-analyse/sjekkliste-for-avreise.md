@@ -8,6 +8,8 @@ Avreise: **26. desember 2026**.*
 
 ## 🔥 NÅ (august–september) — det som er utsolgt hvis dere venter
 
+- [ ] 🔴 **Utreisen: Thai Airways TG955 fre 25. des 13:20** — 24 100 for to alt inkl. (bagasje 2×23 kg, mat, seter sammen). Sjekk Economy Saver på thaiairways.com først. Se [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md)
+
 ### Booking som forsvinner først
 - [ ] 🔴 **Khao Lak 17.–22. jan** — strandhotellene er blokkbooket av charter
       et år i forveien og borte i september. Valget: The Sands (1 972/natt)

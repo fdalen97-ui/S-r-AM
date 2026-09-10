@@ -42,6 +42,23 @@ ikke la den friste på bookingsider.
 **Bookingfrist:** småhotellene (Loy La Long 7 rom, Baan 2459 4 rom) selges ut
 **3–6 måneder før** — book senest september, med fri avbestilling.
 
+### 🛏️ Loy La Long — rom for rom (fra hotellets egen prisliste, aug. 2026)
+
+*Priser per natt for to, THB 0,29. **Early bird = booket innen 31. okt 2026.** Depositum 100 % ved booking, avbestilling <45 dager = tapt depositum (dekket av avbestillingsforsikringen deres).*
+
+| Rom | Type | m² | Utsikt | Ordinær | **Early bird** | 4 netter EB |
+|---|---|---|---|---|---|---|
+| #4 **BLUE** 🏆 | Double River View, 2. etg. | 20 | **Elvefront, privat balkong, åpen himmel** | 1 566 | **1 276** | 5 104 |
+| #3 **WHITE** 💎 | Family Duplex (for 1–2 pers.) | 38 | Elva («wake up to the river»), hemmelig dør til terrassen oppe | 1 305 | **1 073** | 4 292 |
+| #2 **BLACK** | Suite River View | 25 | **Solnedgang over elva**, privat balkong, tretønnebad | 1 943 | 1 566 | 6 264 |
+| #1 GREEN | Suite River View | 30 | Lotusdam + elv, tretønnebad | 1 943 | 1 566 | 6 264 |
+| #6 RED | Double *Classic* | 20 | «Balkong over elva» men ikke River View-kategori — sidevendt | 1 305 | 1 073 | 4 292 |
+| #5 ORANGE | Single | 14 | — | kun 1 pers. | | |
+
+**Dommen pris/utsikt:** **BLUE** er det rene svaret — billigste rom med garantert elvefront og egen balkong, i 2. etasje. **WHITE** er verdi-hacket: nesten dobbel plass og terrassetilgang for 200 kr mindre per natt, men bekreft på e-post at det er elvefront. **BLACK** er oppgraderingen hvis solnedgangen er poenget — bare 290 kr/natt over Blue. Dropp RED (samme pris som White, halve plassen, sidevendt).
+
+**Bookes direkte:** info@loylalong.com / +66 89 133 1131. 7 rom — romjula går 3–6 måneder før. Airport-transfer 1 000 THB (SUV, 4 pers.).
+
 **Anbefalt kombinasjon:** 2 netter Loy La Long + siste natt Sala River View —
 eller 3 netter Loy La Long og legg splurgen i en middag i stedet.
 

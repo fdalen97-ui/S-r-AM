@@ -18,6 +18,7 @@ vin/mat/sol/natur, prisbevisste, romjul + januar er reisevinduet.
 | 🗺️ [`00-analyse/REISEATLAS.md`](00-analyse/REISEATLAS.md) | **ATLASET:** alle ~100 stedene fra hele biblioteket på ett kart, nummerert og fargekodet etter tema, med reisetid fra nærmeste flyplass/knutepunkt, 📍 Google Maps-lenke per sted, og KML-fil som importeres rett i Google My Maps |
 | 🥇 [`00-analyse/indokina-storrunden.md`](00-analyse/indokina-storrunden.md) | **RUTA:** anbefalt rute for 5–8 uker («nord først, Andaman sist»), stigen fra 35 til 56 dager, Tet-datoen, blokkene med datoer og transport |
 | ✈️ [`00-analyse/direktefly-og-nattransport.md`](00-analyse/direktefly-og-nattransport.md) | **TRANSPORTEN:** direktefly-matrisen per etappe, nattog vs. fly-regnskapet, Kambodsjas nattbuss-advarsel, bookingrekkefølgen |
+| 🛫 [`00-analyse/utreise-oslo-bangkok.md`](00-analyse/utreise-oslo-bangkok.md) | **UTREISEN:** live-priser 25.–29. des for Thai, Norse og Qatar med den ekte totalen (bagasje, mat, seter sammen) — dommen: Thai 25. des, 24 100 for to alt inkludert |
 
 ## 🇹🇭🇰🇭🇱🇦🇻🇳 Indokina-turen — planen
 
