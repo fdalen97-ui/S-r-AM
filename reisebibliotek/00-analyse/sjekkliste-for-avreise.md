@@ -8,7 +8,7 @@ Avreise: **26. desember 2026**.*
 
 ## 🔥 NÅ (august–september) — det som er utsolgt hvis dere venter
 
-- [ ] 🔴 **Utreisen: Qatar QR176+836 fre 25. des 15:05 → 26. des 06:40** — 16 826 for to alt inkl. (30 kg p.p., mat, seter, refunderbar). ⚠️ 3 seter igjen 12. sept. Thai TG955 nonstop er alternativet til 24 084. Se [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md)
+- [ ] 🔴 **Utreisen: Thai TG955 fre 25. des 13:20 → 26. des 06:20, nonstop** — sjekk «Economy Saver» på thaiairways.com (~20–22 000 for to) før dere tar Full Flexi (24 084). Norse er dyrere all-in. Se [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md)
 
 ### Booking som forsvinner først
 - [ ] 🔴 **Khao Lak 17.–22. jan** — strandhotellene er blokkbooket av charter
