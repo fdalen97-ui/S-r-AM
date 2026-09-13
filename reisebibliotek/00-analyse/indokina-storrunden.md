@@ -7,6 +7,85 @@ buss/båt over åpne grenser — og finalen ligger på **Phu Quoc, Indokinas mes
 sol-sikre strandpunkt i januar** (tørrsesong-toppen: ~3–6 regndager/mnd,
 rolig hav, 28–32 °C). Alle priser i NOK.*
 
+## 🔒 LÅST DAGSPLAN — avreise fredag 25. desember 2026
+
+*Utreisen er avgjort: [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md) →
+**Thai TG955, fre 25. des 13:20 → lør 26. des 06:20**, nonstop. Alt under er
+regnet fra den ankomsten.*
+
+### 🌄 Blokk 1 — Bangkok og nord (25. des – 8. jan · 13 netter)
+
+| Dato | Sted | Dagen |
+|---|---|---|
+| **fre 25. des** | ✈️ Oslo 13:20 | Julaften hjemme, fly 1. juledag |
+| **lør 26. des** | **Bangkok** 06:20 | Loy La Long (tidlig innsjekk avtalt), dusj, Talat Noi-kaffe · 🎤 **Fujii Kaze, Supachalasai om kvelden** |
+| søn 27. des | Bangkok | Yaowarat, Wat Arun, elva |
+| man 28. des | Bangkok | 🍣 **Omakase** (Masato eller Ichizu) |
+| tir 29. des | Bangkok | Ayutthaya med tog, eller kaffevandringen Talat Noi→Song Wat |
+| **ons 30. des** | 🚆 **Nattog #9, 18:40** | Siste Bangkok-dag, så 1. klasse kupé nordover |
+| **tor 31. des** | **Chiang Mai** 07:15 | 🏮 **Nyttårsaften: khom loi-lanterner ved Tha Phae Gate** |
+| fre 1. jan | Chiang Mai | Doi Suthep, khao soi |
+| lør 2. jan | Chiang Mai | Elefantreservatet (book nå) |
+| søn 3. jan | Chiang Mai | Byen, marked, Winellar |
+| **man 4. jan** | 🚗 **MHS-loopen dag 1** | Doi Inthanon → Mae Chaem → rute 1263 → **Khun Yuam** |
+| tir 5. jan | Loopen dag 2 | Mae Hong Son by, Doi Kong Mu → **Ban Rak Thai** |
+| ons 6. jan | Loopen dag 3 | 🌅 **Pang Oung i grålysningen** → Tham Lod → **Cave Lodge** (🦇 seilerne ved skumring) |
+| tor 7. jan | Loopen dag 4 | 🌅 **Ban Jabo-skyhavet** → Pai |
+| **fre 8. jan** | 🌅 Doi Kiew Lom 05:30 → Chiang Mai → ✈️ | Levere bil, CNX→BKK→SAI på **én Bangkok Airways-PNR** |
+
+### 🛕 Blokk 2 — Kambodsja (8.–18. jan · 10 netter)
+
+| Dato | Sted | Dagen |
+|---|---|---|
+| fre 8. – man 11. jan | **Siem Reap** (3 n) | Angkor i soloppgang, Phare-sirkuset, Kompong Khleang |
+| **man 11. jan** | 🚌 Giant Ibis **dagbuss 08:45** | 6 t — aldri nattbuss i Kambodsja |
+| man 11. – ons 13. jan | **Phnom Penh** (2 n) | Historien |
+| **ons 13. jan** | 🚌 Giant Ibis 08:00 | 4 t |
+| ons 13. – fre 15. jan | **Kampot/Kep** (2 n) | Pepperfarm, krabbemarkedet |
+| **fre 15. jan** | 🚌 2 t + ⛴️ 1 t | Via Sihanoukville |
+| fre 15. – man 18. jan | **Koh Rong Samloem** (3 n) | Sunset Beach, **Koh Tang-turen**, plankton |
+| **man 18. jan** | ⛴️+🚌 PP + ✈️ BKK | **Mellomnatt i Bangkok — obligatorisk**, aldri øy→fly samme dag |
+
+### 🐠 Blokk 3 — Andaman-finalen (18.–28. jan · 10 netter)
+
+| Dato | Sted | Dagen |
+|---|---|---|
+| man 18. jan | Bangkok (1 n) | Transitt |
+| tir 19. – lør 23. jan | **Khao Lak** (4 n) | 🤿 **Similan-liveaboard fra Tap Lamu** i perfekt sesong |
+| **lør 23. – man 25. jan** | **Phuket** (2 n) | 🎧 **ZAMNA begge dagene** |
+| man 25. – tor 28. jan | **Koh Yao Noi** (3 n) | Speedbåt fra Bang Rong · dekompresjonen |
+| **tor 28. jan** | ✈️ **HKT–OSL direkte (Norse)** | 🏁 **35 dager — feriekompensasjonen intakt** |
+
+### 🍷 Blokk 4 — kun ved 6 uker (28. jan – 4. feb · 7 netter)
+
+| Dato | Sted | Dagen |
+|---|---|---|
+| tor 28. – man 1. feb | **Bangkok** (4 n) | 🎸 **Bangkok Music City 30.–31. jan** · siste omakase |
+| man 1. – tor 4. feb | **Khao Yai** 🍷 (3 n) | Leiebil 2,5 t · **GranMonte i innhøsting** |
+| **tor 4. feb** | ✈️ BKK–OSL direkte | 🏁 **42 dager** |
+
+### ⚠️ Én konsekvens av å flytte avreisen til 25. desember
+
+Femukersgrensen i forsikringen flytter seg med. **35 dager fra 25. desember
+er 28. januar**, ikke 29. Det koster **én natt på Koh Yao Noi** (3 i stedet
+for 4). Vil dere ha den fjerde natten, blir turen 36 dager og
+feriekompensasjonen på 20 000 kr faller bort. Se
+[`forsikring-og-rettigheter.md`](forsikring-og-rettigheter.md).
+
+### 📋 Bookingrekkefølgen — med ekte datoer
+
+| Når | Hva |
+|---|---|
+| **NÅ** | ✈️ **Thai TG955 25. des** (sjekk Economy Saver) · 🎧 **Zamna-billetter** (Phuket-arbitrasjen før venue slippes) · 🎤 **Fujii Kaze 26. des** · 🛏️ **Loy La Long** (7 rom, early bird t.o.m. 31. okt) |
+| **man 14. sept kl. 19:00** | 🍣 Masato-slippet — *dekker ikke desember ennå.* **Bruk den som generalprøve:** logg inn, lær grensesnittet, se hvor fort setene går |
+| **ons 14. okt kl. 19:00 norsk tid** | 🍣 **Masato for ekte** — dette slippet dekker 26.–30. des. Setene går på minutter. Alarm |
+| **~1. okt** | 🚆 **Nattog #9, 1. klasse underkøye, 30. des** — åpner nøyaktig 90 dager før |
+| sept–okt | 🛏️ Chiang Mai nyttårshotell (de fire beste er alt utsolgt) · Ban Rak Thai · **Cave Lodge** · elefantreservatet |
+| okt–nov | ✈️ CNX→BKK→SAI én PNR · 🚌 Giant Ibis × 2 · ⛴️ Samloem-ferge **med retur** · 🤿 Similan-liveaboard · 🚗 leiebil Chiang Mai (CDW + tyveri, egenandel i kontrakten) |
+| nov | 🇨🇳 Sjekk Kina-visumfritak hvis 8-ukersversjonen er aktuell |
+
+---
+
 ## 🥇 ANBEFALT RUTE ved 5–6 uker (aug. 2026) — «Nord først, Andaman sist»
 
 ![Kart over anbefalt rute med alternativer](../kart/storrunden.svg)
