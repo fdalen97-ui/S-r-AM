@@ -55,6 +55,16 @@ Laos-modulen). Vaskeservice finnes overalt (~10–20 kr/kg, ferdig neste dag) �
   hører til Peru-turen, ikke denne
 - **Vaksinesjekk 6–8 uker før:** hepatitt A/B oppdatert, evt. tyfoid —
   reiseklinikk (jf. viktig-listen i turplanen)
+- **Hengende toalettmappe med krok** (én hver, ~250–400 kr — Osprey
+  Ultralight Washbag Zip-typen) — ikke en flat pose. Guesthouse-badene i
+  Chiang Mai, Kampot og på øyene er **våtrom der gulvet er dusjen**; det
+  finnes ingen tørr flate å sette noe på. En krok over dørkarmen løser hele
+  problemet, og ferdigsettene i norske reisebutikker (f.eks. North Pioneer
+  Toiletry kit, 299 kr) er poser uten krok — feil produkt. Fyll den heller
+  med **silikonflasker fra nett** (~100 kr for 4-pk) enn å kjøpe sett med
+  shampo/balsam dere uansett får gratis på hotellene og billig på 7-Eleven.
+  💡 Legg et stykke plastfolie under korken på alle flasker før avreise —
+  trykkfallet i lasterommet presser innholdet opp gjennom flipp-korker
 - Håndsprit, våtservietter, solid deodorant, tannbørste-etui
 - Menstruasjonsprodukter for hele turen hvis dere har preferanser (utvalget
   varierer)

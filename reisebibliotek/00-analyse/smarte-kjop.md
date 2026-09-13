@@ -105,6 +105,10 @@ underveis. Priser ca. i NOK.*
 - **Regnponcho** (20 kr på 7-Eleven), **flip-flops** (30–50 kr), **sarong**
   (50–100 kr på marked — finere enn hjemme), **solhatt**, **strandmatte**.
 - **Toalettsaker** (shampo, tannkrem, q-tips — brøkdel av norsk pris).
+  Derfor er ferdige «toiletry kits» med shampo-/balsamflasker bortkastet:
+  hotellene setter ut shampo, og 7-Eleven har resten. Kjøp hjemmefra kun
+  **hengende toalettmappe med krok** (våtrom-badene har ingen tørr flate)
+  og et 4-pakk **silikonflasker** fra nett — ikke settet til 299 kr.
 - **«Elefantbukser»** og lette klær — nattmarkedene, 50–80 kr.
 - **7-Elevens mirakler:** kalde håndklær, elektrolytt-drikker, 10-kroners
   paraply — Thailands 7-Eleven løser det meste dere glemte.
