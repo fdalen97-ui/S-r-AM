@@ -1,19 +1,28 @@
 # ✈️ Utreisen Oslo → Bangkok i romjula — datoene, selskapene og den ekte totalen
 
-*🔄 **Oppdatert 12. september 2026** (første søk 10. sept). Live-priser for
-**to voksne, én vei, økonomi**. **Alle priser i NOK** (USD 10,2). Totalen er
-det dere faktisk betaler for å sitte ved siden av hverandre med innsjekket
+*🔄 **Oppdatert 14. september 2026** (opprinnelig 10.–12. sept). Live-priser
+for **to voksne, én vei, økonomi**. **Alle priser i NOK** (USD 10,2). Totalen
+er det dere faktisk betaler for å sitte ved siden av hverandre med innsjekket
 bagasje og mat — ikke lokkeprisen.*
 
-> ## ✈️ Premiss: direkte er ønsket
+> ## 💰 Ny hovedanbefaling: Qatar via Doha slår nonstop med ~10 000 kr
 >
-> **Da står valget mellom to fly: Thai TG955 og Norse N0 93.** Qatar via Doha
-> er 7 000 kr billigere, men er ute av bildet på eget ønske — den ligger
-> nederst som referanse hvis budsjettet skulle stramme seg.
+> Et bredt søk på tvers av alle ruter (nonstop, Doha, Istanbul, Dubai,
+> Helsingfors/Shanghai) 25. desember viser at **Qatar Airways via Doha er
+> vesentlig billigere enn både Thai og Norse — for samme ankomstdag**, mot en
+> ekstra mellomlanding. Se full avveining i eget avsnitt under.
 >
-> **Dommen: Thai TG955, fredag 25. desember. 24 084 kr for to, alt inkludert.**
-> Norse ser 1 400 kr billigere ut, men koster 1 500 kr mer når bagasje, mat og
-> seter legges til — og gir dårligere tider.
+> **Hvis dere prioriterer pris: Qatar QR180, lang layover i Doha (9t20),
+> ankomst 13:05 den 26. — ~14 235 kr for to.** Sparer ~9 850 kr mot Thai.
+>
+> **Hvis dere vil beholde Thai-lik ankomsttid (06:40) men fortsatt spare:**
+> samme Qatar-fly med kort layover (2t55) — men denne har bare **2 seter
+> igjen** og steg 2 600 kr på ett døgn (13.→14. sept). Book raskt hvis dette
+> er valget.
+>
+> **Hvis nonstop er ufravikelig: Thai TG955, fredag 25. desember, 24 084 kr
+> for to, alt inkludert.** Norse ser 1 400 kr billigere ut, men koster 1 500
+> kr mer når bagasje, mat og seter legges til — og gir dårligere tider.
 >
 > ⚠️ **Expedia viser bare Thais dyreste økonomiklasse.** Sjekk «Economy Saver»
 > og «Smart» på thaiairways.com — se avsnittet om billettklasser under.
@@ -37,6 +46,49 @@ Alle flyene lander **morgenen etter** avreise. Derfor:
 
 **«Dra 26. desember» betyr i praksis «ankomme 27.»** Vil dere ha planen slik
 den er, er avreisedagen **1. juledag**. Julaften hjemme, fly ettermiddagen etter.
+
+---
+
+## 🇶🇦 Qatar via Doha — den reelt billigste ruta (sjekket 14. sept)
+
+Et fullstendig søk gjennom alle realistiske ruter 25. desember (nonstop,
+Doha, Istanbul, Dubai, Helsingfors/Shanghai, Riga/Dubai) viser at ingen
+annen rute kommer i nærheten av Qatar-prisen. Begge Qatar-alternativene
+under er samme fly ut fra Oslo (QR180, avgang 09:00) — forskjellen er
+hvilket tilkoblingsfly de tar videre fra Doha:
+
+| | **A: Lang layover** | **B: Kort layover** | Thai TG955 | Norse |
+|---|---|---|---|---|
+| Doha-opphold | 9t20 | 2t55 | — | — |
+| Ankomst BKK | **13:05, 26. des** | **06:40, 26. des** | 06:20 | 08:40 |
+| Pris for 2, Qatar-billettert | **14 235 kr** | 16 826 kr ⚠️ | 24 084 kr | 25 527 kr |
+| Pris for 2, Iberia-kodet (samme fly) | 13 656 kr | — | — | — |
+| Seter igjen (14. sept) | 9 | **kun 2** | 9+ | — |
+| Refunderbar | Ja (Qatar-kode) | Ja | Ja | Nei |
+| Besparelse mot Thai | **~9 850 kr** | ~7 250 kr | — | — |
+
+**Alternativ A (anbefalt): 9t20 i Doha, ankomst 13:05.** Dette er dagens
+beste kjøp. Ankomst midt på dagen 26. desember gir fortsatt god tid til å
+sjekke inn på Loy La Long, dusje og hvile før Fujii Kaze-konserten om
+kvelden — bare med mindre morgen-buffer enn Thais 06:20.
+
+> 🎁 **Gratis hotell i Doha inkludert.** Et Qatar-billettert opphold på
+> 8–24 timer kvalifiserer automatisk til **STPC** (Qatars gratis
+> transittprogram): gratis 3-stjerners hotellrom, flyplasstransport og
+> måltidskuponger — ingen ekstra bestilling nødvendig. Book som
+> **Qatar-billettert (QR-kode), ikke Iberia-kodet**, for å sikre dette og
+> refunderbarhet — det koster 580 kr mer for to, men er forskjellen på
+> gratis hotellseng og ingenting.
+
+**Alternativ B: 2t55 i Doha, ankomst 06:40 — matcher Thais ankomsttid.**
+Fortsatt ~7 250 kr billigere enn Thai, men prisen steg 2 600 kr på ett
+døgn og det er kun 2 seter igjen på denne fareklassen. Dette er typisk en
+billig underklasse som selges ut raskt — book umiddelbart hvis dette er
+valget, ellers kan den være borte om noen dager.
+
+**Avveiningen dere tar:** én mellomlanding mot Thais nonstop. Ikke tre
+stopp og et ekstra døgn — bare én pause i en by der Qatar betaler hotellet,
+for en besparelse som dekker en hel liveaboard-natt på Similan-øyene.
 
 ---
 
@@ -104,28 +156,37 @@ ubegrenset, og det er akkurat det som gjør Saver trygt å kjøpe.
 
 ## 🥇 Anbefalingen
 
-**Thai Airways TG955, fredag 25. desember, 13:20 → 26. des 06:20. Nonstop, 11 timer.**
+**Qatar Airways QR180, fredag 25. desember, 09:00 → Doha (9t20) → 26. des
+13:05 Bangkok. ~14 235 kr for to, alt inkludert — 9 850 kr billigere enn
+Thai.**
 
-- **Economy Saver hvis den finnes:** ~20 000–22 000 kr for to + ~700 i seter.
+- Book **Qatar-billettert (ikke Iberia-kodet)** for refunderbarhet og
+  automatisk **gratis STPC-hotellrom i Doha** — se avsnittet over.
+- Ankomst 13:05: sjekk inn på Loy La Long, dusj og hvil, **Fujii Kaze om
+  kvelden** — planen står. Mindre morgen-buffer enn Thai, men fullt
+  gjennomførbart.
+- 25 kg bagasje inkludert, mat inkludert, endringsgebyr $190.
+
+**Book snart.** 9 seter igjen 14. sept, men denne fareklassen er nettopp
+den typen Qatar selger ut raskest — den kortere-layover-varianten (samme
+fly, ankomst 06:40) gikk fra 9 til 2 seter og steg 2 600 kr på ett døgn.
+
+### Hvis dere vil ha nonstop uansett
+
+**Thai Airways TG955, 13:20 → 26. des 06:20. Nonstop, 11 timer, 24 084 kr
+for to.** A350-900, én PNR, ingen mellomlanding, hele reisen innenfor
+EU261 og polisens forsinkelsesdekning.
+
+- **Economy Saver hvis den finnes:** ~20 000–22 000 kr for to + ~700 i seter
+  — sjekk thaiairways.com direkte, se billettklasse-avsnittet over.
 - **Full Flexi som fallback:** 24 084 kr for to, alt inne, fritt endrbar.
-- Julaften hjemme, fly 1. juledag ettermiddag, land 06:20: Loy La Long,
-  dusj, Talat Noi-kaffe, **Fujii Kaze om kvelden.** Planen uendret.
-- A350-900, én PNR, ingen mellomlanding, hele reisen innenfor EU261 og
-  polisens forsinkelsesdekning.
+- **Book direkte på thaiairways.com.** Mellomledd viser bare de dyreste
+  klassene.
 
-**Book direkte på thaiairways.com.** Mellomledd viser bare de dyreste
-klassene, og direkte booking gjør endring og setevalg enklere.
+### Norse — kun hvis prisen faller videre
 
-**Book nå.** Thai viste 9+ seter igjen på denne datoen, men romjulsfly fra
-Oslo stiger fra oktober, og 25. desember har færre seter enn 26.
-
-### Hvis budsjettet strammer seg senere
-
-Qatar QR176+836 25. des, 2t55 i Doha, lander 26. kl. 06:40 — tjue minutter
-etter Thai — for **16 826 kr for to** med 30 kg hver, seter og mat inkludert.
-**7 258 kr billigere.** Ute av bildet på eget ønske om direkte, men verdt å
-vite at den finnes: det er Similan-liveaboarden betalt. (Kun 3 seter igjen
-12. sept.)
+25 527 kr all-in, 40 min lengre reisetid, dårligere ankomsttid (08:40), og
+ikke refunderbar. Slår verken Qatar eller Thai på noen akse per 14. sept.
 
 ## Hjemreisen (for helheten)
 

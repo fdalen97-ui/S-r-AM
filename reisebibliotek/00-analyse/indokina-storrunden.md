@@ -9,9 +9,17 @@ rolig hav, 28–32 °C). Alle priser i NOK.*
 
 ## 🔒 LÅST DAGSPLAN — avreise fredag 25. desember 2026
 
-*Utreisen er avgjort: [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md) →
-**Thai TG955, fre 25. des 13:20 → lør 26. des 06:20**, nonstop. Alt under er
-regnet fra den ankomsten.*
+*Utreisen: [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md) → to valg,
+begge fredag 25. desember:*
+
+- ***Pris (ny anbefaling, 14. sept):*** *Qatar QR180, 09:00 → Doha (9t20) →
+  **26. des 13:05**, ~14 235 kr for to — 9 850 kr billigere enn Thai.*
+- ***Nonstop:*** *Thai TG955, 13:20 → **26. des 06:20**, 24 084 kr for to.*
+
+*Dagsplanen under er skrevet for Thai-ankomsten (06:20) — den gir mest
+buffer før konserten. Velger dere Qatar, faller Talat Noi-kaffen bort og
+26. des blir: land 13:05 → sjekk inn Loy La Long ~14:30 → dusj/hvile →
+Fujii Kaze om kvelden. Fortsatt fullt gjennomførbart, bare tettere.*
 
 ### 🌄 Blokk 1 — Bangkok og nord (25. des – 8. jan · 13 netter)
 
@@ -76,7 +84,7 @@ feriekompensasjonen på 20 000 kr faller bort. Se
 
 | Når | Hva |
 |---|---|
-| **NÅ** | ✈️ **Thai TG955 25. des** (sjekk Economy Saver) · 🎧 **Zamna-billetter** (Phuket-arbitrasjen før venue slippes) · 🎤 **Fujii Kaze 26. des** · 🛏️ **Loy La Long** (7 rom, early bird t.o.m. 31. okt) |
+| **NÅ** | ✈️ **Qatar QR180 25. des** (Qatar-billettert, ikke Iberia-kodet) — eller Thai TG955 hvis nonstop er ufravikelig · 🎧 **Zamna-billetter** (Phuket-arbitrasjen før venue slippes) · 🎤 **Fujii Kaze 26. des** · 🛏️ **Loy La Long** (7 rom, early bird t.o.m. 31. okt) |
 | **man 14. sept kl. 19:00** | 🍣 Masato-slippet — *dekker ikke desember ennå.* **Bruk den som generalprøve:** logg inn, lær grensesnittet, se hvor fort setene går |
 | **ons 14. okt kl. 19:00 norsk tid** | 🍣 **Masato for ekte** — dette slippet dekker 26.–30. des. Setene går på minutter. Alarm |
 | **~1. okt** | 🚆 **Nattog #9, 1. klasse underkøye, 30. des** — åpner nøyaktig 90 dager før |
