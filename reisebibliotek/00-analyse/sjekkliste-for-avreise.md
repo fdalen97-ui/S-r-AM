@@ -8,7 +8,7 @@ Avreise: **26. desember 2026**.*
 
 ## 🔥 NÅ (august–september) — det som er utsolgt hvis dere venter
 
-- [ ] 🔴 **Utreisen: Thai Airways TG955 fre 25. des 13:20** — 24 100 for to alt inkl. (bagasje 2×23 kg, mat, seter sammen). Sjekk Economy Saver på thaiairways.com først. Se [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md)
+- [ ] 🔴 **Utreisen: Qatar QR180 fre 25. des 09:00 → Doha (9t20) → 26. des 13:05 Bangkok, ~14 235 kr for to** — bestill Qatar-billettert (ikke Iberia-kodet) for refunderbarhet + gratis STPC-hotell i Doha. 9 850 kr billigere enn Thai TG955 nonstop (24 084, ankomst 06:20). Sjekk seter raskt — kort-layover-varianten (06:40) gikk fra 9 til 2 seter på ett døgn. Se [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md)
 
 ### Booking som forsvinner først
 - [ ] 🔴 **Khao Lak 17.–22. jan** — strandhotellene er blokkbooket av charter

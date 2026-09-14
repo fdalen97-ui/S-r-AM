@@ -37,8 +37,10 @@ Laos-modulen). Vaskeservice finnes overalt (~10–20 kr/kg, ferdig neste dag) �
 | 1 | Solhatt/caps + solbriller | — |
 
 **Sko (3 par, ikke flere):** 1 par gode sandaler (Teva/Birkenstock-typen —
-90 % av turen) · 1 par lette joggesko (Angkor-dagene = 10+ km gange,
-Bokor, flyreiser) · 1 par flip-flops (strand, dusj, rafthus).
+90 % av turen, **webbing og ikke skinn**, se
+[`smarte-kjop.md`](smarte-kjop.md) punkt 13) · 1 par lette joggesko
+(Angkor-dagene = 10+ km gange, Bokor, flyreiser) · 1 par flip-flops
+(strand, dusj, rafthus).
 
 ## 🧴 Toalettsaker & helse
 
@@ -53,6 +55,16 @@ Bokor, flyreiser) · 1 par flip-flops (strand, dusj, rafthus).
   hører til Peru-turen, ikke denne
 - **Vaksinesjekk 6–8 uker før:** hepatitt A/B oppdatert, evt. tyfoid —
   reiseklinikk (jf. viktig-listen i turplanen)
+- **Hengende toalettmappe med krok** (én hver, ~250–400 kr — Osprey
+  Ultralight Washbag Zip-typen) — ikke en flat pose. Guesthouse-badene i
+  Chiang Mai, Kampot og på øyene er **våtrom der gulvet er dusjen**; det
+  finnes ingen tørr flate å sette noe på. En krok over dørkarmen løser hele
+  problemet, og ferdigsettene i norske reisebutikker (f.eks. North Pioneer
+  Toiletry kit, 299 kr) er poser uten krok — feil produkt. Fyll den heller
+  med **silikonflasker fra nett** (~100 kr for 4-pk) enn å kjøpe sett med
+  shampo/balsam dere uansett får gratis på hotellene og billig på 7-Eleven.
+  💡 Legg et stykke plastfolie under korken på alle flasker før avreise —
+  trykkfallet i lasterommet presser innholdet opp gjennom flipp-korker
 - Håndsprit, våtservietter, solid deodorant, tannbørste-etui
 - Menstruasjonsprodukter for hele turen hvis dere har preferanser (utvalget
   varierer)
@@ -61,9 +73,13 @@ Bokor, flyreiser) · 1 par flip-flops (strand, dusj, rafthus).
 
 ## 🔌 Elektronikk
 
-- **Universaladapter ×2** — Thailand/Kambodsja/Vietnam bruker 230 V med
-  blandede uttak (de fleste tar EU-plugg rett inn, men hybriduttakene
-  varierer; universal m/2 USB-porter er tryggest)
+- **65W GaN-lader m/2× USB-C PD + 1 universaladapter som backup** —
+  Thailand, Kambodsja, Laos og Vietnam kjører 220–230 V / 50 Hz som Norge, og
+  hybriduttakene tar **den norske europluggen rett inn**. Dere trenger altså
+  ikke adapter til daglig bruk — bare til de britiske trepinners-kontaktene
+  som dukker opp på enkelte hoteller i Kambodsja og Vietnam. Flaskehalsen er
+  antall kontakter i rommet (ofte to bak sengegavlen), ikke pluggformen:
+  én GaN-kloss lader laptop + to telefoner + powerbank fra én kontakt
 - **Powerbank 10–20 000 mAh** (lange bussdager; skal i HÅNDBAGASJEN på fly)
 - Telefon = kamera + kart + Grab. **eSIM ordnes hjemmefra** (Airalo/Holafly
   e.l., ~100–200 kr per land, eller regional SEA-pakke) — aktiver
@@ -96,7 +112,13 @@ Bokor, flyreiser) · 1 par flip-flops (strand, dusj, rafthus).
 3. **Lakenpose (silke)** — nattbuss-backup, enkle homestays, hygienefølelse
 4. **Hengelås ×2** (hostellskap, sekkeglidelåser på nattbussen) +
    liten kabellås til bussbagasje
-5. **Ørepropper + sovemaske** — gatelyd i Hanoi-klassen finnes i alle byene
+5. **Ørepropper + 3D-sovemaske** — velg den uthulede (3D) typen, ikke den
+   flate: ingen press på øyelokkene, og man kan blunke inne i den. Den har
+   tre jobber på denne turen: TG955 er en **11 timers dagflyvning** dere må
+   sove på for å lande fungerende 06:20 og rekke Fujii Kaze samme kveld ·
+   **nattoget til Chiang Mai** har lys i kupeen hele natta · gatelyd i
+   Hanoi-klassen finnes i alle byene. ~150–300 kr — den ene varen der det
+   lønner seg å prøve i butikk (den må tette mot nesebroen)
 6. **Vannflaske m/filter** (LifeStraw/Grayl) eller vanlig flaske +
    refill-stasjoner — sparer 100+ plastflasker og noen hundrelapper
 7. **Snorkelmaske (egen)** hvis dere er kresne på pasning — leies ellers
