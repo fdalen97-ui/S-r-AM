@@ -34,11 +34,21 @@ varighet»** — 70 dager. Turen på 37 dager er godt innenfor, og selv en
 utvidelse ville gått fint. **Ingen utvidelse nødvendig.**
 
 > ⚠️ **MEN:** feriekompensasjonen (20 000 kr, sengeleie ved sykdom) gjelder
-> kun *«feriereise med planlagt varighet **inntil 5 uker**»*. 26. des–31. jan
-> er **37 dager = 5 uker + 2 dager** — så den ene dekningen faller bort.
-> Ferieavbrytelse (100 000) har ingen slik grense og består.
-> **Vil dere beholde feriekompensasjonen: legg turen på 35 dager eller
-> kortere.**
+> kun *«feriereise med planlagt varighet **inntil 5 uker**»* — bekreftet
+> ordrett i Gjensidiges egne alminnelige vilkår for Reise (hentet 17. sept
+> 2026, samme formulering som i Tekna-polisen).
+>
+> **Dette er ikke en kjøpbar grense.** De «flere reisedager»-utvidelsene
+> Gjensidige selger (opptil 42 ekstra uker) forlenger kun den *generelle*
+> gyldigheten (sykdom, bagasje, hjemtransport) — 5-ukersvilkåret for
+> feriekompensasjon står i selve godets definisjon og flytter seg ikke med
+> en kjøpt utvidelse.
+>
+> **Med den faktiske avreisen 30. desember 2026:** Blokk 1–3 (uten Khao
+> Yai-forlengelsen) lander hjem 29. januar = **31 dager — 4 dagers buffer**
+> under 5-ukersgrensen. Legges Blokk 4 til (Khao Yai + Bangkok Music City,
+> hjem 5. februar), blir det 38 dager og feriekompensasjonen faller bort.
+> Ferieavbrytelse (100 000) har ingen slik grense og består uansett.
 
 ## 💰 Funn 3: polisen er sterk — og har NULL egenandel
 
@@ -131,7 +141,8 @@ hvis dere vil noe annet.
 
 - [ ] 🔴 **Skaff kjæresten hennes egen reiseforsikring** (eller bekreft at
       hun har en) — dette er den eneste kritiske mangelen
-- [ ] 🟡 Vurder **35 dager i stedet for 37** hvis feriekompensasjonen betyr noe
+- [ ] 🟡 Hold turen på **35 dager eller kortere** (hjem senest 3. feb) hvis
+      feriekompensasjonen betyr noe — bufferen er nå 4 dager, ikke null
 - [ ] 🟡 **Oppnevn hverandre som begunstiget** (dødsfall) hvis dere er samboere
 - [ ] 🟡 Bekreft at **Tekna-medlemskapet løper** gjennom hele reisen
 - [ ] 🟢 Leiebil i Chiang Mai: sørg for **CDW + TP** og at egenandelen står i
