@@ -1,11 +1,35 @@
-# ✈️ Utreisen Oslo → Bangkok i romjula — datoene, selskapene og den ekte totalen
+# ✈️ Utreisen Oslo → Bangkok i romjula — BOOKET
 
-*🔄 **Oppdatert 14. september 2026** (opprinnelig 10.–12. sept). Live-priser
-for **to voksne, én vei, økonomi**. **Alle priser i NOK** (USD 10,2). Totalen
-er det dere faktisk betaler for å sitte ved siden av hverandre med innsjekket
-bagasje og mat — ikke lokkeprisen.*
+*🔒 **Booket 17. september 2026.** PNR 8DHUIF, betalt, bekreftet. Alt under
+denne boksen er research fra FØR bookingen — beholdt som referanse, men
+billetten er tatt.*
 
-> ## 💰 Ny hovedanbefaling: Qatar via Doha slår nonstop med ~10 000 kr
+> ## 🎫 Den ekte billetten
+>
+> **Qatar Airways, onsdag 30. desember 2026.**
+>
+> | | |
+> |---|---|
+> | Oslo 09:00 → Doha 17:30 | QR180, Boeing 787-8, 6t30 |
+> | Doha-opphold | 2t30 |
+> | Doha 20:00 → **Bangkok, torsdag 31. des 06:15** | QR830, Boeing 787-9, 6t15 |
+> | Bagasje | 25 kg/person inkludert |
+> | Seter | Sammen på begge ben (32A/32B, 38K/38J) |
+> | **Total pris** | **13 906 kr** for to (12 234 fly + 1 672 setevalg) |
+>
+> Dette er **5 dager senere** enn forrige anbefaling (25. des) og treffer
+> nesten nøyaktig det billige 30.–31. des-vinduet som ble identifisert i
+> researchen under — et godt kjøp, ikke et tapt sjansespill. Hele
+> day-by-day-planen er regnet om i [`indokina-storrunden.md`](indokina-storrunden.md).
+>
+> ⚠️ **Fujii Kaze-konsertens avlysning gjør 26.-des-ankomsten irrelevant
+> uansett** — se `looper.md`/`festivaler-og-eventer.md` for erstatning.
+
+---
+
+## 📚 Research fra før bookingen (referanse)
+
+> ## 💰 Tidligere hovedanbefaling: Qatar via Doha slo nonstop med ~10 000 kr
 >
 > Et bredt søk på tvers av alle ruter (nonstop, Doha, Istanbul, Dubai,
 > Helsingfors/Shanghai) 25. desember viser at **Qatar Airways via Doha er
