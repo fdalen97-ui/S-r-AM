@@ -62,6 +62,34 @@ ikke la den friste på bookingsider.
 **Anbefalt kombinasjon:** 2 netter Loy La Long + siste natt Sala River View —
 eller 3 netter Loy La Long og legg splurgen i en middag i stedet.
 
+### 🏆 Verdi-rangering: kvalitet mot pris, 31. des–3. jan (sjekket 19. sep 2026)
+
+*Expedia-priser per natt for to, USD × 10,2. Gjestescore av 10. Veiledende — sjekk
+totalpris med skatt før booking. Rangert på score per krone, vektet for hvor godt
+stedet passer nyttårsplanen (fyrverkeri ved elva, Talat Noi/Chinatown, omakase 2. jan).*
+
+| # | Hotell | Område | Score | Pris/natt | Dommen |
+|---|---|---|---|---|---|
+| 1 | **Loy La Long — Blue** | Talat Noi | (7 rom, ingen Expedia-score) | **1 276** (early bird) | Egen balkong ut i elva = gratis nyttårssete. Uslåelig for pengene så lenge Blue/White er ledig |
+| 2 | **iSanook Bangkok** | Sam Yan / Hua Lamphong | 9,0 | **~500** | Byens beste råverdi: takbasseng, 10 min gange til Chinatown, MRT rett ved. Nyttårsnatt = 15 min til elva |
+| 3 | **Ago Bangkok Chinatown** | Song Wat | 9,4 | ~1 480 | Designhotell 5 min fra Loy La Long, holder hele planen intakt. Beste plan B |
+| 4 | **Grande Centre Point Sukhumvit 55** | Thonglor | 9,6 (1 824 anm.) | ~1 540 | Beste «ordentlige hotell» per krone i byen: basseng, badekar, kjøkkenkrok. Men feil side av byen for fyrverkeri (BTS + båt, ~40 min) |
+| 5 | **Centara Life Phra Nakhon** | Old Town | 9,2 | ~930 | Kjedekvalitet til gjestehuspris, 15 min tuk-tuk til Talat Noi |
+| 6 | Tinidee Trendy Khaosan | Old Town | 9,4 | ~825 | Nytt, høyt score, men Khaosan-larm nyttårsnatt |
+| 7 | **ASAI Bangkok Chinatown** | Yaowarat | 9,4 | ~1 650 | Fortsatt bra, men Ago slår den på pris med samme score |
+| 8 | Holiday Inn Express Central Pier | Saphan Taksin | 9,0 | ~1 700 | Takbasseng ved piren — best logistikk for fyrverkeri, kjedeløst rom |
+| 9 | The Landmark | Sukhumvit / Nana | 9,4 | ~1 460 | Klassisk luksus billig, men Nana er feil nabolag for dere |
+| 10 | Grande Centre Point Surawong | Silom / Chinatown-grensa | **9,8** | ~2 660 | Høyeste score på hele lista, takbasseng, gangavstand til Chinatown. Beste *splurge*-verdi |
+| Splurge | Avani+ Riverside | Elva, Klong San | 9,6 | ~4 610 | Takbasseng med fyrverkeriet rett foran. Kun hvis 1 natt (31. des) — og da slår River City-rooftopen (1 999 THB) den på pris |
+| Splurge | Millennium Hilton | Elva, Klong San | 9,6 | ~4 745 | Samme utsikt som Avani, 130 kr dyrere. Dropp |
+
+**Dropp:** Josh Hotel (350 kr, men 8,2 — for lavt), Hotel Royal (1 070 kr og 8,6 — Centara Life er bedre og billigere), Central Old Town Cottage (9,8 men bare 25 anmeldelser), Ten Six Hundred (2 950 kr for 9,0 — betaler for navnet).
+
+**Konkret råd for 3 netter:**
+- **Plan A:** 3 × Loy La Long Blue = ~3 830 kr. Ferdig.
+- **Plan B (Blue/White opptatt):** 3 × Ago = ~4 440 kr, eller 3 × iSanook = ~1 500 kr og legg differansen (~2 300 kr) i omakase + River City-rooftop.
+- **Hybrid for basseng-lyst:** 2 × iSanook + 1 × Grande Centre Point Surawong (2. jan, dagen med omakase) = ~3 660 kr — billigere enn Plan A med takbasseng inkludert.
+
 ## Romjul-programmet (3 dager, priser for dere to)
 
 **Dag 1 — søndag 28.12../27.12.: marked + Chinatown-kveld**
