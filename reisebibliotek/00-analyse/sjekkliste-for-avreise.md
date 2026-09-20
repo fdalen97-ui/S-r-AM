@@ -74,7 +74,7 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
       det ved politikontroll, og **forsikringen faller bort uten gyldig
       førerrett i landet**. Ta **1968-versjonen** — den gjelder i Thailand og
       er den eneste Vietnam godtar.
-- [ ] 🟡 **Leiebil 7.–11. jan: hент i Chiang Mai by, lever på CNX.**
+- [ ] 🟡 **Leiebil 7.–11. jan: hent i Chiang Mai by, lever på CNX.**
       Anbefalt: **Toyota Corolla Cross 1.8** (~1 650 THB/dag) hos
       **North Wheels** eller Thai Rent A Car. **Ikke ta 1,2-liters** —
       rute 1263 over Mae Chaem er for bratt for den. Legg til **full
