@@ -2,7 +2,7 @@
 
 *Samlet fra hele biblioteket. Sortert etter **når** det må gjøres, ikke etter
 tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
-Avreise: **26. desember 2026**.*
+**Avreise: 30. desember 2026** (Qatar QR180, OSL 09:00 → BKK 31. des 06:15).*
 
 ---
 
@@ -11,9 +11,10 @@ Avreise: **26. desember 2026**.*
 - [x] ✅ **Utreisen bestilt: Qatar QR180/QR830, ons 30. des 09:00 → Doha → tor 31. des 06:15 Bangkok, PNR 8DHUIF, 13 906 kr for to** — betalt og bekreftet 17. sept. Se [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md) og oppdatert day-by-day i [`indokina-storrunden.md`](indokina-storrunden.md)
 
 ### Booking som forsvinner først
-- [ ] 🔴 **Khao Lak 17.–22. jan** — strandhotellene er blokkbooket av charter
-      et år i forveien og borte i september. Valget: The Sands (1 972/natt)
-      eller Rakkawan + én splurgenatt (5 710 totalt). → [`overnatting.md`](overnatting.md)
+- [ ] 🔴 **Khao Lak 19.–23. jan** (⚠️ datoene flyttet seg 2 dager da flyet ble
+      booket — gamle notater sier 17.–22.) — strandhotellene er blokkbooket av
+      charter et år i forveien og borte i september. Valget: The Sands
+      (1 972/natt) eller Rakkawan + én splurgenatt. → [`overnatting.md`](overnatting.md)
 - [ ] 🔴 **Similan-liveaboard / «sov på Surin»** — selges ut 3–5 mnd før for
       januar. Dolphin Queen er par-favoritten (~12 800 for begge).
       → [`flerdagsopplegg.md`](flerdagsopplegg.md)
@@ -41,9 +42,12 @@ Avreise: **26. desember 2026**.*
       kun direktebooking på guesthouse.granmonte.com.
 
 ### Flyene (rekkefølgen betyr noe)
-- [ ] 🔴 **Sjekk Norse OSL–BKK/HKT-avgangsdager** rundt 26. des og 23.–24.
-      jan — de flyr ~5 ganger i uka, og ukedagen avgjør om dere flyr hjem
-      23., 24. eller 25.
+- [ ] 🔴 **HJEMREISEN er nå den eneste uavklarte flybillingen.** Utreisen er
+      booket. Hjem fra Bangkok **5. februar** = 38 dager (innenfor forsikringens
+      70, men over 35-grensen for feriekompensasjon — se
+      [`forsikring-og-rettigheter.md`](forsikring-og-rettigheter.md)).
+      Hjem **3. februar = 35 dager** beholder feriekompensasjonen på 20 000 kr.
+      Bestem hvilken, og book EØS-selskap.
 - [ ] 🟡 **Velg EØS-selskap på hjemreisen** (Norse/Finnair/KLM/Lufthansa) —
       verdt 600 € p.p. i EU261-beskyttelse. Thai/Emirates/Qatar gir null på
       den strekningen. → [`forsikring-og-rettigheter.md`](forsikring-og-rettigheter.md)
@@ -54,10 +58,12 @@ Avreise: **26. desember 2026**.*
 - [ ] 🟡 Book de interne flyene: BKK→REP, PQC→SGN, SGN→HKT (+ ev. HKT→CNX).
 
 ### Forsikring og førerkort — de to store beslutningene
-- [ ] 🔴 **Kjøp/aktiver reiseforsikringen FØR dere betaler første flybillett**
-      — avbestillingsdekningen krever at den er gyldig før første innbetaling.
-- [ ] 🔴 **Les forsikringsbeviset** og noter: antall reisedøgn (37 er
-      innenfor hos alle, men sjekk *ditt* bevis), forsikringssummer,
+- [ ] 🔴 **Bekreft at Gjensidige/Tekna-forsikringen var aktiv 17. sept** (dagen
+      flybilletten ble betalt). Avbestillingsdekningen gjelder kun hvis polisen
+      var gyldig før første innbetaling. Er den en løpende helårspoliser, er
+      dette i orden — bekreft skriftlig, ikke muntlig.
+- [ ] 🔴 **Les forsikringsbeviset** og noter: **reisens lengde (38 dager ved
+      hjemreise 5. feb — sjekk mot ditt bevis)**, forsikringssummer,
       egenandeler, **alarmsentralens nummer**.
 - [ ] 🔴 **Avklar scooter-spørsmålet nå:** ta klasse A1 (~15–25 000 kr, noen
       uker) — eller bestem at dere ikke kjører. Uten A1/A dekker
@@ -74,9 +80,14 @@ Avreise: **26. desember 2026**.*
       (generisk navn) for tollen.
 
 ### Konsertene som allerede er i salg
-- [ ] 🟡 **Fujii Kaze, Bangkok 26. des** (fra ~810 kr) — krever at dere lander
-      *den* dagen. Turens kuleste konsert. → [`festivaler-og-eventer.md`](festivaler-og-eventer.md)
-- [ ] 🟢 Westlife Bangkok 25. jan / Singapore 16.–17. jan (hvis uke 5 tillater).
+- [x] ~~Fujii Kaze, Bangkok 26. des~~ — **avlyst**, og dere lander uansett
+      først 31. des. → [`festivaler-og-eventer.md`](festivaler-og-eventer.md)
+- [x] ~~Westlife Bangkok 25. jan~~ — dere er på Phuket/Koh Yao Noi de dagene.
+- [ ] 🔴 **Zamna Phuket 23.–24. jan — billetter.** Den ene konserten som låser
+      hele ruta. Kjøp før venue annonseres.
+- [ ] 🟡 **Nyttårsaften: River City-rooftop 31. des** (1 999 THB p.p.) — slippes
+      normalt i oktober. Sett en påminnelse.
+      → [`festivaler-og-eventer.md`](festivaler-og-eventer.md)
 
 ---
 
