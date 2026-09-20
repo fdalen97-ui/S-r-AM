@@ -46,10 +46,19 @@ gamleby, halve prisen av utsiktshotellene. Budsjett: **Baan Wanglang (576)**
 
 ---
 
-## 2. 🇰🇭 Siem Reap · 31. des – 3. jan (3 netter, inkl. nyttår)
+## 2. 🇰🇭 Siem Reap · 11.–13. jan (2 netter)
 
-**Nyttårspåslaget er brutalt i toppsjiktet (2–2,5×) — men mellomklassen er
-knapt berørt. Der ligger verdien.**
+> ✅ **Oppdatert 20. sep 2026 — gode nyheter.** Siem Reap er flyttet fra
+> nyttår til **11.–13. januar (2 netter)**, og **hele nyttårspåslaget
+> forsvinner.** Ferske priser for de nye datoene:
+> **Rambutan Resort 858/natt** (var 1 039) · **Jaya House River Park
+> 4 073/natt** (var 3 744 — toppsjiktet er dyrere i januar-høysesongen,
+> men nå er det bare 2 netter).
+> **Ny anbefaling: 2 netter Rambutan = 1 715 kr.** Splurge-varianten
+> 2 netter Jaya House = 8 146 kr. Den gamle «kritisk hast»-advarselen
+> gjelder ikke lenger — januar midt i uka er ikke utsolgt.
+
+**Tabellen under er fra nyttårsdatoene og ligger høyere enn dagens priser.**
 
 | Sted | Pris | 3 netter | Score |
 |---|---|---|---|
@@ -77,7 +86,8 @@ daglig spabehandling per gjest × 3 netter henter inn reell verdi, og 9,9 av
 7 078 anmeldelser er ikke tilfeldig. **Kompromiss:** 2 netter Rambutan +
 nyttårsnatt Jaya House = 5 822.
 
-**🔴 KRITISK HAST:** nyttår i Siem Reap er utsolgt i oktober.
+~~**🔴 KRITISK HAST:** nyttår i Siem Reap er utsolgt i oktober.~~
+**Ikke lenger kritisk** — dere er der 11.–13. jan, ikke i nyttårshelgen.
 
 ---
 

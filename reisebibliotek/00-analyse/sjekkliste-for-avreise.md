@@ -65,11 +65,21 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
 - [ ] 🔴 **Les forsikringsbeviset** og noter: **reisens lengde (38 dager ved
       hjemreise 5. feb — sjekk mot ditt bevis)**, forsikringssummer,
       egenandeler, **alarmsentralens nummer**.
-- [ ] 🔴 **Avklar scooter-spørsmålet nå:** ta klasse A1 (~15–25 000 kr, noen
-      uker) — eller bestem at dere ikke kjører. Uten A1/A dekker
-      **ansvarsforsikringen dere overhodet ikke** som fører, og egenandelen
-      på leid scooter dekkes av ingen. Mae Hong Son-loopen kan kjøres med
-      **leiebil** (155–350 kr/dag, fullt lovlig på klasse B + IDP).
+- [x] ✅ **Scooter-spørsmålet avgjort 20. sep: INGEN scooter. Leiebil i Chiang
+      Mai i stedet.** Dette fjerner turens største forsikringshull — uten
+      klasse A1 hadde ansvarsforsikringen ikke dekket dere som fører i det
+      hele tatt. Ingen A1 skal tas.
+- [ ] 🔴 **Bestill IDP (internasjonalt førerkort) hos NAF eller KNA — 200–350 kr,
+      tar noen dager.** Dette er nå kritisk, ikke valgfritt: leiebilen krever
+      det ved politikontroll, og **forsikringen faller bort uten gyldig
+      førerrett i landet**. Ta **1968-versjonen** — den gjelder i Thailand og
+      er den eneste Vietnam godtar.
+- [ ] 🟡 **Leiebil Chiang Mai → Mae Hong Son-loopen, 7.–11. jan (automat).**
+      800–1 500 THB/dag (~230–430 kr) hos de store i Chiang Mai. Book
+      **automat** — loopen har 1 864 svinger og bratte stigninger.
+      Kjøp **full dekning/Full Coverage** i tillegg; standarddekningen i
+      dagsprisen holder ikke. Krev ubegrenset kilometer.
+      → [`transport.md`](transport.md)
 
 ### Helse
 - [ ] 🔴 **Bestill vaksinetime** — **rabies-serien tar 3–4 uker**, så denne
@@ -103,8 +113,8 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
       kaffeopplevelse. hello@lacaph.com → [`kaffe.md`](kaffe.md)
 - [ ] 🟡 **Send e-post til Akha Ama** (Chiang Mai) om «Coffee Journey» går i
       innhøstingssesongen 2026/27 — relevant hvis uke 5 blir Chiang Mai.
-- [ ] 🟢 Bestill **IDP** hos NAF/KNA (200–350 kr) hvis dere skal kjøre noe
-      som helst — **Vietnam godtar kun 1968-versjonen**.
+- [x] ~~Bestill IDP~~ — flyttet opp til 🔴 kritisk i NÅ-lista etter
+      beslutningen om leiebil i Chiang Mai.
 
 ---
 
