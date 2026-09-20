@@ -15,7 +15,9 @@ opp, ikke ned — behandle tallene som gulv.*
 
 **God timing:** dere reiser 30., så dere unngår nyttårsnatt-spiken helt.
 
-### ✅ Loy La Long — BEKREFTET ÅPEN (9,3/10, 1 506 anmeldelser)
+> ⚠️ **Oppdatert 20. sep 2026:** Bangkok-oppholdet er nå **31. des–3. jan** (utreisen ble booket 30. des), og **Loy La Long svarte fullbooket.** Ny hovedpick: **Riva Arun** — se [`bangkok-romjul.md`](bangkok-romjul.md). Prisene under er fra 26.–30. des og ligger lavere enn nyttårsdatoene.
+
+### ❌ Loy La Long — FULLBOOKET for romjula (9,3/10, 1 506 anmeldelser)
 Fortsatt 7-roms teakhus på stylter over Chao Phraya, inne på tempelområdet
 til Wat Pathum Khongkha i Talat Noi. **⚠️ Ingen priser/ledighet dukket opp
 for 26.–30. des hos noen bookingside** — med 7 rom i romjula betyr det
@@ -39,7 +41,7 @@ Historisk ~1 200–1 900 inkl. frokost.
 gamleby, halve prisen av utsiktshotellene. Budsjett: **Baan Wanglang (576)**
 — Thonburi-siden har uansett bedre mat og stemning. Splurge én natt:
 **Riva Arun/Sala Rattanakosin** for Wat Arun opplyst fra terrassen.
-**Joker: får dere rom på Loy La Long, ta det fremfor alt annet.**
+~~**Joker: får dere rom på Loy La Long, ta det fremfor alt annet.**~~ *Fullbooket 20. sep.*
 *(The Siam ligger på 5 000–8 000 i romjula — 4–5× taket deres.)*
 
 ---
@@ -349,7 +351,7 @@ slutten av januar, og hyttene har verken varme eller isolasjon. Ta fleece.
 **🔴 DENNE UKA**
 1. **Khao Lak 17.–22. jan** — blokkbooket av charter et år i forveien
 2. **GranMonte Wine Cottage** — 7 rom, kun direkte (hvis Khao Yai velges)
-3. **Loy La Long 26.–30. des** — 7 rom, null ledighet på nett: send e-post
+3. **Bangkok 31. des–3. jan** — Loy La Long fullbooket; book Riva Arun direkte
 4. **Siem Reap nyttår** — alt brukbart er borte i oktober
 5. **Phuket 23.–24. jan** — *før* Zamna annonserer venue
 

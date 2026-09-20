@@ -33,7 +33,8 @@ ikke la den friste på bookingsider.
 |---|---|---|---|
 | Budsjett-kult | **ASAI Bangkok Chinatown** (Dusit) | Beste verdi på lista: design midt i Yaowarat, 1 min til MRT | ~600–750 |
 | Budsjett-kult | Hostel Urby (Song Wat) | Design-privatrom, saccosekk-balkong rett mot elven | ~380–500 |
-| **Midt** 💎 | **Loy La Long** (Talat Noi) | **7 rom i et 100 år gammelt trehus PÅ PÅLER UTE I ELVEN**, gjemt bak et tempel — Bangkoks kuleste romantiske adresse for pengene. Book «Blue» eller «White» med elvefront | ~1 050–1 200 |
+| ~~Midt~~ ❌ | ~~**Loy La Long** (Talat Noi)~~ | **FULLBOOKET for 31. des–3. jan (svar 20. sep 2026).** Beholdt under som referanse — var Bangkoks kuleste romantiske adresse for pengene | ~~1 050–1 200~~ |
+| **Midt** 💎 | **Riva Arun** (Tha Tien) | **NY HOVEDPICK.** Elverom med balkong rett mot Wat Arun, takrestaurant, 9,3. Book «Grand Deluxe» (full elv + tempel) eller «Deluxe» (elv). Direkte: stay@rivaarunbangkok.com / +66 2 221 1188 | fra ~1 030 (lavsesong) — regn 1 500–2 000 nyttår |
 | Midt | **The Mustang Blu** | 100 år gammel bank forvandlet til rå-elegant boutique — byens mest fotograferte lobby | ~1 550–2 200 |
 | Midt | Baan 2459 (Yaowarat) | 4 rom i 1916-herskapshus, par-score 9,8 | ~1 550–1 800 |
 | **Splurge** ⭐ | **Sala Rattanakosin — River View Deluxe** | Wat Arun lyssatt RETT utenfor vinduet + takbaren «The Roof». Book River View-kategorien — det er hele poenget | ~2 600–3 500 |
@@ -42,7 +43,7 @@ ikke la den friste på bookingsider.
 **Bookingfrist:** småhotellene (Loy La Long 7 rom, Baan 2459 4 rom) selges ut
 **3–6 måneder før** — book senest september, med fri avbestilling.
 
-### 🛏️ Loy La Long — rom for rom (fra hotellets egen prisliste, aug. 2026)
+### 🛏️ Loy La Long — rom for rom (fra hotellets egen prisliste, aug. 2026) — ❌ FULLBOOKET 20. sep, kun referanse
 
 *Priser per natt for to, THB 0,29. **Early bird = booket innen 31. okt 2026.** Depositum 100 % ved booking, avbestilling <45 dager = tapt depositum (dekket av avbestillingsforsikringen deres).*
 
@@ -59,8 +60,7 @@ ikke la den friste på bookingsider.
 
 **Bookes direkte:** info@loylalong.com / +66 89 133 1131. 7 rom — romjula går 3–6 måneder før. Airport-transfer 1 000 THB (SUV, 4 pers.).
 
-**Anbefalt kombinasjon:** 2 netter Loy La Long + siste natt Sala River View —
-eller 3 netter Loy La Long og legg splurgen i en middag i stedet.
+~~**Anbefalt kombinasjon:** 2 netter Loy La Long + siste natt Sala River View.~~ *Utgått — se «Plan B låst» nederst i utsikt-rangeringen.*
 
 ### 🏆 Verdi-rangering: kvalitet mot pris, 31. des–3. jan (sjekket 19. sep 2026)
 
@@ -70,7 +70,7 @@ stedet passer nyttårsplanen (fyrverkeri ved elva, Talat Noi/Chinatown, omakase 
 
 | # | Hotell | Område | Score | Pris/natt | Dommen |
 |---|---|---|---|---|---|
-| 1 | **Loy La Long — Blue** | Talat Noi | (7 rom, ingen Expedia-score) | **1 276** (early bird) | Egen balkong ut i elva = gratis nyttårssete. Uslåelig for pengene så lenge Blue/White er ledig |
+| ~~1~~ | ~~**Loy La Long — Blue**~~ | Talat Noi | — | ~~1 276~~ | **FULLBOOKET 20. sep.** Var vinneren |
 | 2 | **iSanook Bangkok** | Sam Yan / Hua Lamphong | 9,0 | **~500** | Byens beste råverdi: takbasseng, 10 min gange til Chinatown, MRT rett ved. Nyttårsnatt = 15 min til elva |
 | 3 | **Ago Bangkok Chinatown** | Song Wat | 9,4 | ~1 480 | Designhotell 5 min fra Loy La Long, holder hele planen intakt. Beste plan B |
 | 4 | **Grande Centre Point Sukhumvit 55** | Thonglor | 9,6 (1 824 anm.) | ~1 540 | Beste «ordentlige hotell» per krone i byen: basseng, badekar, kjøkkenkrok. Men feil side av byen for fyrverkeri (BTS + båt, ~40 min) |
@@ -86,8 +86,8 @@ stedet passer nyttårsplanen (fyrverkeri ved elva, Talat Noi/Chinatown, omakase 
 **Dropp:** Josh Hotel (350 kr, men 8,2 — for lavt), Hotel Royal (1 070 kr og 8,6 — Centara Life er bedre og billigere), Central Old Town Cottage (9,8 men bare 25 anmeldelser), Ten Six Hundred (2 950 kr for 9,0 — betaler for navnet).
 
 **Konkret råd for 3 netter:**
-- **Plan A:** 3 × Loy La Long Blue = ~3 830 kr. Ferdig.
-- **Plan B (Blue/White opptatt):** 3 × Ago = ~4 440 kr, eller 3 × iSanook = ~1 500 kr og legg differansen (~2 300 kr) i omakase + River City-rooftop.
+- ~~**Plan A:** 3 × Loy La Long Blue = ~3 830 kr.~~ *Fullbooket.*
+- **Plan B (uten utsiktskrav):** 3 × Ago = ~4 440 kr, eller 3 × iSanook = ~1 500 kr og legg differansen (~2 300 kr) i omakase + River City-rooftop.
 - **Hybrid for basseng-lyst:** 2 × iSanook + 1 × Grande Centre Point Surawong (2. jan, dagen med omakase) = ~3 660 kr — billigere enn Plan A med takbasseng inkludert.
 
 ### 🌅 Utsikt-rangering: når utsikten er hovedkriteriet (sjekket 19. sep 2026)
@@ -100,7 +100,8 @@ stedet passer nyttårsplanen (fyrverkeri ved elva, Talat Noi/Chinatown, omakase 
 
 | # | Hotell | Score | Fra/natt | Utsikten | Dommen |
 |---|---|---|---|---|---|
-| 1 | **Loy La Long — Blue/White** | 9,3 (Trivago) | **1 276** (EB) | Balkong ute i elva, Klong San rett over, fyrverkeriet skrått mot sør | Fortsatt vinneren. Ingen pris online for datoene = book direkte på e-post NÅ |
+| ~~1~~ | ~~**Loy La Long — Blue/White**~~ | 9,3 | ~~1 276~~ | Balkong ute i elva, fyrverkeriet skrått mot sør | **FULLBOOKET 20. sep.** |
+| 1b | **Hostel Urby** (Song Wat) | 9,0 | **~630** | Felles takterrasse med saccosekker rett mot elva og Klong San — fyrverkeriet fra terrassen, ikke fra rommet | Billigste fyrverkeri-utsikt i byen. Enkle private rom uten utsikt |
 | 2 | **Avani+ Riverside** | 9,3 | ~4 330 | Høyhus rett ved ICONSIAM, elverom vender mot showet, takbasseng 26. etg. | Beste «store» utsiktshotell: billigere enn Hilton/Chatrium/Sheraton med samme score. Ta kun 1 natt (31. des) |
 | 3 | Millennium Hilton | 9,0 | ~5 160 | Samme bredd som Avani, panoramarom | 830 kr dyrere enn Avani for lavere score. Dropp |
 | 4 | Chatrium Riverside | 9,3 | ~5 580 | Suiter med balkong, ser både ICONSIAM og Asiatique | Best utsikt av kjedene, men dyrest. Kun hvis Avani er fullt |
@@ -113,11 +114,12 @@ stedet passer nyttårsplanen (fyrverkeri ved elva, Talat Noi/Chinatown, omakase 
 
 | # | Hotell | Score | Fra/natt | Utsikten | Dommen |
 |---|---|---|---|---|---|
-| 1 | **Inn A Day** (Tha Tien) | **9,5** | ingen pris online ennå | 11 rom, Wat Arun rett over elva fra vindu/balkong | Beste score i hele Bangkok for utsikt. Skriv direkte og be om Wat Arun-rom |
-| 2 | **Riva Arun** | 9,3 | ingen pris online ennå | Elverom med balkong, takrestaurant mot Wat Arun | Nyere og bedre enn Sala for pengene — kontakt direkte |
+| 1 | **Inn A Day** (Tha Tien) | **9,5** | fra ~860 lavsesong (THB 2 974); ikke åpnet for nyttår | 11 rom i en gammel kokossukkerfabrikk, Wat Arun rett over elva fra vindu/balkong, takbar | Beste score i hele Bangkok for utsikt. Direkte: info@innaday.com / +66 2 221 0577 |
+| 2 | **Riva Arun** ⭐ | 9,3 | fra ~1 030 lavsesong (Deluxe THB 3 539, Grand Deluxe THB 4 551) | Deluxe: elva fra rommet. Grand Deluxe: full elv + Wat Arun. Takrestaurant mot tempelet | **Ny hovedpick.** Nyere og bedre enn Sala for pengene. Direkte: stay@rivaarunbangkok.com / +66 2 221 1188 |
 | 3 | Sala Rattanakosin — River View Deluxe | 8,5–8,8 | ~4 150 (basisrom) | Den klassiske Wat Arun-rammen + takbaren | Har blitt for dyr for scoren. Kun 1 natt hvis dere vil ha *akkurat* dette bildet |
 | 4 | Arun Residence | 8,3 | ~3 220 | Wat Arun fra The Deck-restauranten | Gammelt og dyrt. Dropp |
-| 5 | Baan Wanglang (Thonburi) | 8,9 | ingen pris online ennå | Toppetasje/takterrasse mot Grand Palace og elva | Vanligvis 800–1 200 kr. Sjekk direkte |
+| 5 | Baan Wanglang (Thonburi) | 8,9 | ingen pris online ennå | Elverom mot Grand Palace, takrestaurant «342» med Wat Arun + Wat Phra Kaew lyssatt | Vanligvis 800–1 200 kr, frokost inkl. Sjekk direkte |
+| 6 | Aurum The River Place (Tha Tien) | 9,1 | ingen pris online ennå | Elvefront ved Wat Pho, kolonialstil | Var hovedpick for 26.–30. des (1 115). Sjekk direkte som plan C |
 
 **C) Elveutsikt uten fyrverkeri — beste verdi**
 
@@ -127,13 +129,24 @@ stedet passer nyttårsplanen (fyrverkeri ved elva, Talat Noi/Chinatown, omakase 
 | 2 | **Riva Surya** (Phra Athit) | 9,4 | ~2 700 | Basseng og elverom rett på Chao Phraya, gangavstand til Khaosan/Old Town | Høyest score av alle med pris. Velg «Riva Deluxe River View» |
 | 3 | Praya Palazzo (Thonburi) | 9,0 | ~2 150 | Italiensk palazzo fra 1923, kun båtadkomst, elverom mot Phra Athit | Mest romantiske adresse på lista. Litt tungvint logistikk |
 
-**Dommen når utsikt teller mest:**
-- **Best totalt:** Loy La Long Blue. Elva, balkong, fyrverkeri og 1 276 kr. Ingen andre kombinerer alle fire.
-- **Hvis Loy La Long er fullt — utsikts-hybrid:** 31. des på **Avani+** (fyrverkeriet fra rommet/takbassenget) + 1.–2. jan på **Theatre Residence** = ~6 700 kr for tre netter, mot ~3 830 for Plan A. Bytt Theatre mot Riva Surya (+3 000 kr) hvis dere vil ha 9,4-standard og basseng.
-- **Wat Arun-varianten:** 2 netter Loy La Long + siste natt **Inn A Day** eller **Riva Arun** med tempelutsikt. Begge må kontaktes direkte — de har ikke lagt ut romjulsprisene ennå.
-- **Ikke gjør:** betale 5 000+ for Hilton/Chatrium/Sheraton. River City-rooftopen gir samme fyrverkeriutsikt for 1 999 THB per person, og pengene går lenger i Khao Lak.
+### 🔒 Plan B låst (20. sep 2026): Loy La Long fullbooket
 
-📧 **Handling nå:** e-post til Loy La Long (allerede utkast), Inn A Day og Riva Arun samme dag — alle tre er små, og romjula selges ut 3–6 måneder før.
+**Hovedpick: Riva Arun, 31. des–3. jan, «Grand Deluxe» (full elv + Wat Arun).**
+- Hvorfor: best utsikt per krone som faktisk kan bookes. 9,3 på 3 400 anmeldelser, balkong, takrestaurant mot tempelet, og lavsesongpris fra ~1 030 kr betyr at nyttår neppe overstiger 2 000. Tha Tien er 10 min Grab fra Talat Noi/omakasen og 5 min gange til Wat Pho.
+- Nyttårsaften: fyrverkeriet ses **ikke** herfra. Ta Grab til **River City-rooftopen** (1 999 THB) før kl. 20 — etter det er gatene rundt elva stengt. Hjem med Grab ~01:30 eller gå langs elva (40 min, trygt og festlig).
+- Bestill direkte: **stay@rivaarunbangkok.com** — be om Grand Deluxe, høy etasje, elvefront, og fri avbestilling.
+
+**Hvis Riva Arun også er fullt, i rekkefølge:**
+1. **Inn A Day** (9,5, Wat Arun-rom, info@innaday.com)
+2. **Riva Surya** Deluxe River View (9,4, ~2 700, basseng på elva)
+3. **Theatre Residence** elverom (9,0, ~1 180, Thonburi)
+4. **Ago Chinatown** (9,4, ~1 480 — ingen utsikt, men holder Talat Noi-planen)
+
+**Vil dere ha fyrverkeriet fra rommet?** Da er svaret 1 natt **Avani+ Riverside** 31. des (~4 330 + utsiktstillegg) og Riva Arun 1.–2. jan. Ett hotellbytte, ~2 500 kr dyrere enn River City-rooftopen. Min dom: ikke verdt det — rooftopen står rett overfor showet.
+
+**Ikke gjør:** betale 5 000+ for Hilton/Chatrium/Sheraton. Pengene går lenger i Khao Lak.
+
+📧 **Handling nå:** e-post til Riva Arun og Inn A Day samme dag — begge er små, og romjula selges ut 3–6 måneder før.
 
 ## Romjul-programmet (3 dager, priser for dere to)
 
@@ -172,7 +185,7 @@ Chinatown-hus rundt Song Wat. Glass fra ~90–130 kr (avgiftslandet, husk) —
 men én ordentlig vinbar-kveld hører hjemme i programmet deres.
 
 **Totalbudsjett 3 døgn utenom hotell: ~3 000–5 200 kr for dere to.** Med
-Loy La Long hele oppholdet: hele Bangkok-romjula ≈ **6 500–8 500 kr.**
+Riva Arun hele oppholdet (3 × 1 500–2 000): hele Bangkok-nyttåret ≈ **7 500–11 000 kr.**
 
 ---
 

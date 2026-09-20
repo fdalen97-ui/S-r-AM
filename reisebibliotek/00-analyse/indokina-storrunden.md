@@ -43,7 +43,7 @@ mister én dag med luft rundt den.
 
 | Dato | Sted | Dagen |
 |---|---|---|
-| **tor 31. des** | **Bangkok** 06:15 | Innsjekk Loy La Long (be om tidlig innsjekk), dusj, hvile · 🎆 **Nyttårsaften: ICONSIAM/NEON Countdown** (lineup 2026/27 slippes okt–nov, se `festivaler-og-eventer.md`) |
+| **tor 31. des** | **Bangkok** 06:15 | Innsjekk **Riva Arun** (Loy La Long fullbooket — be om tidlig innsjekk), dusj, hvile · 🎆 **Nyttårsaften: River City-rooftop / ICONSIAM Countdown** (lineup 2026/27 slippes okt–nov, se `festivaler-og-eventer.md`) |
 | fre 1. jan | Bangkok | Yaowarat, Wat Arun, elva |
 | **lør 2. jan** | Bangkok | 🍣 **Omakase** (Masato eller Ichizu) — *sjekk om okt-slippet dekker 31.des–2.jan* |
 | **søn 3. jan** | Bangkok → 🚆 **Nattog #9, kveld** | Ayutthaya med tog om dagen, nattog nordover om kvelden (1. kl. kupé) |
@@ -116,7 +116,7 @@ netter) uten å røre feriekompensasjonen.
 | Når | Hva |
 |---|---|
 | ✅ **Gjort 17. sept** | ✈️ **Utreisen booket** — Qatar QR180/QR830, 30. des, 13 906 kr |
-| **NÅ** | 🎧 **Zamna-billetter** (Phuket-arbitrasjen før venue slippes — datoene 23.–24. jan er uendret) · 🛏️ **Loy La Long** — bekreft innsjekk **31. des**, ikke 26. des (early bird t.o.m. 31. okt) |
+| **NÅ** | 🎧 **Zamna-billetter** (Phuket-arbitrasjen før venue slippes — datoene 23.–24. jan er uendret) · 🛏️ **Bangkok-hotell** — Loy La Long fullbooket (20. sep). Book **Riva Arun** direkte (stay@rivaarunbangkok.com), 31. des–3. jan, Grand Deluxe med elveutsikt |
 | **~5. okt** | 🚆 **Nattog #9, 1. klasse underkøye, 3. januar** — åpner ~90 dager før |
 | **14. okt kl. 19:00** | 🍣 **Masato-slippet** — sjekk om dette dekker **31. des–2. jan**; hvis ikke, vent på neste slipp |
 | sept–okt | 🛏️ Chiang Mai nyttårshotell for **31. des**-innsjekk · Ban Rak Thai · **Cave Lodge** · elefantreservatet |
