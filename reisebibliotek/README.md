@@ -25,7 +25,7 @@ vin/mat/sol/natur, prisbevisste, romjul + januar er reisevinduet.
 | Fil | Innhold |
 |-----|---------|
 | [`00-analyse/overnatting.md`](00-analyse/overnatting.md) | 🛏️ Hvor dere skal sove, stopp for stopp: live-priser for deres datoer, budsjett/hoved/splurge per stopp, bookingrekkefølgen og totalen |
-| [`00-analyse/bangkok-romjul.md`](00-analyse/bangkok-romjul.md) | 🏮 Bangkok i romjula: Talat Noi-basen, Loy La Long, countdown-festivalen og 3-dagersprogrammet |
+| [`00-analyse/bangkok-romjul.md`](00-analyse/bangkok-romjul.md) | 🏮 Bangkok nyttår 31. des–3. jan: hotellrangering på verdi og utsikt (Loy La Long fullbooket → Grande Centre Point Surawong), landingsmorgen-massasje, rooftop/omakase-dagene og dag-for-dag-programmet |
 | [`00-analyse/chiang-mai-bo-og-kjore.md`](00-analyse/chiang-mai-bo-og-kjore.md) | 🏡🚗 Chiang Mai: hvor dere bor (hva som er utsolgt til nyttår, de unike fjellstedene), de sju kjørerutene med veipunkter, onsen/spa og januarværet |
 | [`00-analyse/chiang-mai-mat.md`](00-analyse/chiang-mai-mat.md) | 🍜 Chiang Mai-matguiden: khao soi-rangeringen, Huen Muan Jai, Blackitch-splurgen, naturvin — og nyttårsukas åpningstider |
 | [`00-analyse/looper.md`](00-analyse/looper.md) | 🏍️ Loopene etter Ha Giang: Mae Hong Son-dypdykket (4 dager med bil, biltypen, gryturene, hvor dere sover), Thakhek/Bolaven/Nan rangert, og hva som overlever uten A-kort |

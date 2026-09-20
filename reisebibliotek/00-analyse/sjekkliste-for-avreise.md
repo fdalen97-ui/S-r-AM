@@ -2,25 +2,39 @@
 
 *Samlet fra hele biblioteket. Sortert etter **når** det må gjøres, ikke etter
 tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
-Avreise: **26. desember 2026**.*
+**Avreise: 30. desember 2026** (Qatar QR180, OSL 09:00 → BKK 31. des 06:15).*
 
 ---
 
 ## 🔥 NÅ (august–september) — det som er utsolgt hvis dere venter
 
-- [ ] 🔴 **Utreisen: Qatar QR180 fre 25. des 09:00 → Doha (9t20) → 26. des 13:05 Bangkok, ~14 235 kr for to** — bestill Qatar-billettert (ikke Iberia-kodet) for refunderbarhet + gratis STPC-hotell i Doha. 9 850 kr billigere enn Thai TG955 nonstop (24 084, ankomst 06:20). Sjekk seter raskt — kort-layover-varianten (06:40) gikk fra 9 til 2 seter på ett døgn. Se [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md)
+- [x] ✅ **Utreisen bestilt: Qatar QR180/QR830, ons 30. des 09:00 → Doha → tor 31. des 06:15 Bangkok, PNR 8DHUIF, 13 906 kr for to** — betalt og bekreftet 17. sept. Se [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md) og oppdatert day-by-day i [`indokina-storrunden.md`](indokina-storrunden.md)
 
 ### Booking som forsvinner først
-- [ ] 🔴 **Khao Lak 17.–22. jan** — strandhotellene er blokkbooket av charter
-      et år i forveien og borte i september. Valget: The Sands (1 972/natt)
-      eller Rakkawan + én splurgenatt (5 710 totalt). → [`overnatting.md`](overnatting.md)
+- [ ] 🔴 **Khao Lak 19.–23. jan** (⚠️ datoene flyttet seg 2 dager da flyet ble
+      booket — gamle notater sier 17.–22.) — strandhotellene er blokkbooket av
+      charter et år i forveien og borte i september. Valget: The Sands
+      (1 972/natt) eller Rakkawan + én splurgenatt. → [`overnatting.md`](overnatting.md)
 - [ ] 🔴 **Similan-liveaboard / «sov på Surin»** — selges ut 3–5 mnd før for
       januar. Dolphin Queen er par-favoritten (~12 800 for begge).
       → [`flerdagsopplegg.md`](flerdagsopplegg.md)
 - [ ] 🔴 **Cheow Lan-rafthusene (Khao Sok)** — Laguna Cheow Lan og Phupha
       Waree selges ut 3–6 mnd før. → [`batturer.md`](batturer.md)
-- [ ] 🔴 **Loy La Long, Bangkok 26.–30. des** — 7 rom, null ledighet på nett.
-      **Send e-post direkte** (og ha Aurum River Place som plan B).
+- [ ] 🔴 **Bangkok 31. des–3. jan — Loy La Long og Aurum FULLBOOKET (20. sep).**
+      Book **Grande Centre Point Surawong, Deluxe King med frokost, 8 562 kr
+      ikke-refunderbart på Booking.com (Genius 3)** — 1 rom igjen 20. sep.
+      Hotellets egen side har bare suiter til 5 800+/natt. E-post etterpå om
+      høy etasje og tidlig innsjekk. → [`bangkok-romjul.md`](bangkok-romjul.md)
+- [ ] 🔴 **NÅ: lag konto på dticket.railway.co.th** (pass-nr. + e-postverifisering
+      + telefon i thaiformat xxx-xxx-xxxx). Registreringen er det som feiler —
+      ikke gjør den på salgsdagen.
+- [ ] 🔴 **4. okt kl. 18:00 norsk tid (midnatt Bangkok): nattog #9, 3. jan,
+      Ayutthaya → Chiang Mai, 1. klasse HEL KUPÉ (3 092 THB ≈ 900 kr).**
+      Feiler kortet → 12go.asia umiddelbart. Plan B: tog #13 samme kveld.
+      Refusjon koster 70 %, så book hotellet først.
+- [ ] 🟠 **Chandee Sleep Salon, Silom — couple head spa + aroma 90 min,
+      31. des kl. 10:00** (THB 4 300). Maks 10 gjester per økt — book på
+      chandee.com samtidig med hotellet.
 - [ ] 🔴 **Phuket 23.–24. jan — book FØR Zamna annonserer venue.** Dere
       betaler nå vanlige januarpriser for en festivalhelg. HOMA Cherngtalay
       (1 572) er riktig base. Dette er ren arbitrasje.
@@ -28,9 +42,12 @@ Avreise: **26. desember 2026**.*
       kun direktebooking på guesthouse.granmonte.com.
 
 ### Flyene (rekkefølgen betyr noe)
-- [ ] 🔴 **Sjekk Norse OSL–BKK/HKT-avgangsdager** rundt 26. des og 23.–24.
-      jan — de flyr ~5 ganger i uka, og ukedagen avgjør om dere flyr hjem
-      23., 24. eller 25.
+- [ ] 🔴 **HJEMREISEN er nå den eneste uavklarte flybillingen.** Utreisen er
+      booket. Hjem fra Bangkok **5. februar** = 38 dager (innenfor forsikringens
+      70, men over 35-grensen for feriekompensasjon — se
+      [`forsikring-og-rettigheter.md`](forsikring-og-rettigheter.md)).
+      Hjem **3. februar = 35 dager** beholder feriekompensasjonen på 20 000 kr.
+      Bestem hvilken, og book EØS-selskap.
 - [ ] 🟡 **Velg EØS-selskap på hjemreisen** (Norse/Finnair/KLM/Lufthansa) —
       verdt 600 € p.p. i EU261-beskyttelse. Thai/Emirates/Qatar gir null på
       den strekningen. → [`forsikring-og-rettigheter.md`](forsikring-og-rettigheter.md)
@@ -41,16 +58,28 @@ Avreise: **26. desember 2026**.*
 - [ ] 🟡 Book de interne flyene: BKK→REP, PQC→SGN, SGN→HKT (+ ev. HKT→CNX).
 
 ### Forsikring og førerkort — de to store beslutningene
-- [ ] 🔴 **Kjøp/aktiver reiseforsikringen FØR dere betaler første flybillett**
-      — avbestillingsdekningen krever at den er gyldig før første innbetaling.
-- [ ] 🔴 **Les forsikringsbeviset** og noter: antall reisedøgn (37 er
-      innenfor hos alle, men sjekk *ditt* bevis), forsikringssummer,
+- [ ] 🔴 **Bekreft at Gjensidige/Tekna-forsikringen var aktiv 17. sept** (dagen
+      flybilletten ble betalt). Avbestillingsdekningen gjelder kun hvis polisen
+      var gyldig før første innbetaling. Er den en løpende helårspoliser, er
+      dette i orden — bekreft skriftlig, ikke muntlig.
+- [ ] 🔴 **Les forsikringsbeviset** og noter: **reisens lengde (38 dager ved
+      hjemreise 5. feb — sjekk mot ditt bevis)**, forsikringssummer,
       egenandeler, **alarmsentralens nummer**.
-- [ ] 🔴 **Avklar scooter-spørsmålet nå:** ta klasse A1 (~15–25 000 kr, noen
-      uker) — eller bestem at dere ikke kjører. Uten A1/A dekker
-      **ansvarsforsikringen dere overhodet ikke** som fører, og egenandelen
-      på leid scooter dekkes av ingen. Mae Hong Son-loopen kan kjøres med
-      **leiebil** (155–350 kr/dag, fullt lovlig på klasse B + IDP).
+- [x] ✅ **Scooter-spørsmålet avgjort 20. sep: INGEN scooter. Leiebil i Chiang
+      Mai i stedet.** Dette fjerner turens største forsikringshull — uten
+      klasse A1 hadde ansvarsforsikringen ikke dekket dere som fører i det
+      hele tatt. Ingen A1 skal tas.
+- [ ] 🔴 **Bestill IDP (internasjonalt førerkort) hos NAF eller KNA — 200–350 kr,
+      tar noen dager.** Dette er nå kritisk, ikke valgfritt: leiebilen krever
+      det ved politikontroll, og **forsikringen faller bort uten gyldig
+      førerrett i landet**. Ta **1968-versjonen** — den gjelder i Thailand og
+      er den eneste Vietnam godtar.
+- [ ] 🟡 **Leiebil Chiang Mai → Mae Hong Son-loopen, 7.–11. jan (automat).**
+      800–1 500 THB/dag (~230–430 kr) hos de store i Chiang Mai. Book
+      **automat** — loopen har 1 864 svinger og bratte stigninger.
+      Kjøp **full dekning/Full Coverage** i tillegg; standarddekningen i
+      dagsprisen holder ikke. Krev ubegrenset kilometer.
+      → [`transport.md`](transport.md)
 
 ### Helse
 - [ ] 🔴 **Bestill vaksinetime** — **rabies-serien tar 3–4 uker**, så denne
@@ -61,18 +90,22 @@ Avreise: **26. desember 2026**.*
       (generisk navn) for tollen.
 
 ### Konsertene som allerede er i salg
-- [ ] 🟡 **Fujii Kaze, Bangkok 26. des** (fra ~810 kr) — krever at dere lander
-      *den* dagen. Turens kuleste konsert. → [`festivaler-og-eventer.md`](festivaler-og-eventer.md)
-- [ ] 🟢 Westlife Bangkok 25. jan / Singapore 16.–17. jan (hvis uke 5 tillater).
+- [x] ~~Fujii Kaze, Bangkok 26. des~~ — **avlyst**, og dere lander uansett
+      først 31. des. → [`festivaler-og-eventer.md`](festivaler-og-eventer.md)
+- [x] ~~Westlife Bangkok 25. jan~~ — dere er på Phuket/Koh Yao Noi de dagene.
+- [ ] 🔴 **Zamna Phuket 23.–24. jan — billetter.** Den ene konserten som låser
+      hele ruta. Kjøp før venue annonseres.
+- [ ] 🟡 **Nyttårsaften: River City-rooftop 31. des** (1 999 THB p.p.) — slippes
+      normalt i oktober. Sett en påminnelse.
+      → [`festivaler-og-eventer.md`](festivaler-og-eventer.md)
 
 ---
 
 ## 📅 SEPTEMBER
 
-- [ ] 🔴 **14. september kl. 19:00 norsk tid: Sushi Masato-slippet.**
-      Bordene for romjula legges ut 15. i måneden kl. 00:00 Bangkok-tid, tre
-      måneder frem — og går på minutter. Alternativ dato: 14. oktober samme
-      tid. Venteliste: info@sushimasato.com. → [`omakase.md`](omakase.md)
+- [x] ~~14. september: Sushi Masato-slippet~~ — **feil måned etter at datoene
+      flyttet seg.** 15. sep-slippet dekket bare t.o.m. midten av desember.
+      Riktig dato for 2. januar er **14. oktober** (se oktober-lista).
 - [ ] 🟡 **Book Sushi Ichizu** (splurgen, ~2 750 p.p.) via TableCheck —
       2–4 uker holder for desember, men gjør det tidlig.
 - [ ] 🟡 **Send e-post til Lacàph i Saigon** om **«Highlands Experience»** —
@@ -80,12 +113,27 @@ Avreise: **26. desember 2026**.*
       kaffeopplevelse. hello@lacaph.com → [`kaffe.md`](kaffe.md)
 - [ ] 🟡 **Send e-post til Akha Ama** (Chiang Mai) om «Coffee Journey» går i
       innhøstingssesongen 2026/27 — relevant hvis uke 5 blir Chiang Mai.
-- [ ] 🟢 Bestill **IDP** hos NAF/KNA (200–350 kr) hvis dere skal kjøre noe
-      som helst — **Vietnam godtar kun 1968-versjonen**.
+- [x] ~~Bestill IDP~~ — flyttet opp til 🔴 kritisk i NÅ-lista etter
+      beslutningen om leiebil i Chiang Mai.
 
 ---
 
 ## 📅 OKTOBER — leiligheten og resten av bookingene
+
+### 🗓️ De to slippene som ikke kan flyttes
+- [ ] 🔴 **4. okt kl. 18:00 norsk tid — nattog #9** (se NÅ-lista over).
+- [ ] 🔴 **14. oktober kl. 19:00 norsk tid: Sushi Masato, lørdag 2. januar,
+      2 personer, ~19:00.** Bordene slippes 15. i måneden kl. 00:00
+      Bangkok-tid for datoer tre måneder frem — **oktober-slippet er det
+      første som dekker januar**, og setene går på minutter. Book via
+      TableCheck (lenke på sushimasato.com/reservations). Logg inn på
+      TableCheck-kontoen i forveien.
+      · Pris: omakase **1 200 kr p.p.**, premium 1 800.
+      · Masato holder stengt mandager — 2. jan er lørdag, det går bra.
+      · ⚠️ Bekreft i samme slipp at de ikke har nyttårsstengt 1.–2. jan.
+      · Bomtur? Venteliste **info@sushimasato.com** / +66 97 234 1370, og
+      book **Sushi Ichizu** via TableCheck som plan B (~2 750 p.p., 2–4 uker
+      holder). → [`omakase.md`](omakase.md)
 
 ### 🏠 Utleien (egen tidslinje)
 - [ ] 🔴 **Legg ut annonsen på Finn + Hybel + Facebook-gruppene** («Housing in

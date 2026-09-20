@@ -15,7 +15,9 @@ opp, ikke ned — behandle tallene som gulv.*
 
 **God timing:** dere reiser 30., så dere unngår nyttårsnatt-spiken helt.
 
-### ✅ Loy La Long — BEKREFTET ÅPEN (9,3/10, 1 506 anmeldelser)
+> ⚠️ **Oppdatert 20. sep 2026:** Bangkok-oppholdet er nå **31. des–3. jan** (utreisen ble booket 30. des), og **Loy La Long og Aurum svarte fullbooket.** Ny hovedpick: **Grande Centre Point Surawong** (beliggenhet + byutsikt + 9,5 for ~2 550) — se [`bangkok-romjul.md`](bangkok-romjul.md). Prisene under er fra 26.–30. des og ligger lavere enn nyttårsdatoene.
+
+### ❌ Loy La Long — FULLBOOKET for romjula (9,3/10, 1 506 anmeldelser)
 Fortsatt 7-roms teakhus på stylter over Chao Phraya, inne på tempelområdet
 til Wat Pathum Khongkha i Talat Noi. **⚠️ Ingen priser/ledighet dukket opp
 for 26.–30. des hos noen bookingside** — med 7 rom i romjula betyr det
@@ -39,15 +41,24 @@ Historisk ~1 200–1 900 inkl. frokost.
 gamleby, halve prisen av utsiktshotellene. Budsjett: **Baan Wanglang (576)**
 — Thonburi-siden har uansett bedre mat og stemning. Splurge én natt:
 **Riva Arun/Sala Rattanakosin** for Wat Arun opplyst fra terrassen.
-**Joker: får dere rom på Loy La Long, ta det fremfor alt annet.**
+~~**Joker: får dere rom på Loy La Long, ta det fremfor alt annet.**~~ *Fullbooket 20. sep.*
 *(The Siam ligger på 5 000–8 000 i romjula — 4–5× taket deres.)*
 
 ---
 
-## 2. 🇰🇭 Siem Reap · 31. des – 3. jan (3 netter, inkl. nyttår)
+## 2. 🇰🇭 Siem Reap · 11.–13. jan (2 netter)
 
-**Nyttårspåslaget er brutalt i toppsjiktet (2–2,5×) — men mellomklassen er
-knapt berørt. Der ligger verdien.**
+> ✅ **Oppdatert 20. sep 2026 — gode nyheter.** Siem Reap er flyttet fra
+> nyttår til **11.–13. januar (2 netter)**, og **hele nyttårspåslaget
+> forsvinner.** Ferske priser for de nye datoene:
+> **Rambutan Resort 858/natt** (var 1 039) · **Jaya House River Park
+> 4 073/natt** (var 3 744 — toppsjiktet er dyrere i januar-høysesongen,
+> men nå er det bare 2 netter).
+> **Ny anbefaling: 2 netter Rambutan = 1 715 kr.** Splurge-varianten
+> 2 netter Jaya House = 8 146 kr. Den gamle «kritisk hast»-advarselen
+> gjelder ikke lenger — januar midt i uka er ikke utsolgt.
+
+**Tabellen under er fra nyttårsdatoene og ligger høyere enn dagens priser.**
 
 | Sted | Pris | 3 netter | Score |
 |---|---|---|---|
@@ -75,7 +86,8 @@ daglig spabehandling per gjest × 3 netter henter inn reell verdi, og 9,9 av
 7 078 anmeldelser er ikke tilfeldig. **Kompromiss:** 2 netter Rambutan +
 nyttårsnatt Jaya House = 5 822.
 
-**🔴 KRITISK HAST:** nyttår i Siem Reap er utsolgt i oktober.
+~~**🔴 KRITISK HAST:** nyttår i Siem Reap er utsolgt i oktober.~~
+**Ikke lenger kritisk** — dere er der 11.–13. jan, ikke i nyttårshelgen.
 
 ---
 
@@ -349,7 +361,7 @@ slutten av januar, og hyttene har verken varme eller isolasjon. Ta fleece.
 **🔴 DENNE UKA**
 1. **Khao Lak 17.–22. jan** — blokkbooket av charter et år i forveien
 2. **GranMonte Wine Cottage** — 7 rom, kun direkte (hvis Khao Yai velges)
-3. **Loy La Long 26.–30. des** — 7 rom, null ledighet på nett: send e-post
+3. **Bangkok 31. des–3. jan** — Loy La Long/Aurum fullbooket; book Grande Centre Point Surawong nå
 4. **Siem Reap nyttår** — alt brukbart er borte i oktober
 5. **Phuket 23.–24. jan** — *før* Zamna annonserer venue
 
