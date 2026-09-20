@@ -70,6 +70,68 @@ Valutakurser brukt: 1 USD ≈ 10 kr, 1 AUD ≈ 6,6 kr, 1 NZD ≈ 6,1 kr, 1 THB �
 | **Ferger til øyene** | Lomprayah katamaran Samui–Koh Tao ~700 THB (~220 kr); kombibillett buss+båt BKK–Koh Tao ~1 100–1 400 THB | Lomprayah = raskest/mest pålitelig; Songserm billigere og tregere. Book kombibilletter på 12Go. |
 | **Grab/Bolt** | Bytur 60–200 THB | Alltid Grab fremfor taxi uten taksameter; Bolt ofte 10–20 % billigere. BTS/MRT i Bangkok slår alt i rushtiden. |
 
+### 🚗 Leiebil til Mae Hong Son-loopen, 7.–11. januar (sjekket 20. sep 2026)
+
+> ✅ **Scooter droppet 20. sep — bil i stedet.** Se
+> [`sjekkliste-for-avreise.md`](sjekkliste-for-avreise.md). **IDP
+> (1968-versjonen) er obligatorisk**, ikke valgfritt: uten den nekter
+> forsikringen å dekke ved skade, og politiet bøtelegger på kontrollpostene.
+
+**Hent i Chiang Mai, ikke i Pai.** Pai har nesten bare scooterutleie, og å
+komme seg dit uten bil betyr minibuss over 762 svinger på rute 1095 — den
+klassiske bilsyke-strekningen. Ruta deres starter uansett med Doi Inthanon
+dag 1, så Chiang Mai er eneste fornuftige starthenting.
+**Hent i byen 7. jan (eller kvelden 6.), lever på CNX 11. jan** — avklar
+gebyret for by-til-flyplass ved booking.
+
+#### Hvilken bil — dette er ikke likegyldig på denne ruta
+
+Ruta deres er tøffere enn standardloopen: **dag 1 går over Doi Inthanon
+(2 565 m, Thailands høyeste) → Mae Chaem → rute 1263 → Khun Yuam.** 1263 er
+66–100 km sammenhengende fjellvei. Asfaltert og i god stand, men konstant
+klatring og nedstigning. Rapporter fra ruta: en **1,2-liters Vios slet i
+de bratteste partiene**, og en Yaris-automat «klarte det så vidt» enkelte
+steder. Konsensus er **1,5 liter som absolutt minimum**, 1,6–1,8 komfortabelt.
+
+| Valg | Modell | Pris/dag | Dom |
+|---|---|---|---|
+| 🏆 **Anbefalt** | **Toyota Corolla Cross 1.8** (ofte hybrid i Thailand) | **1 600–1 700 THB** (~465–495 kr) | SUV-høyde gir bedre sikt i svingene og klaring på grusavstikkerne til utsiktspunktene. 1,8 har krefter til overs i motbakkene. Hybridens elmotor trekker godt fra lav fart — nøyaktig det 1263 krever |
+| 💰 **Fornuftig minimum** | **Honda City 1.5 / Mazda 2 1.5** | 1 000–1 200 THB (~290–350 kr) | Holder fint. Kompakt = lett å møte biler på smale partier. Velg denne hvis budsjettet teller |
+| ❌ **Unngå** | Toyota Yaris/Vios **1.2**, Toyota Ativ 1.2 | 550–850 THB | Billigst i listene, og grunnen til klagene. Ikke spar 400 kr på dette |
+
+**5 dager Corolla Cross ≈ 8 000–8 500 THB (2 300–2 500 kr) + full dekning.**
+
+#### Hvor dere leier
+
+| Utleier | Hvorfor |
+|---|---|
+| 🏆 **North Wheels** (lokal, Chiang Mai) | Best omtalt av de lokale. **En av byens laveste egenandeler**, dør-til-dør levering og henting, godtar kontantdepositum (5 000 THB), døgnåpen nødtelefon. Biler ikke nye, men rene og vedlikeholdte |
+| **Thai Rent A Car** | Billigste seriøse thailandske kjede. Trygt valg |
+| **Sixt / Budget / Avis / Europcar** (CNX) | Internasjonal standard og enklere klagevei hvis noe skjer. Dyrere |
+| ⚠️ Ukjente billigaktører | Ingen kulanse ved forsinket levering (100 THB/time), og verst på skadekrav |
+
+#### De fem tingene som faktisk koster penger hvis dere glipper
+
+1. **Kjøp full dekning: +200–400 THB/dag.** Standarddekningen har egenandel
+   på **5 000–10 000 THB**. På en fjellvei med steinsprut og smale møter er
+   dette de best brukte 1 000–2 000 bahtene i hele budsjettet.
+2. **Depositum 5 000–10 000 THB, kun kredittkort** hos de fleste. Ha kortet
+   med nok ramme.
+3. **Fotografer hele bilen før avreise** — alle riper, felger, frontrute.
+4. **Bruk motorbrems på nedstigningene.** Legg automaten i **L eller S**
+   (eller manuell modus) ned fra Doi Inthanon og Ban Jabo. Å ligge på
+   bremsen hele veien ned gir bremsefade — den reelle faren på denne ruta,
+   ikke motorkraften.
+5. **Minstealder 21 år hos de fleste, 25 hos noen.** Dere er 29 — greit.
+
+#### ⏰ Advarsel om 11. januar
+
+Planen er soloppgang på **Doi Kiew Lom 05:30**, deretter Pai → Chiang Mai
+(~3 t på rute 1095, 762 svinger), levere bil på CNX, og fly videre til
+Bangkok og Siem Reap. Det henger så vidt sammen: ut fra Pai senest **07:00**,
+på CNX ~10:00–10:30. **Legg flyet til tidligst 12:00**, og ikke stol på at
+1095 går fort — det gjør den aldri.
+
 ### 🌙 Nattbussene i Thailand — de som faktisk er gode
 | Operatør | Rute (natt) | Pris p.p. | Dom |
 |---|---|---|---|

@@ -74,12 +74,13 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
       det ved politikontroll, og **forsikringen faller bort uten gyldig
       førerrett i landet**. Ta **1968-versjonen** — den gjelder i Thailand og
       er den eneste Vietnam godtar.
-- [ ] 🟡 **Leiebil Chiang Mai → Mae Hong Son-loopen, 7.–11. jan (automat).**
-      800–1 500 THB/dag (~230–430 kr) hos de store i Chiang Mai. Book
-      **automat** — loopen har 1 864 svinger og bratte stigninger.
-      Kjøp **full dekning/Full Coverage** i tillegg; standarddekningen i
-      dagsprisen holder ikke. Krev ubegrenset kilometer.
-      → [`transport.md`](transport.md)
+- [ ] 🟡 **Leiebil 7.–11. jan: hент i Chiang Mai by, lever på CNX.**
+      Anbefalt: **Toyota Corolla Cross 1.8** (~1 650 THB/dag) hos
+      **North Wheels** eller Thai Rent A Car. **Ikke ta 1,2-liters** —
+      rute 1263 over Mae Chaem er for bratt for den. Legg til **full
+      dekning (+200–400 THB/dag)**; standard egenandel er 5 000–10 000 THB.
+      Depositum 5 000–10 000 på kredittkort. Avklar gebyr for
+      by-henting/flyplass-levering. → [`transport.md`](transport.md)
 
 ### Helse
 - [ ] 🔴 **Bestill vaksinetime** — **rabies-serien tar 3–4 uker**, så denne
