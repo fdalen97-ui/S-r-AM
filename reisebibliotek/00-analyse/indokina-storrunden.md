@@ -43,9 +43,9 @@ mister én dag med luft rundt den.
 
 | Dato | Sted | Dagen |
 |---|---|---|
-| **tor 31. des** | **Bangkok** 06:15 | Innsjekk **Riva Arun** (Loy La Long fullbooket — be om tidlig innsjekk), dusj, hvile · 🎆 **Nyttårsaften: River City-rooftop / ICONSIAM Countdown** (lineup 2026/27 slippes okt–nov, se `festivaler-og-eventer.md`) |
-| fre 1. jan | Bangkok | Yaowarat, Wat Arun, elva |
-| **lør 2. jan** | Bangkok | 🍣 **Omakase** (Masato eller Ichizu) — *sjekk om okt-slippet dekker 31.des–2.jan* |
+| **tor 31. des** | **Bangkok** 06:15 | Bagasje på **Grande Centre Point Surawong** (Loy La Long/Aurum fullbooket) · 💆 **10:00 Chandee couple head spa + massasje** · sov 2 t · Yaowarat gatemat · 🎆 **Nyttårsaften: River City-rooftop** (10 min gange) med ICONSIAM-fyrverkeriet (se `bangkok-romjul.md`) |
+| fre 1. jan | Bangkok | Wat Pho 08:00 → ferge Wat Arun → longtail-khlong · Sky Pool · River Vibe-taket · Chinatown-bibber |
+| **lør 2. jan** | Bangkok | Chatuchak 09–11 · Talat Noi · 🍣 **19:00 Omakase** (Masato — sjekk 14. okt at 2. jan er åpen) · Bamboo Bar |
 | **søn 3. jan** | Bangkok → 🚆 **Nattog #9, kveld** | Ayutthaya med tog om dagen, nattog nordover om kvelden (1. kl. kupé) |
 | **man 4. jan** | **Chiang Mai** ~07:15 | Khao soi, byen |
 | tir 5. jan | Chiang Mai | Doi Suthep |
@@ -116,7 +116,7 @@ netter) uten å røre feriekompensasjonen.
 | Når | Hva |
 |---|---|
 | ✅ **Gjort 17. sept** | ✈️ **Utreisen booket** — Qatar QR180/QR830, 30. des, 13 906 kr |
-| **NÅ** | 🎧 **Zamna-billetter** (Phuket-arbitrasjen før venue slippes — datoene 23.–24. jan er uendret) · 🛏️ **Bangkok-hotell** — Loy La Long fullbooket (20. sep). Book **Riva Arun** direkte (stay@rivaarunbangkok.com), 31. des–3. jan, Grand Deluxe med elveutsikt |
+| **NÅ** | 🎧 **Zamna-billetter** (Phuket-arbitrasjen før venue slippes — datoene 23.–24. jan er uendret) · 🛏️ **Bangkok-hotell** — Loy La Long/Aurum fullbooket (20. sep). Book **Grande Centre Point Surawong** 31. des–3. jan, city view, ~2 550/natt (Priceline/Hotels.com eller surawong@gcphotels.com) · 💆 **Chandee Silom** 31. des kl. 10 |
 | **~5. okt** | 🚆 **Nattog #9, 1. klasse underkøye, 3. januar** — åpner ~90 dager før |
 | **14. okt kl. 19:00** | 🍣 **Masato-slippet** — sjekk om dette dekker **31. des–2. jan**; hvis ikke, vent på neste slipp |
 | sept–okt | 🛏️ Chiang Mai nyttårshotell for **31. des**-innsjekk · Ban Rak Thai · **Cave Lodge** · elefantreservatet |

@@ -19,10 +19,13 @@ Avreise: **26. desember 2026**.*
       → [`flerdagsopplegg.md`](flerdagsopplegg.md)
 - [ ] 🔴 **Cheow Lan-rafthusene (Khao Sok)** — Laguna Cheow Lan og Phupha
       Waree selges ut 3–6 mnd før. → [`batturer.md`](batturer.md)
-- [ ] 🔴 **Bangkok 31. des–3. jan — Loy La Long er FULLBOOKET (svar 20. sep).**
-      Plan B: **Riva Arun, Grand Deluxe** (elv + Wat Arun, 9,3) — e-post
-      stay@rivaarunbangkok.com i dag. Fyrverkeri-natten: River City-rooftop.
-      → [`bangkok-romjul.md`](bangkok-romjul.md)
+- [ ] 🔴 **Bangkok 31. des–3. jan — Loy La Long og Aurum FULLBOOKET (20. sep).**
+      Book **Grande Centre Point Surawong**, city view, ~2 550/natt (9,5) —
+      ledig nå på Priceline/Hotels.com eller surawong@gcphotels.com. Be om høy
+      etasje og tidlig innsjekk. → [`bangkok-romjul.md`](bangkok-romjul.md)
+- [ ] 🟠 **Chandee Sleep Salon, Silom — couple head spa + aroma 90 min,
+      31. des kl. 10:00** (THB 4 300). Maks 10 gjester per økt — book på
+      chandee.com samtidig med hotellet.
 - [ ] 🔴 **Phuket 23.–24. jan — book FØR Zamna annonserer venue.** Dere
       betaler nå vanlige januarpriser for en festivalhelg. HOMA Cherngtalay
       (1 572) er riktig base. Dette er ren arbitrasje.

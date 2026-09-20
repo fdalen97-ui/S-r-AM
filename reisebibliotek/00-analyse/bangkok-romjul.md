@@ -129,53 +129,89 @@ stedet passer nyttårsplanen (fyrverkeri ved elva, Talat Noi/Chinatown, omakase 
 | 2 | **Riva Surya** (Phra Athit) | 9,4 | ~2 700 | Basseng og elverom rett på Chao Phraya, gangavstand til Khaosan/Old Town | Høyest score av alle med pris. Velg «Riva Deluxe River View» |
 | 3 | Praya Palazzo (Thonburi) | 9,0 | ~2 150 | Italiensk palazzo fra 1923, kun båtadkomst, elverom mot Phra Athit | Mest romantiske adresse på lista. Litt tungvint logistikk |
 
-### 🔒 Plan B låst (20. sep 2026): Loy La Long fullbooket
+### 🔒 Plan B låst (20. sep 2026): Loy La Long og Aurum fullbooket
 
-**Hovedpick: Riva Arun, 31. des–3. jan, «Grand Deluxe» (full elv + Wat Arun).**
-- Hvorfor: best utsikt per krone som faktisk kan bookes. 9,3 på 3 400 anmeldelser, balkong, takrestaurant mot tempelet, og lavsesongpris fra ~1 030 kr betyr at nyttår neppe overstiger 2 000. Tha Tien er 10 min Grab fra Talat Noi/omakasen og 5 min gange til Wat Pho.
-- Nyttårsaften: fyrverkeriet ses **ikke** herfra. Ta Grab til **River City-rooftopen** (1 999 THB) før kl. 20 — etter det er gatene rundt elva stengt. Hjem med Grab ~01:30 eller gå langs elva (40 min, trygt og festlig).
-- Bestill direkte: **stay@rivaarunbangkok.com** — be om Grand Deluxe, høy etasje, elvefront, og fri avbestilling.
+*Kriterier fra dere: **beliggenhet først, fin utsikt over byen, pris.** Kun steder som faktisk viser ledige rom for 31. des–3. jan.*
 
-**Hvis Riva Arun også er fullt, i rekkefølge:**
-1. **Inn A Day** (9,5, Wat Arun-rom, info@innaday.com)
-2. **Riva Surya** Deluxe River View (9,4, ~2 700, basseng på elva)
-3. **Theatre Residence** elverom (9,0, ~1 180, Thonburi)
-4. **Ago Chinatown** (9,4, ~1 480 — ingen utsikt, men holder Talat Noi-planen)
+**Hovedpick: Grande Centre Point Surawong, 31. des–3. jan, Deluxe/Premium city view (44 m²).**
+- **Beliggenhet:** 299 Surawong Rd, Bangrak — 10 min gange til Taksin-piren og River City (nyttårsrooftopen), 15 min til Yaowarat/Talat Noi, Silom-barene rett rundt hjørnet, BTS Surasak 550 m. Alt i planen deres uten Grab.
+- **Utsikt:** høyhus. Rommene ser byen, **Sky Pool på taket ser skyline + Chao Phraya** og solnedgangen. Bangrak Grill-takrestaurant samme utsikt.
+- **Score/pris:** 9,5 på 11 000 anmeldelser (9,8 på Expedia), ~2 550 kr/natt. Beste hotell per krone i hele Bangkok for datoene.
+- **Nyttårsaften:** fyrverkeriet fra Sky Pool-taket (skrått mot ICONSIAM) — eller gå 10 min til River City-rooftopen. Hjem til fots. Ingen Grab-kaos.
+- **Book:** Priceline/Hotels.com ~2 550, eller direkte surawong@gcphotels.com / +66 2 079 5888 — be om høy etasje, elvevendt side, tidlig innsjekk 31. des.
 
-**Vil dere ha fyrverkeriet fra rommet?** Da er svaret 1 natt **Avani+ Riverside** 31. des (~4 330 + utsiktstillegg) og Riva Arun 1.–2. jan. Ett hotellbytte, ~2 500 kr dyrere enn River City-rooftopen. Min dom: ikke verdt det — rooftopen står rett overfor showet.
+**Ledige alternativer, i rekkefølge:**
+1. **Eastin Grand Sathorn** — 9,4 (35 000 anm.), ~2 710. Infinitybasseng i 14. etg. med skyline, skybridge rett inn i BTS Surasak. Samme prisklasse, litt lengre til elva/Chinatown.
+2. **Riva Surya** (Phra Athit, Old Town) — 9,4, ~2 700 for Urban-rom; **Riva Room** (90° elveutsikt) THB 3 144 lavsesong. Basseng på elvekanten. Velg denne hvis elv slår by. stay@rivasuryabangkok.com
+3. **Theatre Residence** (Thonburi) — 9,0, ~1 180, elverom og basseng på elva. Beste pris, men båt/Grab til alt.
+4. **Avani+ Riverside** — 9,3, ~4 330. By + elv + fyrverkeri fra rommet. Kun hvis budsjettet får lov.
+5. **Grande Centre Point Sukhumvit 55** (Thonglor) — 9,2, ~1 640, onsen og takbasseng. Fantastisk hotell, feil bydel for planen.
+6. **Ago Chinatown** — 9,4, ~1 480. Perfekt beliggenhet, ingen utsikt.
+
+**Ikke ledige / ikke åpnet for datoene (sjekket 20. sep):** Loy La Long, Aurum, Inn A Day, Riva Arun, Sala Arun, Baan Wanglang, Chakrabongse Villas, Ibrik, Hotel Once. Riva Arun og Inn A Day kan fortsatt svare ja på e-post — men ikke vent på dem.
 
 **Ikke gjør:** betale 5 000+ for Hilton/Chatrium/Sheraton. Pengene går lenger i Khao Lak.
 
-📧 **Handling nå:** e-post til Riva Arun og Inn A Day samme dag — begge er små, og romjula selges ut 3–6 måneder før.
+### 💆 Landingsmorgenen 31. des: massasje og head spa
 
-## Romjul-programmet (3 dager, priser for dere to)
+*Dere lander 06:15, er ute av flyplassen ~07:15 og på hotellet ~08:15. Nesten ingen spa åpner før 09–10, så planen er: bagasje på hotellet, frokost, så rett i behandling.*
 
-**Dag 1 — søndag 28.12../27.12.: marked + Chinatown-kveld**
-Chatuchak-markedet (åpent KUN lør/søn — altså bare søndag 27. for dere, gå
-09–11) → Song Wat-kaffe → gyllen time på **River Vibe**-taket (cocktails
-73–81 kr, ingen dresscode — takbar-hacket som slår Sky Bars 600-kroners
-selfie-kø) → **Yaowarat gatemat-safari** (150–250 kr totalt!) → **Brown
-Sugar-jazz** (åpen ons–søn → KUN søndagen deres; man/tir: Tep Bar eller
-Bamboo Bar i stedet). *Dagsum ~800–1 150 kr.*
+| Kl. | Sted | Hva | Pris for to | Hvorfor |
+|---|---|---|---|---|
+| **10:00** 🏆 | **Chandee Sleep Salon, Silom** (60 Naradhiwas Rd, 10 min Grab fra Surawong) | **Couple Head Spa + Aroma Oil Massage, 90 min** | THB 4 300 ≈ 1 250 kr | Det dere ba om i én økt: head spa + full kroppsmassasje, privat parrom. Maks 10 gjester per økt — **book på forhånd** (chandee.com, WhatsApp +66 82 539 9908). 120 min = THB 5 500 |
+| 09:00 | **Health Land Sathorn** (120 N. Sathorn Rd, 5 min fra hotellet) | Thai-massasje 2 t | THB 1 300 ≈ 380 kr | Åpner tidligst. Ærlig, hard thai-massasje som nullstiller kroppen etter 17 timer i fly. Ingen head spa |
+| 08:00 | **Wat Pho massasjeskole, Tha Tien** | Thai-massasje 60 min | THB 1 040 ≈ 300 kr | Åpner 08:00 — velg denne hvis dere bor på Riva Surya. Kombinér med Wat Pho før turistene |
+| senere i turen | **Head Onsen** (Donki Mall Thonglor, 3. etg.) | Japansk head spa m/ kullsyre-onsen-skylling, 60–80 min | THB 1 700–2 700 pp | Byens beste japanske head spa, men 30 min unna. Spar til 2. jan om dere vil ha «the real thing» |
 
-**Dag 2 — mandag: templer + Jay Fai-forsøket**
-Wat Pho ved åpning 08:00 (nesten tomt første timen) → 5-baht-fergen
-(1,50 kr!) til Wat Arun → privat longtail-khlongtur i Thonburi (~400 kr for
-hele båten, formiddag = best lys) → kl. 16:00: still dere i **Jay Fai-køen**
-og skriv dere på listen (⭐ Michelin-gatemat, ingen reservasjon; verifiser
-åpningsdager på Instagram uken før — uregelmessig i romjula). Krabbeomelett +
-drunken noodles ~700–900 kr for to. Plan B: Nai Mong Hoi Tod og
-Chinatown-bibbene til en tiendedel → nattdrink på **Eagle Nest** mot lyssatt
-Wat Arun. *Dagsum ~1 700–2 100 kr.*
+**Anbefalt morgen:** 08:15 bagasje + Sky Pool-dusj på Grande Centre Point → 09:00 kaffe og khao tom på Surawong → **10:00 Chandee couple-økt** → 12:00 lunsj i Silom → tilbake og sov 2 timer før nyttårskvelden. Book Chandee samme dag som hotellet.
 
-**Dag 3 — tirsdag: Talat Noi + festival-finalen**
-Talat Noi-vandring (gatekunst, So Heng Tai-mansion, Mother Roaster-kaffe) →
-River City/Warehouse 30 → **gratis shuttlebåt til ICONSIAM**: Sook Siam
-innendørs flytemarked til middag + **Amazing Thailand Countdown i River
-Park — gratis konsertkveld** som romjulsfinale. Alternativ splurge:
-Supanniga sunset cruise (~1 100–1 500 kr for to — den lille båten med
-ordentlig mat; de store buffet-båtene er turistfeller). *Dagsum ~500 kr
-(budsjett) / ~1 900 kr (med cruise).*
+## Nyttårsprogrammet 31. des–3. jan (oppdatert 20. sep, priser for dere to)
+
+*Kortsvar på «hvilken dag rooftop, hvilken dag omakase»: **rooftop = 31. des** (det er fyrverkeriet), **omakase = 2. jan** (lørdag, uthvilt, siste hele kveld, og 1. jan er mange toppsteder stengt).*
+
+**Tor 31. des — landing, massasje, nyttårsaften 🎆**
+06:15 landing → 08:15 bagasje + dusj i Sky Pool → **10:00 Chandee couple
+head spa + aroma-massasje** (se over) → lunsj i Silom → **sov 2 timer** (ikke
+hopp over dette, ellers dør dere kl. 23) → 17:30 gyllen time i **Sky Pool**
+på hotelltaket → 18:30 **Yaowarat gatemat-safari** (150–250 kr totalt,
+15 min gange) → 20:30 gå 10 min til **River City-rooftopen** (1 999 THB pp,
+book i oktober) med ICONSIAM-fyrverkeriet rett foran → hjem til fots 00:45.
+Gratisvarianten: Sky Pool-taket på hotellet ser showet skrått. *Dagsum
+~1 250 (spa) + ~1 350 (rooftop) + ~250 (mat) ≈ 2 850 kr.*
+
+**Fre 1. jan — templer og elva (jetlag = dere våkner 05:30 uansett) 🛕**
+**Wat Pho ved åpning 08:00** (nesten tomt første timen, 1. jan er
+helligdag men templene er åpne) → 5-baht-fergen (1,50 kr!) til **Wat Arun**
+→ privat longtail-khlongtur i Thonburi (~400 kr for hele båten, formiddag =
+best lys) → lunsj Tha Tien → ettermiddag i Sky Pool → 17:00 **River
+Vibe**-taket i Talat Noi (cocktails 73–81 kr, ingen dresscode — takbar-hacket
+som slår Sky Bars 600-kroners kø) → **Nai Mong Hoi Tod** + Chinatown-bibbene
+til middag (Jay Fai er nesten alltid stengt 31. des–2. jan; sjekk Instagram)
+→ nattdrink **Tep Bar** (Soi Nana, Chinatown). *Dagsum ~900–1 200 kr.*
+
+**Lør 2. jan — marked, Talat Noi og omakasen 🍣**
+**Chatuchak 09–11** (KUN lør/søn — dette er dagen; BTS Mo Chit, 25 min) →
+lunsj i **Ari** (Lay Lao / Salt) → tilbake, sov/basseng → 16:00
+**Talat Noi-vandring** (gatekunst, So Heng Tai-mansion, Mother Roaster-kaffe,
+Warehouse 30) → **19:00 omakase** (Masato — sjekk 14. okt at 2. jan er åpen,
+book samme sekund; plan B: Sushi Masa/Mizu) → nattdrink **Bamboo Bar**
+(Mandarin Oriental, 10 min gange fra hotellet — den ene dyre drinken som er
+verdt det). *Dagsum ~3 500–5 000 kr (omakasen tar 3 000–4 000).*
+
+**Søn 3. jan — Ayutthaya + nattoget 🚆**
+Utsjekk 08:00, bagasje i resepsjonen → tog 08:30 fra Krung Thep Aphiwat
+til **Ayutthaya** (1,5 t, 20–60 THB) → sykkel/tuk-tuk mellom ruinene,
+Wat Chaiwatthanaram i ettermiddagslys → **hack:** nattog #9 mot Chiang
+Mai stopper i Ayutthaya ~19:50 — hent bagasjen med Grab-retur til Bangkok
+kl. 15, eller ta bagasjen med om morgenen og lås den i skapene på
+Ayutthaya stasjon, så slipper dere returen. Se `indokina-storrunden.md`.
+
+**Hvis dere vil bytte:** rooftop kan flyttes til 2. jan (Sky Pool eller
+Bamboo Bar), men fyrverkeriet finnes bare 31. Omakasen kan flyttes til
+31. des (mange omakase kjører nyttårsmeny til dobbel pris) — ikke gjør det.
+Alternativ splurge en av kveldene: Supanniga sunset cruise (~1 100–1 500 kr
+for to — den lille båten med ordentlig mat; de store buffet-båtene er
+turistfeller).
 
 ## Vin-bonusen 🍷
 

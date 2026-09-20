@@ -15,7 +15,7 @@ opp, ikke ned — behandle tallene som gulv.*
 
 **God timing:** dere reiser 30., så dere unngår nyttårsnatt-spiken helt.
 
-> ⚠️ **Oppdatert 20. sep 2026:** Bangkok-oppholdet er nå **31. des–3. jan** (utreisen ble booket 30. des), og **Loy La Long svarte fullbooket.** Ny hovedpick: **Riva Arun** — se [`bangkok-romjul.md`](bangkok-romjul.md). Prisene under er fra 26.–30. des og ligger lavere enn nyttårsdatoene.
+> ⚠️ **Oppdatert 20. sep 2026:** Bangkok-oppholdet er nå **31. des–3. jan** (utreisen ble booket 30. des), og **Loy La Long og Aurum svarte fullbooket.** Ny hovedpick: **Grande Centre Point Surawong** (beliggenhet + byutsikt + 9,5 for ~2 550) — se [`bangkok-romjul.md`](bangkok-romjul.md). Prisene under er fra 26.–30. des og ligger lavere enn nyttårsdatoene.
 
 ### ❌ Loy La Long — FULLBOOKET for romjula (9,3/10, 1 506 anmeldelser)
 Fortsatt 7-roms teakhus på stylter over Chao Phraya, inne på tempelområdet
@@ -351,7 +351,7 @@ slutten av januar, og hyttene har verken varme eller isolasjon. Ta fleece.
 **🔴 DENNE UKA**
 1. **Khao Lak 17.–22. jan** — blokkbooket av charter et år i forveien
 2. **GranMonte Wine Cottage** — 7 rom, kun direkte (hvis Khao Yai velges)
-3. **Bangkok 31. des–3. jan** — Loy La Long fullbooket; book Riva Arun direkte
+3. **Bangkok 31. des–3. jan** — Loy La Long/Aurum fullbooket; book Grande Centre Point Surawong nå
 4. **Siem Reap nyttår** — alt brukbart er borte i oktober
 5. **Phuket 23.–24. jan** — *før* Zamna annonserer venue
 
