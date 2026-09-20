@@ -24,9 +24,13 @@ Avreise: **26. desember 2026**.*
       ikke-refunderbart på Booking.com (Genius 3)** — 1 rom igjen 20. sep.
       Hotellets egen side har bare suiter til 5 800+/natt. E-post etterpå om
       høy etasje og tidlig innsjekk. → [`bangkok-romjul.md`](bangkok-romjul.md)
-- [ ] 🔴 **5. oktober kl. 08 norsk tid: nattog #9, 3. jan, Ayutthaya → Chiang Mai,
-      1. klasse hel kupé (3 092 THB)** på dticket.railway.co.th. Salget åpner
-      nøyaktig 90 dager før og kupeene går på timer. Plan B: #13 samme kveld.
+- [ ] 🔴 **NÅ: lag konto på dticket.railway.co.th** (pass-nr. + e-postverifisering
+      + telefon i thaiformat xxx-xxx-xxxx). Registreringen er det som feiler —
+      ikke gjør den på salgsdagen.
+- [ ] 🔴 **4. okt kl. 18:00 norsk tid (midnatt Bangkok): nattog #9, 3. jan,
+      Ayutthaya → Chiang Mai, 1. klasse HEL KUPÉ (3 092 THB ≈ 900 kr).**
+      Feiler kortet → 12go.asia umiddelbart. Plan B: tog #13 samme kveld.
+      Refusjon koster 70 %, så book hotellet først.
 - [ ] 🟠 **Chandee Sleep Salon, Silom — couple head spa + aroma 90 min,
       31. des kl. 10:00** (THB 4 300). Maks 10 gjester per økt — book på
       chandee.com samtidig med hotellet.

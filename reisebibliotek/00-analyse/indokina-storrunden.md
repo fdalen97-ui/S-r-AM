@@ -272,6 +272,30 @@ unngå forveksling med planen over — spør om du vil se den igjen.*
 
 **Ayutthaya-hacken konkret:** kjøp billetten *fra Ayutthaya*, ikke fra Bangkok (samme tog, litt billigere, og ingen tvil om setet). Bagasje i skapene på Ayutthaya stasjon (30–50 THB). Toget står 2–3 min på perrongen — vær der 19:30.
 
+> ✅ **Hacken er trygg mot SRTs delstrekning-regel.** SRT begrenser forhåndssalg for korte delstrekninger (under 25 % av ruten = kun 1 dag før). Ayutthaya→Chiang Mai er 680 av 751 km = **90 % av ruten**, altså fullt bookingvindu. Ayutthaya→Bangkok om morgenen (71 km, 9 %) kan derimot **ikke** forhåndsbookes — den kjøper dere på stasjonen samme dag, og det går fint på dagtog.
+
+### 🎫 Hvor og hvordan dere bestiller nattoget
+
+**To veier inn. Bruk begge samme morgen 5. okt.**
+
+| | 🇹🇭 **dticket.railway.co.th** (offisiell SRT) | 🌐 **12go.asia** (byrå) |
+|---|---|---|
+| Pris | Pålydende, ingen gebyr | + 50–200 THB gebyr per billett |
+| Åpner | 90 dager før, midnatt thailandsk tid (= **18:00 norsk tid 4. okt**) | Noen timer til dager senere — de trekker fra samme lager |
+| Konto | Må registreres: pass-nr., e-post med verifisering, **telefonnummer i thailandsk format xxx-xxx-xxxx** (dette feltet krever thaiformat selv når «Foreigner» er huket av — skriv f.eks. 081-234-5678) | Vanlig konto, engelsk hele veien |
+| Kort | Utenlandske kort feiler av og til | Fungerer |
+| Billett | QR-kode på mobil eller utskrift | PDF/QR |
+| Support | Thai | Engelsk chat |
+
+**Slik gjør dere det:**
+1. **I dag:** lag konto på dticket.railway.co.th med passnummeret. Verifiser e-posten. Ikke vent til salgsdagen — registreringen er det som feiler.
+2. **Ha passnumrene klare.** Navn på billetten må matche passet, og det kan **ikke** endres etterpå.
+3. **4. okt kl. 18:00 norsk tid** (midnatt i Bangkok): søk `Ayutthaya → Chiang Mai`, 3. jan, tog **#9**, klasse **1st class AC sleeper**, og velg **hele kupeen** (begge køyer) = 3 092 THB.
+4. Feiler kortet eller siden: hopp rett til **12go.asia**, samme søk. 100–200 THB ekstra er billigere enn å miste kupeen.
+5. **Tog #13** er plan B samme kveld hvis #9 er borte.
+
+⚠️ **Refusjon koster 70 % av billetten.** Dette er reelt låst når dere har kjøpt. Kjøp først når hotellet i Bangkok er bekreftet.
+
 **Dommen:** toget. 400 kr mer for to, men dere sover, kommer fram i dagslys, og slipper å stå på en bussterminal kl. 05. Bussen er plan B hvis toget er utsolgt 5. okt — da Sombat Tour eller Nakhonchai Air, aldri billigste selskap.
 
 **4. natt i Bangkok?** Priceline tar 9 133 kr for 31. des–4. jan mot ~7 600 for 3 netter — søndagsnatta koster ~1 500. Billig, men den koster en Chiang Mai-dag (2 netter i stedet for 3 før Mae Hong Son-loopen). Dere er uansett tilbake i Bangkok 18. jan. **Behold 3 netter.**
