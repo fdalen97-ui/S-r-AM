@@ -20,10 +20,10 @@ Avreise: **26. desember 2026**.*
 - [ ] 🔴 **Cheow Lan-rafthusene (Khao Sok)** — Laguna Cheow Lan og Phupha
       Waree selges ut 3–6 mnd før. → [`batturer.md`](batturer.md)
 - [ ] 🔴 **Bangkok 31. des–3. jan — Loy La Long og Aurum FULLBOOKET (20. sep).**
-      Book **Grande Centre Point Surawong**, city view, ~2 550/natt (9,5) —
-      **kun via Expedia/Priceline/Hotels.com** (hotellets egen side har bare
-      suiter til 5 800+ igjen). E-post etterpå om høy etasje og tidlig
-      innsjekk. → [`bangkok-romjul.md`](bangkok-romjul.md)
+      Book **Grande Centre Point Surawong, Deluxe King med frokost, 8 562 kr
+      ikke-refunderbart på Booking.com (Genius 3)** — 1 rom igjen 20. sep.
+      Hotellets egen side har bare suiter til 5 800+/natt. E-post etterpå om
+      høy etasje og tidlig innsjekk. → [`bangkok-romjul.md`](bangkok-romjul.md)
 - [ ] 🟠 **Chandee Sleep Salon, Silom — couple head spa + aroma 90 min,
       31. des kl. 10:00** (THB 4 300). Maks 10 gjester per økt — book på
       chandee.com samtidig med hotellet.
