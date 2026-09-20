@@ -152,6 +152,38 @@ stedet passer nyttårsplanen (fyrverkeri ved elva, Talat Noi/Chinatown, omakase 
 
 **Ikke gjør:** betale 5 000+ for Hilton/Chatrium/Sheraton. Pengene går lenger i Khao Lak.
 
+### 🧪 Verdens beste test (20. sep 2026): kvalitet × beliggenhet × utsikt × pris
+
+*Kriteriene deres: høyt ratet, god beliggenhet og lett å komme seg rundt, utsikt over byen eller noe fint, 6 000–12 000 kr for 31. des–3. jan. Alle priser er Trivago/Booking for datoene, 3 netter, billigste rom. Vekting: **kvalitet 35 %** (score × antall anmeldelser), **beliggenhet/transport 30 %** (avstand til BTS/MRT + gangavstand til planen deres: elva, Chinatown, Silom), **utsikt 20 %** (takbasseng/takbar + rom i høyden), **pris 15 %**. Hver faktor 0–10.*
+
+| # | Hotell | Score (anm.) | 3 netter | Transport | Utsikt | K | B | U | P | **Sum** |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | **Carlton Sukhumvit** | 9,5 (15 600) | **7 144** | BTS Asok + MRT Sukhumvit 300 m — byens beste knutepunkt | 30 m takbasseng + Cooling Tower-bar i 34. etg. | 10 | 9 | 9 | 10 | **9,5** |
+| 2 | **Eastin Grand Sathorn** | 9,4 (35 600) | 8 137 | Egen skybridge inn i BTS Surasak; 1 stopp til elva | Infinitybasseng 14. etg. mot skyline | 9,5 | 10 | 8 | 8 | **9,1** |
+| 3 | **Grande Centre Point Surawong** | 9,5 (11 000) | 7 632 / 8 562 m/frokost | Ingen stasjon i døra (BTS 1,1 km) — men elva, River City og Chinatown til fots | Sky Pool på taket, by + elv; rom i 27. etg. | 10 | 8 | 9 | 8,5 | **9,0** |
+| 4 | dusitD2 Samyan | 9,5 (7 100) | 8 358 | MRT Sam Yan 9 min, tuk-tuk-shuttle, Chinatown 15 min gange | Basseng 16. etg. + Mimi's takbar | 10 | 8 | 7 | 8 | 8,5 |
+| 5 | Sindhorn Midtown (IHG) | 9,3 (9 900) | 7 806 | BTS Chit Lom 400 m, Langsuan | Infinitybasseng 18. etg. mot skyline | 8 | 9 | 8 | 9 | 8,5 |
+| 6 | Banyan Tree | 9,4 (40 700) | 9 722 | MRT Lumpini 700 m | Vertigo-taket 61. etg., alle rom høyt | 9,5 | 7 | 10 | 5 | 8,2 |
+| 7 | Hotel Indigo Wireless Rd | 9,2 (11 000) | 8 869 | BTS Ploenchit 400 m | Infinitybasseng 25. etg. | 7 | 9 | 9 | 7 | 8,0 |
+| 8 | Grande Centre Point Sukhumvit 55 | 9,2 (16 200) | 4 907 | BTS Thong Lo 400 m, feil bydel for planen | Takbasseng, onsen | 7,5 | 7 | 8 | 10 | 7,8 |
+| 9 | Grande Centre Point Terminal 21 | 9,0 (33 900) | 7 627 | Asok, direkte fra kjøpesenteret | Takbasseng | 5 | 10 | 8 | 9 | 7,7 |
+| 10 | SO/ Bangkok | 9,2 (20 400) | 9 588 | MRT Lumpini 200 m | Lumpini-parken + skyline | 7 | 9 | 9 | 5 | 7,7 |
+| 11 | Pathumwan Princess | 9,1 (39 900) | 7 176 | BTS National Stadium via MBK | Begrenset | 6 | 10 | 5 | 10 | 7,6 |
+| 12 | Marriott Surawongse | 9,4 (9 600) | 12 481 | BTS Surasak 800 m | Yao-taket, elv + by | 9 | 7 | 10 | 2 | 7,6 |
+| 13 | Grande Centre Point Ratchadamri | 9,0 (30 900) | 7 130 | BTS Ratchadamri 200 m | Basseng, delvis | 5 | 9 | 6 | 10 | 7,2 |
+| 14 | Riva Surya | 9,4 (8 400) | 8 088 | Kun båt (Phra Athit) | Elva | 9 | 3 | 9 | 8 | 7,1 |
+| 15 | Crowne Plaza Lumpini | 9,0 (9 500) | 9 871 | BTS Sala Daeng/MRT Silom direkte | Høye etasjer | 5 | 10 | 7 | 5 | 6,9 |
+| 16 | Le Méridien | 9,2 (11 700) | 10 982 | Sala Daeng 700 m | Delvis | 7 | 8 | 6 | 3 | 6,5 |
+| — | Over budsjett | W 12 330 · COMO 13 147 · Avani+ 12 993 · lebua 13 175 · Centara Grand 14 633 · Standard 16 808 | | | | | | | | |
+
+**Testens dom: tre hoteller innenfor et halvt poeng. Valget står om én ting — vil dere ha *stasjonen i døra* eller *planen til fots*?**
+
+- **Carlton Sukhumvit vinner testen.** Høyest score, lavest pris, byens beste takbar og et knutepunkt der BTS og MRT møtes. Ulempen for akkurat denne turen: Chinatown, elva og nyttårsrooftopen ligger 20–25 min unna med MRT, og nyttårsnatt hjem blir tog (BTS/MRT kjører vanligvis til 02:00 nyttårsaften — sjekk i desember) eller Grab med surge.
+- **Grande Centre Point Surawong vinner planen deres.** Yaowarat, River City, Talat Noi-omakasen og Taksin-piren til fots; nyttårsnatt uten transport. Betaler ~1 400 kr mer enn Carlton og mister stasjonen i døra.
+- **Eastin Grand Sathorn er kompromisset.** BTS rett inn i lobbyen, ett stopp til elva, 35 000 anmeldelser på 9,4, infinitybassenget alle snakker om.
+
+**Beslutningsregel:** Er nyttårsaften ved elva og Chinatown-kveldene kjernen i oppholdet → Surawong. Er «komme seg rundt hele byen enkelt» viktigst, med Thonglor/Ari/Chatuchak like mye som elva → Carlton. Usikker → Eastin.
+
 ### 💆 Landingsmorgenen 31. des: massasje og head spa
 
 *Dere lander 06:15, er ute av flyplassen ~07:15 og på hotellet ~08:15. Nesten ingen spa åpner før 09–10, så planen er: bagasje på hotellet, frokost, så rett i behandling.*
