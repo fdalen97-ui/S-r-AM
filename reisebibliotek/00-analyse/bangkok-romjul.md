@@ -138,7 +138,7 @@ stedet passer nyttårsplanen (fyrverkeri ved elva, Talat Noi/Chinatown, omakase 
 - **Utsikt:** høyhus. Rommene ser byen, **Sky Pool på taket ser skyline + Chao Phraya** og solnedgangen. Bangrak Grill-takrestaurant samme utsikt.
 - **Score/pris:** 9,5 på 11 000 anmeldelser (9,8 på Expedia), ~2 550 kr/natt. Beste hotell per krone i hele Bangkok for datoene.
 - **Nyttårsaften:** fyrverkeriet fra Sky Pool-taket (skrått mot ICONSIAM) — eller gå 10 min til River City-rooftopen. Hjem til fots. Ingen Grab-kaos.
-- **Book:** Priceline/Hotels.com ~2 550, eller direkte surawong@gcphotels.com / +66 2 079 5888 — be om høy etasje, elvevendt side, tidlig innsjekk 31. des.
+- **Book via Expedia/Priceline/Hotels.com — IKKE hotellets egen side.** Sjekket 20. sep: hotellets bookingmotor har bare de to 2-soveroms-suitene igjen (Premium Connecting 88 m² THB 19 929/natt ≈ 5 800 kr, Family Executive THB 25 125). OTA-ene har fortsatt vanlige rom: Expedia $261/natt (~2 660, total ~9 400 for 3 netter, strøket pris $1 568), Priceline 2 544/natt. **4 netter (31. des–4. jan) koster 9 133 kr hos Priceline — den 4. natta (søndag) er nesten gratis.** Send e-post til surawong@gcphotels.com etter booking og be om høy etasje, elvevendt side, tidlig innsjekk 31. des.
 
 **Ledige alternativer, i rekkefølge:**
 1. **Eastin Grand Sathorn** — 9,4 (35 000 anm.), ~2 710. Infinitybasseng i 14. etg. med skyline, skybridge rett inn i BTS Surasak. Samme prisklasse, litt lengre til elva/Chinatown.

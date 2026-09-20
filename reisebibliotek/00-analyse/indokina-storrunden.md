@@ -116,7 +116,7 @@ netter) uten å røre feriekompensasjonen.
 | Når | Hva |
 |---|---|
 | ✅ **Gjort 17. sept** | ✈️ **Utreisen booket** — Qatar QR180/QR830, 30. des, 13 906 kr |
-| **NÅ** | 🎧 **Zamna-billetter** (Phuket-arbitrasjen før venue slippes — datoene 23.–24. jan er uendret) · 🛏️ **Bangkok-hotell** — Loy La Long/Aurum fullbooket (20. sep). Book **Grande Centre Point Surawong** 31. des–3. jan, city view, ~2 550/natt (Priceline/Hotels.com eller surawong@gcphotels.com) · 💆 **Chandee Silom** 31. des kl. 10 |
+| **NÅ** | 🎧 **Zamna-billetter** (Phuket-arbitrasjen før venue slippes — datoene 23.–24. jan er uendret) · 🛏️ **Bangkok-hotell** — Loy La Long/Aurum fullbooket (20. sep). Book **Grande Centre Point Surawong** 31. des–3. jan, city view, ~2 550/natt (**kun Expedia/Priceline** — direkte-siden har bare suiter igjen) · 💆 **Chandee Silom** 31. des kl. 10 |
 | **~5. okt** | 🚆 **Nattog #9, 1. klasse underkøye, 3. januar** — åpner ~90 dager før |
 | **14. okt kl. 19:00** | 🍣 **Masato-slippet** — sjekk om dette dekker **31. des–2. jan**; hvis ikke, vent på neste slipp |
 | sept–okt | 🛏️ Chiang Mai nyttårshotell for **31. des**-innsjekk · Ban Rak Thai · **Cave Lodge** · elefantreservatet |
@@ -249,6 +249,21 @@ unngå forveksling med planen over — spør om du vil se den igjen.*
 **Dere trenger ingen nattbusser på hovedruten** — lengste bakke-etappe er
 5–6 timer, og nattbussene i Kambodsja frarådes uansett (jf.
 [`transport.md`](transport.md)).
+
+**Bangkok → Chiang Mai 3. jan: nattog eller nattbuss? (vurdert 20. sep)**
+
+| | 🚆 Nattog #9 (1. kl. 2-køys kupé) | 🚌 Sombat Tour Super VIP |
+|---|---|---|
+| Tid | 18:40 → 07:15, 12,5 t | ~19–20 → 05–06, ~10 t |
+| Pris for to | ~950 kr (1. kl.) / ~550 kr (2. kl. AC-sovevogn) | ~500–600 kr |
+| Søvn | Egen låsbar kupé med seng, sengetøy, vask | 2+1 lenestol i recline, lys og stopp |
+| Ankomst | 07:15 med soloppgang over risfeltene, sentrumsstasjon | 05:00 på Arcade-terminalen i mørket, hotellet ikke klart |
+| Ayutthaya-hacken | Ja — toget stopper i Ayutthaya ~19:50 | Nei — bussen går fra Mo Chit |
+| Booking | Åpner ~5. okt (90 dager før), selges ut på dager | 2–3 uker før via 12Go |
+
+**Dommen:** toget. 400 kr mer for to, men dere sover, kommer fram i dagslys, og slipper å stå på en bussterminal kl. 05. Bussen er plan B hvis toget er utsolgt 5. okt — da Sombat Tour eller Nakhonchai Air, aldri billigste selskap.
+
+**4. natt i Bangkok?** Priceline tar 9 133 kr for 31. des–4. jan mot ~7 600 for 3 netter — søndagsnatta koster ~1 500. Billig, men den koster en Chiang Mai-dag (2 netter i stedet for 3 før Mae Hong Son-loopen). Dere er uansett tilbake i Bangkok 18. jan. **Behold 3 netter.**
 
 ---
 
