@@ -27,6 +27,96 @@ billetten er tatt.*
 
 ---
 
+## 😴 Jetlag-planen — søvntidene som faktisk virker
+
+**Tidsforskjellen er 6 timer østover** (Norge UTC+1 om vinteren, Bangkok
+UTC+7). Østover er den vanskelige retningen: kroppen må **framskynde**
+døgnrytmen, og den klarer normalt bare 1–1,5 time per dag på egen hånd.
+Uten plan tar 6 timer omtrent **fem dager**. Med planen under: to til tre.
+
+### Flyet i to klokker — dette er hele nøkkelen
+
+| Hendelse | Norsk tid | **Bangkok-tid** | Hva dere gjør |
+|---|---|---|---|
+| OSL avgang | 30. des 09:00 | **15:00** | ☀️ **Hold dere våkne.** Ettermiddag på destinasjonsklokka |
+| Doha ankomst | 15:30 | **21:30** | 🍽️ Middag i Doha. Fortsatt våkne |
+| Doha avgang | ~18:00 | **00:00** | 😴 **Sovemaske og ørepropper på med én gang** |
+| BKK ankomst | 31. des 00:15 | **06:15** | Morgen. Dere skal ha sovet 4–5 t |
+
+**Regelen i én setning: hold dere våkne på Doha-benet, sov hardt på
+Bangkok-benet.** Ben 2 er natt i Bangkok — det er den eneste søvnen som
+teller. Sover dere på ben 1 i stedet, ødelegger dere søvntrykket og ligger
+våkne på ben 2. Da blir 31. desember brutal.
+
+### Lyset: den kontraintuitive delen
+
+Kroppens temperaturminimum (Tmin) ligger ca. **2 timer før dere vanligvis
+våkner**. Våkner dere normalt 07:00, er Tmin kl. 05:00 norsk tid — som er
+**11:00 Bangkok-tid** den første dagen.
+
+- Lys **før** Tmin → forsinker rytmen (**feil vei**)
+- Lys **etter** Tmin → framskynder rytmen (**riktig vei**)
+
+Dere lander 06:15. **Sterkt sollys mellom 06:15 og 11:00 den første dagen
+skyver klokka feil vei.** Derfor:
+
+| Dag | Unngå sterkt lys før | Søk maks lys etter |
+|---|---|---|
+| **31. des** | **11:00** — solbriller fra flyplassen til hotellet | 11:00 |
+| 1. jan | 09:30 | 09:30 |
+| 2. jan | 08:00 | 08:00 |
+| 3. jan | — normal morgen, gå ut i sola | — |
+
+⚠️ **Konflikt i programmet:** Wat Pho ved åpning 08:00 den 1. januar ligger
+innenfor unngå-vinduet. Ta det likevel, men **med solbriller til 09:30**.
+Å være ute slår å ligge i mørkt rom.
+
+### Døgnet 31. desember — timeplanen
+
+| Kl. (BKK) | Hva |
+|---|---|
+| 06:15 | Landing. **Solbriller på ute.** Ingen kaffe ennå |
+| 08:15 | Hotell, dusj. Lett frokost, mye vann |
+| 10:00 | Chandee head spa + massasje (mørkt rom = perfekt timing) |
+| 11:00→ | **Ut i sollyset.** Lunsj ute, ikke inne |
+| 14:00 | **Siste kaffe.** Ingenting etter dette |
+| 14:30–16:00 | **Lur: 60–90 min, aldri lenger, opp senest 16:00.** To alarmer |
+| 17:30 | Sky Pool i solnedgang — mer lys |
+| 00:00–01:00 | Nyttår. Dere har da vært oppe ~19 t. Det går, men ikke drikk tungt |
+| 01:30 | Seng. **Ingen melatonin denne natta** — dere sovner uansett |
+
+### Melatonin — 1.–4. januar
+
+Melatonin er **reseptfritt i Norge**: kosttilskudd opptil 1 mg, og
+reseptfritt legemiddel opptil 5 mg per tablett. Anbefalt jetlagdosering er
+**1–5 mg i maks 5 dager, tatt ved sengetid på destinasjonen**, og
+indikasjonen er nettopp reiser **østover over 5+ tidssoner**. Dere krysser 6.
+
+- **Kjøp på apoteket før avreise.** 1 mg holder — høyere dose virker ikke
+  bedre på døgnrytmen, bare mer sløvende.
+- **Ta 1 mg kl. 21:00–22:00 Bangkok-tid, 1., 2., 3. og 4. januar.**
+- **Dropp 31. desember** — dere skal være våkne til 01:00.
+- Slutt etter fjerde natt. Rytmen skal da være omstilt.
+
+### Fire småting som betyr mer enn folk tror
+
+1. **Ingen alkohol på flyet.** Den fragmenterer søvnen på ben 2, som er den
+   ene søvnen som teller. Spar det til nyttårsaften.
+2. **Ingen kaffe etter Doha.** Koffein har 5–6 timers halveringstid — en
+   kopp ved avgang fra Doha sitter fortsatt i kroppen ved landing.
+3. **Still klokka til Bangkok-tid allerede på Gardermoen**, ikke ved landing.
+4. **Framskynd hjemme:** legg dere og stå opp **1 time tidligere per dag
+   27.–29. desember.** Tre dager gir 3 av de 6 timene gratis, og dere må
+   uansett opp tidlig til et fly som går 09:00.
+
+### Hjemreisen
+
+Vestover er den lette retningen — kroppen forlenger døgnet naturlig. Regn
+med 2–3 dager, og bare gå ut i dagslys i Norge om morgenen. Ingen melatonin
+nødvendig.
+
+---
+
 ## 📚 Research fra før bookingen (referanse)
 
 > ## 💰 Tidligere hovedanbefaling: Qatar via Doha slo nonstop med ~10 000 kr

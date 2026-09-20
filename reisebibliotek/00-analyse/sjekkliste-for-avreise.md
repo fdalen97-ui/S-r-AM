@@ -88,6 +88,11 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
       → [`vaksiner.md`](vaksiner.md)
 - [ ] 🟡 Fyll opp faste resepter for hele perioden + ta med kopi av resept
       (generisk navn) for tollen.
+- [ ] 🟡 **Kjøp melatonin 1 mg på apoteket (reseptfritt)** — til 1.–4. januar,
+      kl. 21–22 Bangkok-tid. Jetlag-planen med søvntider ligger i
+      [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md).
+- [ ] 🟢 **27.–29. des: legg dere 1 time tidligere hver kveld.** Gir 3 av de
+      6 timene gratis før dere i det hele tatt setter dere på flyet.
 
 ### Konsertene som allerede er i salg
 - [x] ~~Fujii Kaze, Bangkok 26. des~~ — **avlyst**, og dere lander uansett
