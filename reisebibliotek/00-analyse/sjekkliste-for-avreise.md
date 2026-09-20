@@ -82,10 +82,9 @@ Avreise: **26. desember 2026**.*
 
 ## 📅 SEPTEMBER
 
-- [ ] 🔴 **14. september kl. 19:00 norsk tid: Sushi Masato-slippet.**
-      Bordene for romjula legges ut 15. i måneden kl. 00:00 Bangkok-tid, tre
-      måneder frem — og går på minutter. Alternativ dato: 14. oktober samme
-      tid. Venteliste: info@sushimasato.com. → [`omakase.md`](omakase.md)
+- [x] ~~14. september: Sushi Masato-slippet~~ — **feil måned etter at datoene
+      flyttet seg.** 15. sep-slippet dekket bare t.o.m. midten av desember.
+      Riktig dato for 2. januar er **14. oktober** (se oktober-lista).
 - [ ] 🟡 **Book Sushi Ichizu** (splurgen, ~2 750 p.p.) via TableCheck —
       2–4 uker holder for desember, men gjør det tidlig.
 - [ ] 🟡 **Send e-post til Lacàph i Saigon** om **«Highlands Experience»** —
@@ -99,6 +98,21 @@ Avreise: **26. desember 2026**.*
 ---
 
 ## 📅 OKTOBER — leiligheten og resten av bookingene
+
+### 🗓️ De to slippene som ikke kan flyttes
+- [ ] 🔴 **4. okt kl. 18:00 norsk tid — nattog #9** (se NÅ-lista over).
+- [ ] 🔴 **14. oktober kl. 19:00 norsk tid: Sushi Masato, lørdag 2. januar,
+      2 personer, ~19:00.** Bordene slippes 15. i måneden kl. 00:00
+      Bangkok-tid for datoer tre måneder frem — **oktober-slippet er det
+      første som dekker januar**, og setene går på minutter. Book via
+      TableCheck (lenke på sushimasato.com/reservations). Logg inn på
+      TableCheck-kontoen i forveien.
+      · Pris: omakase **1 200 kr p.p.**, premium 1 800.
+      · Masato holder stengt mandager — 2. jan er lørdag, det går bra.
+      · ⚠️ Bekreft i samme slipp at de ikke har nyttårsstengt 1.–2. jan.
+      · Bomtur? Venteliste **info@sushimasato.com** / +66 97 234 1370, og
+      book **Sushi Ichizu** via TableCheck som plan B (~2 750 p.p., 2–4 uker
+      holder). → [`omakase.md`](omakase.md)
 
 ### 🏠 Utleien (egen tidslinje)
 - [ ] 🔴 **Legg ut annonsen på Finn + Hybel + Facebook-gruppene** («Housing in

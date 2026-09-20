@@ -39,8 +39,15 @@ i Thailand 2026 er **Sushi Saito** (Four Seasons).
 
 1. **Sushi Masato** — 🚨 **bookingritualet:** slippes den **15. hver måned
    kl. 00:00 Bangkok-tid for datoer 3 mnd frem** = kl. 19:00 norsk tid
-   kvelden den 14. For romjulsplass: vær online **14. sep / 14. okt kl. 19**
-   norsk tid. Setene går på minutter; venteliste: info@sushimasato.com.
+   kvelden den 14. Setene går på minutter.
+   > 🎯 **For denne turen: 14. oktober 2026 kl. 19:00 norsk tid, for lørdag
+   > 2. januar 2027.** Septemberslippet dekket kun t.o.m. midten av desember
+   > og er irrelevant etter at datoene flyttet seg til 31. des–3. jan.
+   > Book via **TableCheck** (lenke på sushimasato.com/reservations) — ha
+   > kontoen klar før slippet. Stengt mandager; 2. jan er lørdag.
+   > Venteliste: **info@sushimasato.com** / **+66 97 234 1370**.
+   > Adresse: 3/22 Soi Sawasdee 1, Sukhumvit 31 (RSU Tower-parkering
+   > valideres 2 t). Sjekk i slippet at de ikke har nyttårsstengt.
 2. **Fillets** — The Storeys, One Bangkok. Chef Randy Noprapa
    (Morimoto-protesjé), kappo-stil med tre ulike sushi-ris. **Listens beste
    valg for vinelskere** — ordentlig vinprogram (unntaket i byen). Lunsj
