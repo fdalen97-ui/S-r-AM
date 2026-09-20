@@ -87,21 +87,53 @@ tidlig arrangement treffer; ellers går vanlig vingårdstur + smaking hele året
 
 ## 🎤 Konserter i regionen (dypdykk, verifisert aug. 2026)
 
-**Kupp-kandidaten: ✅ Fujii Kaze — Bangkok, lør 26. des 2026** (Supachalasai
-National Stadium, fra ~810 kr, i salg nå). J-pop/soul-superstjernen (synger
-på engelsk på siste album) holder sitt første Bangkok-stadionshow — **dagen
-før vinduet åpner**. Flyr dere inn 26. i stedet for 27. des, er dette
-vinduets kuleste konsert.
+> 🔄 **Revurdert 20. sep 2026 mot den låste ruta** (Bangkok 31.des–3.jan ·
+> Chiang Mai/MHS 4.–11. jan · Kambodsja 11.–18. jan · Khao Lak/Phuket/Koh
+> Yao Noi 19.–29. jan · **Bangkok 29. jan–5. feb**). Konklusjonen snudde:
+> **Singapore-klyngen er død, Bangkok-finalen er gull.**
 
-| Konsert | Sted/dato | I vinduet? |
+### 🏆 De to musikkopplevelsene som nå ER i ruta
+
+**1. ✅ Bangkok Music City — 30.–31. januar 2027, Charoenkrung.**
+Dette var tidligere ført opp som «rett utenfor vinduet». **Det stemmer ikke
+lenger** — dere er i Bangkok 29. jan–5. feb, så festivalen faller midt i
+avslutningsuka. 86+ indie-akter fordelt på venues i Charoenkrung
+(kunstnerstrøket ved elva, rett ved Grande Centre Point-nabolaget).
+Arrangert av Live Nation Tero, Fungjai og NYLON Thailand. Thai-akter
+bekreftet så langt: Apichat Pakwan, BANK SORNRAM, DharmaDance, GYMV, JPBS,
+Mongkol, Montonn Jira, Réjizz, Sounds of Future Siam, srwks.
+**Full lineup slippes okt–nov — sett påminnelse. Pass selges via
+bangkokmusiccity.com / Ticketmelon.**
+
+**2. ✅ Zamna Phuket — 23.–24. januar.** Allerede låst i ruta. Kjøp før venue
+annonseres (se sjekklista).
+
+### 🎪 Kulturkveldene underveis
+
+**Phare, The Cambodian Circus (Siem Reap) — 11. eller 12. januar.**
+Hovedshow **20:00 hver kveld året rundt**, fra ~$18 p.p. (~185 kr).
+**Bonus for deres datoer: nov 2026–mars 2027 kjører de i tillegg matiné
+17:00 på onsdager, fredager og søndager.** 11. jan er mandag og 12. jan er
+tirsdag, så dere får kveldsshowet. Kvelden starter 17:30 med khmer-gatemat,
+drinkspesialer og førshow-aktiviteter. Akrobatikk, **live musikk**, dans og
+drama — sosialt entreprenørskap, ikke turistfelle. Book på pharecircus.org.
+
+### ❌ Falt ut da datoene flyttet seg
+
+| Konsert | Dato | Hvorfor ikke |
 |---|---|---|
-| **Stray Kids «RUN IT»-turnéåpning** ✅ | Bangkok Impact Arena, **16.–17. jan** (dette var de unavngitte bookingene; ~725–1 885 kr) | Ja — men krever backtracking fra KH/VN |
-| Jimmy Carr (standup) ✅ | Bangkok, 16.–17. jan (465–785 kr) | Ja — samme backtrack-problem |
-| **Westlife «25»** ✅ | **Singapore 16.–17. jan** (1 005–2 395 kr, 16. utsolgt) · KL 14. jan · Bangkok 25. jan (2 dager etter) | **Singapore-datoene ER i vinduet** — trenger ikke Bangkok-datoen |
-| Jay Chou ✅ | Singapore 8.–10. jan (fra 1 740 kr, 9. utsolgt) | Med SG-stopover |
-| Sienna Spiro (UK indie-pop) ✅ | Singapore Capitol Theatre, 11. jan (fra 935 kr) | Beste indie-treffet i hele vinduet |
-| D.O. (EXO) ✅ / BoyNextDoor ✅ | Singapore 9. jan / 23. jan | Med SG-stopover |
-| BIGBANG ✅ | Kuala Lumpur 9. jan | Med KL-stopover |
+| ~~Fujii Kaze, Bangkok~~ | 26. des | **Avlyst** — og dere lander 31. des |
+| ~~Stray Kids, Bangkok Impact~~ | 16.–17. jan | Dere er i Kampot/Koh Rong Samloem |
+| ~~Westlife, Singapore~~ | 16.–17. jan | Samme — Kambodsja-uka |
+| ~~Jay Chou, Singapore~~ | 8.–10. jan | Dere kjører Mae Hong Son-loopen |
+| ~~Sienna Spiro, Singapore~~ | 11. jan | Flydag CNX→BKK→Siem Reap |
+| ~~Bo Sang Umbrella Festival, Chiang Mai~~ | ~15.–17. jan | Dere forlot Chiang Mai 11. jan |
+| ~~Westlife, Bangkok~~ | 25. jan | Dere er på Koh Yao Noi |
+| Maroon 5, Bangkok | 9. feb | 4 dager etter hjemreise |
+
+**Den gamle «Singapore-stopover»-anbefalingen er utgått.** Hele
+SG-klyngen 8.–17. jan kolliderer nå med Kambodsja-uka, og en stopover dit
+ville kostet to reisedager midt i den tetteste delen av ruta.
 
 **Mønsteret:** Singapore 8.–17. jan er vinduets sterkeste musikk-klynge —
 en SG-stopover *timet* dit er det høyeste-avkastnings-grepet. Bangkok/Saigon
@@ -117,9 +149,9 @@ Studio Adventure — annonseres okt–nov, ~420–1 050 kr flerdagspass). Jokere
 for Vietnam-delen er **8Wonder** (VinGroup — hentet Maroon 5/Imagine Dragons
 tidligere): vinterutgave annonseres evt. okt–nov med ~6 ukers varsel.
 
-**Rett utenfor vinduet (FOMO-kontroll):** Bangkok Music City (86+ indie-akter,
-30.–31. jan) · Blue KL 24. jan · Zamna dag 2 24. jan · Kings of Convenience
-spiller Bangkok 1. des — en måned for tidlig, dessverre.
+**Rett utenfor vinduet (FOMO-kontroll):** ~~Bangkok Music City~~ **← denne er
+nå INNE i vinduet, se over** · Blue KL 24. jan · Kings of Convenience spiller
+Bangkok 1. des — en måned for tidlig, dessverre.
 
 ## 🎉 Full Moon Party-noten
 NYE-utgaven på Koh Phangan (31. des) er den legendariske — men Gulf-øyene er

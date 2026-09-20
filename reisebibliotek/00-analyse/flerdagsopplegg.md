@@ -19,13 +19,44 @@ faktisk er verdt det i des–jan.*
 | Splurge (ref) | Chiva-Som (Hua Hin) | Asias mest prisbelønte — ~8 000 p.p./natt; 20 % ved booking 120+ dager før | 50 000+ for 3 netter for to |
 
 ### 🇰🇭 Kambodsja
-| Nivå | Sted | Hva | Pris |
+
+> 🔄 **Revurdert 20. sep 2026 mot den låste ruta.** Kambodsja-vinduet er nå
+> **11.–18. januar = 7 netter fordelt på fire steder** (Siem Reap 2 ·
+> Phnom Penh 1 · Kampot/Kep 2 · Koh Rong Samloem 2). **Det betyr at ingen
+> ekte flerdagsretreat får plass.** Løsningen er å legge wellness inn i
+> overnattingen i stedet for å ofre dager på et program.
+
+| Nivå | Sted | Hva | Pris (live 20. sep, 11.–13. jan) |
 |---|---|---|---|
+| 🏆 **Anbefalt** | **TUI BLUE Angkor Grace** (Siem Reap) | Dedikert wellness-resort minutter fra templene — yoga, reformer-pilates, gratis sound healing. **9,8 av 930 anmeldelser** | **1 722/natt = 3 443 for 2 netter** ⚠️ *gammel notering på 530–590 var feil/utdatert* |
+| Medium+ | **Navutu Dreams** (Siem Reap) | Tre bassenger, to yogastudioer, wellness retreat med tempelkombinasjon, 9,5 | **1 176/natt = 2 352 for 2 netter** |
+| Verdi | **Golden Temple Retreat** (Siem Reap) | Ikke et «ekte» retreat, men **gratis daglig spabehandling + gratis tuktuk**, 9,8 av 5 408 | **959/natt = 1 917** |
 | Budsjett | **Banteay Srey Project** (Kampot) | Kvinnedrevet khmer-spa + homestay ved elven (spa/losji kun for henne — han bor 5 min unna i byen); overskuddet utdanner utsatte kvinner | behandlinger 85–260 kr |
-| **Medium** 💎 | **TUI BLUE Angkor Grace** (Siem Reap) | **Regionens beste wellness-verdi:** dedikert wellness-resort minutter fra templene — yoga, reformer-pilates, gratis sound healing | **~530–590/natt for to!** |
-| Medium+ | **Navutu Dreams** (Siem Reap) | Tre bassenger, to yogastudioer, tempel+retreat-kombinasjonen | 4–5 netter for to ~12–18 000 |
-| Budsjett-program | Hariharalaya (kjent ref) | 6-dagers yoga/meditasjon m/digital detox | 3 100–5 200 p.p. |
+| ❌ **Passer ikke** | **Hariharalaya** (Siem Reap) | **Dette er flerdagspakken du husker:** 6-dagers yoga/meditasjon med **digital detox og null wifi**, silent mornings, nær Angkor. $285 (sovesal) til $690 (privat bambushytte) p.p. for hele programmet | **Krever 6 av de 7 Kambodsja-nettene.** Selges ut 1–2 mnd før, 50 % depositum er ikke refunderbart |
 | ⚠️ | ~~Vagabond Temple (Kep)~~ | **Ser nedlagt/utflyttet ut** — nettsiden lister kun Sri Lanka/India/Europa. Ikke planlegg rundt den |  |
+
+**🎯 Dommen:** ta **Navutu Dreams (1 176/natt)** som Siem Reap-base hvis
+retreat-følelsen er poenget — tre bassenger og to yogastudioer for 217 kr
+mer per natt enn Golden Temple. Vil dere ha det skarpeste wellness-produktet
+og bryr dere ikke om prisen, er **TUI BLUE Angkor Grace (9,8)** byens beste.
+**Hariharalaya er et valg om en annen tur** — seks dager i digital detox er
+uforenlig med å se Angkor, Phnom Penh, Kampot og Koh Rong på én uke.
+
+### 🇰🇭 Unike opplevelser i Kambodsja-uka (som faktisk får plass)
+
+- 🌊 **Bioluminescent plankton, Koh Rong Samloem — 16. eller 17. januar.**
+  Kveldsbåt fra Saracen Bay, **~5 USD p.p. (~50 kr)**, svøm i vann som
+  lyser blått når du beveger deg. **Timing-krav: må være mørk himmel, altså
+  lite måne og vekk fra lyset.** Sjekk månefasen — nymåne gir best show.
+  Dette er turens billigste «wow».
+- 🌶️ **La Plantation pepperfarm, Kampot — 14. eller 15. januar.** Guidet tur
+  i pepperåkrene (Kampot-pepper har egen opprinnelsesbeskyttelse) pluss
+  **matkurs** der dere lager beef lok lak og fish amok. Det beste
+  mat-og-håndverk-stoppet i Kambodsja.
+- 🎪 **Phare, The Cambodian Circus, Siem Reap — 11. eller 12. januar, 20:00.**
+  ~185 kr p.p. Se [`festivaler-og-eventer.md`](festivaler-og-eventer.md).
+- 🌅 **Angkor i soloppgang med tuk-tuk** — gratis tuktuk hvis dere velger
+  Golden Temple Retreat.
 
 ### 🇻🇳 Vietnam
 | Nivå | Sted | Hva | Pris |
