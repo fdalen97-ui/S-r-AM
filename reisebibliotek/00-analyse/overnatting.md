@@ -48,43 +48,45 @@ gamleby, halve prisen av utsiktshotellene. Budsjett: **Baan Wanglang (576)**
 
 ## 2. 🇰🇭 Siem Reap · 11.–13. jan (2 netter)
 
-> ✅ **Oppdatert 20. sep 2026 — gode nyheter.** Siem Reap er flyttet fra
-> nyttår til **11.–13. januar (2 netter)**, og **hele nyttårspåslaget
-> forsvinner.** Ferske priser for de nye datoene:
-> **Rambutan Resort 858/natt** (var 1 039) · **Jaya House River Park
-> 4 073/natt** (var 3 744 — toppsjiktet er dyrere i januar-høysesongen,
-> men nå er det bare 2 netter).
-> **Ny anbefaling: 2 netter Rambutan = 1 715 kr.** Splurge-varianten
-> 2 netter Jaya House = 8 146 kr. Den gamle «kritisk hast»-advarselen
-> gjelder ikke lenger — januar midt i uka er ikke utsolgt.
+> ✅ **Oppdatert 20. sep 2026 — prisene under er nå for de RIKTIGE datoene.**
+> Siem Reap flyttet fra nyttår til **11.–13. januar (2 netter)**, og hele
+> nyttårspåslaget forsvant. **Toppsjiktet falt mest: Viroth's fra 3 856 til
+> 1 864 per natt, Golden Temple fra 1 421 til 959, Somadevi fra 1 169 til
+> 530.** Eneste som gikk opp: Jaya House (3 744 → 4 073).
 
-**Tabellen under er fra nyttårsdatoene og ligger høyere enn dagens priser.**
+**Live-priser hentet 20. sep for 11.–13. januar 2027, 2 voksne, NOK/natt.**
 
-| Sted | Pris | 3 netter | Score |
-|---|---|---|---|
-| **Babel Guesthouse** (basseng!) | **303** | **908** | 9,2 |
-| Lub d Siem Reap | 813 | 2 438 | 9,4 |
-| Angkor Land Urban Boutique | 900 | 2 701 | 9,0 |
-| 🏆 **Rambutan Resort** | **1 039** | **3 116** | **9,5** |
-| Somadevi Angkor | 1 169 | 3 506 | 9,3 |
-| Golden Temple Retreat (gratis spa+tuktuk) | 1 421 | 4 262 | **9,8** |
-| The Aviary (takbasseng) | 1 438 | 4 315 | 9,6 |
-| Navutu Dreams (tre bassenger) | 1 545 | 4 636 | 9,5 |
-| FCC Angkor by Avani | 2 170 | 6 509 | 9,5 |
-| 🥂 **Jaya House River Park** | **3 744** | 11 231 | **9,9** (7 078!) |
-| Viroth's Hotel | 3 856 | 11 568 | 9,9 |
-| Sala Lodges (11 antikke khmer-hus) | 4 069 | 12 207 | 9,8 |
+| Sted | Per natt | 2 netter | Score (anm.) | Var (nyttår) |
+|---|---|---|---|---|
+| **Babel Siem Reap Guesthouse** (basseng) | **273** | **545** | 9,2 (2 651) | 303 |
+| Lub d Siem Reap | 307 | 614 | 9,4 (4 559) | 813 |
+| Angkor Land Urban Boutique | 408 | 816 | 9,0 (3 057) | 900 |
+| **Somadevi Angkor** | **530** | **1 060** | 9,3 (2 642) | 1 169 ⬇️ |
+| Rambutan Resort | 858 | 1 715 | 9,5 (1 254) | 1 039 |
+| The Aviary (takbasseng) | 873 | 1 746 | 9,6 (1 750) | 1 438 ⬇️ |
+| 🏆 **Golden Temple Retreat** (gratis spa + tuktuk) | **959** | **1 917** | **9,8 (5 408)** | 1 421 ⬇️ |
+| **Navutu Dreams** — *wellness retreat, tre bassenger* | 1 176 | 2 352 | 9,5 (2 996) | 1 545 ⬇️ |
+| 🥂 **Viroth's Hotel** | **1 864** | **3 727** | **9,9 (5 739)** | 3 856 ⬇️⬇️ |
+| FCC Angkor by Avani | 1 982 | 3 963 | 9,5 (3 090) | 2 170 |
+| Sala Lodges (11 antikke khmer-hus) | 3 112 | 6 224 | 9,8 (1 216) | 4 069 ⬇️ |
+| Jaya House River Park | 4 073 | 8 146 | 9,9 (7 081) | 3 744 ⬆️ |
 
-**Basseng er ikke valgfritt** (32–34 °C, tørt). Best for pengene:
-Rambutan (saltvann, jungelvegger), Golden Temple, FCC (enormt).
+**Basseng er ikke valgfritt** (32–34 °C, tørt).
 
-**🎯 Valget:** **Rambutan Resort (1 039)** — nøyaktig budsjett, 9,5,
-voksenorientert og stille, 5 min fra Wat Bo-restaurantene.
-Budsjett: **Babel (303/natt = 908 for tre netter over nyttår** — rutas beste
-seng målt i verdi). Splurge: **Jaya House** fremfor Sala Lodges — gratis
-daglig spabehandling per gjest × 3 netter henter inn reell verdi, og 9,9 av
-7 078 anmeldelser er ikke tilfeldig. **Kompromiss:** 2 netter Rambutan +
-nyttårsnatt Jaya House = 5 822.
+**🎯 Nytt valg etter prisfallet: Golden Temple Retreat (959/natt = 1 917 for
+to netter).** 9,8 av 5 408 anmeldelser, **gratis daglig spabehandling og
+gratis tuk-tuk** — det siste er verdt mye når dere skal til Angkor i
+soloppgang. Slår Rambutan på score, fasiliteter og inkluderte tjenester for
+100 kr mer per natt.
+
+**🥂 Splurgen er nå Viroth's, ikke Jaya House.** Viroth's falt til under
+halv pris (1 864 mot 3 856) og har samme 9,9-score som Jaya House — men
+koster **4 419 kr mindre** for to netter. Jaya House gikk motsatt vei og er
+ikke lenger verdt premien.
+
+**Budsjett:** Babel (273/natt = 545 for to netter) er fortsatt rutas beste
+seng målt i ren verdi. **Somadevi Angkor (530) er det største kuppet** —
+femstjerners med spa og basseng til gjestehuspris.
 
 ~~**🔴 KRITISK HAST:** nyttår i Siem Reap er utsolgt i oktober.~~
 **Ikke lenger kritisk** — dere er der 11.–13. jan, ikke i nyttårshelgen.
