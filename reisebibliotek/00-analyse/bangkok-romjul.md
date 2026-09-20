@@ -234,9 +234,10 @@ verdt det). *Dagsum ~3 500–5 000 kr (omakasen tar 3 000–4 000).*
 Utsjekk 08:00, bagasje i resepsjonen → tog 08:30 fra Krung Thep Aphiwat
 til **Ayutthaya** (1,5 t, 20–60 THB) → sykkel/tuk-tuk mellom ruinene,
 Wat Chaiwatthanaram i ettermiddagslys → **hack:** nattog #9 mot Chiang
-Mai stopper i Ayutthaya ~19:50 — hent bagasjen med Grab-retur til Bangkok
-kl. 15, eller ta bagasjen med om morgenen og lås den i skapene på
-Ayutthaya stasjon, så slipper dere returen. Se `indokina-storrunden.md`.
+Mai stopper i Ayutthaya **19:45** — ta bagasjen med om morgenen, lås den i
+skapene på Ayutthaya stasjon (30–50 THB), og kjøp togbilletten *fra
+Ayutthaya*. Plan B: #13 fra Ayutthaya 21:07. Tider og priser i
+`indokina-storrunden.md`.
 
 **Hvis dere vil bytte:** rooftop kan flyttes til 2. jan (Sky Pool eller
 Bamboo Bar), men fyrverkeriet finnes bare 31. Omakasen kan flyttes til

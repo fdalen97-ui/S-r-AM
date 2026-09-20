@@ -46,7 +46,7 @@ mister én dag med luft rundt den.
 | **tor 31. des** | **Bangkok** 06:15 | Bagasje på **Grande Centre Point Surawong** (Loy La Long/Aurum fullbooket) · 💆 **10:00 Chandee couple head spa + massasje** · sov 2 t · Yaowarat gatemat · 🎆 **Nyttårsaften: River City-rooftop** (10 min gange) med ICONSIAM-fyrverkeriet (se `bangkok-romjul.md`) |
 | fre 1. jan | Bangkok | Wat Pho 08:00 → ferge Wat Arun → longtail-khlong · Sky Pool · River Vibe-taket · Chinatown-bibber |
 | **lør 2. jan** | Bangkok | Chatuchak 09–11 · Talat Noi · 🍣 **19:00 Omakase** (Masato — sjekk 14. okt at 2. jan er åpen) · Bamboo Bar |
-| **søn 3. jan** | Bangkok → 🚆 **Nattog #9, kveld** | Ayutthaya med tog om dagen, nattog nordover om kvelden (1. kl. kupé) |
+| **søn 3. jan** | Bangkok → 🚆 **Nattog #9** | Utsjekk, tog 07:30 (#7) eller 08:xx til Ayutthaya (1 t 10) · ruinene på sykkel · **gå på nattog #9 i Ayutthaya 19:45** (fra Krung Thep Aphiwat 18:40) → Chiang Mai 07:15. Plan B: #13 Ayutthaya 21:07 → 08:45 |
 | **man 4. jan** | **Chiang Mai** ~07:15 | Khao soi, byen |
 | tir 5. jan | Chiang Mai | Doi Suthep |
 | **ons 6. jan** | Chiang Mai | 🐘 **Elefantreservatet** (book nå) |
@@ -117,7 +117,7 @@ netter) uten å røre feriekompensasjonen.
 |---|---|
 | ✅ **Gjort 17. sept** | ✈️ **Utreisen booket** — Qatar QR180/QR830, 30. des, 13 906 kr |
 | **NÅ** | 🎧 **Zamna-billetter** (Phuket-arbitrasjen før venue slippes — datoene 23.–24. jan er uendret) · 🛏️ **Bangkok-hotell** — Loy La Long/Aurum fullbooket (20. sep). Book **Grande Centre Point Surawong** 31. des–3. jan, city view, ~2 550/natt (**kun Expedia/Priceline** — direkte-siden har bare suiter igjen) · 💆 **Chandee Silom** 31. des kl. 10 |
-| **~5. okt** | 🚆 **Nattog #9, 1. klasse underkøye, 3. januar** — åpner ~90 dager før |
+| **5. okt** | 🚆 **Nattog #9, 3. januar, 1. klasse hel kupé (over + under = 3 092 THB ≈ 900 kr for to)** — SRT åpner salget nøyaktig 90 dager før, på dticket.railway.co.th (eller 12Go). Kjøp **Ayutthaya → Chiang Mai** (påstigning 19:45), ikke fra Bangkok. Utsolgt? #13 samme dag (Ayutthaya 21:07 → 08:45, 1. kl. 1 246/1 446 THB) |
 | **14. okt kl. 19:00** | 🍣 **Masato-slippet** — sjekk om dette dekker **31. des–2. jan**; hvis ikke, vent på neste slipp |
 | sept–okt | 🛏️ Chiang Mai nyttårshotell for **31. des**-innsjekk · Ban Rak Thai · **Cave Lodge** · elefantreservatet |
 | okt–nov | ✈️ CNX→BKK→REP én PNR · 🚌 Giant Ibis × 2 · ⛴️ Samloem-ferge med retur · 🤿 Similan-liveaboard · 🚗 leiebil Chiang Mai (CDW + tyveri, egenandel i kontrakten) |
@@ -259,7 +259,18 @@ unngå forveksling med planen over — spør om du vil se den igjen.*
 | Søvn | Egen låsbar kupé med seng, sengetøy, vask | 2+1 lenestol i recline, lys og stopp |
 | Ankomst | 07:15 med soloppgang over risfeltene, sentrumsstasjon | 05:00 på Arcade-terminalen i mørket, hotellet ikke klart |
 | Ayutthaya-hacken | Ja — toget stopper i Ayutthaya ~19:50 | Nei — bussen går fra Mo Chit |
-| Booking | Åpner ~5. okt (90 dager før), selges ut på dager | 2–3 uker før via 12Go |
+| Booking | Åpner 5. okt (SRT kuttet vinduet fra 180 til 90 dager i 2025), selges ut på dager | 2–3 uker før via 12Go |
+
+**Togtidene 3. jan (Krung Thep Aphiwat → Chiang Mai, gjeldende rutetabell):**
+
+| Tog | Avg. BKK | Ayutthaya | Ank. CNX | Klasser | Pris for to | Dommen |
+|---|---|---|---|---|---|---|
+| **#9 «Uttaravithi»** 🏆 | 18:40 | **19:45** | **07:15** | 1. kl. 2-køys kupé, 2. kl. AC-sovevogn | 1. kl. hel kupé 3 092 THB ≈ 900 kr · 2. kl. 938/1 038 THB pp ≈ 270–300 kr | **Book denne.** Nyeste vogner, ankomst tidlig nok til full Chiang Mai-dag |
+| #13 | 20:05 | 21:07 | 08:45 | 1. kl., 2. kl. AC | 1. kl. 1 246/1 446 THB pp · 2. kl. 768/838 | Plan B. Eldre, men bredere underkøyer. 90 min senere framme |
+| #51 | 22:30 | 23:38 | 11:40 | Kun 2. kl. sovevogn | ~700–900 THB pp | Plan C. Halv dag i Chiang Mai tapt, men billigst |
+| #7 (dagtog) | 07:30 | 08:23 | 17:50 | 2. kl. seter (railcar) | ~600 THB pp | Nei — dreper Ayutthaya-dagen. Fin utsikt Lampang–Khun Tan, men 10 t i sete |
+
+**Ayutthaya-hacken konkret:** kjøp billetten *fra Ayutthaya*, ikke fra Bangkok (samme tog, litt billigere, og ingen tvil om setet). Bagasje i skapene på Ayutthaya stasjon (30–50 THB). Toget står 2–3 min på perrongen — vær der 19:30.
 
 **Dommen:** toget. 400 kr mer for to, men dere sover, kommer fram i dagslys, og slipper å stå på en bussterminal kl. 05. Bussen er plan B hvis toget er utsolgt 5. okt — da Sombat Tour eller Nakhonchai Air, aldri billigste selskap.
 
