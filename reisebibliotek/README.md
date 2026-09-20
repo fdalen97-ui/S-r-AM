@@ -32,9 +32,10 @@ vin/mat/sol/natur, prisbevisste, romjul + januar er reisevinduet.
 | [`00-analyse/batturer.md`](00-analyse/batturer.md) | 🛶 Båtturene i tre nivåer: Hong by Starlight, Cheow Lan-rafthus, Mekong-sampan, Kompong Khleang — **og Mekong-slowboaten fra ryggsekk til luksus** |
 | [`00-analyse/snorkling-kh-vn.md`](00-analyse/snorkling-kh-vn.md) | 🤿 Snorkling i Kambodsja/Vietnam: spot-for-spot, Koh Tang-overnattingen, OnBird Phu Quoc og sesongfasiten |
 | [`00-analyse/flerdagsopplegg.md`](00-analyse/flerdagsopplegg.md) | 🏕️ Retreats i tre prisnivåer per land + de beste flerdagsoppleggene (Similan-liveaboard, sov på Surin, Chi Phat) |
+| ⭐ [`00-analyse/aktiviteter.md`](00-analyse/aktiviteter.md) | 🏄 **Aktiviteter og kurs stopp for stopp, sesongsjekket mot januar:** kitesurfing i Hua Hin (feil kyst på Andaman!), klatring på Railay og Crazy Horse, kajakk i hongene, freediving, plankton-kvelden — og hva som må bookes når |
 | [`00-analyse/kaffe.md`](00-analyse/kaffe.md) | ☕ Kaffen langs ruta: **Shompoos 2-dagers kaffegård i Long Lan**, Eiah-Sae (1927) til Roots, Lacàph i Saigon, K'Ho i Dalat — og hvorfor det avgjør Laos-valget |
 | [`00-analyse/omakase.md`](00-analyse/omakase.md) | 🍣 Omakase langs ruta: hele Bangkok-stigen (Ichizu, Masato-bookingritualet), Sushi Rei i Saigon og nei-dommene |
-| [`00-analyse/festivaler-og-eventer.md`](00-analyse/festivaler-og-eventer.md) | 🎆 Festivaler og konserter i vinduet: Zamna Phuket 23.–24. jan, Fujii Kaze 26. des, NYE-byvalget, Bangkok Music City |
+| [`00-analyse/festivaler-og-eventer.md`](00-analyse/festivaler-og-eventer.md) | 🎆 Festivaler og konserter i vinduet: Zamna Phuket 23.–24. jan, **Bangkok Music City 30.–31. jan (nå inne i vinduet)**, Phare-sirkuset, nyttårsaften — og hva som falt ut da datoene flyttet seg |
 | [`00-analyse/strender-og-alternative-ruter.md`](00-analyse/strender-og-alternative-ruter.md) | 🏖️ Strand-toppen i sesong (hype-sjekket), Phuket-uka før julaften og fire alternative ruter fra Bangkok |
 | [`00-analyse/oy-formelen.md`](00-analyse/oy-formelen.md) | 🧮 Øy-formelen: scoringsmodell for 21 Thailand-øyer i to vektinger |
 | [`00-analyse/retreats-og-unike-steder.md`](00-analyse/retreats-og-unike-steder.md) | 🧘🏡 Retreats, workshops og kuleste overnattinger per land (rafthus, trehytter, flytende telt, palasser) |
