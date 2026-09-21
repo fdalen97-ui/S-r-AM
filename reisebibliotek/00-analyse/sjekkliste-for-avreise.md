@@ -94,11 +94,14 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
       → [`vaksiner.md`](vaksiner.md)
 - [ ] 🟡 Fyll opp faste resepter for hele perioden + ta med kopi av resept
       (generisk navn) for tollen.
-- [ ] 🔴 **Få Platinum Tekna-kortet FULLT aktivert** (står som «delvis
-      aktivt») — og sjekk samtidig **hvilket loungeprogram det har**.
-      ⚠️ **Priority Pass virker ikke i Doha lenger** (Al Maha forlot det
-      15. mai 2026). Kun LoungeKey eller DragonPass slipper dere inn.
-      Ellers: dagspass QR 160 (~450 kr p.p.) for 3 timer.
+- [ ] 🔴 **Aktiver Platinum Tekna fullt ut** (står som «delvis aktivt») og
+      **registrer det fysiske kortet på LoungeKey.no** — kortet er
+      Handelsbanken Platinum med **LoungeKey, 5 gratis besøk per kalenderår,
+      gjest $30**. Registrering kan ikke gjøres på flyplassen.
+- [ ] 🔴 **Søk opp DOH/Hamad i LoungeKey-appen når kortet er registrert.**
+      Priority Pass forlot Doha 15. mai 2026, og kildene er uenige om
+      LoungeKey fulgte med. Appen gir fasit for deres kort. Virker det ikke:
+      Al Maha dagspass QR 160 (~450 kr p.p., 3 t).
       → [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md)
 - [ ] 🟡 **Kjøp melatonin 1 mg på apoteket (reseptfritt)** — til 1.–4. januar,
       kl. 21–22 Bangkok-tid. Jetlag-planen med søvntider ligger i

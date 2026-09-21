@@ -27,49 +27,70 @@ billetten er tatt.*
 
 ---
 
-## 🛋️ Lounge i Doha — sjekket 21. sep 2026
+## 🛋️ Lounge i Doha med Platinum Tekna — grundig sjekket 21. sep 2026
 
-**⚠️ Viktig endring i mai 2026: Priority Pass virker ikke lenger i Doha.**
-Al Maha-loungene (het Oryx til sept. 2025) **forlot Priority Pass
-15. mai 2026**, og ingen annen lounge på Hamad tar imot det. Har kortet
-Priority Pass, kommer dere altså **ikke** inn.
+### Hva kortet er, og hva det gir
 
-**Det som fortsatt virker på Al Maha:** **LoungeKey** og **DragonPass**
-(som er motoren bak Mastercard Travel Pass og Visa Airport Companion).
+**Tekna byttet bankpartner til Handelsbanken i 2024**, så «Platinum Tekna»
+er **Handelsbanken Platinum**. Fra Handelsbankens egne sider:
 
-### Hva dere må sjekke på Platinum Tekna-kortet
-
-Kortet er et Mastercard. Norske Platinum-kort har historisk hatt **Priority
-Pass**, som altså er verdiløst i Doha nå. **Logg inn og finn ut hvilket
-loungeprogram kortet faktisk bruker** — ett av tre svar:
-
-| Programmet kortet har | Kommer dere inn på Al Maha? |
+| | |
 |---|---|
-| **LoungeKey** | ✅ Ja |
-| **DragonPass / Mastercard Travel Pass** | ✅ Ja |
-| **Priority Pass** | ❌ Nei — ikke siden 15. mai 2026 |
+| **Loungeprogram** | **LoungeKey** (ikke Priority Pass), 1 800+ lounger |
+| **Gratis besøk** | **5 per kalenderår, for kortholder** |
+| **Gjest/ledsager** | **$30 per gjest** — Lisa er gjest med mindre hun har eget kort |
+| **Besøk 6 og utover** | $30 per besøk |
+| **Krav før bruk** | **Registrer det fysiske kortet på LoungeKeys nettsider.** Gjøres ikke på flyplassen |
 
-⚠️ **Kortet står som «delvis aktivt».** Uansett loungesvar: få det fullt
-aktivert i god tid før avreise, ikke på Gardermoen.
+⚠️ **Kortet står som «delvis aktivt».** Få det fullt aktivert og
+LoungeKey-profilen registrert i god tid — ikke på Gardermoen.
 
-### Hvis kortet ikke gir tilgang — kjøp dagspass
+📅 **Kalenderår-detalj:** utreisen er **30. desember 2026**, så Doha-stoppet
+bruker av **2026-kvoten**. Har dere brukt besøk tidligere i 2026, er det
+færre igjen. Returen i februar treffer en ny kvote.
 
-Al Maha selger drop-in både på nett og i døra:
+### ⚠️ Det uavklarte punktet — og det er viktig
 
-| Varighet | Pris | I kroner |
+**Priority Pass forlot Doha 15. mai 2026.** Det er bekreftet fra flere hold.
+Spørsmålet er om **LoungeKey fulgte med.**
+
+| Kilde | Påstand |
+|---|---|
+| Reisefaglige sider (Kitt) | **LoungeKey forsvant samtidig** — begge programmene drives av **Collinson**, så lounger forlater dem normalt sammen |
+| Andre oversikter (LayoverIndex) | **LoungeKey virker fortsatt** på Al Maha, og flyplassen lister det |
+| Hamad Airports egen loungeside | Lister lounger, men **ikke hvilke programmer** de tar imot |
+
+**Jeg klarer ikke å avgjøre dette fra åpne kilder — de motsier hverandre.**
+Collinson-argumentet er logisk sterkt, men flyplassoversiktene er ikke
+oppdatert samtidig.
+
+**✅ Slik får dere et sikkert svar:** registrer kortet på LoungeKey og
+**søk opp DOH / Hamad i LoungeKey-appen.** Appen viser den gjeldende lista
+for akkurat deres kort. Dukker Al Maha opp, er dere inne. Gjør dette nå,
+ikke i desember.
+
+### Sikre alternativer hvis LoungeKey ikke gjelder
+
+| Vei inn | Pris | Kommentar |
 |---|---|---|
-| **3 timer** | QR 160 | **~450 kr p.p.** |
-| 6 timer | QR 270 | ~755 kr |
-| 12 timer | QR 540 | ~1 510 kr |
+| **DragonPass / Mastercard Travel Pass** | — | **Virker sikkert.** Sjekk om Mastercard-kortet deres har dette i tillegg |
+| **Al Maha dagspass, 3 timer** | QR 160 ≈ **450 kr p.p.** | Kjøpes på nett eller i døra. **Riktig billett** — mellomlandingen er 2t30 |
+| Al Maha 6 timer | QR 270 ≈ 755 kr | Unødvendig |
+| Al Mourjan Business (kjøpes av økonomipassasjerer) | ~QR 450 ≈ 1 265 kr p.p. | Mye finere lounge, men dyr for 1,5 time |
 
-**3-timers er riktig billett** — mellomlandingen er 2t30.
+### Regnestykket for dere to
 
-**Er det verdt 900 kr for to?** Regnestykket: dere lander 17:30 og går om
-bord ~19:30. Etter utstigning og gange sitter dere realistisk **1t15–1t30**
-i loungen. Men **dette er nøyaktig middagsvinduet i jetlag-planen**
-(21:30 Bangkok-tid, siste måltid før dere skal sove på ben 2), og en lounge
-med mat, dusj og rolige stoler gjør den jobben bedre enn en gate-benk.
-**Dom: verdt det hvis kortet dekker det. Grensetilfelle til 900 kr.**
+| Scenario | Kostnad |
+|---|---|
+| **LoungeKey gjelder** | Fredrik **gratis** + Lisa **$30 ≈ 305 kr** = **~305 kr** |
+| LoungeKey gjelder + Lisa har eget kort | **0 kr** |
+| Kun dagspass | 2 × 450 = **900 kr** |
+
+**Dom:** dere lander 17:30 og går om bord ~19:30, så dere sitter realistisk
+**1t15–1t30** i loungen. Til **305 kr er det et opplagt ja**. Til 900 kr er
+det et grensetilfelle — men husk at **dette er middagsvinduet i
+jetlag-planen** (21:30 Bangkok-tid, siste måltid før dere skal sove på
+ben 2). Mat, dusj og rolige stoler gjør den jobben bedre enn en gate-benk.
 
 ---
 
