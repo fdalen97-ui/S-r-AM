@@ -94,6 +94,12 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
       → [`vaksiner.md`](vaksiner.md)
 - [ ] 🟡 Fyll opp faste resepter for hele perioden + ta med kopi av resept
       (generisk navn) for tollen.
+- [ ] 🔴 **Få Platinum Tekna-kortet FULLT aktivert** (står som «delvis
+      aktivt») — og sjekk samtidig **hvilket loungeprogram det har**.
+      ⚠️ **Priority Pass virker ikke i Doha lenger** (Al Maha forlot det
+      15. mai 2026). Kun LoungeKey eller DragonPass slipper dere inn.
+      Ellers: dagspass QR 160 (~450 kr p.p.) for 3 timer.
+      → [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md)
 - [ ] 🟡 **Kjøp melatonin 1 mg på apoteket (reseptfritt)** — til 1.–4. januar,
       kl. 21–22 Bangkok-tid. Jetlag-planen med søvntider ligger i
       [`utreise-oslo-bangkok.md`](utreise-oslo-bangkok.md).
