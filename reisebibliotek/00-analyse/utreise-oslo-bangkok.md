@@ -49,7 +49,36 @@ LoungeKey-profilen registrert i god tid — ikke på Gardermoen.
 bruker av **2026-kvoten**. Har dere brukt besøk tidligere i 2026, er det
 færre igjen. Returen i februar treffer en ny kvote.
 
-### ⚠️ Det uavklarte punktet — og det er viktig
+### ✅ Gardermoen: JA, kortet gjelder — men bare på utlandssiden
+
+Avinor lister hvilke norske banker OSL Lounge godtar LoungeKey fra, og
+**listene er forskjellige for innland og utland**:
+
+| Lounge | Banker som godtas | Handelsbanken? |
+|---|---|---|
+| **OSL Lounge Utland** | Danske Bank, DNB, **Handelsbanken**, Nordea, Storebrand, SEB Selected, Sparebank1 | ✅ **Ja** |
+| OSL Lounge Innland | Nordea, SEB, Sparebank1, DNB | ❌ Nei |
+
+**Doha-flyet går fra utlandssiden, så dere treffer riktig lounge.**
+*(Merk for senere innenlandsreiser: der gjelder ikke kortet.)*
+
+| | |
+|---|---|
+| **Hvor** | OSL Lounge Utland, én etasje opp ved gate E2 |
+| **Åpent** | 05:15–20:30 |
+| **Tilgang** | Fra **3 timer før avgang**, med gyldig utenlandsbillett |
+| **Deres vindu** | Avgang 09:00 → inn **fra 06:00**. Dere skal uansett være der ~06:30 |
+| **Dagspass hvis uten kort** | **445 kr p.p.** |
+| Alternativ vei inn | **DragonPass** godtas også, i begge loungene |
+
+💡 **Jetlag-bonus:** 06:00–08:30 på Gardermoen er **12:00–14:30 på
+Bangkok-klokka** — midt på dagen. Å sitte våken og spise ordentlig der er
+nøyaktig det planen krever.
+
+⚠️ **Men dette bruker ett av de fem besøkene.** Tar dere lounge både på
+Gardermoen og i Doha samme dag, er **2 av 5 brukt** — begge fra 2026-kvoten.
+
+### ⚠️ Doha: det uavklarte punktet
 
 **Priority Pass forlot Doha 15. mai 2026.** Det er bekreftet fra flere hold.
 Spørsmålet er om **LoungeKey fulgte med.**
@@ -78,13 +107,17 @@ ikke i desember.
 | Al Maha 6 timer | QR 270 ≈ 755 kr | Unødvendig |
 | Al Mourjan Business (kjøpes av økonomipassasjerer) | ~QR 450 ≈ 1 265 kr p.p. | Mye finere lounge, men dyr for 1,5 time |
 
-### Regnestykket for dere to
+### Regnestykket for hele utreisedagen
 
-| Scenario | Kostnad |
-|---|---|
-| **LoungeKey gjelder** | Fredrik **gratis** + Lisa **$30 ≈ 305 kr** = **~305 kr** |
-| LoungeKey gjelder + Lisa har eget kort | **0 kr** |
-| Kun dagspass | 2 × 450 = **900 kr** |
+| Stopp | Med LoungeKey | Uten kort |
+|---|---|---|
+| **Gardermoen (bekreftet ✅)** | Fredrik gratis + Lisa $30 ≈ **305 kr** | 2 × 445 = **890 kr** |
+| **Doha (uavklart)** | Fredrik gratis + Lisa $30 ≈ **305 kr** | 2 × 450 = **900 kr** |
+| **Totalt begge** | **~610 kr** (2 av 5 besøk brukt) | **1 790 kr** |
+
+Har **Lisa eget Tekna Platinum-kort**, faller gjesteavgiften bort og begge
+stoppene blir **gratis** — da bruker dere ett besøk hver, per stopp.
+**Sjekk om hun har kortet; det er 610 kr på én dag.**
 
 **Dom:** dere lander 17:30 og går om bord ~19:30, så dere sitter realistisk
 **1t15–1t30** i loungen. Til **305 kr er det et opplagt ja**. Til 900 kr er
