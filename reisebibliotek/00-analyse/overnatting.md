@@ -46,6 +46,84 @@ gamleby, halve prisen av utsiktshotellene. Budsjett: **Baan Wanglang (576)**
 
 ---
 
+## 1b. 🇹🇭 Chiang Mai · 4.–7. januar (3 netter) — live-sjekket 21. sep 2026
+
+> 💡 **Chiang Mai er billig.** Samme kvalitetsnivå som kostet 2 500–3 000 per
+> natt i Bangkok, ligger her på **750–1 000**. Dere kan ta et bedre hotell
+> enn dere tror, eller spare 5 000 kr på tre netter.
+
+### Nabolagsdommen — og den praktiske detaljen som avgjør
+
+| Nabolag | For | Mot |
+|---|---|---|
+| 🏆 **Nimmanhaemin («Nimman»)** | **Thailands beste kaffe- og matgate.** Design, vinbarer, MAYA-senteret, **10–15 min til flyplassen**, brede gater med **ordentlig parkering** | Ikke «gamle Lanna» — moderne og urbant |
+| Gamlebyen | Templer rett utenfor døra, murene, søndagsmarkedet | ⚠️ **Parkeringsmareritt.** Smale enveiskjørte smug — dårlig valg når dere har leiebil |
+| Elvebredden (Ping) | Rolig, grønt, koloniale boutiquehoteller | 20 min til alt, du må ta Grab hver gang |
+
+⚠️ **Dette er kriteriet folk glemmer: dere henter leiebil her 7. januar.**
+Gamlebyen er vanskelig å kjøre i og verre å parkere i. **Nimman vinner på
+dette alene**, i tillegg til at det er nabolaget som passer smaken deres.
+
+### Prisene for deres datoer (3 netter, to personer, NOK)
+
+| Hotell | Nabolag | Per natt | 3 netter | Score (anm.) |
+|---|---|---|---|---|
+| Stay Collection Chiangmai | Nimman | ~625 | ~1 875 | 9,6 (40 — for få) |
+| 🏆 **G Nimman** | Nimman | **754** | **2 263** | 9,4 (938) · 9,8 på Expedia |
+| 🏆 **BED Nimman — Adults Only** | Nimman | **763** | **2 290** | 9,4 (**2 960**) |
+| Art Mai Gallery Nimman | Nimman | ~745 | ~2 235 | 9,0 (491) |
+| Siripanna Villa | Gamlebyen | ~805 | ~2 415 | 8,4 (1 000) |
+| Moose Hotel Nimman | Nimman | ~980 | ~2 940 | 8,8 (165) |
+| Yaang Come Village | Gamlebyen | ~1 050 | ~3 150 | 9,0 (895) |
+| CHINO at Nimman | Nimman | ~1 275 | ~3 825 | 9,4 (31 — for få) |
+| Puripunn Hideaway | Gamlebyen | ~1 450 | ~4 350 | 9,4 (341) |
+| Aruntara Riverside | Elva | 1 494 | 4 483 | 9,0 (2 306) |
+| Kantary Hills (5★, store rom) | Nimman | ~1 675 | ~5 025 | 9,2 (369) |
+| **Meliá Chiang Mai** (nytt, takbasseng) | Elva | **1 723** | **5 169** | 9,4 (**4 005**) |
+| **Ping Nakara** (kolonial boutique) | Elva | ~1 855 | ~5 565 | **9,6 (448)** |
+| Sireeampan Boutique | Nord | ~2 140 | ~6 420 | 9,6 (58) |
+| Rachamankha (arkitekturikonet, 25 rom) | Gamlebyen | ingen pris online | — | 9,4 (3 383) |
+| ❌ Raya Heritage | Nord, 6,6 km ut | 7 078 | 21 234 | 9,4 — utenfor bånd |
+| ❌ 137 Pillars House | Elva | ~10 790 | ~32 400 | 9,6 — utenfor bånd |
+
+### 🎯 Dommen
+
+**Hovedvalg: G Nimman (754/natt, 2 263 for tre netter).**
+Firestjerners designbygg midt i Nimman, basseng, 9,4 av 938 anmeldelser og
+9,8 på Expedia. Gangavstand til kaffebarene og vinbarene, enkel parkering,
+15 min til flyplassen. Dere betaler **under en tredjedel** av Bangkok-prisen
+for samme opplevelsesnivå.
+
+**Like godt, og kanskje bedre for dere to: BED Nimman — Adults Only
+(763/natt).** Nøyaktig samme pris, **kun voksne**, og **2 960 anmeldelser**
+mot 938 — langt sikrere score. Velg denne hvis ro betyr mer enn arkitektur.
+
+**Splurge med utsikt: Meliá Chiang Mai (1 723/natt).** Nytt, takbasseng,
+9,4 av 4 005 anmeldelser. Dette er Chiang Mais svar på Sky Pool-følelsen
+fra Bangkok. Koster 2 900 kr mer for tre netter.
+
+**Karaktervalget: Ping Nakara (1 855) eller Rachamankha.** Ping Nakara er
+kolonialt trehåndverk med 9,6, Rachamankha er byens arkitektoniske legende
+med bare 25 rom — **ingen priser online betyr trolig utsolgt, så book
+direkte hvis dere vil ha den.**
+
+### ⏱️ Hvor mange netter? (spørsmålet står fortsatt åpent)
+
+Dere har **4.–11. januar = 7 netter** mellom nattoget og flyet til Siem Reap.
+**Pai ligger allerede inne i Mae Hong Son-loopen** (10.–11. jan), så «Pai og
+byene rundt» er dekket.
+
+| Fordeling | Vurdering |
+|---|---|
+| **3 netter CM + 4 på loopen** 🏆 | **Anbefalt.** Chiang Mai har akkurat nok til tre dager: gamlebyen og templene, Nimman-kaffe, elefantdagen 6. jan, Doi Suthep. Loopen trenger 4 netter for 600+ km |
+| 2 netter CM + 5 på loopen | Velg denne **hvis dere vil ha 2 netter i Pai** i stedet for 1. Pai fortjener det — men dere mister elefantdagen eller Doi Suthep |
+| 4 netter CM + 3 på loopen | ❌ **Ikke gjør dette.** 3 netter tvinger fram 200 km kjøring per dag på fjellvei. Loopen blir transport i stedet for opplevelse |
+
+**Book 3 netter nå med fri avbestilling.** Bestemmer dere dere for mer
+Pai-tid senere, kutter dere én natt i Chiang Mai uten kostnad.
+
+---
+
 ## 2. 🇰🇭 Siem Reap · 11.–13. jan (2 netter)
 
 > ✅ **Oppdatert 20. sep 2026 — prisene under er nå for de RIKTIGE datoene.**

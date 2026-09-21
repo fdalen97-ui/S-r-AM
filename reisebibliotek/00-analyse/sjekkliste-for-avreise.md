@@ -74,6 +74,11 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
       det ved politikontroll, og **forsikringen faller bort uten gyldig
       førerrett i landet**. Ta **1968-versjonen** — den gjelder i Thailand og
       er den eneste Vietnam godtar.
+- [ ] 🟡 **Chiang Mai 4.–7. jan: book G Nimman (754/natt) eller BED Nimman
+      Adults Only (763/natt), begge 9,4 — med FRI AVBESTILLING.** Nimman
+      fordi dere har leiebil og gamlebyen er et parkeringsmareritt. Kutt
+      eventuelt én natt senere hvis dere vil ha 2 netter i Pai.
+      → [`overnatting.md`](overnatting.md)
 - [ ] 🟡 **Leiebil 7.–11. jan: hent i Chiang Mai by, lever på CNX.**
       Anbefalt: **Toyota Corolla Cross 1.8** (~1 650 THB/dag) hos
       **North Wheels** eller Thai Rent A Car. **Ikke ta 1,2-liters** —
