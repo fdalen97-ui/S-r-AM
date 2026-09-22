@@ -184,6 +184,53 @@ stedet passer nyttårsplanen (fyrverkeri ved elva, Talat Noi/Chinatown, omakase 
 
 **Beslutningsregel:** Er nyttårsaften ved elva og Chinatown-kveldene kjernen i oppholdet → Surawong. Er «komme seg rundt hele byen enkelt» viktigst, med Thonglor/Ari/Chatuchak like mye som elva → Carlton. Usikker → Eastin.
 
+### 💸 Rimeligere: hva får dere for mindre? (nye søk 22. sep 2026)
+
+*Samme datoer 31. des–3. jan, 3 netter for to, inkl. skatt. Anbefalingen
+(Grande Centre Point Surawong) koster **7 632–8 562**. Her er hva dere
+faktisk får hvis dere går ned.*
+
+#### 🏆 Nivå 1 — ned til ~5 000, mister nesten ingenting
+
+| Hotell | 3 netter | Spart | Score (anm.) | Hva dere får |
+|---|---|---|---|---|
+| **Grande Centre Point Sukhumvit 55** | **4 907** | **−3 655** | 9,2 (**16 200**) | Samme kjede som anbefalingen. Takbasseng **og japansk onsen**, BTS Thong Lo 400 m. ⚠️ Thonglor = feil bydel for nyttårskvelden |
+| **Ago Hotel Chinatown** | 5 498 | −3 064 | 9,4 (49) | Designhotell i Song Wat, **beste beliggenhet for planen** — Talat Noi og omakasen rundt hjørnet. Ingen utsikt |
+| **ASAI Bangkok Sathorn** | 5 508 | −3 054 | **9,6** (377) | Høyest score i hele det rimelige sjiktet. Dusit-kjedens designlinje |
+| **ibis Styles Silom** | 5 763 | −2 799 | 9,2 (1 003) | Basseng, BTS-nært, helt forutsigbart |
+| **ASAI Chinatown** | 5 855 | −2 707 | 9,4 (1 010) | Midt i Yaowarat, 1 min til MRT |
+
+#### 💰 Nivå 2 — ned til ~3 000, mister utsikten
+
+| Hotell | 3 netter | Spart | Score (anm.) | Hva dere får |
+|---|---|---|---|---|
+| 🏆 **iSanook Bangkok** | **2 234** | **−6 328** | 9,0 (**1 001**) | **Kuppet.** Firestjerners med **takbasseng**, Sam Yan/Hua Lamphong, 10 min gange til Chinatown, MRT rett ved. Listepris var $787 — dere betaler $219 |
+| Hotel Royal Bangkok | 3 040 | −5 522 | 8,6 (1 001) | Chinatown, basseng, slitent men helt greit |
+| Sabai Sathorn | 3 315 | −5 247 | 8,6 (346) | Nøkternt, nær BTS |
+| Trinity Silom | 3 346 | −5 216 | 8,2 (1 007) | Basseng, Silom. Scoren er grensen |
+| The Quarter Hualamphong | 3 407 | −5 155 | 8,4 (500) | Ved gamle togstasjonen, nær Chinatown |
+| Le Siam Silom | 4 111 | −4 451 | 8,6 (919) | Basseng, solid mellomting |
+
+#### 🎯 Dommen på rimelig
+
+**Vil dere spare mest uten å ofre kvalitet: iSanook, 2 234 kr.**
+9,0 av 1 001 anmeldelser, takbasseng, MRT i nabolaget og gangavstand til
+Chinatown. Dere sparer **6 328 kr** mot anbefalingen — det er hele
+Similan-liveaboarden, eller omakase på Masato pluss River City-rooftopen
+med penger til overs.
+
+**Vil dere beholde «ordentlig hotell»-følelsen: Grande Centre Point
+Sukhumvit 55, 4 907 kr.** Samme kjede, 16 200 anmeldelser på 9,2,
+takbasseng og onsen. Eneste minus er at Thonglor ligger feil for
+nyttårskvelden ved elva — regn med Grab eller BTS begge veier den ene natta.
+
+**Vil dere beholde planen til fots: Ago Chinatown, 5 498 kr.** Talat Noi,
+omakasen og Yaowarat rundt hjørnet. Dere mister bare utsikten.
+
+⚠️ **Grensen går ved score 8,6.** Alt under det i Bangkok i romjula er
+enten støy, slitne rom eller feil nabolag. Spar heller på én natt enn å
+gå under.
+
 ### 💆 Landingsmorgenen 31. des: massasje og head spa
 
 *Dere lander 06:15, er ute av flyplassen ~07:15 og på hotellet ~08:15. Nesten ingen spa åpner før 09–10, så planen er: bagasje på hotellet, frokost, så rett i behandling.*
