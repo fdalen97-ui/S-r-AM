@@ -24,7 +24,11 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
       Book **Grande Centre Point Surawong, Deluxe King med frokost, 8 562 kr
       ikke-refunderbart på Booking.com (Genius 3)** — 1 rom igjen 20. sep.
       Hotellets egen side har bare suiter til 5 800+/natt. E-post etterpå om
-      høy etasje og tidlig innsjekk. → [`bangkok-romjul.md`](bangkok-romjul.md)
+      høy etasje og tidlig innsjekk.
+      💸 **Vil dere heller spare:** iSanook **2 234 kr** (9,0 av 1 001,
+      takbasseng, MRT) sparer 6 328 · Grande Centre Point Sukhumvit 55
+      **4 907** (9,2 av 16 200, onsen) · Ago Chinatown **5 498** beholder
+      gangavstanden til planen. → [`bangkok-romjul.md`](bangkok-romjul.md)
 - [ ] 🔴 **NÅ: lag konto på dticket.railway.co.th** (pass-nr. + e-postverifisering
       + telefon i thaiformat xxx-xxx-xxxx). Registreringen er det som feiler —
       ikke gjør den på salgsdagen.
