@@ -1,14 +1,12 @@
-# 🛏️ Hvor dere skal sove — stopp for stopp, 26. des – 31. jan
+# 🛏️ Hvor dere skal sove — stopp for stopp, 31. des – 29. jan
 
-*Live-priser hentet for **akkurat deres datoer** (aug. 2026, norsk marked).
-**Alle priser = billigste dobbeltrom per natt i NOK.** Høysesongpriser går
-opp, ikke ned — behandle tallene som gulv.*
-
-> **Hovedfunnet:** to stopp sprenger budsjettet — **Siem Reap (nyttår)** og
-> **Khao Lak (5 netter midt i den skandinaviske charter-toppen)**. Alt annet
-> ligger komfortabelt i 400–900. Spar i Kambodsja, splurge i Bangkok og
-> Khao Lak.
-
+> 🏨 **Start med [Hotellplanen](#-hotellplanen--hele-turen-ett-valg-per-stopp-24-sep-2026)**
+> — alle 14 stoppene prist på nytt 24. sep 2026 mot de låste datoene, med
+> ett valg per stopp, totalen (**≈ 34 300 kr for to** med de to anbefalte
+> sparegrepene) og bookingrekkefølgen.
+>
+> Seksjonene 1b–2d er detaljene. Alt under **🗄️ ARKIV** er fra planen før
+> utreisen ble booket 30. des, og prisene der gjelder ikke lenger.
 ---
 
 ## 1. 🇹🇭 Bangkok · 26.–30. des (4 netter)
@@ -112,6 +110,87 @@ til å booke dem.
 **8,7 av 8 938**. Det største utvalget er mest pålitelig, så regn **8,7** —
 fortsatt over grensen, men ikke 9,0.
 
+## 🏨 HOTELLPLANEN — hele turen, ett valg per stopp (24. sep 2026)
+
+*Alle 14 stoppene prist på nytt mot de **låste datoene** (utreise 30. des).
+Samme kriterier overalt: høy score **med mange anmeldelser**, beliggenhet for
+programmet, utsikt eller noe spesielt, og pris. Priser er totalpris for to
+**inkl. skatt** der det kunne verifiseres (Expedia/direkte). Detaljene per
+stopp står lenger ned.*
+
+### Grunnplanen · 31. des – 29. jan · 28 hotellnetter
+
+| Datoer | Sted | 🏆 Valget | Netter | Totalt | Score | Hvorfor | Book |
+|---|---|---|---|---|---|---|---|
+| 31.12–3.1 | **Bangkok** | Grande Centre Point Surawong | 3 | **8 562** | 9,5 | Programmet til fots, Sky Pool, frokost (Booking Genius) | 🔴 **Nå** — prisen stiger |
+| 3.–4.1 | Nattog #9 | — | (1) | — | | | 🔴 4. okt 18:00 |
+| 4.–7.1 | **Chiang Mai** | G Nimman *(el. BED Nimman)* | 3 | **2 263** | 9,4 | Nimman, parkering til leiebilen | 🟡 Gratis avbestilling |
+| 7.–8.1 | **Khun Yuam** | Khunyuam Resort | 1 | **~345** | 8,9 | Eneste med ekte utsikt i byen | 🟡 |
+| 8.–9.1 | **Ban Rak Thai** | Lee Wine Ruk Thai, Deluxe King | 1 | **~928** | 8,9 | Teplantasje ved innsjøen, tåkesoloppgang | 🔴 **Snart** — lite, kun direkte |
+| 9.–10.1 | **Tham Lod** | Cave Lodge, 700 THB-bungalow | 1 | **~203** | TA 4,2 | Lodge ved grotta, peis, bakeri, vin | 🔴 E-post nå · **kun kontanter** |
+| 10.–11.1 | **Pai** | Pairadise | 1 | **1 112** | 9,2 | Solnedgang, raskest ut kl. 05 | 🟡 |
+| 11.–13.1 | **Siem Reap** | Golden Temple Retreat | 2 | **1 917** | 9,8 | Gratis spa + tuk-tuk til Angkor | 🟢 |
+| 13.–14.1 | **Phnom Penh** | The Pavilion | 1 | **877** | 9,6 | Kun voksne, 1920-tallsvilla, to bassenger | 🟢 |
+| 14.–16.1 | **Kampot** | Rikitikitavi | 2 | **~1 105** | 9,1 | Terrasse mot Bokor, byens beste kjøkken | 🟡 7 rom |
+| 16.–18.1 | **Koh Rong Samloem** | Eden Beach Resort | 2 | **~1 845** | 9,0 | Basseng, strøm, egen brygge på Saracen | 🟡 + returferge |
+| 18.–19.1 | **Bangkok-transitt** | Amari DMK *(el. Park Nine ved BKK)* | 1 | **765** | 8,4 / 9,0 | Gangbro til terminalen | 🟢 Etter flyvalg |
+| 19.–23.1 | **Khao Lak** | The Sands by Katathani | 4 | **12 382** | 9,0 | Billigste store strandhotell. **Se liveaboard-noten** | 🔴 **Nå** — nesten utsolgt |
+| 23.–25.1 | **Phuket / Zamna** | HOMA Cherngtalay | 2 | **2 765** | 9,1 | 600 m til Boat Avenue, takbasseng | 🟡 Gratis avbestilling |
+| 25.–29.1 | **Koh Yao Noi** | Koyao Bay Pavilions | 4 | **14 178** | 9,7 | Strand og basseng mot Koh Hong-karstene | 🔴 Snart, direkte er billigst |
+| | | | **28** | **≈ 49 250** | | **~1 760 per natt i snitt** | |
+
+### Tre spaker som flytter totalen mest
+
+| Grep | Sparer | Ny total |
+|---|---|---|
+| **1. Similan-liveaboard 4d/3n = bare 1 hotellnatt i Khao Lak** (båten ut kveld 19. jan, tilbake 22. jan). Behold 1 natt på The Sands | **−9 287** | ≈ 39 960 |
+| **2. Del Koh Yao Noi:** 2 netter Nankanok (basseng) + 2 netter Koyao Bay | **−5 643** | **≈ 34 300** |
+| **3. iSanook i stedet for Surawong i nyttårshelgen** | **−6 522** | **≈ 27 800** |
+
+**Min anbefaling: ta grep 1 og 2, behold Surawong.** Da havner hele turens
+overnatting på **~34 300 kr for to**, og dere beholder de to stedene som
+betyr mest — nyttårsbasen i Bangkok og karstutsikten på Koh Yao Noi.
+*(Liveaboarden, ~12 800, var allerede budsjettert separat.)*
+
+### Blokk 4 · kun ved lengre tur (hjem 5. feb)
+
+| Datoer | Sted | 🏆 Valget | Netter | Totalt | Score |
+|---|---|---|---|---|---|
+| 29.1–1.2 | **Bangkok** (Music City 30.–31.1) | Grande Centre Point Surawong | 3 | **4 172** | 9,5 |
+| 1.–4.2 | **Khao Yai** | U Khao Yai *(el. 1 natt GranMonte + 2 U Khao Yai ≈ 4 040)* | 3 | **3 009** | 9,4 |
+| | | | 6 | **≈ 7 200** | |
+
+⚠️ **To feil i Blokk 4-planen:**
+1. **Én natt mangler.** 29.1–1.2 er 3 netter (ikke 4), og Khao Yai 1.–4.2
+   slutter kvelden før hjemflyet 5.2. Legg til en 4. natt i Bangkok
+   (~1 630) eller i Khao Yai. Blokk 4 blir da **≈ 8 800**.
+2. **GranMontes innhøsting starter trolig ~10.–13. februar** (2025 og 2026),
+   altså *etter* dere har reist. Ring GranMonte (+66 94 831 0909) før dere
+   bygger Blokk 4 rundt den.
+
+### 🔴 Bookingrekkefølgen — denne uka
+
+1. **Khao Lak** — The Sands, 4 netter med gratis avbestilling. Finnes bare på
+   Priceline; kutt nettene når liveaboarden er booket.
+2. **Similan-liveaboard** — bestemmer hvor mange Khao Lak-netter som trengs.
+3. **Bangkok nyttår** — Surawong steg 1 934 kr på fire dager.
+4. **Lee Wine, Ban Rak Thai** — direkte, ikke refunderbar, selges ut.
+5. **Cave Lodge** — e-post til info@cavelodge.com.
+6. **Koyao Bay Pavilions** — hotellets egen side er billigst.
+
+Resten holder med 4–6 uker, men **velg alltid gratis avbestilling** der den
+finnes. **Sammenlign i kassa** på Booking (Genius 3), Agoda og Expedia —
+Booking-priser via Trivago mangler ofte 15–18 % thailandsk skatt og service.
+
+### 🎒 To praktiske funn fra hotellsøket
+
+- **Kontanter på loopen:** Cave Lodge tar bare kontanter, og nærmeste
+  minibank er 9 km unna. Ta ut i Mae Hong Son by.
+- **Kulde:** Lee Wine har verken AC eller varme, og nettene i Ban Rak Thai
+  går ned mot 5 °C. Pakk én varm genser eller fleece.
+
+---
+
 ## 1b. 🇹🇭 Chiang Mai · 4.–7. januar (3 netter) — live-sjekket 21. sep 2026
 
 > 💡 **Chiang Mai er billig.** Samme kvalitetsnivå som kostet 2 500–3 000 per
@@ -190,6 +269,74 @@ Pai-tid senere, kutter dere én natt i Chiang Mai uten kostnad.
 
 ---
 
+## 1c. 🚗 Mae Hong Son-loopen og Pai · 7.–11. januar (4 netter) — sjekket 24. sep 2026
+
+*⚠️ Booking.com-priser via Trivago er her **uten 15–18 % skatt og service**
+(bekreftet mot Tripadvisor). Prisene under er justert til inkl. skatt der det
+er mulig. Små steder i fjellene booker ofte direkte.*
+
+### Khun Yuam · 7.–8. jan
+
+| Hotell | Område | NOK/natt | Score (anm.) | Merknad |
+|---|---|---|---|---|
+| 🏆 **Khunyuam Resort** | Ban Tor Phae, 3 km sør | **~345** | 8,9 (506) | Bungalower i åsside, store balkonger med utsikt over dal og rismarker. Familien driver restaurant. 200 m grusvei, greit med vanlig bil |
+| 💰 Mitkhoonyoum Hotel | Sentrum | 204 | TA 4,4 (13) | Teak-renovert, sjarmerende, få anmeldelser |
+| Yoont Hotel | Sentrum | 275 | 7,7 (105) | Enkelt byhotell |
+
+Ingen splurge finnes i Khun Yuam. **Kom fram før mørket** — rute 1263 er
+svingete fjellvei.
+
+### Ban Rak Thai · 8.–9. jan
+
+| Hotell | Område | NOK/natt | Score (anm.) | Merknad |
+|---|---|---|---|---|
+| 🏆 **Lee Wine Ruk Thai Resort — Deluxe King** | Ved innsjøen | **841–928** | 8,9 (1 557) | Villaer i teplantasjen med utsikt over innsjøen, yunnanesisk mat, tesmaking. **Kun direktebooking** (reservation.roomscope.com/1166) |
+| 💰 Lee Wine — Standard | Ved innsjøen | 725–812 | 8,9 | Samme sted, enklere rom |
+| 🥂 Lee Wine — Peach Wine House Premier | Øverst, med badekar | 1 421–1 508 | 8,9 | Badekar i en kald fjellnatt |
+| Fern Resort *(reserve)* | 5 km sør for MHS by | 522–725 | 8,9 (3 950) | Økoresort, basseng. Sikreste anmeldelser, mindre spesielt |
+| Piya Guesthouse | MHS by, ved sjøen | 275 | 9,0 (766) | Basseng, gange til nattmarkedet |
+
+⚠️ **Lee Wine er lite og populært** — anmeldere booket måneder i forveien.
+Direktebooking er **ikke refunderbar** og betales på forhånd.
+⚠️ **Kun vifte, ingen AC eller varme — nettene går ned mot 5 °C.** Pakk
+fleece/ullgenser. Ban Rak Thai er klart mer spesielt enn Mae Hong Son by:
+tåke over innsjøen ved soloppgang, tesmaking og yunnanesisk kjøkken.
+8. jan er fredag — prisen kan være ukedag eller helg.
+
+### Soppong / Tham Lod · 9.–10. jan
+
+| Hotell | Område | NOK/natt | Score (anm.) | Merknad |
+|---|---|---|---|---|
+| 🏆 **Cave Lodge — bungalow med bad, balkong og utsikt** | 5 min gange til grotta | **~203** (700 THB) | TA 4,2 (256) | Lodge fra 1984 ved elva. Peis, eget bakeri, vinutvalg, urtesauna, guidede grotteturer og kajakk. **Bekreftet åpen** |
+| 💰 Cave Lodge — enkel bungalow med bad | Samme | ~145 (500 THB) | | |
+| 🥂 **Kanlaya's Eyrie Luxury Homestay** | Tham Lod-landsbyen | ~1 150 | **9,6** (160) | Høyest score i området, hage med dam og bålplass |
+| Soppong River Inn | Soppong, 9 km | 265 | TA 4,6 (181) | Hytter ved elva, romantisk |
+
+⚠️ **Cave Lodge tar BARE KONTANTER** (PayPal +6 %). **Nærmeste minibank er
+i Soppong, 9 km unna** — ta ut i Mae Hong Son. Book på
+**info@cavelodge.com** / 053 617 203; de anbefaler forhåndsbooking nov–mars.
+Prislisten på nettsiden kan være gammel — bekreft på e-post.
+
+### Pai · 10.–11. jan (avreise 05:00)
+
+| Hotell | Område | NOK/natt | Score (anm.) | Merknad |
+|---|---|---|---|---|
+| 🏆 **Pairadise** | Åsen i Mae Yen, 1 km øst | **1 112** | 9,2 (1 444) | Solnedgang over dalen, badedam med kildevann. **På Chiang Mai-siden av elva** = raskest ut kl. 05 |
+| The Oia Pai Resort | 1 km øst | 989 | 9,1 (2 066) | Basseng, spa |
+| 💰 Pai My Guest Resort | 1,4 km øst | 622 | 9,1 (1 772) | Basseng, rolig |
+| Family House Zen | Sentrum | 1 183 | 9,5 (1 409) | Basseng, bar |
+| 🥂 Reverie Siam | 1,5 km sørvest, ved elva | 2 060 | 9,5 (3 079) | 5★ boutique, fjellutsikt |
+
+⚠️ **Doi Kiew Lom:** sjekk i Google Maps at dere kjører til utsiktspunktet i
+**Huai Nam Dang nasjonalpark (km 65–66 på rute 1095)**, 45–60 min øst for
+Pai mot Chiang Mai. Noen kilder plasserer et «Kiew Lom» vest for Pai — det
+er feil retning. **Avtal utsjekk og betaling kvelden før**, og spør om porten
+er låst tidlig.
+
+**Loopen totalt med hovedvalgene: ~2 590 kr for 4 netter.**
+
+---
+
 ## 2. 🇰🇭 Siem Reap · 11.–13. jan (2 netter)
 
 > ✅ **Oppdatert 20. sep 2026 — prisene under er nå for de RIKTIGE datoene.**
@@ -236,6 +383,196 @@ femstjerners med spa og basseng til gjestehuspris.
 **Ikke lenger kritisk** — dere er der 11.–13. jan, ikke i nyttårshelgen.
 
 ---
+
+## 2b. 🇰🇭 Kambodsja-resten · 13.–18. januar (5 netter) — sjekket 24. sep 2026
+
+### 🇰🇭 Phnom Penh · 13.–14. jan (1 natt)
+
+| Hotell | Område | NOK/natt | Score (anm.) | Merknad |
+|---|---|---|---|---|
+| 🏆 **The Pavilion** | Ved Kongepalasset | **877** | 9,6 (632) | Kun voksne, 1920-tallsvilla, to bassenger. Pris kun funnet på Expedia |
+| 💰 **Chaiya Palace** *(nytt funn)* | Palasset/elva | **666–683** | 9,5 (1 990) | Basseng og spa, like godt plassert som de dyrere |
+| Plantation Urban Resort | Nasjonalmuseet | 928–979 | 9,3 (**12 402**) | Flest anmeldelser, to bassenger |
+| Palace Gate by EHM | Palasset | 939 | 9,5 (7 003) | 5★, basseng |
+| Baitong | Sentrum, 2 km | 847 | 9,4 (4 540) | Hagebasseng |
+| Patio | BKK1 | 529 | 8,7 (4 322) | Takbasseng, lavest score |
+| 🥂 Raffles Le Royal | Daun Penh | 3 961 | 9,2 (6 896) | Historisk, Elephant Bar. Rimeligere luksus: Sofitel Phokeethra 1 753–1 887 |
+
+### 🇰🇭 Kampot · 14.–16. jan (2 netter)
+
+| Hotell | Område | NOK/natt | Totalt | Score (anm.) | Merknad |
+|---|---|---|---|---|---|
+| 🏆 **Rikitikitavi** | Elvepromenaden | **533–571** | **1 067–1 142** | 9,1 (2 649) | Bekreftet i drift. Takterrasse mot Bokor-solnedgangen, byens beste kjøkken og vinliste. **Ikke basseng** |
+| ⭐ **Hotel Old Cinema** *(nytt funn)* | Sentrum, nær elva | 711–755 | 1 423–1 510 | **9,7** (1 523) | Art deco-kino gjort om til hotell, **med basseng**. Høyest score i Kampot |
+| Hotel La Java Bleue | Gamlebyen | 616 | 1 233 | 9,3 (851) | Kolonihus, ikke basseng |
+| The Columns | Gamlebyen | 577–580 | 1 153–1 161 | 8,9 (979) | Shophouse, ikke basseng |
+| Chateau Kampot | Sentrum | 799–832 | 1 598–1 663 | 9,5 (**23**) | For få anmeldelser |
+| 💰 Karma Traders | Utkanten | 189 | 378 | 8,9 (1 301) | Private rom, bassengbar på taket |
+| 🥂 Amber Kampot | Elvemunningen, 7 km | 3 024–3 902 | 6 048–7 803 | 9,5 (371) | Villaer med privat basseng |
+| *Kep:* Veranda Natural Resort | Åsside, havutsikt | 733–949 | 1 466–1 897 | 9,0 (3 369) | Infinitybasseng |
+
+**Kampot slår Kep for dere:** elvesolnedgangen, maten og pepperfarmene.
+Krabbemarkedet i Kep er en halvdagstur (25 km).
+**Rikitikitavi eller Old Cinema?** Rikitikitavi for terrassen og kjøkkenet.
+Old Cinema hvis basseng i 33 grader betyr mer — koster ~400 kr mer totalt.
+
+### 🇰🇭 Koh Rong Samloem · 16.–18. jan (2 netter)
+
+| Hotell | Bukt | NOK/natt | Totalt | Score (anm.) | Merknad |
+|---|---|---|---|---|---|
+| 🏆 **Eden Beach Resort by EHM** | Saracen | **855–990** | **1 710–1 979** | 9,0 (1 556) | **Basseng, strøm hele døgnet**, egen brygge (Buva Sea) rett utenfor |
+| Saracen Bay Resort | Saracen | 1 018–1 194 | 2 036–2 387 | 9,2 (1 785) | Spa, basseng ikke oppført |
+| Island Center Point | Saracen | 1 322 | 2 644 | 9,4 (1 621) | Høy score, ikke basseng |
+| Sara Resort | Saracen | 1 007–1 046 | 2 015–2 091 | 8,6 (3 994) | Basseng, lavere score |
+| 🥂 Pearl Beach Resort & Spa | Saracen øst | 1 200–1 852 | 2 400–3 703 | 9,0 (654) | Basseng og spa |
+| SunBoo Beach Bungalows | Sunset Beach | 518 | 1 036 | 9,4 (828) | Off-grid, ingen dekning |
+| Sleeping Trees | Sunset Beach | 611 | 1 222 | 9,1 (724) | Trehytter, off-grid |
+| 💰 Robinson Bungalows | Sunset Beach | 257 | 513 | 9,1 (1 340) | Enkelt, off-grid |
+| Lazy Beach | Egen bukt | ~663 (direkte) | ~1 326 | ikke verifisert | Ingen nettpris, bookes direkte |
+
+**Saracen Bay er riktig bukt:** lang hvit strand, strøm, basseng, ferjene
+legger til der, og planktonturene går derfra. Sunset og Lazy Beach er
+vakrere, men uten strømnett og dekning, 20–30 min gange fra Saracen.
+
+⚠️ **Ferje:** Sihanoukville → Saracen ~45 min, $9–15 p.p., avganger ca.
+07:45–16:00 (Buva Sea går til Eden Pier). Fra Kampot er det ~2 t med bil,
+så sikt på båt før 12.
+⚠️ **Plankton og månen (kontrollert mot månekalender):** nymåne 7. jan,
+**første kvarter 15. jan**, fullmåne 22. jan. 16.–17. jan er månen 55–75 %
+full og går ned rundt kl. 01. Morildet blir svakere — be om sen tur eller
+et skyggefullt sted. *Bonus: nymånen 7. jan gir helt mørk stjernehimmel på
+Mae Hong Son-loopen.*
+
+**Kambodsja totalt med hovedvalgene: ~3 650–4 000 kr for 5 netter.**
+
+---
+
+## 2c. 🇹🇭 Andaman-kysten · 18.–29. januar (11 netter) — sjekket 24. sep 2026
+
+### 🇹🇭 Bangkok-transitt · 18.–19. jan (1 natt)
+
+Flyselskapet til Phuket er ikke valgt ennå — velg hotell etter flyplass.
+
+| Flyplass | 🏆 Valget | NOK | Score (anm.) | 💰 Budsjett | 🥂 Splurge |
+|---|---|---|---|---|---|
+| **Don Mueang (AirAsia/Nok)** | **Amari Don Muang Airport** — gangbro til T1, basseng | **765** | 8,4 (38 305) | 12 The Residence, 291 (8,6) | — |
+| **Suvarnabhumi** | **The Park Nine** — 5★, basseng, 10–15 min Grab | **763** | 9,0 (11 216) | At Residence, 434 (9,1) | Hyatt Regency (tidl. Novotel), 1 560 — gangvei til terminalen |
+
+### 🇹🇭 Khao Lak · 19.–23. jan (4 netter) — **les liveaboard-noten først**
+
+| Hotell | Område | NOK/natt | 4 netter | Score (anm.) | Merknad |
+|---|---|---|---|---|---|
+| 🏆 **The Sands by Katathani** | Bang Niang | **3 095** | 12 382 | 9,0 (12 248) | Strand, store bassenger, 15 min til Tap Lamu. Kun Priceline — lite ledig |
+| Moracea | Nang Thong | 3 779 | 15 116 | 9,1 (8 677) | Strand, basseng |
+| La Vela | Bang Niang | 4 371 | 17 483 | 9,2 (7 539) | Strand, design |
+| Chongfah Beach Resort | Bang Niang | 4 638 | 18 554 | 9,5 (1 406) | **Ikke lenger et verdikjøp** — mer enn doblet |
+| Khaolak Merlin | Nærmest Tap Lamu | 4 356 | 17 422 | 9,2 (6 989) | 8–10 min til piren |
+| 🥂 Casa de La Flora | Bang Niang | 5 671 | 22 685 | 9,4 (2 101) | Villaer med privat basseng ved stranda |
+| 💰 **The Chu's Boutique** | Nang Thong | **468** | **1 871** | **9,2** (595) | Kort gange til stranda, basseng |
+
+❌ Utsolgt eller uten pris på nett: The Sarojin, Grandfather, Rakkawan.
+Chongfah og Rakkawan-kompromisset fra i sommer finnes ikke lenger.
+
+> 💡 **Liveaboard-noten — dette kan spare 6 000–9 000 kr.** Dolphin Queen
+> 4d/3n er planen. **Nettene om bord trenger ikke hotell.** Går båten ut om
+> kvelden 19. jan og er tilbake 22. jan, trenger dere **bare 1 hotellnatt
+> i Khao Lak** (22.–23. jan). Da er én natt på The Sands (3 095) eller til
+> og med Casa de La Flora (5 671) en naturlig splurge.
+> **Gjør dette:** book hotellet nå for alle 4 netter **med gratis
+> avbestilling** (strandhotellene forsvinner), og kutt nettene når
+> liveaboard-avgangen er bekreftet.
+
+### 🇹🇭 Phuket / Zamna · 23.–25. jan (2 netter)
+
+| Hotell | Avstand Boat Avenue | NOK/natt | 2 netter | Score (anm.) | Merknad |
+|---|---|---|---|---|---|
+| 🏆 **HOMA Cherngtalay** | ~600 m | **1 383** | **2 765** | 9,1 (1 426) | Takbasseng |
+| Blu Monkey Hub Bangtao | ~200 m | 1 424 | 2 849 | 9,0 (957) | Basseng |
+| Pai Tan Villas | ~2 km | 985 | 1 969 | 9,1 (1 563) | Basseng, kort vei til stranda |
+| Ibis Styles Bangtao | ~1,8 km | 1 668 | 3 337 | 9,3 (2 253) | Nytt, nær stranda |
+| Cassia Phuket | Laguna, ~1 km | 2 495 | 4 991 | 9,0 (8 612) | Leiligheter ved lagunen |
+| 💰 Chabana Resort | ~200 m | 764 | 1 528 | 8,0 (556) | Eldre og enkelt |
+| 🥂 The Pavilions Phuket | Layan-åsen, ~3 km | 3 085 | 6 171 | 9,4 (466) | Privat bassengvilla, takbar |
+
+⚠️ **Scenen er ikke annonsert.** Book med gratis avbestilling. Bang Tao er
+et trygt midtpunkt: ~20 min til flyplassen, ~25 min til Bang Rong-piren
+(båten til Koh Yao Noi). Ventet aldersgrense på festivalen: 20 år.
+
+### 🇹🇭 Koh Yao Noi · 25.–29. jan (4 netter)
+
+| Hotell | Område | NOK/natt | 4 netter | Score (anm.) | Merknad |
+|---|---|---|---|---|---|
+| 🏆 **Koyao Bay Pavilions** | Sørøst | **3 544** | **14 178** | **9,7** (961) | Strand, flere bassenger, **utsikt rett mot Koh Hong-karstene**. Hotellets egen side er billigst |
+| Cape Kudu | Østkysten | 4 141 | 16 563 | 9,4 (2 875) | Stort basseng med havutsikt. Stranda påvirkes av tidevannet |
+| Koyao Island Resort | Østkysten | 5 819 | 23 276 | 9,2 (1 952) | Villaer ved stranda |
+| Niramaya Villa & Wellness | Pasai | 2 289 | 9 154 | 8,7 (510) | Basseng og spa, strand ikke bekreftet |
+| Nankanok Bungalow | — | 723 | 2 892 | 8,8 (**108**) | Basseng, for få anmeldelser |
+| 💰 Sabai Corner Bungalows | Pasai | 358 | 1 430 | 8,3 (1 751) | Havutsikt fra skråningen, ingen basseng |
+| 🥂 TreeHouse Villas (kun voksne) | Nord | 8 724 | 34 896 | 9,3 (1 710) | Trehus med privat basseng |
+| Six Senses Yao Noi | Østkysten | ingen nettpris | — | 9,6 (3 841) | Må forespørres direkte |
+
+⚠️ **Paradise Koh Yao** viste 2 776/natt på Agoda mot 7 889 på Expedia —
+den ene prisen er feil. Sjekk i kassa før dere stoler på den.
+⚠️ **Trivago blander inn Koh Yao Yai-hoteller** i Koh Yao Noi-søk. Sjekk øya.
+
+💡 **Rimeligere finale:** 2 netter Nankanok (1 446) + 2 netter Koyao Bay
+(7 089) = **8 535** i stedet for 14 178. Dere får karstutsikten de to siste
+nettene.
+
+---
+
+## 2d. 🍷 Blokk 4 · 29. jan–4. feb (kun ved lengre tur) — sjekket 24. sep 2026
+
+### 🇹🇭 Bangkok-finalen · 29. jan–1. feb (3 netter) — *kun ved lengre tur*
+
+**Utenom nyttår er Bangkok halv pris.** Samme hoteller, 32–60 % billigere.
+
+| Hotell | Område | NOK/natt | 3 netter | Score (anm.) | Nyttårspris/natt |
+|---|---|---|---|---|---|
+| 🏆 **Grande Centre Point Surawong** | Bangrak | **1 391** | **4 172** | 9,5 (10 962) | 2 550–3 190 |
+| Eastin Grand Sathorn | Sathorn, BTS | 1 292 | 3 876 | 9,4 (35 568) | 2 710 |
+| dusitD2 Samyan | Samyan | 1 486 | 4 457 | 9,5 (7 146) | — |
+| Montien Surawong | Silom | 1 278 | 3 835 | 9,0 (545) | — |
+| **Chatrium Riverside** | Elva | 1 513 | 4 539 | 9,3 (**41 192**) | 5 580 |
+| Avani+ Riverside | Elva, Thonburi | 1 515 | 4 546 | 9,3 (19 167) | 4 330 |
+| 🥂 lebua at State Tower | Charoenkrung | 1 992 | 5 977 | 9,0 (38 883) | 4 390 |
+| 💰 iSanook | Surawong | ~344 | ~1 032 | 8,7 (8 938) | ~680 |
+
+**Bangkok Music City 30.–31. jan ligger i Charoenkrung — gangavstand fra
+Surawong.** Vil dere ha elveutsikten dere ikke fikk råd til i nyttårshelgen,
+er **Chatrium Riverside til 1 513** nå kjøpet: 9,3 fra over 41 000
+anmeldelser, mot 5 580 per natt i romjula.
+⚠️ Booking-priser via Trivago lå 15–20 % under Expedia for flere av disse —
+trolig thailandsk skatt og service (~17,7 %) som mangler. Sjekk i kassa.
+
+### 🇹🇭 Khao Yai · 1.–4. feb (3 netter) — *kun ved lengre tur*
+
+> 🚨 **Innhøstingen passer trolig ikke.** GranMontes offisielle Harvest
+> Season gikk **10. feb–16. mars 2025** og **13. feb–15. mars 2026**.
+> 1.–4. februar ligger sannsynligvis **før** programmet starter. Vanlig
+> omvisning og smaking finnes likevel. **Ring GranMonte (+66 94 831 0909)**
+> før dere bygger Blokk 4 rundt innhøstingen.
+
+| Hotell | Område | NOK/natt | 3 netter | Score (anm.) | Merknad |
+|---|---|---|---|---|---|
+| 🏆 **U Khao Yai** | Mu Si, nær parken | **1 003** | **3 009** | **9,4** (10 824) | Basseng og spa. Beste score per krone |
+| Kirimaya Golf Resort Spa | Nær nordporten | 1 506 | 4 518 | 8,9 (13 049) | Nærmest parken, spa, fjellutsikt |
+| Lacol Khao Yai (Chatrium) | Mellom vingård og park | 1 149 | 3 448 | 9,1 (4 978) | Stort basseng med fjellutsikt |
+| Thames Valley | Mellom vingård og park | 1 403 | 4 208 | 9,1 (7 781) | Basseng og spa |
+| 💰 Lala Mukha Tented Resort | Mellom | 756 | 2 268 | 8,8 (3 987) | Glamping med basseng |
+| 🥂 **GranMonte Wine Cottage** | På vingården | ~2 030 | ~6 090 | Tripadvisor 4,6/5 (52) | Sov midt i vinrankene, VinCotto-restauranten. Ikke basseng |
+
+**Beste kombinasjon for vinfolk:** 1 natt GranMonte (~2 030) + 2 netter
+U Khao Yai (2 006) = **~4 040** — vingården om kvelden, parken om morgenen.
+
+---
+
+# 🗄️ ARKIV — den gamle planen (start 26. des)
+
+> ⚠️ **Alt under denne linja er fra planen før utreisen ble booket.** Datoene
+> og prisene gjelder ikke lenger. Phu Quoc og Saigon er ute av ruta. Bruk
+> **Hotellplanen øverst** og seksjonene 1b–2d. Beholdt fordi beskrivelsene
+> av stedene fortsatt er nyttige.
 
 ## 3. 🇰🇭 Phnom Penh · 4.–6. jan (2 netter) — rutas billigste by
 

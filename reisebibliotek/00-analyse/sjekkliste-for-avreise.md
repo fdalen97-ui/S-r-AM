@@ -13,8 +13,11 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
 ### Booking som forsvinner først
 - [ ] 🔴 **Khao Lak 19.–23. jan** (⚠️ datoene flyttet seg 2 dager da flyet ble
       booket — gamle notater sier 17.–22.) — strandhotellene er blokkbooket av
-      charter et år i forveien og borte i september. Valget: The Sands
-      (1 972/natt) eller Rakkawan + én splurgenatt. → [`overnatting.md`](overnatting.md)
+      charter et år i forveien. **Sjekket 24. sep: The Sands 3 095/natt,
+      bare på Priceline, nesten utsolgt. Rakkawan og Chongfah-kompromisset
+      finnes ikke lenger.** Book 4 netter med gratis avbestilling nå, og kutt
+      til 1 natt når liveaboarden er booket (båten dekker 3 netter).
+      → [`overnatting.md`](overnatting.md) (Hotellplanen)
 - [ ] 🔴 **Similan-liveaboard / «sov på Surin»** — selges ut 3–5 mnd før for
       januar. Dolphin Queen er par-favoritten (~12 800 for begge).
       → [`flerdagsopplegg.md`](flerdagsopplegg.md)
@@ -190,13 +193,23 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
       leiligheten stå tom siste uka.
 
 ### Booking runde 2
-- [ ] 🔴 **Siem Reap nyttår** — alt brukbart er borte i oktober. Rambutan
-      (1 039) er hovedvalget, Babel (303) budsjett, Jaya House splurge.
+- [ ] 🔴 **Lee Wine Ruk Thai, Ban Rak Thai 8.–9. jan** — Deluxe King ~928,
+      kun direkte (reservation.roomscope.com/1166), ikke refunderbar, selges
+      ut. Pakk varm genser: ingen varme, ned mot 5 °C om natta.
+- [ ] 🔴 **Cave Lodge 9.–10. jan** — e-post info@cavelodge.com, bungalow
+      700 THB. **Kun kontanter**, minibank 9 km unna.
+- [ ] 🔴 **Koyao Bay Pavilions, Koh Yao Noi 25.–29. jan** (9,7) — hotellets
+      egen side er billigst. Vurder 2 netter Nankanok + 2 her (≈ 8 535).
+- [ ] 🟡 **HOMA Cherngtalay, Phuket 23.–25. jan** — gratis avbestilling til
+      Zamna-scenen er kjent.
+- [ ] 🟢 **Siem Reap 11.–13. jan** — ikke lenger nyttår, ikke hast. Golden
+      Temple Retreat (1 917 for 2 netter, gratis spa og tuk-tuk).
 - [ ] 🟡 **Koh Rong Samloem + RETURFERGEN samtidig.** Lazy Beach og Sleeping
       Trees bookes kun direkte.
-- [ ] 🟡 **Kampot:** Rikitikitavi (7 rom) eller Champa Lodge (4 hus).
+- [ ] 🟡 **Kampot 14.–16. jan:** Rikitikitavi (~1 105, 7 rom, ikke basseng)
+      eller Hotel Old Cinema (9,7, basseng, ~400 kr mer).
 - [ ] 🟡 **Zamna-billetter** når de slippes (ventet høst 2026, 435–870 kr).
-- [ ] 🟡 **Phu Quoc:** Bamboo Cottages eller Mango Bay — begge små.
+- [x] ~~Phu Quoc~~ — ute av ruta etter at planen ble låst.
 - [ ] 🟡 **Scuba Nation / Dive Shop Cambodia** for Koh Tang-overnattingsturen
       (WhatsApp +855 97 764 7222) — bekreft at avgangen går.
 - [ ] 🟢 **Visum:** Vietnam e-visum og Kambodsja e-visa kan ordnes nå eller i
