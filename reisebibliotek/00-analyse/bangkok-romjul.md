@@ -231,6 +231,48 @@ omakasen og Yaowarat rundt hjørnet. Dere mister bare utsikten.
 enten støy, slitne rom eller feil nabolag. Spar heller på én natt enn å
 gå under.
 
+### 🔍 Runde 2: flere «perfekte» steder (søkt 24. sep, 31. des–3. jan)
+
+*~60 hoteller var allerede sjekket. Her er de **nye** funnene, søkt i to
+spor: særpreg ved elva/Chinatown, og takbasseng/utsikt. «est.» = Booking-pris
++ ~18 % thailandsk skatt og service.*
+
+**Konklusjon først: ingenting nytt slår Grande Centre Point Surawong på alle
+kriteriene samtidig.** Men fire steder er bedre på *ett* punkt hver:
+
+| Hotell | Område | Til River City | 3 netter | Score (anm.) | Best på | Minus |
+|---|---|---|---|---|---|---|
+| 🏛️ **The Unforgotten B&B** | Talat Noi | **~10 min gange** | **~2 200–2 500** (est.) | 9,1 (711) | **Særpreg og pris:** kolonialbygning, 13 rom, thaifrokost, 5 min til Yaowarat | Enkel standard, ingen basseng eller utsikt |
+| 🎨 **Tamni** | Hua Lamphong | 15–18 min gange | **~4 600** (est.) | **9,7 (2 686)** | **Høyest score i hele søket.** Gjennomført design i tre og grønt, café og bar, 1 min til MRT | Design-hostel med private dobbeltrom, ingen basseng |
+| 🏊 **Grande Centre Point Lumphini** | Lumphini | 25–30 min | **11 577** | 9,5 (3 262) | **Bassenget og kollektivtrafikken:** 50 m infinitybasseng i 27. etasje. MRT Blue Line går *uten bytte* til Wat Mangkon (Yaowarat/Talat Noi), Sanam Chai (Wat Pho), Chatuchak og Bang Sue (nattoget 3. jan) | +3 000 mot Surawong, feil side for nyttårsnatta, mange barnefamilier |
+| 🎆 **Ten Six Hundred Chao Phraya** | Elva, Khlong San | Ferje / Grab | **11 281** | 9,0 (1 684) | **Fyrverkeriet fra hotellet:** designhotell med basseng på elvekanten og egen brygge | Ikke gangavstand til noe. Shuttlebåten går bare 11–17 — Grab hjem nyttårsnatt |
+
+**Lovende, men ikke verifisert for nyttår:**
+- **Blu Dock Restel** (Talat Noi) — **3–5 min fra River City**, 12 rom drevet
+  av et ektepar, lobbyen er et keramikkgalleri, omtalt i NYT Magazine.
+  9,6 men bare 358 anmeldelser, og ingen pris online for datoene. Den mest
+  «Talat Noi»-sjelen dere kan få etter at Loy La Long ble full. Sjekk direkte.
+- **Baan 2459** (Chinatown) — herskapshus fra 1916, **bare 4 rom**, egen
+  spesialkaffebar. 9,3 (310). Kun direkte: baan2459@gmail.com / +66 82 393 2459.
+- **Centre Point Plus Silom** — **rett på elva ved Saphan Taksin**, elveutsikt
+  fra rommene, ~8 700 (est.). 8,9 fra **22 362** anmeldelser — så vidt under
+  grensen, men enorm datamengde. Nærmeste «elv for Surawong-pris».
+- **Merchant's Gate Songwat** — åpnet juni 2026, ~3 900 (est.), null
+  anmeldelser ennå. Interessant, men uprøvd.
+
+**Over budsjett eller feil plassert:** Hilton Garden Inn Riverside ved
+ICONSIAM (best nyttårsbeliggenhet, men ~13 900) · Kimpton Maa-Lai (9,7,
+~14 100) · Eastin Grand Phayathai (9,6 av 14 761 for 9 149 — men 35–40 min
+til elva) · Grand Nikko Sathorn (nytt, bare 25 anmeldelser) · Ayathorn
+(9,1, takbasseng, 3 611 — men ingen T-bane i nærheten).
+
+**Beslutningsregel etter runde 2:**
+- **Vil dere ha alt i én pakke:** Surawong (8 562) står.
+- **Vil dere ha særpreg og spare 6 000:** The Unforgotten (~2 300) — dere
+  går til fyrverkeriet *og* Yaowarat.
+- **Vil dere ha det beste designet og høyest score:** Tamni (~4 600).
+- **Vil dere ha det beste bassenget:** GCP Lumphini (11 577).
+
 ### ✅ ENDELIG ANBEFALING (24. sep) — slutt å sammenligne, book dette
 
 **Grande Centre Point Surawong, Deluxe King med frokost, 8 562 kr på
