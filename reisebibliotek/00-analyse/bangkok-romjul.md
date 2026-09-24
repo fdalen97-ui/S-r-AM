@@ -231,6 +231,33 @@ omakasen og Yaowarat rundt hjørnet. Dere mister bare utsikten.
 enten støy, slitne rom eller feil nabolag. Spar heller på én natt enn å
 gå under.
 
+### ✅ ENDELIG ANBEFALING (24. sep) — slutt å sammenligne, book dette
+
+**Grande Centre Point Surawong, Deluxe King med frokost, 8 562 kr på
+Booking.com med Genius 3.**
+
+Grunnen er enkel: det er **det eneste hotellet som treffer alle fire tingene
+dere sa var viktige** — høy score (9,5 av 11 000), beliggenhet der hele
+programmet ligger til fots, utsikt over by og elv fra Sky Pool, og en pris
+innenfor rammen på 6 000–12 000.
+
+⚠️ **Sjekk først at raten fortsatt finnes.** Den sto med «1 rom igjen»
+21. sep, og billigste pris andre steder har siden steget til 9 566.
+**Er den borte:** ta **Eastin Grand Sathorn** (~8 137, 9,4 av 35 600,
+skybridge rett inn i BTS, infinitybasseng i 14. etasje).
+
+**Vil dere heller ha pengene: iSanook, 2 040 kr. Spart: 6 522.**
+Det er en reell og god beslutning, ikke et nødvalg — 8,7 av 8 938
+anmeldelser, takbasseng, MRT Sam Yan i gata, 15 min gange til River City
+og Chinatown. **Det dere gir opp:** utsikten fra rommet, frokosten, og
+litt komfort på en jetlaget ankomstdag. **Det dere får:** hele
+Similan-liveaboarden, eller omakase på Masato pluss River City-rooftopen
+med penger igjen.
+
+**Ikke velg Ago Chinatown (5 363) hvis utsikt betyr noe** — beliggenheten
+er perfekt, men det har verken basseng eller utsikt. Da er iSanook
+billigere og gir mer.
+
 ### 💆 Landingsmorgenen 31. des: massasje og head spa
 
 *Dere lander 06:15, er ute av flyplassen ~07:15 og på hotellet ~08:15. Nesten ingen spa åpner før 09–10, så planen er: bagasje på hotellet, frokost, så rett i behandling.*
