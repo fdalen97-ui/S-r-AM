@@ -89,15 +89,16 @@ tidlig arrangement treffer; ellers går vanlig vingårdstur + smaking hele året
 
 > 🔄 **Revurdert 20. sep 2026 mot den låste ruta** (Bangkok 31.des–3.jan ·
 > Chiang Mai/MHS 4.–11. jan · Kambodsja 11.–18. jan · Khao Lak/Phuket/Koh
-> Yao Noi 19.–29. jan · **Bangkok 29. jan–5. feb**). Konklusjonen snudde:
+> Yao Noi 19.–29. jan · *ved lengre tur:* **Bangkok 29. jan–1. feb** + Khao Yai). Konklusjonen snudde:
 > **Singapore-klyngen er død, Bangkok-finalen er gull.**
 
 ### 🏆 De to musikkopplevelsene som nå ER i ruta
 
 **1. ✅ Bangkok Music City — 30.–31. januar 2027, Charoenkrung.**
 Dette var tidligere ført opp som «rett utenfor vinduet». **Det stemmer ikke
-lenger** — dere er i Bangkok 29. jan–5. feb, så festivalen faller midt i
-avslutningsuka. 86+ indie-akter fordelt på venues i Charoenkrung
+lenger** — **hvis dere tar den lengre turen (Blokk 4)** er dere i Bangkok
+29. jan–1. feb, og festivalen faller midt i det oppholdet. ⚠️ **Grunnplanen
+flyr hjem fra Phuket 29. januar — da går dere glipp av festivalen.** 86+ indie-akter fordelt på venues i Charoenkrung
 (kunstnerstrøket ved elva, rett ved Grande Centre Point-nabolaget).
 Arrangert av Live Nation Tero, Fungjai og NYLON Thailand. Thai-akter
 bekreftet så langt: Apichat Pakwan, BANK SORNRAM, DharmaDance, GYMV, JPBS,

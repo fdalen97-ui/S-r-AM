@@ -19,10 +19,11 @@ januar. Priser i THB og NOK (×0,29).*
 19.–29. jan) er på **Andaman-siden**, der januar er feil sesong for kite.
 Å lete etter kitesurfing der er bortkastet tid.
 
-**Løsningen: Hua Hin i Bangkok-uka 29. jan–5. feb.** Hua Hin ligger
+**Løsningen: Hua Hin i Blokk 4 (29. jan–5. feb, kun ved lengre tur).** Hua Hin ligger
 ~3 timer sør for Bangkok, er Sørøst-Asias kitehovedstad, og har perfekt
 vind akkurat da. Se «Bangkok-finalen» nederst — dette er turens beste
-mulighet for ordentlig vindsport, og den ligger allerede i ruta deres.
+mulighet for ordentlig vindsport — **men bare hvis dere velger den lengre turen**.
+Grunnplanen flyr hjem fra Phuket 29. januar.
 
 ---
 
@@ -92,10 +93,13 @@ dager med ekte opplevelser, og fortsatt en hel dag igjen til å ligge stille.
 
 ---
 
-## 🪁 Bangkok-finalen · 29. januar – 5. februar — **kite-vinduet**
+## 🪁 Blokk 4 · 29. januar – 5. februar (kun ved lengre tur) — **kite-vinduet**
 
-Dette er den store muligheten. Dere har **sju netter i Bangkok** til slutt,
-og trenger ikke alle.
+⚠️ **Rettet 24. sep:** Blokk 4 er ikke sju netter i Bangkok, men
+**Bangkok 29. jan–1. feb + Khao Yai 1.–4. feb**, og bare ved lengre tur.
+Hua Hin (3 dager) må i så fall **erstatte Khao Yai** — det er ikke plass
+til begge. Valget står mellom vind (Hua Hin) og vin (Khao Yai, men
+innhøstingen starter trolig først ~10. feb).
 
 ### Hua Hin kitesurfing — 3 dager, ca. 30.–31. jan eller 1.–3. feb
 
