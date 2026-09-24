@@ -29,6 +29,10 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
       takbasseng, MRT) sparer 6 328 · Grande Centre Point Sukhumvit 55
       **4 907** (9,2 av 16 200, onsen) · Ago Chinatown **5 498** beholder
       gangavstanden til planen. → [`bangkok-romjul.md`](bangkok-romjul.md)
+      🚨 **Prisen STEG 1 934 kr på fire dager** (7 632 → 9 566). Book nå.
+      🛒 **Sjekk Agoda også** — vinner 57 % av asiatiske søk, men viser pris
+      før skatt (+14–22 %). Sammenlign i KASSA, ikke på forsiden.
+      → [`overnatting.md`](overnatting.md)
 - [ ] 🔴 **NÅ: lag konto på dticket.railway.co.th** (pass-nr. + e-postverifisering
       + telefon i thaiformat xxx-xxx-xxxx). Registreringen er det som feiler —
       ikke gjør den på salgsdagen.

@@ -46,6 +46,72 @@ gamleby, halve prisen av utsiktshotellene. Budsjett: **Baan Wanglang (576)**
 
 ---
 
+## 🛒 Hvor booker man billigst? Metoden (sjekket 24. sep 2026)
+
+> 🚨 **Første funn: prisene stiger allerede.** Grande Centre Point Surawong
+> for 31. des–3. jan:
+> **20. sep: 7 632** (Priceline) · **24. sep: 9 566** (billigste på Trivago).
+> **+1 934 kr på fire dager.** De billige ratene selges ut først.
+> Booking.com-tilbudet på **8 562 med frokost** er nå trolig det beste som
+> finnes. **Vent ikke.**
+
+### Hva forskningen faktisk sier om Agoda vs Booking.com
+
+En sammenligning av **60 identiske søk** ga:
+
+| | Andel billigst |
+|---|---|
+| **Agoda** | **57 %** |
+| Booking.com | 37 % |
+| Likt | 6 % |
+
+**Og viktigst for dere: Agoda vinner særlig i Asia — Bangkok er eksplisitt
+nevnt** sammen med Bali, Tokyo og Singapore.
+
+⚠️ **Men Agoda viser ofte pris FØR skatt.** Dokumentert snitt: **14–22 % i
+avgifter oppå den viste prisen**. Et eksempel: «fra $80» ble $95 i kassa
+(+19 %), mens Booking.com viste $95 fra start. **Overskriften lyver, kassa
+ikke.**
+
+### 🎯 Metoden — bruk denne på hver eneste booking på turen
+
+1. **Åpne samme hotell, samme datoer, samme romkategori** i tre faner:
+   **Booking.com (innlogget, Genius 3)**, **Agoda**, og **Expedia**.
+2. **Klikk deg helt fram til betalingssteget i alle tre.** Det er der
+   skatt og avgifter dukker opp. Aldri sammenlign forsidepriser.
+3. **Noter fire ting, ikke bare prisen:**
+   totalpris inkl. skatt · frokost eller ikke · avbestillingsfrist ·
+   betal nå eller på stedet.
+4. **Sjekk hotellets egen side til slutt.** Noen ganger matcher de prisen
+   med bedre avbestilling — og det var nettopp direktesiden til Grande
+   Centre Point som *bare* hadde suiter igjen, så den kan også være dyrest.
+5. **Genius 3 gir 10–20 % før skatt**, noen ganger med frokost og
+   oppgradering. Det er ofte nok til å slå Agodas nakne pris etter avgifter.
+
+### ⚠️ Lokkepriser på Trivago — ikke fall for dem
+
+Trivago viser den laveste raten fra *hvilken som helst* aktør, og de små
+formidlerne (**sembo**, **Stayforlong**, «Hotel Site») lister ofte priser
+**uten skatt og avgifter**.
+
+**Konkret eksempel fra i dag:** Trivago viste **iSanook til 657 kr for tre
+netter** via Stayforlong. **Det er ikke en reell pris** for et
+firestjerners hotell med takbasseng i nyttårshelgen. Expedia viser
+**2 040 kr** for samme opphold. Bruk Trivago til å *finne* hoteller, ikke
+til å booke dem.
+
+### Prissjekk 24. sep — hvem lå lavest per hotell
+
+| Hotell | Billigst hos | 3 netter | Kommentar |
+|---|---|---|---|
+| **iSanook** | **Expedia** | **2 040** | Falt fra 2 234. Listepris $783 |
+| **Ago Chinatown** | **Booking.com** | **5 363** | Slår Expedias 5 498 |
+| **Grande Centre Point Surawong** | Booking.com Genius | **8 562** m/frokost | Trivagos billigste er nå 9 566 — Genius-raten er bedre |
+
+⚠️ **Merk om iSanook:** Expedia viser 9,0 av 1 002 anmeldelser, Trivago
+**8,7 av 8 938**. Det største utvalget er mest pålitelig, så regn **8,7** —
+fortsatt over grensen, men ikke 9,0.
+
 ## 1b. 🇹🇭 Chiang Mai · 4.–7. januar (3 netter) — live-sjekket 21. sep 2026
 
 > 💡 **Chiang Mai er billig.** Samme kvalitetsnivå som kostet 2 500–3 000 per
