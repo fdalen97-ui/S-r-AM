@@ -163,21 +163,31 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
       book **Sushi Ichizu** via TableCheck som plan B (~2 750 p.p., 2–4 uker
       holder). → [`omakase.md`](omakase.md)
 
-### 🏠 Utleien (egen tidslinje)
+### 🏠 Utleien (egen tidslinje) — oppdatert 24. sep: KUN TOROMSEN, 40–44 m²
+> Dere leier ut stue, kjøkken, bad og ett soverom. **Soverom 2 og
+> ekstrarommet låses.** Nytt vindu: **30. des–28. jan = 29 netter**
+> (utreisen er 30. des). Ny pris: **19 000 for hele perioden**, aksepter
+> ned til 17 000. Ventet netto ~15 000. Alt ligger i
+> [`utleie-leiligheten.md`](utleie-leiligheten.md).
 - [ ] 🔴 **Legg ut annonsen på Finn + Hybel + Facebook-gruppene** («Housing in
       Oslo», BI/UiO exchange). Målgruppene ankommer i januar — oktober er
-      riktig timing. Ferdig annonsetekst ligger i
-      [`utleie-leiligheten.md`](utleie-leiligheten.md).
+      riktig timing. **Annonseteksten er skrevet om for 2-roms og nye datoer.**
+      Sjekk punktene merket 🔎 (peis, balkong) før publisering.
 - [ ] 🔴 **Ring innboforsikringen og meld fra om utleien** — uanmeldt utleie
-      kan gi avkortning ved skade.
+      kan gi avkortning ved skade. **Nevn at to rom er avlåst.**
 - [ ] 🟡 **Send styret en kort e-post** med periode, antall leietakere og
       kontaktinfo (samtykke kreves ikke under 30 døgn, men det forebygger
       naboklager).
 - [ ] 🟡 **Ta peis-bildene nå** mens det er mørkt ute om kvelden —
       vinter-heltebildet er annonsens viktigste enkeltelement.
-- [ ] 🟡 Avtal fast pris med renholdsbyrå (utvask 66 m² ≈ 4 500–6 000 kr).
-- [ ] ⚠️ **Hold leiekontrakten på maks 29 netter** — over 30 døgn ryker både
-      borettslagsregelen og korttids-skatteregimet.
+- [ ] 🟡 Avtal fast pris med renholdsbyrå (**utvask 40–44 m² ≈ 3 000–4 000 kr**),
+      eller vask selv 29. jan og spar det.
+- [ ] ⚠️ **Hold leiekontrakten på maks 29 netter: inn 30. des, ut 28. jan.**
+      Over 30 døgn ryker både borettslagsregelen og korttids-skatteregimet.
+      Skriv «for hele perioden», aldri «per måned».
+- [ ] ⚠️ **Hjemflyet er ikke booket:** sørg for at utflytting 28. jan ligger
+      minst én dag før landing. Blir turen lengre (hjem 5. feb), la
+      leiligheten stå tom siste uka.
 
 ### Booking runde 2
 - [ ] 🔴 **Siem Reap nyttår** — alt brukbart er borte i oktober. Rambutan
@@ -255,7 +265,9 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
 - [ ] Hengelås (kreves i praksis for reisegodsdekning på liveaboard)
 
 **Hjemme**
-- [ ] Verdisaker og personlige ting låst inn i **én av de tre bodene**
+- [ ] **Soverom 2 og ekstrarommet låst**, med verdisaker og personlige ting
+      der inne — og **kontrakten sier hvilke rom som ikke inngår**
+- [ ] Datostemplede bilder av utleiedelen tatt før innflytting
 - [ ] Kodenøkkelboks montert (på egen dør — ikke fellesareal uten å spørre)
 - [ ] **Depositumskonto** opprettet (aldri til privat konto)
 - [ ] Kontrakt signert: Forbrukerrådets tidsbestemte mal med begrunnelsen
