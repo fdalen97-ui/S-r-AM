@@ -43,7 +43,7 @@ mister én dag med luft rundt den.
 
 | Dato | Sted | Dagen |
 |---|---|---|
-| **tor 31. des** | **Bangkok** 06:15 | Bagasje på **Grande Centre Point Surawong** (Loy La Long/Aurum fullbooket) · 💆 **10:00 Chandee couple head spa + massasje** · sov 2 t · Yaowarat gatemat · 🎆 **Nyttårsaften: River City-rooftop** (10 min gange) med ICONSIAM-fyrverkeriet (se `bangkok-romjul.md`) |
+| **tor 31. des** | **Bangkok** 06:15 | Bagasje på **Loy La Long, Blue** (avbestilling 25. sep — svar og betal depositum; reserve: Grande Centre Point Surawong) · 💆 **10:00 Chandee couple head spa + massasje** · sov 2 t · Yaowarat gatemat · 🎆 **Nyttårsaften: River City-rooftop** (10 min gange) med ICONSIAM-fyrverkeriet (se `bangkok-romjul.md`) |
 | fre 1. jan | Bangkok | Wat Pho 08:00 → ferge Wat Arun → longtail-khlong · Sky Pool · River Vibe-taket · Chinatown-bibber |
 | **lør 2. jan** | Bangkok | Chatuchak 09–11 · Talat Noi · 🍣 **19:00 Omakase** (Masato — sjekk 14. okt at 2. jan er åpen) · Bamboo Bar |
 | **søn 3. jan** | Bangkok → 🚆 **Nattog #9** | Utsjekk, tog 07:30 (#7) eller 08:xx til Ayutthaya (1 t 10) · ruinene på sykkel · **gå på nattog #9 i Ayutthaya 19:45** (fra Krung Thep Aphiwat 18:40) → Chiang Mai 07:15. Plan B: #13 Ayutthaya 21:07 → 08:45 |

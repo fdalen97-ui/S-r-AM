@@ -23,7 +23,12 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
       → [`flerdagsopplegg.md`](flerdagsopplegg.md)
 - [ ] 🔴 **Cheow Lan-rafthusene (Khao Sok)** — Laguna Cheow Lan og Phupha
       Waree selges ut 3–6 mnd før. → [`batturer.md`](batturer.md)
-- [ ] 🔴 **Bangkok 31. des–3. jan — Loy La Long og Aurum FULLBOOKET (20. sep).**
+- [ ] 🔴🔴 **25. sep: LOY LA LONG TILBYR BLUE-ROMMET 31.12–3.1** (avbestilling).
+      **Svar i dag.** Be om early bird 4 400 THB/natt = 13 200 THB ≈ 3 830 kr
+      m/frokost. 100 % depositum, tapt under 45 dager før. Svarutkast i
+      [`bangkok-romjul.md`](bangkok-romjul.md). Er Surawong allerede booket
+      ikke-refunderbart: sjekk det først.
+- [ ] *Reserve hvis Loy La Long glipper:* **Bangkok 31. des–3. jan** —
       Book **Grande Centre Point Surawong, Deluxe King med frokost, 8 562 kr
       ikke-refunderbart på Booking.com (Genius 3)** — 1 rom igjen 20. sep.
       Hotellets egen side har bare suiter til 5 800+/natt. E-post etterpå om
