@@ -273,36 +273,40 @@ til elva) · Grand Nikko Sathorn (nytt, bare 25 anmeldelser) · Ayathorn
 - **Vil dere ha det beste designet og høyest score:** Tamni (~4 600).
 - **Vil dere ha det beste bassenget:** GCP Lumphini (11 577).
 
-### 🎉 25. SEP: LOY LA LONG TILBYR BLUE-ROMMET — avbestilling
+### 🎉 25. SEP: LOY LA LONG — Blue ledig 31. des og 1. jan (2 netter)
 
-**Hotellet skrev 25. september at de har fått en avbestilling, og tilbyr
-Blue for 31. des–3. jan.** Dere står på ventelista fra 20. sep. Dette er
-førstevalget fra starten av: eget balkong ute i elva, midt i Talat Noi,
-5–10 min gange til River City.
+**Oppdatert svar fra hotellet (25. sep):** Blue er ledig **31. des og 1. jan**,
+ikke 2. jan. **Early bird gjelder bare opphold i oktober**, så det blir
+full pris. Fra balkongen ser man **«en del av» ICONSIAM-fyrverkeriet**.
 
-| | Blue (#4) — fra hotellets egen side |
+| | Blue (#4) |
 |---|---|
-| Rom | Double River View, **2. etasje**, **privat balkong mot åpen himmel**, 20 m² |
-| **Early bird (booket innen 31. okt)** | **4 400 THB/natt → 13 200 THB ≈ 3 830 kr for 3 netter** |
-| Ordinær pris | 5 400 THB/natt → 16 200 THB ≈ 4 700 kr |
-| Inkludert | **Frokost**, AC, safe, kjøleskap, gratis wifi, elvestue og veranda i begge etasjer |
-| Innsjekk | 14:00 — **men dere kan bruke fasilitetene fra ankomst** (bagasje + elvestua kl. 08:15 er innenfor reglene) |
+| Rom | Double River View, 2. etasje, privat balkong, 20 m² |
+| **Pris** | **5 400 THB/natt × 2 = 10 800 THB ≈ 3 130 kr** m/frokost |
+| Innsjekk | 14:00, fasilitetene kan brukes fra ankomst |
 | Flyplasstransport | 1 000 THB, SUV |
-| Betaling | **100 % depositum** for å bekrefte (kort via Omise, eller spør) |
-| Avbestilling | **Under 45 dager før = tapt depositum** (fra ~17. nov). Avbestillingsforsikringen dekker sykdom |
+| Betaling | 100 % depositum. Avbestilling under 45 dager før = tapt depositum |
 
-**Sammenlignet med Surawong:** billigere (≈ 3 830–4 700 mot 8 562), og
-bedre på det dere sa betød mest — elveutsikt, beliggenhet for hele
-programmet, og særpreg. Minus: bare 20 m² og ingen basseng.
+**Natt 3 (2.–3. jan) — flytt 10 min innover i Chinatown:**
 
-**Uavklart:** om balkongen ser ICONSIAM-fyrverkeriet (spurt 19. sep, ikke
-besvart). Hotellet ligger oppstrøms for ICONSIAM på motsatt bredd, så
-showet ses trolig **skrått mot sør**. Ser dere det fra balkongen, kan dere
-droppe River City-rooftopen og spare ~1 160 kr.
+| Forslag | Pris 1 natt | Score | Hvorfor |
+|---|---|---|---|
+| 🥇 **ASAI Bangkok Chinatown** | ~1 805 (+ ev. skatt ≈ 2 100) | 9,2 (9 075) | **Ved MRT Wat Mangkon:** Blue Line går direkte til Sukhumvit (Masato) og til Krung Thep Aphiwat (toget). 10 min gange fra Loy La Long |
+| Riva Vibe (Talat Noi) | ~1 120 | 9,2 (706) | Billigst, takbar, nær. Men lengre til MRT |
+| Lub d Chinatown | ~1 170 | 9,2 (1 621) | Enkel, sosial |
+| Grande Centre Point Surawong | ~2 080 | 9,5 | Basseng på taket |
 
-**⚠️ Har dere allerede booket Surawong ikke-refunderbart?** Da er 8 562
-tapt ved bytte. Sjekk bookingen før dere betaler Loy La Long. Er Surawong
-ikke booket ennå: **ta Loy La Long.**
+*Priser fra Trivago 25. sep. Booking.com-priser i Thailand er ofte uten ~17,7 % skatt.*
+
+**Totalt ≈ 5 000–5 250 kr for 3 netter**, mot 8 562 for Surawong. Dere får
+Loy La Long på nyttår, som er natta som betyr mest.
+
+**Først:** spør Loy La Long om **et annet rom** er ledig 2. jan (de har 7).
+Da slipper dere å flytte.
+
+**Fyrverkeriet:** balkongen gir en delvis utsikt gratis. Vil dere se hele
+showet, gjelder River City-rooftopen (1 999 THB p.p.) fortsatt. Den kan
+avgjøres senere.
 
 ### ✅ ENDELIG ANBEFALING (24. sep) — *erstattet 25. sep av Loy La Long over, hvis dere får rommet*
 

@@ -24,8 +24,10 @@ tema. 🔴 = kritisk frist · 🟡 = viktig · 🟢 = greit å ta sent.
 - [ ] 🔴 **Cheow Lan-rafthusene (Khao Sok)** — Laguna Cheow Lan og Phupha
       Waree selges ut 3–6 mnd før. → [`batturer.md`](batturer.md)
 - [ ] 🔴🔴 **25. sep: LOY LA LONG TILBYR BLUE-ROMMET 31.12–3.1** (avbestilling).
-      **Svar i dag.** Be om early bird 4 400 THB/natt = 13 200 THB ≈ 3 830 kr
-      m/frokost. 100 % depositum, tapt under 45 dager før. Svarutkast i
+      Oppdatert: bare **31. des + 1. jan** ledig, full pris 5 400 THB/natt =
+      10 800 THB ≈ 3 130 kr m/frokost (early bird gjelder bare oktober).
+      **Takk ja**, og spør om annet rom 2. jan. Ellers book **ASAI Chinatown**
+      2.–3. jan (~1 800–2 100, ved MRT Wat Mangkon). 100 % depositum, tapt under 45 dager før. Svarutkast i
       [`bangkok-romjul.md`](bangkok-romjul.md). Er Surawong allerede booket
       ikke-refunderbart: sjekk det først.
 - [ ] *Reserve hvis Loy La Long glipper:* **Bangkok 31. des–3. jan** —

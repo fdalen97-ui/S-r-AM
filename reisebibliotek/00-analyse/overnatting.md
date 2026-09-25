@@ -2,7 +2,7 @@
 
 > 🏨 **Start med [Hotellplanen](#-hotellplanen--hele-turen-ett-valg-per-stopp-24-sep-2026)**
 > — alle 14 stoppene prist på nytt 24. sep 2026 mot de låste datoene, med
-> ett valg per stopp, totalen (**≈ 29 600 kr for to** med Loy La Long i Bangkok og de to
+> ett valg per stopp, totalen (**≈ 30 900 kr for to** med Loy La Long i Bangkok og de to
 > anbefalte sparegrepene; ≈ 34 300 hvis det blir Surawong) og bookingrekkefølgen.
 >
 > Seksjonene 1b–2d er detaljene. Alt under **🗄️ ARKIV** er fra planen før
@@ -122,7 +122,7 @@ stopp står lenger ned.*
 
 | Datoer | Sted | 🏆 Valget | Netter | Totalt | Score | Hvorfor | Book |
 |---|---|---|---|---|---|---|---|
-| 31.12–3.1 | **Bangkok** | **Loy La Long, Blue** 🎉 *(tilbudt 25. sep)* — reserve: GCP Surawong 8 562 | 3 | **~3 830** | 9,3 | Balkong ute i elva, Talat Noi, frokost, early bird | 🔴🔴 **Svar i dag** |
+| 31.12–3.1 | **Bangkok** | **Loy La Long, Blue** 🎉 *(tilbudt 25. sep)* — reserve: GCP Surawong 8 562 | 3 | **~5 100** | 9,3 | 2 netter Blue (10 800 THB, balkong mot elva, frokost) + 2.–3. jan ASAI Chinatown (~1 800–2 100) | 🔴🔴 **Svar i dag** |
 | 3.–4.1 | Nattog #9 | — | (1) | — | | | 🔴 4. okt 18:00 |
 | 4.–7.1 | **Chiang Mai** | G Nimman *(el. BED Nimman)* | 3 | **2 263** | 9,4 | Nimman, parkering til leiebilen | 🟡 Gratis avbestilling |
 | 7.–8.1 | **Khun Yuam** | Khunyuam Resort | 1 | **~345** | 8,9 | Eneste med ekte utsikt i byen | 🟡 |
@@ -137,18 +137,18 @@ stopp står lenger ned.*
 | 19.–23.1 | **Khao Lak** | The Sands by Katathani | 4 | **12 382** | 9,0 | Billigste store strandhotell. **Se liveaboard-noten** | 🔴 **Nå** — nesten utsolgt |
 | 23.–25.1 | **Phuket / Zamna** | HOMA Cherngtalay | 2 | **2 765** | 9,1 | 600 m til Boat Avenue, takbasseng | 🟡 Gratis avbestilling |
 | 25.–29.1 | **Koh Yao Noi** | Koyao Bay Pavilions | 4 | **14 178** | 9,7 | Strand og basseng mot Koh Hong-karstene | 🔴 Snart, direkte er billigst |
-| | | | **28** | **≈ 44 500** *(49 250 med Surawong)* | | **~1 590 per natt i snitt** | |
+| | | | **28** | **≈ 45 800** *(49 250 med Surawong)* | | **~1 640 per natt i snitt** | |
 
 ### Tre spaker som flytter totalen mest
 
 | Grep | Sparer | Ny total |
 |---|---|---|
-| **1. Similan-liveaboard 4d/3n = bare 1 hotellnatt i Khao Lak** (båten ut kveld 19. jan, tilbake 22. jan). Behold 1 natt på The Sands | **−9 287** | ≈ 35 230 |
-| **2. Del Koh Yao Noi:** 2 netter Nankanok (basseng) + 2 netter Koyao Bay | **−5 643** | **≈ 29 600** |
-| ~~3. iSanook i stedet for Surawong~~ | — | Utgått 25. sep: Loy La Long (≈ 3 830) er allerede nesten like billig og mye bedre |
+| **1. Similan-liveaboard 4d/3n = bare 1 hotellnatt i Khao Lak** (båten ut kveld 19. jan, tilbake 22. jan). Behold 1 natt på The Sands | **−9 287** | ≈ 36 500 |
+| **2. Del Koh Yao Noi:** 2 netter Nankanok (basseng) + 2 netter Koyao Bay | **−5 643** | **≈ 30 900** |
+| ~~3. iSanook i stedet for Surawong~~ | — | Utgått 25. sep: Loy La Long + ASAI (≈ 5 100) er allerede nesten like billig og mye bedre |
 
 **Min anbefaling: ta grep 1 og 2, og Loy La Long Blue i Bangkok (tilbudt 25. sep).**
-Da havner hele turens overnatting på **~29 600 kr for to** (~34 300 med Surawong), og dere beholder de to stedene som
+Da havner hele turens overnatting på **~30 900 kr for to** (~34 300 med Surawong), og dere beholder de to stedene som
 betyr mest — nyttårsbasen i Bangkok og karstutsikten på Koh Yao Noi.
 *(Liveaboarden, ~12 800, var allerede budsjettert separat.)*
 
